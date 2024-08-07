@@ -1,0 +1,1023 @@
+{
+    "graph": [
+        {
+            "author": " ",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "12051d8a-7d6a-11ee-a4c9-96a6d2455259",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Person References"
+                    },
+                    "nodegroup_id": "120518a8-7d6a-11ee-a4c9-96a6d2455259",
+                    "sortorder": 1,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "18c95500-2f7f-47cd-bf19-79782cd8349a",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": {
+                        "en": "LAF.167_member_of_group\t\nPerson Member of Group\n->P107i->E74[167_1]\t\nReference Model\t[LAM.9] LA Person, [LAM.4] LA Group"
+                    },
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Person Member of Group"
+                    },
+                    "nodegroup_id": "3ad10bb4-b3b4-11ed-8ee6-96a6d245525a",
+                    "sortorder": 3,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "223f36d0-a143-11ed-a102-9cf387da2c40",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": false,
+                    "name": {
+                        "en": "Person Identification"
+                    },
+                    "nodegroup_id": "223f3252-a143-11ed-a102-9cf387da2c40",
+                    "sortorder": 0,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "9a4d9388-a206-11ed-a3a2-9cf387da2c40",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Person Descriptions"
+                    },
+                    "nodegroup_id": "9a4d90ae-a206-11ed-a3a2-9cf387da2c40",
+                    "sortorder": 4,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "9a7d9ffc-b2f9-11ed-8ee6-96a6d245525a",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "",
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": false,
+                    "name": {
+                        "en": "Person Names"
+                    },
+                    "nodegroup_id": "9a7d9c82-b2f9-11ed-8ee6-96a6d245525a",
+                    "sortorder": 2,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "223f36d0-a143-11ed-a102-9cf387da2c40",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Person Identifier Type",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "144b0f14-59bc-4770-a9b0-7265f5f41c8e",
+                    "label": {
+                        "en": "Person Identifier Type"
+                    },
+                    "node_id": "223f3874-a143-11ed-a102-9cf387da2c40",
+                    "sortorder": 1,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "18c95500-2f7f-47cd-bf19-79782cd8349a",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Member of Group",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "31a33afe-b131-4a2c-b5c1-f5a7045e9c55",
+                    "label": {
+                        "en": "Member of Group"
+                    },
+                    "node_id": "3ad10bb4-b3b4-11ed-8ee6-96a6d245525a",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "223f36d0-a143-11ed-a102-9cf387da2c40",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Person Identifier",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "4a030936-4579-4ca3-9906-36bf5320ecee",
+                    "label": {
+                        "en": "Person Identifier"
+                    },
+                    "node_id": "223f3a72-a143-11ed-a102-9cf387da2c40",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "9a7d9ffc-b2f9-11ed-8ee6-96a6d245525a",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Person Name",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "4a4fe91e-83c4-4997-8043-dc15f9cc6d65",
+                    "label": {
+                        "en": "Person Name"
+                    },
+                    "node_id": "9a7da178-b2f9-11ed-8ee6-96a6d245525a",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "9a4d9388-a206-11ed-a3a2-9cf387da2c40",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Person Statement",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "57289c81-d044-4b6e-9522-2688ec5dd70a",
+                    "label": {
+                        "en": "Person Statement"
+                    },
+                    "node_id": "9a4d95a4-a206-11ed-a3a2-9cf387da2c40",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "9a7d9ffc-b2f9-11ed-8ee6-96a6d245525a",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Person Name Type",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "a9a74f4e-1d1f-4e83-bb6e-8d799bcb02fc",
+                    "label": {
+                        "en": "Person Name Type"
+                    },
+                    "node_id": "9a7da2c2-b2f9-11ed-8ee6-96a6d245525a",
+                    "sortorder": 1,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "9a4d9388-a206-11ed-a3a2-9cf387da2c40",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Person Statement Type",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "afd64701-2076-4ac3-ba66-4f7ed3572b0d",
+                    "label": {
+                        "en": "Person Statement Type"
+                    },
+                    "node_id": "9a4d94aa-a206-11ed-a3a2-9cf387da2c40",
+                    "sortorder": 1,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                }
+            ],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "en": ""
+            },
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "ffd18602-a142-11ed-a102-9cf387da2c40",
+                    "edgeid": "03ecee74-bd43-443d-9eb0-1bb3a9ce21e7",
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P130_shows_features_of",
+                    "rangenode_id": "120518a8-7d6a-11ee-a4c9-96a6d2455259"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "120518a8-7d6a-11ee-a4c9-96a6d2455259",
+                    "edgeid": "12057b90-7d6a-11ee-a4c9-96a6d2455259",
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
+                    "rangenode_id": "12052438-7d6a-11ee-a4c9-96a6d2455259"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "120518a8-7d6a-11ee-a4c9-96a6d2455259",
+                    "edgeid": "12057dac-7d6a-11ee-a4c9-96a6d2455259",
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "rangenode_id": "12052280-7d6a-11ee-a4c9-96a6d2455259"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "120518a8-7d6a-11ee-a4c9-96a6d2455259",
+                    "edgeid": "12057ea6-7d6a-11ee-a4c9-96a6d2455259",
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P72_has_language",
+                    "rangenode_id": "12052028-7d6a-11ee-a4c9-96a6d2455259"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "9a7d9c82-b2f9-11ed-8ee6-96a6d245525a",
+                    "edgeid": "1d0257a5-9a7a-4131-a762-64d4305a67e5",
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "rangenode_id": "c967bf90-7b13-11ee-abe4-96a6d245525a"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "223f3252-a143-11ed-a102-9cf387da2c40",
+                    "edgeid": "223f3edc-a143-11ed-a102-9cf387da2c40",
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "rangenode_id": "223f3874-a143-11ed-a102-9cf387da2c40"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "223f3252-a143-11ed-a102-9cf387da2c40",
+                    "edgeid": "223f3fa4-a143-11ed-a102-9cf387da2c40",
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
+                    "rangenode_id": "223f3a72-a143-11ed-a102-9cf387da2c40"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "ffd18602-a142-11ed-a102-9cf387da2c40",
+                    "edgeid": "223f40c6-a143-11ed-a102-9cf387da2c40",
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
+                    "rangenode_id": "223f3252-a143-11ed-a102-9cf387da2c40"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "ffd18602-a142-11ed-a102-9cf387da2c40",
+                    "edgeid": "236779dd-1792-4398-91e3-5a1caaf7c111",
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P107i_is_current_or_former_member_of",
+                    "rangenode_id": "3ad10bb4-b3b4-11ed-8ee6-96a6d245525a"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "ffd18602-a142-11ed-a102-9cf387da2c40",
+                    "edgeid": "2645da35-5ad5-45af-a9dc-657974cbd77e",
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
+                    "rangenode_id": "9a7d9c82-b2f9-11ed-8ee6-96a6d245525a"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "9a4d90ae-a206-11ed-a3a2-9cf387da2c40",
+                    "edgeid": "5ec5339a-4541-41f5-9f18-0fd5dd65a480",
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P72_has_language",
+                    "rangenode_id": "3cb53718-7b12-11ee-abe4-96a6d245525a"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "9a7d9c82-b2f9-11ed-8ee6-96a6d245525a",
+                    "edgeid": "70988c09-2dc0-467b-856c-9ad590394f26",
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P72_has_language",
+                    "rangenode_id": "a839afb8-7b13-11ee-abe4-96a6d245525a"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "9a4d90ae-a206-11ed-a3a2-9cf387da2c40",
+                    "edgeid": "9a4d990a-a206-11ed-a3a2-9cf387da2c40",
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
+                    "rangenode_id": "9a4d95a4-a206-11ed-a3a2-9cf387da2c40"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "9a4d90ae-a206-11ed-a3a2-9cf387da2c40",
+                    "edgeid": "9a4d99a0-a206-11ed-a3a2-9cf387da2c40",
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "rangenode_id": "9a4d94aa-a206-11ed-a3a2-9cf387da2c40"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "ffd18602-a142-11ed-a102-9cf387da2c40",
+                    "edgeid": "9a4d9ad6-a206-11ed-a3a2-9cf387da2c40",
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by",
+                    "rangenode_id": "9a4d90ae-a206-11ed-a3a2-9cf387da2c40"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "9a7d9c82-b2f9-11ed-8ee6-96a6d245525a",
+                    "edgeid": "9a7df83a-b2f9-11ed-8ee6-96a6d245525a",
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
+                    "rangenode_id": "9a7da178-b2f9-11ed-8ee6-96a6d245525a"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "9a7d9c82-b2f9-11ed-8ee6-96a6d245525a",
+                    "edgeid": "9a7dfa60-b2f9-11ed-8ee6-96a6d245525a",
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "rangenode_id": "9a7da2c2-b2f9-11ed-8ee6-96a6d245525a"
+                }
+            ],
+            "functions_x_graphs": [
+                {
+                    "config": {
+                        "descriptor_types": {
+                            "description": {
+                                "nodegroup_id": "9a4d90ae-a206-11ed-a3a2-9cf387da2c40",
+                                "string_template": "<Person Statement>"
+                            },
+                            "map_popup": {
+                                "nodegroup_id": "",
+                                "string_template": ""
+                            },
+                            "name": {
+                                "nodegroup_id": "9a7d9c82-b2f9-11ed-8ee6-96a6d245525a",
+                                "string_template": "<Person Name>"
+                            }
+                        },
+                        "triggering_nodegroups": []
+                    },
+                    "function_id": "60000000-0000-0000-0000-000000000001",
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "id": "b073e59f-1ea6-4027-95b4-94c54a2f1ba8"
+                }
+            ],
+            "graphid": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+            "iconclass": "fa fa-user",
+            "is_editable": false,
+            "isresource": true,
+            "jsonldcontext": null,
+            "name": {
+                "en": "Person"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "120518a8-7d6a-11ee-a4c9-96a6d2455259",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "223f3252-a143-11ed-a102-9cf387da2c40",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "3ad10bb4-b3b4-11ed-8ee6-96a6d245525a",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "9a4d90ae-a206-11ed-a3a2-9cf387da2c40",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "9a7d9c82-b2f9-11ed-8ee6-96a6d245525a",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "person_references",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Person References",
+                    "nodegroup_id": "120518a8-7d6a-11ee-a4c9-96a6d2455259",
+                    "nodeid": "120518a8-7d6a-11ee-a4c9-96a6d2455259",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P130_shows_features_of",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "person_reference_language",
+                    "config": {
+                        "rdmCollection": "1b66a84c-218f-4858-8b4e-9cc88e66b0ed"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Person Reference Language",
+                    "nodegroup_id": "120518a8-7d6a-11ee-a4c9-96a6d2455259",
+                    "nodeid": "12052028-7d6a-11ee-a4c9-96a6d2455259",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E56_Language",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P72_has_language",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "person_reference_type",
+                    "config": {
+                        "rdmCollection": "879175b9-f767-4fd0-a6e6-fdc703902cc0"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Person Reference Type",
+                    "nodegroup_id": "120518a8-7d6a-11ee-a4c9-96a6d2455259",
+                    "nodeid": "12052280-7d6a-11ee-a4c9-96a6d2455259",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "person_reference_uri",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "url",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Person Reference URI",
+                    "nodegroup_id": "120518a8-7d6a-11ee-a4c9-96a6d2455259",
+                    "nodeid": "12052438-7d6a-11ee-a4c9-96a6d2455259",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E42_Identifier",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "person_identification",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Person Identification",
+                    "nodegroup_id": "223f3252-a143-11ed-a102-9cf387da2c40",
+                    "nodeid": "223f3252-a143-11ed-a102-9cf387da2c40",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E42_Identifier",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "person_identifier_type",
+                    "config": {
+                        "rdmCollection": "97d14d16-e33f-46ed-8d79-4a79be6aac1f"
+                    },
+                    "datatype": "concept",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Person Identifier Type",
+                    "nodegroup_id": "223f3252-a143-11ed-a102-9cf387da2c40",
+                    "nodeid": "223f3874-a143-11ed-a102-9cf387da2c40",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "person_identifier",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": true,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Person Identifier",
+                    "nodegroup_id": "223f3252-a143-11ed-a102-9cf387da2c40",
+                    "nodeid": "223f3a72-a143-11ed-a102-9cf387da2c40",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "person_member_of_group",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "fa335042-a1fe-11ed-a102-9cf387da2c40",
+                                "name": "SEM.15_Institution"
+                            },
+                            {
+                                "graphid": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                                "name": "SEM.2_Person"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": "LAF.167_member_of_group\t\nPerson Member of Group\n->P107i->E74[167_1]\t\nReference Model\t[LAM.9] LA Person, [LAM.4] LA Group",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Person Member of Group",
+                    "nodegroup_id": "3ad10bb4-b3b4-11ed-8ee6-96a6d245525a",
+                    "nodeid": "3ad10bb4-b3b4-11ed-8ee6-96a6d245525a",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E74_Group",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P107i_is_current_or_former_member_of",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "person_description_language",
+                    "config": {
+                        "rdmCollection": "1b66a84c-218f-4858-8b4e-9cc88e66b0ed"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Person Description Language",
+                    "nodegroup_id": "9a4d90ae-a206-11ed-a3a2-9cf387da2c40",
+                    "nodeid": "3cb53718-7b12-11ee-abe4-96a6d245525a",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E56_Language",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P72_has_language",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "person_descriptions",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Person Descriptions",
+                    "nodegroup_id": "9a4d90ae-a206-11ed-a3a2-9cf387da2c40",
+                    "nodeid": "9a4d90ae-a206-11ed-a3a2-9cf387da2c40",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "person_description_type",
+                    "config": {
+                        "rdmCollection": "9067e4d9-0cdf-44c2-8ccb-13a1fea24d0c"
+                    },
+                    "datatype": "concept",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Person Description Type",
+                    "nodegroup_id": "9a4d90ae-a206-11ed-a3a2-9cf387da2c40",
+                    "nodeid": "9a4d94aa-a206-11ed-a3a2-9cf387da2c40",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "person_description",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Person Description",
+                    "nodegroup_id": "9a4d90ae-a206-11ed-a3a2-9cf387da2c40",
+                    "nodeid": "9a4d95a4-a206-11ed-a3a2-9cf387da2c40",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "person_names",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Person Names",
+                    "nodegroup_id": "9a7d9c82-b2f9-11ed-8ee6-96a6d245525a",
+                    "nodeid": "9a7d9c82-b2f9-11ed-8ee6-96a6d245525a",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "person_name",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": "LAF.6_name_content\t\nPerson Name\t\n->p1->E33_E41[4_1]->p190->\nrdf:literal\t\nString",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Person Name",
+                    "nodegroup_id": "9a7d9c82-b2f9-11ed-8ee6-96a6d245525a",
+                    "nodeid": "9a7da178-b2f9-11ed-8ee6-96a6d245525a",
+                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "person_name_type",
+                    "config": {
+                        "rdmCollection": "80653051-6e0d-45b1-bb15-dc09bc2b0916"
+                    },
+                    "datatype": "concept",
+                    "description": "SEM.2_LAF.5_LAF.5_name_type\t\nLAF.5_name_type\t\nPerson Name Type\n->p1->E33_41[4_1]->p2->E55[5_1]\t\nConcept",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Person Name Type",
+                    "nodegroup_id": "9a7d9c82-b2f9-11ed-8ee6-96a6d245525a",
+                    "nodeid": "9a7da2c2-b2f9-11ed-8ee6-96a6d245525a",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "person_name_language",
+                    "config": {
+                        "rdmCollection": "1b66a84c-218f-4858-8b4e-9cc88e66b0ed"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Person Name Language",
+                    "nodegroup_id": "9a7d9c82-b2f9-11ed-8ee6-96a6d245525a",
+                    "nodeid": "a839afb8-7b13-11ee-abe4-96a6d245525a",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E56_Language",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P72_has_language",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "person_name_preferred",
+                    "config": {
+                        "falseLabel": {
+                            "en": "No"
+                        },
+                        "i18n_properties": [
+                            "trueLabel",
+                            "falseLabel"
+                        ],
+                        "trueLabel": {
+                            "en": "Yes"
+                        }
+                    },
+                    "datatype": "boolean",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": true,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "Person Name Preferred",
+                    "nodegroup_id": "9a7d9c82-b2f9-11ed-8ee6-96a6d245525a",
+                    "nodeid": "c967bf90-7b13-11ee-abe4-96a6d245525a",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "sem_02_person",
+                    "config": {},
+                    "datatype": "semantic",
+                    "description": "",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "Person",
+                    "nodegroup_id": null,
+                    "nodeid": "ffd18602-a142-11ed-a102-9cf387da2c40",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E21_Person",
+                    "parentproperty": "",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                }
+            ],
+            "ontology_id": "0b1f5462-faa7-11e9-8f09-3af9d3b32b71",
+            "publication": {
+                "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                "notes": null,
+                "publicationid": "a5cd984c-7e84-11ee-8698-96a6d2455259",
+                "published_time": "2023-11-08T16:17:47.756"
+            },
+            "relatable_resource_model_ids": [],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": "sem_02_person",
+                "config": {},
+                "datatype": "semantic",
+                "description": "",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "ffd1885a-a142-11ed-a102-9cf387da2c40",
+                "hascustomalias": false,
+                "is_collector": false,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "Person",
+                "nodegroup_id": null,
+                "nodeid": "ffd18602-a142-11ed-a102-9cf387da2c40",
+                "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E21_Person",
+                "sortorder": 0,
+                "sourcebranchpublication_id": null
+            },
+            "slug": null,
+            "subtitle": {
+                "en": ""
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ],
+    "metadata": {
+        "db": "PostgreSQL 15.7 (Postgres.app) on aarch64-apple-darwin21.6.0, compiled by Apple clang version 14.0.0 (clang-1400.0.29.102), 64-bit",
+        "git hash": "fatal: not a git repository (or any of the parent directories): .git",
+        "os": "Darwin",
+        "os version": "23.5.0"
+    }
+}

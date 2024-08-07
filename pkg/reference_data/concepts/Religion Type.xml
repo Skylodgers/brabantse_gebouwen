@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:ConceptScheme rdf:about="http://localhost:8000/275aed51-9c9e-438d-8acd-6b88b9574355">
+    <dcterms:title xml:lang="en">{"id": "be4af6e9-2f30-476e-85c2-cfc0d8bb24e4", "value": "Religion Type"}</dcterms:title>
+    <dcterms:identifier xml:lang="en">{"id": "dbb6e66e-275d-4f16-8fa1-34edf2a808d4", "value": "http://localhost:8000/275aed51-9c9e-438d-8acd-6b88b9574355"}</dcterms:identifier>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/8a5351c4-0d51-4670-8046-2e6aafabbfe9">
+        <skos:inScheme rdf:resource="http://localhost:8000/275aed51-9c9e-438d-8acd-6b88b9574355"/>
+        <skos:altLabel xml:lang="nl">{"id": "2e25805b-78d3-4be4-b42c-ef3bad3f03e9", "value": "Rooms-Katholiek"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "b5a9da54-5d9b-456f-b354-44f516dceaca", "value": "Rooms-Katholieke Kerk"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "ffad073f-442e-4c78-b027-18042944740c", "value": "Katholieke Kerk"}</skos:altLabel>
+        <skos:altLabel xml:lang="nl">{"id": "4173aa4c-9191-4d60-85b2-409f453dae71", "value": "Rooms Katholiek"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "cab9927a-ffe3-496f-978d-78270faa6e33", "value": "http://localhost:8000/8a5351c4-0d51-4670-8046-2e6aafabbfe9"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:hasTopConcept>
+  </skos:ConceptScheme>
+</rdf:RDF>

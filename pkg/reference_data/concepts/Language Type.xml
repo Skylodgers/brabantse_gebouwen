@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:Concept rdf:about="http://localhost:8000/17508e0c-8511-4c27-bf18-15efb712ce1e">
+    <skos:scopeNote xml:lang="en">{"id": "e67724b0-ad6e-4e7b-9387-0302682ad837", "value": "Dutch"}</skos:scopeNote>
+    <skos:prefLabel xml:lang="en">{"id": "c9e1feb1-d52f-4a48-9a3f-cda3e110dc2e", "value": "nl"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "2535869d-6428-4bfc-8839-4dca88738280", "value": "http://localhost:8000/17508e0c-8511-4c27-bf18-15efb712ce1e"}</dcterms:identifier>
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/162c0a91-e6ba-4fc9-a022-801819bdf6d6">
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/6cb524bb-6101-4fba-b97f-18b17349f901"/>
+        <dcterms:identifier xml:lang="en">{"id": "be360704-2ad6-4289-891a-b9530d0f0d6c", "value": "http://localhost:8000/162c0a91-e6ba-4fc9-a022-801819bdf6d6"}</dcterms:identifier>
+        <dcterms:title xml:lang="en">{"id": "392a5c85-7bec-41bf-934f-e5983dd2ddd7", "value": "Language Type"}</dcterms:title>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/17508e0c-8511-4c27-bf18-15efb712ce1e"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/6cb524bb-6101-4fba-b97f-18b17349f901">
+    <dcterms:identifier xml:lang="en">{"id": "6db41b4c-fe99-4f76-8a70-1867bfcb6c31", "value": "http://localhost:8000/6cb524bb-6101-4fba-b97f-18b17349f901"}</dcterms:identifier>
+    <skos:scopeNote xml:lang="en">{"id": "93749233-c263-46c2-ab0d-248edc82cc36", "value": "English"}</skos:scopeNote>
+    <skos:inScheme rdf:resource="http://localhost:8000/162c0a91-e6ba-4fc9-a022-801819bdf6d6"/>
+    <skos:prefLabel xml:lang="en">{"id": "10a7239d-894c-4ef1-81ee-dd2c0ccb9a36", "value": "en"}</skos:prefLabel>
+  </skos:Concept>
+</rdf:RDF>

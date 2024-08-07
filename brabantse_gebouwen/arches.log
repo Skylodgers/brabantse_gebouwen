@@ -1,0 +1,5 @@
+2024-07-30 13:11:17,789 arches.app.search.search WARNING  2024-07-30 13:11:17.789737: WARNING: failed to delete document by query: {'query': {'match_all': {}}, 'source_includes': [], 'source_excludes': []} 
+Exception detail: TLS error caused by: TlsError(TLS error caused by: SSLError([SSL] record layer failure (_ssl.c:1006)))
+
+2024-08-05 12:50:11,598 arches.app.utils.data_management.resource_graphs.importer WARNING  No ontologies have been loaded. Any GraphModel that depends on an ontology cannot be loaded.
+2024-08-05 12:54:46,018 arches.app.utils.data_management.resource_graphs.importer WARNING  No ontologies have been loaded. Any GraphModel that depends on an ontology cannot be loaded.

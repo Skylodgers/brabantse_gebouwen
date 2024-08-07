@@ -1,0 +1,264 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-04 22:39+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+#: brabantse_gebouwen/media/node_modules/arches/tests/test_settings.py:111
+#: brabantse_gebouwen/settings.py:324
+msgid "German"
+msgstr ""
+
+#: brabantse_gebouwen/media/node_modules/arches/tests/test_settings.py:112
+#: brabantse_gebouwen/settings.py:325
+msgid "English"
+msgstr ""
+
+#: brabantse_gebouwen/media/node_modules/arches/tests/test_settings.py:113
+msgid "British English"
+msgstr ""
+
+#: brabantse_gebouwen/media/node_modules/arches/tests/test_settings.py:114
+msgid "Spanish"
+msgstr ""
+
+#: brabantse_gebouwen/media/node_modules/arches/tests/test_settings.py:115
+msgid "Arabic"
+msgstr ""
+
+#: brabantse_gebouwen/settings.py:326
+msgid "Dutch"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:81
+#, python-format
+msgid "Arches | %(version)s"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:89
+msgid "Arches Features"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:92
+msgid "Search Arches"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:96
+msgid "Manage"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:101
+msgid "Sign in"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:106
+msgid "Welcome, "
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:110
+msgid "Log off"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:142
+msgid "Home"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:147
+#: brabantse_gebouwen/templates/index.htm:224
+msgid "Fast"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:152
+#: brabantse_gebouwen/templates/index.htm:278
+msgid "Workflows"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:157
+msgid "Search Tools"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:192
+#, python-format
+msgid "Arches %(version)s"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:193
+msgid "A web and mobile platform for"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:194
+msgid "managing your most important resource information"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:202
+msgid "Image courtesy of Luis Alfonso Orellana"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:225
+msgid "Deploy Applications Rapidly"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:227
+msgid ""
+"Design custom information management applications in hours.  Build your "
+"databases with Arches Designer, then configure your interface all without "
+"having to write any code."
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:244
+msgid "Interface Manager"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:246
+msgid ""
+"Arches automatically creates data entry forms based on your data models.  "
+"Use Arches' Card Manager to configure the look and feel of your data entry "
+"UI."
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:255
+msgid "Data Security"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:257
+msgid ""
+"Use Arches' Permissions Manager to set up data access rules for all your "
+"user groups and individual accounts.  You can define read/write/delete and "
+"no-access permissions."
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:279
+msgid "Orchestrate your data entry"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:281
+msgid ""
+"Design step-wise data management interfaces that simplify complex editing "
+"tasks.  Ensure that everyone enters data completely and consistently"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:304
+msgid "Arches Search Tools"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:305
+msgid "Find what you're looking for"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:307
+msgid ""
+"Arches comes with powerful built-in search tools.  Quickly filter large "
+"databases with term, geospatial, and time-based search components"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:320
+msgid "Search Options"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:322
+msgid ""
+"Arches gives you many ways to find precisely the information you need, even "
+"if your Arches application contains 10's of millions of records.  In "
+"addition to term, thesaurus, geospatial, and temporal filters, Arches "
+"provides you with advanced filtering options that support boolean logic, "
+"inverses, and many other filtering options."
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:326
+msgid ""
+"Arches' search capabilities also provide for sophisticated data "
+"visualizations, including interactive displays of the connections between "
+"your data objects using a Force Directed Graph."
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:330
+msgid ""
+"If you're a software developer, you can build on Arches modular search "
+"services and create your own filters, reports, and visualizations to best "
+"show off your particular dataset."
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:352
+msgid "Sample Institution Name"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:355
+msgid "Sample Address"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:356
+msgid "Getty Conservation Institute"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:357
+msgid "1200 Getty Center Drive"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:358
+msgid "Los Angeles, CA  90049"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:364
+msgid "Guides and Documentation"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:372
+msgid "What is Arches"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:375
+msgid "Implementation Considerations"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:378
+msgid "Information For Developers"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:388
+msgid "FAQ"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:391
+msgid "Standards and Interoperability"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:394
+msgid "Installation Guide"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:402
+msgid "Arches Project Background"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:405
+msgid "Arches Webinars/Presentations"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:408
+msgid "Resource Models"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:424
+msgid "Terms & Conditions"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:425
+msgid "Privacy Policy"
+msgstr ""
+
+#: brabantse_gebouwen/templates/index.htm:428
+msgid "Powered by Arches"
+msgstr ""

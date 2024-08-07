@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:Concept rdf:about="http://localhost:8000/6818fe47-60f7-422a-a779-c89cc3e98332">
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/b665a7a2-d0cd-407d-b793-ad7b7ced9868">
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/6818fe47-60f7-422a-a779-c89cc3e98332"/>
+        <dcterms:title xml:lang="en">{"id": "0036df22-81fb-4e0d-a42f-eaee17d5ec09", "value": "Description Type"}</dcterms:title>
+        <dcterms:identifier xml:lang="en">{"id": "c10023fb-beb1-48e9-8b25-ee773a18ed04", "value": "http://localhost:8000/b665a7a2-d0cd-407d-b793-ad7b7ced9868"}</dcterms:identifier>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+    <skos:prefLabel xml:lang="en">{"id": "0e82cc42-b46b-4fa0-98cd-b4499c1d72f6", "value": "Summary"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "fc8e089b-31bb-46e9-ac52-b6330246e750", "value": "http://localhost:8000/6818fe47-60f7-422a-a779-c89cc3e98332"}</dcterms:identifier>
+  </skos:Concept>
+</rdf:RDF>

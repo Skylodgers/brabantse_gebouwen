@@ -1,0 +1,2445 @@
+/* line 1, ../venv/lib/python3.11/site-packages/arches/app/media/css/base/_elements.scss */
+body {
+  overflow-x: hidden; }
+  @media (min-width: 915px) {
+    /* line 1, ../venv/lib/python3.11/site-packages/arches/app/media/css/base/_elements.scss */
+    body {
+      overflow-x: auto; } }
+/* line 8, ../venv/lib/python3.11/site-packages/arches/app/media/css/base/_elements.scss */
+#container {
+  height: 100vh; }
+  @media (max-width: 1024px) {
+    /* line 8, ../venv/lib/python3.11/site-packages/arches/app/media/css/base/_elements.scss */
+    #container {
+      height: auto; } }
+/* line 15, ../venv/lib/python3.11/site-packages/arches/app/media/css/base/_elements.scss */
+.ep-help,
+.ep-notifs {
+  width: 100%; }
+  @media (min-width: 915px) {
+    /* line 15, ../venv/lib/python3.11/site-packages/arches/app/media/css/base/_elements.scss */
+    .ep-help,
+    .ep-notifs {
+      width: 40vw; } }
+/* line 23, ../venv/lib/python3.11/site-packages/arches/app/media/css/base/_elements.scss */
+.form-control,
+.dropdown-menu,
+.btn,
+.chosen-container,
+.jstree-container-ul,
+.popover {
+  font-size: 1.3rem; }
+
+/* line 33, ../venv/lib/python3.11/site-packages/arches/app/media/css/base/_elements.scss */
+div.chosen-container-active:not(.chosen-with-drop) a.chosen-single,
+ul.chosen-results li.highlighted,
+ul.select2-results li.select2-highlighted,
+a[href]:focus-visible,
+area[href]:focus-visible,
+input:focus-visible:not(.select2-search__field),
+select:focus-visible,
+textarea:focus-visible,
+button:focus-visible,
+iframe:focus-visible,
+object:focus-visible,
+embed:focus-visible,
+*[tabindex]:focus-visible:not(.select2-search__field),
+*[contenteditable]:focus-visible,
+.select2-container--default.select2-container--focus .select2-selection--multiple {
+  outline: 2px solid #005ecc !important;
+  outline-offset: -2px !important; }
+
+/* line 1, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_base.scss */
+.lang-switch {
+  padding: 0px; }
+
+/* line 6, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_base.scss */
+.lang_switcher .select2-container--default .select2-selection--single {
+  border: none;
+  font-size: 1.2rem;
+  padding: 10px 15px;
+  height: 49px; }
+  /* line 12, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_base.scss */
+  .lang_switcher .select2-container--default .select2-selection--single .select2-selection__rendered {
+    line-height: 30px; }
+  /* line 16, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_base.scss */
+  .lang_switcher .select2-container--default .select2-selection--single .select2-selection__arrow {
+    margin: 0px 8px;
+    height: 49px; }
+
+/* line 23, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_base.scss */
+.lang_switcher_dd {
+  border-top: solid 1px #d6d6d6 !important; }
+  /* line 25, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_base.scss */
+  .lang_switcher_dd .select2-results__option {
+    font-size: 1.2rem; }
+
+/* line 2, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_landingpage.scss */
+.navbar-toggle:hover {
+  background: #000; }
+
+/* line 3, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+#container.cls-container.arches-login {
+  background: #eceef1; }
+
+/* line 7, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.arches-login > .cls-header {
+  background: #eceef1; }
+
+/* line 11, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.arches-login div .cls-brand:after {
+  background: #eceef1; }
+
+/* line 15, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.cls-content.arches-signin {
+  padding-top: 20px; }
+
+/* line 19, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.login-panel-header.arches-signin {
+  font-size: 2.8rem; }
+
+/* line 23, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.arches-signin-subtext {
+  padding: 0px 5px 20px 5px;
+  color: #888;
+  font-size: 1.6rem;
+  font-weight: normal;
+  border: none; }
+  /* line 29, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+  .arches-signin-subtext .input-group-addon {
+    font-size: 1.4rem; }
+
+/* line 34, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.floating-label-group {
+  position: relative;
+  display: flex;
+  align-items: start; }
+
+/* line 41, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.floating-label-input::placeholder {
+  color: transparent; }
+
+/* line 46, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.floating-label-input:focus {
+  outline: 1;
+  box-shadow: 1;
+  background: transparent; }
+
+/* line 52, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.floating-label-input:focus ~ .floating-label,
+.floating-label-input:valid ~ .floating-label {
+  top: -1.7em;
+  padding: 0px; }
+
+/* line 58, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.floating-label-input.change-password:focus ~ .floating-label,
+.floating-label-input.change-password:valid ~ .floating-label {
+  top: -0.55em;
+  padding: 0px; }
+
+/* line 64, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.floating-label {
+  position: absolute;
+  padding: 0.75em;
+  top: 0;
+  pointer-events: none;
+  user-select: none;
+  transition: 0.2s ease all;
+  -moz-transition: 0.2s ease all;
+  -webkit-transition: 0.2s ease all; }
+
+/* line 75, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.floating-label.change-password {
+  top: 1.3em;
+  color: #888; }
+
+/* line 80, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.arches-signin .login-panel {
+  border: 1px solid #ddd; }
+
+/* line 84, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.arches-signin .panel-footer {
+  color: #888;
+  padding: 15px 0px; }
+
+/* line 89, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.arches-signin .panel-footer a {
+  color: #4682b4;
+  font-weight: 600; }
+
+/* line 94, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.arches-signin-btn {
+  padding-top: 0px;
+  padding-bottom: 10px; }
+
+/* line 99, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.account-management {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border-top: 1px solid #ddd; }
+
+/* line 105, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.cls-container .account-management a {
+  color: #4682b4; }
+
+/* line 109, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.account-link {
+  padding: 5px 0px;
+  display: block; }
+
+/* line 114, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.account-link:first-child {
+  padding-top: 25px; }
+
+/* line 118, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+#login-form {
+  padding: 10px 5px; }
+
+/* line 122, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.login-panel {
+  opacity: .9; }
+
+/* line 126, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.login-panel-header {
+  font-size: 2.8rem;
+  margin-top: 0;
+  padding-bottom: 5px;
+  font-weight: 300; }
+
+/* line 133, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.change-password-form.popover {
+  display: block;
+  margin-top: 65px;
+  width: 250px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  left: auto; }
+
+/* line 141, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.popover.bottom > .arrow:after {
+  left: 50%; }
+
+/* line 145, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.change-password-form .panel {
+  margin-bottom: 0px; }
+
+/* line 149, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.profile-summary-page .password-success {
+  color: green;
+  position: absolute;
+  top: 50px; }
+
+/* line 155, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.profile-toolbar {
+  top: 50px;
+  width: 100%;
+  height: 50px;
+  background: #f8f8f8;
+  border-bottom: 1px solid #ddd; }
+
+/* line 163, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.change-password-form .error-message {
+  font-size: 1.1rem;
+  color: #880000;
+  padding: 2px; }
+
+/* line 169, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.change-password-form .error-message-container {
+  display: flex;
+  flex-direction: column;
+  align-content: center; }
+
+/* line 175, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.change-password-form .panel-body {
+  padding: 20px 15px; }
+
+/* line 179, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.change-password-form .panel-heading {
+  text-align: start;
+  position: relative;
+  padding: 10px 15px;
+  margin: 0px;
+  height: 40px;
+  background-color: #f5f6f7;
+  color: #5c7174;
+  line-height: 1.1;
+  border-bottom: solid 0.5px #babebf;
+  font-weight: 300;
+  font-size: 1.4rem; }
+
+/* line 193, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.change-password-buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%; }
+
+/* line 200, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.password-rules {
+  margin-top: -5px;
+  font-size: 1.2rem;
+  color: #555; }
+
+/* line 206, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.password-rule {
+  color: #888;
+  font-size: 1.3rem;
+  padding-left: 5px;
+  padding-bottom: 3px;
+  display: flex; }
+
+/* line 214, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.password-rule span {
+  padding-inline-start: 3px;
+  font-size: 1.2rem; }
+
+/* line 219, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.password-rule i {
+  font-size: 1.1rem; }
+
+/* line 223, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_authentication.scss */
+.password-rules > .list-unstyled {
+  padding-inline-start: initial; }
+
+/* line 2, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+#user-profile .account-wrapper {
+  flex: 1; }
+  /* line 5, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+  #user-profile .account-wrapper > .row {
+    display: flex; }
+    /* line 8, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+    #user-profile .account-wrapper > .row .row-content {
+      flex: 1; }
+      /* line 11, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+      #user-profile .account-wrapper > .row .row-content .row {
+        display: flex; }
+
+/* line 18, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+#user-profile .notif-table {
+  width: 100%; }
+
+/* line 22, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+#user-profile .widget-input-label-notif {
+  padding: 0 20px;
+  font-size: 1.2rem;
+  margin-top: 2px;
+  font-weight: 500;
+  color: #666; }
+
+/* line 30, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+#user-profile .widget-input-label-notif .arches-switch {
+  margin: 0 5px; }
+
+/* line 34, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+#user-profile .notif-table th {
+  font-size: 1.05em;
+  font-weight: 600;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.07);
+  color: #4d627b; }
+
+/* line 41, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+#user-profile .profile-header {
+  padding: 0 10px; }
+
+/* line 45, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+#user-profile .profile-listt {
+  display: flex;
+  width: 100%;
+  padding: 40px 100px;
+  min-height: 170px;
+  border-bottom: 1px solid #ccc; }
+  /* line 52, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+  #user-profile .profile-listt .profile-notif-settings {
+    margin: 0 20px;
+    padding: 0;
+    width: 100%;
+    float: none; }
+  /* line 59, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+  #user-profile .profile-listt th {
+    text-align: start; }
+
+/* line 65, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+#container #profile-table td {
+  border-top: 1px solid rgba(0, 0, 0, 0); }
+
+/* line 69, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+.profile-summary-page {
+  width: 100%;
+  background: #fff; }
+
+/* line 74, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+.profile-summary-page .img-responsive {
+  max-height: 249px; }
+
+/* line 78, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+.profile-report {
+  height: 150px;
+  background: #102F4F;
+  width: 100%;
+  padding: 40px 100px 0px 100px;
+  border-bottom: 1px solid #520008; }
+
+/* line 86, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+.profile-sections {
+  padding: 60px 30px;
+  min-height: 450px; }
+
+/* line 91, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+div.profile-notif-settings {
+  padding-top: 12px;
+  float: none;
+  margin: 0px 25%; }
+
+/* line 97, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+th.notif-type {
+  width: 150px; }
+
+/* line 101, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+.profile-notif-settings td {
+  padding: 8px 10px;
+  color: #666; }
+
+/* line 106, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+.profile-notif-settings th {
+  padding: 4px 6px 4px 6px; }
+
+/* line 110, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+.profile-projects {
+  height: 100vh; }
+
+/* line 114, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+.btn-profile {
+  width: 65px; }
+
+/* line 118, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+.profile-full-name {
+  color: #fff;
+  font-size: 2.6em; }
+
+/* line 123, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+.profile-e-mail {
+  color: #fff;
+  font-size: 1.6rem;
+  color: #ddd;
+  font-weight: 500; }
+
+/* line 130, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+.profile-header {
+  font-size: 2.1rem; }
+
+/* line 134, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+.account-summary {
+  margin-top: -30px;
+  height: 200px;
+  background: #a1f1f1; }
+
+/* line 140, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+.profile-label-shim {
+  font-size: 1.3rem;
+  margin-top: -5px;
+  color: #777; }
+
+/* line 146, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+.btn-profile-password {
+  background: #fff;
+  border-width: 0px;
+  margin-top: -20px;
+  margin-left: -12px;
+  color: #579ddb; }
+
+/* line 154, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+.account-tips {
+  margin-top: 10px;
+  font-size: 1.3rem;
+  color: #888; }
+
+/* line 160, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+.account-input {
+  max-width: 300px; }
+
+/* line 164, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+.account-label {
+  font-size: 1.4rem;
+  font-weight: 500; }
+
+/* line 169, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+.btn-profile-password:hover {
+  background: #fff;
+  color: #579ddb; }
+
+/* line 174, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+.btn-profile-password:focus {
+  background: #fff;
+  color: #579ddb; }
+
+/* line 179, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+.btn-profile-password.btn-default:active {
+  background-color: #fff;
+  border-width: 0px;
+  color: #579ddb; }
+
+/* line 185, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+.btn-profile-password.btn:not(.disabled):not(:disabled):active,
+.btn:not(.disabled):not(:disabled).active {
+  box-shadow: none; }
+
+/* line 190, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+.device-summary {
+  font-size: 1.3rem;
+  margin-bottom: -5px; }
+
+/* line 195, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+.device-listing {
+  float: left;
+  margin-top: -20px;
+  padding-left: 0px; }
+
+/* line 201, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+.device-listing li:not(:first-child) {
+  margin-left: 20px; }
+
+/* line 205, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+.device-list-item {
+  display: inline-block;
+  padding: 10px; }
+
+/* line 210, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+.project-search-widget {
+  position: absolute;
+  top: -40px;
+  width: 250px; }
+
+/* line 216, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+.profile-default-message-panel {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  font-size: 1.7rem;
+  color: #888; }
+
+/* line 224, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+.apple_app_store_icon {
+  height: 50px;
+  padding-top: 10px; }
+
+/* line 229, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+.android_app_store_icon {
+  height: 58px;
+  margin-top: 11px; }
+
+/* line 234, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+.account-wrapper {
+  padding-top: 0px; }
+
+/* line 238, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_profile-manager.scss */
+.account-content-heading {
+  font-weight: 500;
+  font-size: 1.6rem;
+  margin: 0.625em auto 0.625em auto; }
+
+@media (max-width: 740px) {
+  /* line 1, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+  article.main-search-container {
+    height: 100%;
+    overflow-x: hidden; } }
+
+@media (max-width: 1024px) {
+  /* line 1, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+  article.main-search-container {
+    flex-direction: column;
+    overflow-x: hidden; } }
+
+@media (max-width: 1024px) {
+  /* line 10, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+  article.main-search-container .search-results-panel {
+    max-width: calc(100vw - 50px); } }
+
+/* line 14, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+article.main-search-container .search-results-panel .search-tools-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap; }
+  @media (max-width: 1024px) {
+    /* line 14, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+    article.main-search-container .search-results-panel .search-tools-container {
+      width: 100%; } }
+  @media (max-width: 320px) {
+    /* line 14, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+    article.main-search-container .search-results-panel .search-tools-container {
+      height: auto; } }
+  @media (max-width: 740px) {
+    /* line 24, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+    article.main-search-container .search-results-panel .search-tools-container .clear-filter {
+      width: auto; } }
+  @media (max-width: 740px) {
+    /* line 28, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+    article.main-search-container .search-results-panel .search-tools-container .clear-filter span {
+      text-wrap: wrap;
+      line-height: 13px;
+      padding: 0; } }
+@media (max-width: 1024px) {
+  /* line 37, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+  article.main-search-container .search-results-panel .search-control-container {
+    overflow-y: auto; } }
+
+@media (max-width: 1024px) {
+  /* line 37, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+  article.main-search-container .search-results-panel .search-control-container {
+    flex: 1; } }
+
+@media (max-width: 1024px) {
+  /* line 44, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+  article.main-search-container .search-results-panel .search-control-container .search-results-container {
+    width: 100%; } }
+
+@media (max-width: 740px) {
+  /* line 44, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+  article.main-search-container .search-results-panel .search-control-container .search-results-container {
+    padding: 10px 10px 20px 10px;
+    overflow-y: auto; } }
+
+@media (max-width: 1024px) {
+  /* line 52, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+  article.main-search-container .search-results-panel .search-control-container .search-results-container .search-listing {
+    width: 100%; } }
+
+/* line 60, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+article.main-search-container .search-map-container {
+  flex-direction: column; }
+  @media (max-width: 1024px) {
+    /* line 60, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+    article.main-search-container .search-map-container {
+      width: calc(100vw - 50px); } }
+  /* line 65, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+  article.main-search-container .search-map-container .search-toolbar {
+    display: -webkit-flex;
+    display: flex;
+    width: 100%;
+    height: 51px;
+    background: #f4f4f4;
+    border-bottom: solid 1px #bbd1ea; }
+    @media (max-width: 1024px) {
+      /* line 65, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .search-toolbar {
+        border-top: solid 1px #bbd1ea;
+        height: auto; } }
+    @media (max-width: 740px) {
+      /* line 65, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .search-toolbar {
+        flex-direction: column;
+        height: 52px; } }
+    @media (max-width: 450px) {
+      /* line 65, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .search-toolbar {
+        height: auto;
+        flex-direction: row; } }
+    @media (max-width: 385px) {
+      /* line 65, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .search-toolbar {
+        flex-direction: column; } }
+    @media (max-width: 1024px) {
+      /* line 87, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .search-toolbar .search-type-btn-panel {
+        margin-left: 5px;
+        height: auto; } }
+    @media (max-width: 385px) {
+      /* line 87, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .search-toolbar .search-type-btn-panel {
+        display: flex;
+        justify-content: center; } }
+    @media (max-width: 1024px) {
+      /* line 96, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .search-toolbar .search-type-btn-panel .search-type-btn {
+        height: 20px;
+        border-top: 1px solid #d8d8d8;
+        border-bottom: 1px solid #d8d8d8;
+        margin: 5px 2px;
+        min-width: 69px; } }
+    @media (max-width: 450px) {
+      /* line 96, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .search-toolbar .search-type-btn-panel .search-type-btn {
+        height: 42px;
+        min-width: 42px;
+        margin: 0;
+        top: 1px; } }
+    @media (max-width: 1024px) {
+      /* line 110, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .search-toolbar .search-type-btn-panel .search-type-btn i {
+        display: none; } }
+    @media (max-width: 450px) {
+      /* line 110, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .search-toolbar .search-type-btn-panel .search-type-btn i {
+        display: block; } }
+    @media (max-width: 740px) {
+      /* line 118, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .search-toolbar .search-type-btn-panel .search-type-btn span {
+        display: block; } }
+    @media (max-width: 450px) {
+      /* line 118, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .search-toolbar .search-type-btn-panel .search-type-btn span {
+        display: none; } }
+    @media (max-width: 1024px) {
+      /* line 129, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .search-toolbar .search-type-btn-popup-panel .popup-panel-row {
+        position: relative;
+        margin-left: 4px;
+        top: 5px; } }
+    @media (max-width: 740px) {
+      /* line 129, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .search-toolbar .search-type-btn-popup-panel .popup-panel-row {
+        top: -2px; } }
+    @media (max-width: 450px) {
+      /* line 129, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .search-toolbar .search-type-btn-popup-panel .popup-panel-row {
+        top: 0px; } }
+    @media (max-width: 385px) {
+      /* line 129, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .search-toolbar .search-type-btn-popup-panel .popup-panel-row {
+        display: flex;
+        justify-content: center; } }
+    @media (max-width: 1024px) {
+      /* line 145, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .search-toolbar .search-type-btn-popup-panel .popup-panel-row .search-type-btn-popup {
+        min-width: 90px;
+        height: 20px;
+        border: 1px solid #d8d8d8;
+        margin: 0 4px; } }
+    @media (max-width: 450px) {
+      /* line 145, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .search-toolbar .search-type-btn-popup-panel .popup-panel-row .search-type-btn-popup {
+        height: 42px;
+        min-width: 42px;
+        width: auto;
+        margin: 1px; } }
+    @media (max-width: 1024px) {
+      /* line 158, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .search-toolbar .search-type-btn-popup-panel .popup-panel-row .search-type-btn-popup.active {
+        line-height: inherit; } }
+    @media (max-width: 1024px) {
+      /* line 163, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .search-toolbar .search-type-btn-popup-panel .popup-panel-row .search-type-btn-popup i {
+        display: none; } }
+    @media (max-width: 450px) {
+      /* line 163, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .search-toolbar .search-type-btn-popup-panel .popup-panel-row .search-type-btn-popup i {
+        display: block; } }
+    @media (min-width: 1024px) {
+      /* line 171, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .search-toolbar .search-type-btn-popup-panel .popup-panel-row .search-type-btn-popup p {
+        display: none; } }
+    @media (max-width: 740px) {
+      /* line 171, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .search-toolbar .search-type-btn-popup-panel .popup-panel-row .search-type-btn-popup p {
+        display: block; } }
+    @media (max-width: 450px) {
+      /* line 171, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .search-toolbar .search-type-btn-popup-panel .popup-panel-row .search-type-btn-popup p {
+        display: none; } }
+  @media (max-width: 450px) {
+    /* line 186, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+    article.main-search-container .search-map-container .card-form-preview-container {
+      overflow-y: visible; } }
+  /* line 191, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+  article.main-search-container .search-map-container .tab-content {
+    height: calc(100vh - 100px); }
+    @media (max-width: 450px) {
+      /* line 191, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .tab-content {
+        height: unset; } }
+    @media (max-width: 740px) {
+      /* line 191, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .tab-content {
+        overflow: visible; } }
+    /* line 199, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+    article.main-search-container .search-map-container .tab-content .tab-content-component {
+      height: calc(100vh - 100px); }
+      @media (max-width: 450px) {
+        /* line 199, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+        article.main-search-container .search-map-container .tab-content .tab-content-component {
+          height: 100vh;
+          overflow: visible; } }
+      @media (max-width: 450px) {
+        /* line 205, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+        article.main-search-container .search-map-container .tab-content .tab-content-component .workbench-card-wrapper {
+          height: 100vh;
+          overflow-y: visible; } }
+      @media (max-width: 450px) {
+        /* line 210, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+        article.main-search-container .search-map-container .tab-content .tab-content-component .workbench-card-wrapper .workbench-card-container-wrapper {
+          width: 100%; } }
+      @media (max-width: 450px) {
+        /* line 214, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+        article.main-search-container .search-map-container .tab-content .tab-content-component .workbench-card-wrapper .workbench-card-container-wrapper .related-resources-graph-controls {
+          right: 2px;
+          top: 5px; } }
+      @media (max-width: 450px) {
+        /* line 220, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+        article.main-search-container .search-map-container .tab-content .tab-content-component .workbench-card-wrapper .workbench-card-container-wrapper .related-resources-graph-controls-instructions {
+          font-size: 1rem;
+          margin-top: 0px;
+          right: 2px;
+          top: 40px; } }
+    @media (max-width: 450px) {
+      /* line 231, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .tab-content .workbench-card-sidebar,
+      article.main-search-container .search-map-container .tab-content div[role="tablist"] {
+        position: static;
+        display: inline-flex;
+        height: fit-content;
+        width: calc(100vw - 50px);
+        justify-content: center;
+        border: 0; } }
+    @media (max-width: 450px) {
+      /* line 241, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .tab-content .workbench-card-sidebar .workbench-card-sidebar-tab,
+      article.main-search-container .search-map-container .tab-content .workbench-card-sidebar div > .workbench-card-sidebar-tab,
+      article.main-search-container .search-map-container .tab-content div[role="tablist"] .workbench-card-sidebar-tab,
+      article.main-search-container .search-map-container .tab-content div[role="tablist"] div > .workbench-card-sidebar-tab {
+        border: 1px solid #d8d8d8;
+        min-width: 50px;
+        margin: 1px; } }
+    @media (max-width: 1024px) {
+      /* line 241, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .tab-content .workbench-card-sidebar .workbench-card-sidebar-tab,
+      article.main-search-container .search-map-container .tab-content .workbench-card-sidebar div > .workbench-card-sidebar-tab,
+      article.main-search-container .search-map-container .tab-content div[role="tablist"] .workbench-card-sidebar-tab,
+      article.main-search-container .search-map-container .tab-content div[role="tablist"] div > .workbench-card-sidebar-tab {
+        height: 3em;
+        padding: 4px;
+        min-height: 0; } }
+    @media (max-width: 450px) {
+      /* line 255, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .tab-content .workbench-card-container {
+        width: 100%;
+        height: calc(100vh - 50px); } }
+    @media (max-width: 1024px) {
+      /* line 261, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .tab-content .workbench-card-sidepanel {
+        height: 100%;
+        width: calc(100% - 75px); } }
+    @media (max-width: 450px) {
+      /* line 261, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .tab-content .workbench-card-sidepanel {
+        position: absolute;
+        right: 0;
+        width: 100%; } }
+    @media (max-width: 1024px) {
+      /* line 271, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .tab-content .workbench-card-sidepanel .workbench-card-sidepanel-header-container {
+        width: 100%; } }
+    /* line 276, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+    article.main-search-container .search-map-container .tab-content .workbench-card-sidepanel .workbench-card-sidepanel-body {
+      overflow-y: auto; }
+      @media (max-width: 1024px) {
+        /* line 276, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+        article.main-search-container .search-map-container .tab-content .workbench-card-sidepanel .workbench-card-sidepanel-body {
+          width: 100%; } }
+      @media (max-width: 1024px) {
+        /* line 281, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+        article.main-search-container .search-map-container .tab-content .workbench-card-sidepanel .workbench-card-sidepanel-body .overlays-listing-container {
+          padding: 0 0 16px; } }
+      @media (max-width: 1024px) {
+        /* line 286, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+        article.main-search-container .search-map-container .tab-content .workbench-card-sidepanel .workbench-card-sidepanel-body .overlays-listing-container .overlay-listing .overlay-name {
+          width: 100%;
+          white-space: normal; } }
+      /* line 292, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .tab-content .workbench-card-sidepanel .workbench-card-sidepanel-body .overlays-listing-container .overlay-listing .overlay-opacity-control {
+        position: relative; }
+    @media (max-width: 1024px) {
+      /* line 299, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .tab-content #rr-splash {
+        padding: 20px;
+        margin: 20px; } }
+    @media (max-width: 1024px) {
+      /* line 304, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .tab-content #rr-splash .rr-splash-description:last-child {
+        margin-bottom: 0; } }
+    @media (max-width: 1024px) {
+      /* line 310, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .tab-content .search-result-details-splash {
+        padding: 5px 0 0 0; } }
+    @media (max-width: 1024px) {
+      /* line 314, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .tab-content .search-result-details-splash .rr-splash {
+        margin: 20px;
+        padding: 20px; } }
+    @media (max-width: 1024px) {
+      /* line 319, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .tab-content .search-result-details-splash .rr-splash .rr-splash-description:last-child {
+        margin-bottom: 0; } }
+    @media (max-width: 450px) {
+      /* line 326, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .tab-content .mapboxgl-ctrl-geocoder {
+        margin: 3px; } }
+    @media (max-width: 740px) {
+      /* line 326, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+      article.main-search-container .search-map-container .tab-content .mapboxgl-ctrl-geocoder {
+        width: 48vw;
+        min-width: 0; } }
+  @media (max-width: 740px) {
+    /* line 336, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_search.scss */
+    article.main-search-container .search-map-container .search-popup-panel {
+      width: 100%; } }
+/* line 3, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_rdm.scss */
+.rdm .headline h3 {
+  font-size: 2.2rem; }
+
+/* line 8, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_rdm.scss */
+.rdm .counters span {
+  font-size: 3.5rem; }
+
+/* line 11, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_rdm.scss */
+.rdm .counters h4 {
+  font-size: 1.6rem; }
+
+/* line 15, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_rdm.scss */
+.rdm .config-title-tab,
+.rdm .arches-RDM-label-highlighted,
+.rdm .arches-CRUD-child,
+.rdm .arches-RDM-link,
+.rdm .arches-concept-heirarchy,
+.rdm .arches-RDM-note {
+  font-size: 1.5rem; }
+
+/* line 23, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_rdm.scss */
+.rdm .arches-search-filter-font {
+  font-size: 1.4rem; }
+
+/* line 26, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_rdm.scss */
+.rdm .section-headline {
+  font-size: 1.7rem; }
+
+/* line 2, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_report.scss */
+.resource-report-abstract-container .resource-component-abstract {
+  height: calc(100vh - 100px);
+  overflow-y: auto; }
+  @media (max-width: 1024px) {
+    /* line 6, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_report.scss */
+    .resource-report-abstract-container .resource-component-abstract .report-title-bar .report-toolbar-title {
+      min-width: 0;
+      width: auto;
+      padding: 14px 0 5px 5px; } }
+  /* line 12, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_report.scss */
+  .resource-report-abstract-container .resource-component-abstract .report-title-bar .report-toolbar-title .report-print-date {
+    font-size: 1.2rem; }
+
+@media (max-width: 915px) {
+  /* line 20, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_report.scss */
+  .report-toolbar-preview {
+    height: auto; } }
+
+@media (max-width: 915px) {
+  /* line 24, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_report.scss */
+  .report-toolbar-preview.ep-form-toolbar {
+    display: block; } }
+
+@media (max-width: 915px) {
+  /* line 28, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_report.scss */
+  .report-toolbar-preview.ep-form-toolbar .report-toolbar-title {
+    width: 100%; } }
+
+@media (max-width: 915px) {
+  /* line 33, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_report.scss */
+  .report-toolbar-preview.ep-form-toolbar .ep-form-toolbar-tools {
+    padding: 0 0 14px 25px;
+    align-items: flex-start; } }
+
+/* line 38, ../venv/lib/python3.11/site-packages/arches/app/media/css/pages/_report.scss */
+.report-toolbar-preview.ep-form-toolbar .ep-form-toolbar-tools .report-print-date {
+  font-size: 1.2rem; }
+
+/* line 4, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_buttons.scss */
+.resource-filter .resource-selector-button div .btn {
+  padding: 2px 10px; }
+
+/* line 7, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_buttons.scss */
+.resource-filter .resource-selector-button div .dropdown-menu {
+  max-height: 60vh;
+  overflow-y: auto; }
+
+/* line 18, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_buttons.scss */
+.qa-filter .resource-selector-button div .btn {
+  padding: 2px 10px; }
+
+/* line 21, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_buttons.scss */
+.qa-filter .resource-selector-button div .dropdown-menu {
+  max-height: 60vh;
+  overflow-y: auto; }
+
+@media (max-width: 915px) {
+  /* line 32, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_buttons.scss */
+  .ep-toolbar .top-right-nav .ep-tools-login p {
+    display: none; } }
+
+/* line 37, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_buttons.scss */
+.ep-toolbar .top-right-nav .ep-tools-login i {
+  display: inline-block;
+  font-size: 1.7rem;
+  margin-top: 2px; }
+  @media (min-width: 915px) {
+    /* line 37, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_buttons.scss */
+    .ep-toolbar .top-right-nav .ep-tools-login i {
+      display: none; } }
+/* line 45, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_buttons.scss */
+.ep-toolbar .top-right-nav .ep-tools-login .h5 {
+  font-size: 1.2rem; }
+
+/* line 52, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_buttons.scss */
+#backToTopBtn {
+  background-color: #404449;
+  color: #fff;
+  cursor: pointer;
+  position: fixed;
+  bottom: 20px;
+  font-size: 20px;
+  right: 20px;
+  border-radius: 2px;
+  opacity: 0;
+  z-index: 1100;
+  -webkit-transition: opacity .3s;
+  transition: opacity .3s; }
+  /* line 65, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_buttons.scss */
+  #backToTopBtn:hover {
+    opacity: 1 !important;
+    -webkit-transition: opacity 0.3s !important;
+    transition: opacity 0.3s !important; }
+  @media (max-width: 450px) {
+    /* line 52, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_buttons.scss */
+    #backToTopBtn {
+      bottom: 5px;
+      right: 35px; } }
+/* line 76, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_buttons.scss */
+.btn-sm, .btn-icon.btn-sm {
+  font-size: 1.1rem; }
+
+/* line 80, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_buttons.scss */
+.btn-group-sm > .btn {
+  font-size: 1.2rem; }
+
+/* line 1, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_dropdown.scss */
+.select2-container {
+  font-size: 1.4rem;
+  width: 100% !important;
+  max-width: 600px !important; }
+
+/* line 7, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_dropdown.scss */
+.select2-container--default .select2-selection--single,
+.select2-container--default .select2-selection--multiple {
+  border: 1px solid #ddd;
+  border-radius: 0px;
+  min-height: 36px; }
+  /* line 13, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_dropdown.scss */
+  .select2-container--default .select2-selection--single .select2-selection__rendered,
+  .select2-container--default .select2-selection--multiple .select2-selection__rendered {
+    line-height: 34px; }
+  /* line 17, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_dropdown.scss */
+  .select2-container--default .select2-selection--single .select2-selection__arrow,
+  .select2-container--default .select2-selection--multiple .select2-selection__arrow {
+    height: 34px; }
+  /* line 21, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_dropdown.scss */
+  .select2-container--default .select2-selection--single .select2-selection__choice,
+  .select2-container--default .select2-selection--multiple .select2-selection__choice {
+    background-color: #42a5f5;
+    border: none;
+    color: white;
+    vertical-align: top;
+    height: 26px; }
+    /* line 30, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_dropdown.scss */
+    .select2-container--default .select2-selection--single .select2-selection__choice .fa-minus,
+    .select2-container--default .select2-selection--multiple .select2-selection__choice .fa-minus {
+      margin: 0px 2px 0px 7px; }
+    /* line 34, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_dropdown.scss */
+    .select2-container--default .select2-selection--single .select2-selection__choice__remove,
+    .select2-container--default .select2-selection--multiple .select2-selection__choice__remove {
+      color: #595959;
+      background-color: #fff;
+      border-radius: 3px;
+      line-height: 8px;
+      font-size: 15px;
+      margin: 2px 4px;
+      padding: 3px; }
+  /* line 45, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_dropdown.scss */
+  .select2-container--default .select2-selection--single .select2-selection__placeholder,
+  .select2-container--default .select2-selection--multiple .select2-selection__placeholder {
+    color: #595959; }
+
+/* line 50, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_dropdown.scss */
+.select2-container--default .select2-selection--multiple .select2-selection__rendered {
+  line-height: 26px; }
+
+/* line 54, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_dropdown.scss */
+.select2-container--default .select2-search--inline .select2-search__field {
+  line-height: 24px;
+  padding: 0px 5px; }
+
+/* line 59, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_dropdown.scss */
+.select2-selection__clear {
+  padding: 0 8px;
+  font-size: 1.5em; }
+  /* line 63, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_dropdown.scss */
+  .select2-selection__clear:hover {
+    color: #2986b8; }
+
+/* line 67, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_dropdown.scss */
+.select2-dropdown.select2-zindex {
+  z-index: 999999; }
+
+/* line 71, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_dropdown.scss */
+.select2-container--open .select2-selection--multiple:before {
+  border-top: 0;
+  border-bottom: 5px solid #888; }
+
+/* line 76, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_dropdown.scss */
+.select2-selection--multiple:before {
+  content: "";
+  position: absolute;
+  right: 7px;
+  top: 42%;
+  border-top: 5px solid #888;
+  border-left: 4px solid transparent;
+  border-right: 4px solid transparent; }
+
+/* line 2, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/datatypes/_geojson-feature-collection.scss */
+.map-service-container .config-title {
+  margin: 0;
+  flex: 1; }
+
+/* line 6, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/datatypes/_geojson-feature-collection.scss */
+.map-service-container > div {
+  align-items: center;
+  margin-bottom: 10px;
+  display: flex;
+  flex-wrap: wrap; }
+
+/* line 14, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/datatypes/_geojson-feature-collection.scss */
+.map-service-manage-buttons {
+  margin: 0 10px;
+  display: flex; }
+  /* line 18, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/datatypes/_geojson-feature-collection.scss */
+  .map-service-manage-buttons .form-group {
+    align-items: center;
+    display: flex;
+    margin-bottom: 0; }
+    /* line 22, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/datatypes/_geojson-feature-collection.scss */
+    .map-service-manage-buttons .form-group .control-label {
+      margin: 0 5px; }
+
+/* line 28, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/datatypes/_geojson-feature-collection.scss */
+.map-service-manage-layer-name {
+  display: flex;
+  align-items: center; }
+
+/* line 33, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/datatypes/_geojson-feature-collection.scss */
+.map-service-manage-icon-selector {
+  display: flex;
+  flex-wrap: wrap; }
+
+/* line 38, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/datatypes/_geojson-feature-collection.scss */
+.map-service-preview {
+  background: #f4f4f4;
+  border: 1px solid #ddd;
+  height: 250px; }
+
+/* line 44, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/datatypes/_geojson-feature-collection.scss */
+.map-service-tab-content {
+  min-height: 250px; }
+
+/* line 48, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/datatypes/_geojson-feature-collection.scss */
+.advanced-map-style-switch {
+  margin-top: -35px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center; }
+
+/* line 57, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/datatypes/_geojson-feature-collection.scss */
+.service-url {
+  font-size: 1.2rem;
+  color: #999; }
+
+/* line 62, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/datatypes/_geojson-feature-collection.scss */
+.advanced-style-panel {
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-top: 5px;
+  margin-bottom: 10px; }
+
+/* line 69, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/datatypes/_geojson-feature-collection.scss */
+.map-style-panel-body {
+  padding-bottom: 5px; }
+
+/* line 73, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/datatypes/_geojson-feature-collection.scss */
+.simple-style-panel {
+  margin-top: -15px; }
+
+/* line 77, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/datatypes/_geojson-feature-collection.scss */
+.map-service-nav-tabs {
+  background: #f6f6f6;
+  display: flex;
+  padding: 0; }
+
+/* line 83, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/datatypes/_geojson-feature-collection.scss */
+.service-widget-container {
+  padding: 0px 15px 10px 15px;
+  margin-top: -10px; }
+
+/* line 88, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/datatypes/_geojson-feature-collection.scss */
+.dropdown-shim {
+  margin-top: 10px; }
+
+/* line 92, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/datatypes/_geojson-feature-collection.scss */
+.style-title {
+  font-weight: 600;
+  color: #666; }
+
+/* line 97, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/datatypes/_geojson-feature-collection.scss */
+.col-divider {
+  border-right: 1px solid #eee; }
+
+/* line 101, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/datatypes/_geojson-feature-collection.scss */
+.map-server-instructions {
+  padding: 20px 10px 20px 10px;
+  color: #808080; }
+
+/* line 106, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/datatypes/_geojson-feature-collection.scss */
+.map-server-basemap-button {
+  background: rgba(255, 255, 255, 0.88); }
+
+/* line 110, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/datatypes/_geojson-feature-collection.scss */
+.map-service-tabs {
+  border: 1px solid #ddd;
+  background: #f9f9f9;
+  margin-bottom: 0px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  width: 100%; }
+
+/* line 120, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/datatypes/_geojson-feature-collection.scss */
+.hover-feature-loading {
+  padding: 25px;
+  font-size: 1.6rem; }
+
+/* line 1, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_icon-selector.scss */
+.skip-content-link {
+  display: flex;
+  transform: translateX(-200vw);
+  height: 0; }
+
+/* line 1, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_links.scss */
+.search-listing-footer a:focus {
+  background: none; }
+
+/* Advanced search */
+@media (max-width: 1024px) {
+  /* line 3, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+  .advanced-search-container {
+    flex-direction: column-reverse;
+    flex: 1;
+    width: calc(100vw - 50px); } }
+
+/* line 9, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+.advanced-search-container .facets-search-container {
+  width: calc(100% - 275px);
+  height: calc(100vh - 115px);
+  overflow-y: auto;
+  padding: 5px;
+  background: white;
+  border-inline-start: 1px #e0e0e0 solid; }
+  @media (max-width: 1024px) {
+    /* line 9, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+    .advanced-search-container .facets-search-container {
+      flex: 1;
+      width: 100%; } }
+@media (max-width: 1024px) {
+  /* line 21, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+  .advanced-search-container .facets-container {
+    flex: 1;
+    width: 100%; } }
+
+@media (max-width: 1024px) {
+  /* line 26, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+  .advanced-search-container .facets-container .search-facets {
+    height: auto;
+    overflow-y: hidden; } }
+
+/* line 33, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+.advanced-search-container .facets-container .search-facets .search-facet-item .search-facet-item-heading:focus {
+  box-shadow: inset 0 0 0 3px #000;
+  text-decoration: underline; }
+
+/* line 37, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+.advanced-search-container .facets-container .search-facets .search-facet-item .search-facet-item-heading:hover {
+  text-decoration: underline; }
+
+/* line 46, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+.facets-container {
+  width: 275px;
+  border-inline-start: 1px solid #ddd; }
+
+/* line 51, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+.faceted-search-card-container {
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin: 15px;
+  background: #f9f9f9; }
+  @media (max-width: 1024px) {
+    /* line 51, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+    .faceted-search-card-container {
+      margin: 0px; } }
+/* line 61, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+.search-facets {
+  height: calc(100vh - 115px);
+  overflow-y: auto;
+  background: #fbfbfb; }
+
+/* line 67, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+.list-group.search-facets {
+  margin: 0; }
+
+/* line 71, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+.search-facet-item {
+  position: relative;
+  display: block;
+  padding: 10px 15px;
+  margin-bottom: -1px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-right-width: 0px;
+  border-left-width: 0px;
+  overflow: auto;
+  width: 100%; }
+
+/* line 84, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+.search-facet-item:first-of-type {
+  border-top-width: 1px; }
+
+/* line 88, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+a.search-facet-item:not(.active):hover {
+  cursor: pointer;
+  background: #fbfbfb; }
+
+/* line 93, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+a.search-facet-item:hover,
+a.search-facet-item:focus {
+  background-color: #f8f8f8; }
+
+/* line 98, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+.search-facet-item.header {
+  background: #f2f2f2;
+  padding-top: 5px;
+  border-top: none;
+  position: sticky;
+  top: 0px;
+  z-index: 10; }
+
+/* line 107, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+.search-facet-item.header .search-facet-item-heading {
+  font-weight: 600;
+  margin-bottom: 5px; }
+
+/* line 112, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+div.search-facet-item.disabled {
+  border-bottom: 1px solid #ddd;
+  padding-left: 10px;
+  padding-right: 10px; }
+
+/* line 118, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+.search-facet-item-heading {
+  font-weight: 400;
+  font-size: 1.3rem; }
+
+/* line 123, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+.search-facet-item.header input {
+  border-color: #bbb; }
+
+/* line 127, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+a.search-facet-item .search-facet-item-heading {
+  color: #666;
+  margin: 0px; }
+
+/* line 132, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+a.search-facet-item {
+  color: #777; }
+
+/* line 136, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+.search-facet-item.disabled {
+  background: #f6f6f6;
+  color: #666;
+  cursor: pointer; }
+
+/* line 142, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+a.search-facet-item.disabled {
+  cursor: default; }
+
+/* line 146, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+.facet-name {
+  font-size: 1.5rem;
+  color: #333; }
+
+/* line 151, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+.facet-search-criteria {
+  position: relative;
+  padding: 10px 0px 0px 0px; }
+
+/* line 156, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+.facet-search-button {
+  margin: 10px;
+  display: flex;
+  justify-content: flex-end; }
+
+/* line 162, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+.facet-btn-group {
+  display: flex;
+  margin: 5px 20px; }
+
+/* line 167, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+.facet-btn {
+  width: 50%;
+  height: 40px; }
+
+/* line 172, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+.facet-btn:focus,
+.facet-btn.selected {
+  background: #ee9818; }
+
+/* line 177, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+.facet-label {
+  margin-left: 5px;
+  margin-bottom: 5px; }
+
+/* line 182, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+.facet-body {
+  padding-top: 5px;
+  padding-bottom: 45px;
+  margin-left: 10px; }
+
+/* line 188, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+.facet-body .col-md-4.col-lg-3 {
+  padding-right: 5px; }
+
+/* line 191, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+.facet-body .col-md-3.col-lg-2 {
+  padding-right: 5px; }
+
+/* line 195, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+.facet-body div div .select2-container {
+  border: none; }
+
+/* line 199, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_advanced-search.scss */
+.facet-body .chosen-container-single .chosen-single {
+  height: 36px; }
+
+/* line 1, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_time-filter.scss */
+.time-filter-title {
+  margin-bottom: 8px; }
+  /* line 4, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_time-filter.scss */
+  .time-filter-title > span {
+    flex-grow: 1; }
+
+/* line 9, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_time-filter.scss */
+.time-search-container {
+  background: #fff; }
+  /* line 11, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_time-filter.scss */
+  .time-search-container #calendar {
+    display: flex;
+    flex-wrap: wrap; }
+    /* line 14, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_time-filter.scss */
+    .time-search-container #calendar .calendar {
+      display: block;
+      width: inherit;
+      padding-left: 5px;
+      max-width: 152px; }
+      /* line 19, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_time-filter.scss */
+      .time-search-container #calendar .calendar .search-label {
+        margin-top: 10px;
+        font-weight: 400;
+        font-size: 1.5rem;
+        margin-bottom: 3px; }
+      /* line 25, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_time-filter.scss */
+      .time-search-container #calendar .calendar.picker {
+        max-width: 175px;
+        min-width: 175px;
+        position: relative; }
+      /* line 31, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_time-filter.scss */
+      .time-search-container #calendar .calendar div .form-control[disabled] {
+        background: #f7f7f7;
+        border: 1px solid #ddd;
+        color: #777; }
+    /* line 39, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_time-filter.scss */
+    .time-search-container #calendar .chosen-container-single .chosen-single {
+      height: 35px;
+      padding-top: 8px; }
+    /* line 44, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_time-filter.scss */
+    .time-search-container #calendar .chosen-container-single div b:before {
+      vertical-align: -70%; }
+
+/* line 52, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_time-filter.scss */
+.hide-datepicker-time-option .bootstrap-datetimepicker-widget .picker-switch.accordion-toggle {
+  display: none; }
+
+/* line 56, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_time-filter.scss */
+.datepicker-inline {
+  background: #fff;
+  border-width: 0px; }
+
+/* line 2, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_term-search.scss */
+.term-search-filter .select2-container--default .select2-selection--multiple .select2-selection__rendered {
+  line-height: 24px; }
+
+/* line 6, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_term-search.scss */
+.term-search-filter .select2-container--default .select2-selection--multiple .select2-selection__choice {
+  line-height: 24px; }
+  /* line 9, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_term-search.scss */
+  .term-search-filter .select2-container--default .select2-selection--multiple .select2-selection__choice .filter-flag {
+    background-color: #30ad24; }
+  /* line 13, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_term-search.scss */
+  .term-search-filter .select2-container--default .select2-selection--multiple .select2-selection__choice button.search-tag {
+    border: none;
+    background: transparent;
+    color: white;
+    vertical-align: top;
+    height: 26px; }
+    /* line 20, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_term-search.scss */
+    .term-search-filter .select2-container--default .select2-selection--multiple .select2-selection__choice button.search-tag .fa-minus {
+      margin: 0px 2px 0px 7px; }
+  /* line 25, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_term-search.scss */
+  .term-search-filter .select2-container--default .select2-selection--multiple .select2-selection__choice__remove {
+    margin: 6px 0px; }
+
+@media (max-width: 740px) {
+  /* line 2, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_related-resources.scss */
+  .related-resources-graph-workbench .workbench-card-sidepanel {
+    width: calc(100% - 75px);
+    overflow-y: auto;
+    overflow-x: hidden; } }
+
+@media (max-width: 740px) {
+  /* line 10, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_related-resources.scss */
+  .related-resources-graph-workbench .workbench-card-sidepanel-header-container {
+    width: 100%; } }
+
+/* line 1, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_search-results.scss */
+.search-listing-footer {
+  font-size: 1.2rem; }
+  @media (max-width: 320px) {
+    /* line 1, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/search/_search-results.scss */
+    .search-listing-footer {
+      flex-direction: column;
+      height: auto; } }
+/* line 1, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_number.scss */
+.number-widget-report {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 5px; }
+
+/* line 7, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_number.scss */
+.number-prefix {
+  padding-right: 1px; }
+
+/* line 11, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_number.scss */
+.number-suffix {
+  padding-left: 1px; }
+
+/* line 1, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_checkbox.scss */
+label.form-checkbox.form-normal:before,
+.form-radio.form-normal::before {
+  left: 1px; }
+
+/* line 6, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_checkbox.scss */
+label.form-checkbox.form-normal {
+  margin: 4px 0px;
+  display: flex;
+  align-items: center; }
+  /* line 11, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_checkbox.scss */
+  label.form-checkbox.form-normal:before {
+    content: '';
+    margin: 0 5px;
+    display: block;
+    position: unset;
+    width: 16px;
+    height: 16px;
+    background-color: transparent;
+    border: 1px solid #c3cedb;
+    border-radius: 0;
+    left: auto;
+    top: auto; }
+  /* line 24, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_checkbox.scss */
+  label.form-checkbox.form-normal:not(.active):hover:after {
+    opacity: 3; }
+  /* line 27, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_checkbox.scss */
+  label.form-checkbox.form-normal.form-primary:not(.active):hover:after {
+    border-color: #489eed; }
+  /* line 31, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_checkbox.scss */
+  label.form-checkbox.form-normal:not(.disabled):hover:after {
+    content: '';
+    position: absolute;
+    height: 6px;
+    width: 11px;
+    left: 8px;
+    top: 50%;
+    margin-top: -5px;
+    -webkit-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    border-bottom: 2.5px solid #515151;
+    border-left: 2.5px solid #515151; }
+  /* line 48, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_checkbox.scss */
+  label.form-checkbox.form-normal.active:after {
+    content: '';
+    position: absolute;
+    height: 6px;
+    width: 11px;
+    left: 8px;
+    top: 50%;
+    margin-top: -5px;
+    border-bottom: 2.5px solid #515151;
+    border-color: #fff;
+    border-left: 2.5px solid #515151;
+    transform: rotate(-45deg); }
+  /* line 61, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_checkbox.scss */
+  label.form-checkbox.form-normal.active:before {
+    background-color: #5fa2dd;
+    border-color: #5fa2dd; }
+  /* line 66, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_checkbox.scss */
+  label.form-checkbox.form-normal span {
+    width: 186px;
+    white-space: normal;
+    padding: 0 5px; }
+  /* line 72, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_checkbox.scss */
+  label.form-checkbox.form-normal.permission-option i {
+    padding: 0 2px; }
+
+/* line 78, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_checkbox.scss */
+.form-text.form-checkbox:not(.btn), .form-text.form-radio:not(.btn) {
+  padding: 0px; }
+
+/* line 82, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_checkbox.scss */
+.form-text.form-checkbox > input[type="checkbox"], .form-text.form-checkbox > input[type="radio"], .form-text.form-radio > input[type="checkbox"], .form-text.form-radio > input[type="radio"] {
+  position: unset !important;
+  margin: 5px; }
+
+/* line 89, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_checkbox.scss */
+.columns .form-text.form-checkbox:not(.btn),
+.columns .form-text.form-checkbox:not(.btn),
+.columns .form-text.form-checkbox:not(.btn) {
+  width: 225px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis; }
+
+/* line 1, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_datepicker.scss */
+.input-group.date .input-group-addon {
+  background: #fafafa; }
+
+/* line 5, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_datepicker.scss */
+.input-group-addon:first-child {
+  border-inline-start: 1px solid #e1e5ea;
+  border-inline-end: none; }
+
+/* line 10, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_datepicker.scss */
+.input-group.date .input-group-addon,
+.date-icon {
+  cursor: default; }
+
+/* line 1, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_file.scss */
+.file-upload {
+  position: relative;
+  overflow: hidden; }
+
+/* line 6, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_file.scss */
+.file-upload input.upload {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 0;
+  padding: 0;
+  cursor: pointer;
+  opacity: 0;
+  filter: alpha(opacity=0); }
+
+/* line 17, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_file.scss */
+.dz-previews {
+  border: 1px solid #ddd;
+  overflow-y: scroll;
+  width: 100%; }
+
+/* line 23, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_file.scss */
+.file-upload-filter {
+  /* margin-right: 5px; */
+  padding: 0.5em 1em;
+  width: 250px; }
+
+/* line 29, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_file.scss */
+.dz-previews .file-upload-card {
+  border-bottom: 1px solid #D3E5F4;
+  border-radius: 2px;
+  padding: 7px 8px 10px 15px;
+  background: #fff;
+  color: #666;
+  height: 100%; }
+
+/* line 38, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_file.scss */
+.dz-previews .file-upload-card:nth-child(odd) {
+  background: #F5FAFE; }
+
+/* line 42, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_file.scss */
+.file-upload-options {
+  padding-bottom: 0.75em;
+  display: flex; }
+
+/* line 47, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_file.scss */
+.file-upload-options-grow {
+  flex-grow: 1; }
+
+/* line 51, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_file.scss */
+.file-size-label {
+  float: right;
+  margin-top: 2px; }
+
+/* line 56, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_file.scss */
+.btn-file-upload-reset {
+  color: #489EED;
+  font-size: 1.2rem; }
+
+/* line 61, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_file.scss */
+.file-upload-card-detail-right {
+  min-width: 85px;
+  float: right;
+  margin-top: 6px; }
+
+/* line 67, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_file.scss */
+.file-upload-card-detail a:hover {
+  cursor: pointer; }
+
+/* line 71, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_file.scss */
+.btn-file-upload-limit {
+  color: #489EED;
+  font-size: 1.2rem;
+  float: left; }
+
+/* line 77, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_file.scss */
+.btn-file-cancel {
+  background: #01113c;
+  border-radius: 50%;
+  border: none; }
+
+/* line 83, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_file.scss */
+.file-upload-footer {
+  background: #f1f1f1;
+  color: #5938ff;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  border-top: 1px solid #ddd;
+  padding-left: 10px;
+  padding: 15px 15px; }
+
+/* line 94, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_file.scss */
+.file-upload-footer .loader-selector {
+  max-height: 25px; }
+
+/* line 98, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_file.scss */
+.file-select h2,
+.file-select-h2 {
+  font-weight: 400; }
+
+/* line 103, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_file.scss */
+.file-metadata {
+  padding-top: 8px;
+  padding-left: 4px;
+  padding-right: 4px; }
+
+/* line 109, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_file.scss */
+.form-group .file-metadata input {
+  max-width: unset; }
+
+/* line 113, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_file.scss */
+.rp-report-tile dt.first,
+.rp-report-tile dd.first {
+  margin-top: 40px !important; }
+  /* line 117, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_file.scss */
+  .rp-report-tile dt.first:first-of-type,
+  .rp-report-tile dd.first:first-of-type {
+    margin-top: 0px !important; }
+
+/* line 1, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_edtf.scss */
+.edtf-style-tools-panel {
+  overflow-y: scroll;
+  max-width: 600px; }
+
+/* line 6, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_edtf.scss */
+.edtf-style-tools-panel::-webkit-scrollbar, .i18n-style-tools-panel::-webkit-scrollbar {
+  -webkit-appearance: none;
+  width: 9px;
+  border-left: 1px solid #ddd; }
+
+/* line 12, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_edtf.scss */
+.edtf-style-tools-panel::-webkit-scrollbar-thumb, .i18n-style-tools-panel::-webkit-scrollbar-thumb {
+  border-radius: 1px;
+  background-color: rgba(0, 0, 0, 0.1);
+  -webkit-box-shadow: 0 0 1px rgba(255, 255, 255, 0.5); }
+
+/* line 18, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_edtf.scss */
+.workbench-card-sidepanel .edtf-style-tools-panel, .workbench-card-sidepanel .i18n-style-tools-panel {
+  width: 340px; }
+
+/* line 2, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_radio.scss */
+.columns label .form-radio {
+  display: flex;
+  align-items: center; }
+
+/* line 8, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_radio.scss */
+label.form-radio.form-normal {
+  cursor: pointer;
+  margin: 2px 0px; }
+  /* line 12, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_radio.scss */
+  label.form-radio.form-normal::before {
+    top: 22px;
+    content: '';
+    position: relative;
+    width: 16px;
+    height: 16px;
+    border: 1px solid #c3cedb;
+    left: auto;
+    bottom: auto;
+    display: block;
+    border-radius: 50%;
+    background-color: transparent;
+    padding-bottom: 4px; }
+    /* line 25, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_radio.scss */
+    label.form-radio.form-normal::before:hover {
+      padding-bottom: 0; }
+  /* line 30, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_radio.scss */
+  label.form-radio.form-normal:not(.disabled):not(.active):hover::after {
+    opacity: .3; }
+  /* line 33, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_radio.scss */
+  label.form-radio.form-normal::after {
+    content: '';
+    position: relative;
+    display: block;
+    width: 8px;
+    height: 8px; }
+  /* line 41, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_radio.scss */
+  label.form-radio.form-normal.active::after, label.form-radio.form-normal:not(.disabled):hover::after {
+    bottom: 13px;
+    position: relative;
+    border: none;
+    display: block;
+    left: auto;
+    border-radius: 50%;
+    background-color: #515151;
+    margin: 0 4px; }
+
+/* line 53, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_radio.scss */
+.form-text.form-radio:not(.btn),
+.form-text.form-radio:not(.btn),
+.form-text.form-radio:not(.btn) {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-inline-end: 40px; }
+
+/* line 1, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_switch.scss */
+.switch.switch-small.switch-widget {
+  width: 35px; }
+
+/* line 5, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_switch.scss */
+.switch.switch-widget.on > small {
+  left: 22px; }
+
+/* line 9, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_switch.scss */
+.switch.switch-widget.null > small {
+  left: 12px; }
+
+/* line 13, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_switch.scss */
+.switch {
+  background-color: #fff;
+  border: 1px solid #dfdfdf;
+  border-radius: 20px;
+  cursor: pointer;
+  display: inline-block;
+  height: 30px;
+  position: relative;
+  vertical-align: middle;
+  width: 50px;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  box-sizing: content-box;
+  background-clip: content-box;
+  transition-duration: .1s; }
+
+/* line 33, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_switch.scss */
+.switch > small {
+  transition-duration: .1s;
+  left: 0; }
+
+/* line 38, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_switch.scss */
+.switch.on {
+  background-color: #64bd63;
+  border-color: #64bd63; }
+
+/* line 43, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_switch.scss */
+.switch.null {
+  background-color: #ddd;
+  border-color: #ddd; }
+
+/* line 48, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_switch.scss */
+.switch.on > small {
+  left: 13px; }
+
+/* line 52, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_switch.scss */
+.switch.disabled {
+  background-color: #f1f1f1;
+  border-color: #ddd; }
+
+/* line 57, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_switch.scss */
+.switch.disabled.on {
+  background-color: #87c586;
+  border-color: #87c586; }
+
+/* line 62, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_switch.scss */
+.switch.disabled > small {
+  background-color: #f1f1f1; }
+
+/* line 66, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_switch.scss */
+.switchery > small,
+.switch > small {
+  background: #fff;
+  border-radius: 100%;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4);
+  height: 30px;
+  position: absolute;
+  top: 0;
+  width: 30px; }
+
+/* line 77, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_switch.scss */
+.switch-small {
+  border-radius: 13px;
+  height: 13px;
+  width: 25px;
+  margin: 0 4px; }
+
+/* line 84, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_switch.scss */
+.switch-small > small {
+  height: 13px;
+  width: 13px; }
+
+/* line 2, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_text.scss */
+.i18n-style-tools-panel {
+  padding: 10px;
+  height: 140px;
+  position: relative;
+  width: 100%; }
+
+/* line 1, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_map.scss */
+button.map-coordinate-editor-delete-button {
+  color: #454545;
+  border: 0px;
+  background-color: rgba(0, 0, 0, 0);
+  padding: 0; }
+
+/* line 11, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_index.scss */
+.widgets {
+  border-bottom-width: 1px; }
+
+/* line 15, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_index.scss */
+div.row.widget-wrapper {
+  margin: 0;
+  margin-right: 10px;
+  padding: 10px 5px 25px 5px;
+  position: relative; }
+
+/* line 22, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_index.scss */
+.widget-input-label {
+  font-size: 1.2rem;
+  margin-top: 2px;
+  font-weight: 600;
+  color: #666;
+  display: inline-block; }
+
+/* line 30, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_index.scss */
+.crud-widget-container {
+  padding-bottom: 15px; }
+
+/* line 34, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_index.scss */
+.form-control.input-lg.widget-input {
+  height: 36px; }
+
+/* line 38, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_index.scss */
+.option-input {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 100%; }
+
+/* line 44, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_index.scss */
+.option-input-config {
+  display: flex;
+  flex-direction: column; }
+
+/* line 49, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_index.scss */
+.pad-hor.columns {
+  background: #fff;
+  padding: 8px 5px 6px 10px;
+  /*border: 1px solid #ddd;*/ }
+
+/* line 55, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_index.scss */
+.ion-asterisk.widget-label-required {
+  padding-left: 3px;
+  font-size: 0.9rem;
+  margin-top: 2px;
+  position: absolute; }
+
+/*  Start card/widget manager Classes
+    used to manage placement and display of elements inside of the Card
+    and Widget Management forms
+*/
+/* line 67, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_index.scss */
+.panel-config {
+  flex-direction: row-reverse; }
+
+/* line 71, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_index.scss */
+.panel-config .middle-column-container {
+  border-right: transparent;
+  border-left: 1px solid #ddd;
+  background: #f4f4f4;
+  color: #2d3c4b; }
+
+/* line 78, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_index.scss */
+.panel-config .toggle-container {
+  padding-bottom: 5px; }
+
+/* line 82, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_index.scss */
+.panel-config .form-divider {
+  border-top: 1px solid #ccc; }
+
+/* line 86, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_index.scss */
+.widget-config-container {
+  display: flex;
+  flex-direction: column; }
+
+/* line 91, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_index.scss */
+.panel-config .widget-config-container {
+  margin-left: 5px;
+  margin-right: 5px; }
+
+/* line 96, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_index.scss */
+.panel-config .widget-config-container .control-label {
+  padding-top: 5px; }
+
+/* panel styling in widget manager for radio groups */
+/* line 104, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_index.scss */
+.panel-config .widget-config-container .radio-panel {
+  background: #fff;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 0px;
+  margin-left: -10px;
+  margin-right: -10px;
+  border: 1px solid #ddd;
+  border-radius: 2px; }
+
+/* panel styling in widget manager for checkbox groups */
+/* line 118, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_index.scss */
+.panel-config .widget-config-container .checkbox-panel {
+  background: #fff;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 0px;
+  margin-left: -10px;
+  margin-right: -10px;
+  border: 1px solid #ddd;
+  border-radius: 2px; }
+
+/* line 129, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_index.scss */
+.widget-inline-tools-collapser {
+  cursor: pointer;
+  font-size: 0.9em;
+  display: flex;
+  z-index: 1;
+  margin-bottom: 5px; }
+
+/* line 137, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_index.scss */
+.widget-inline-tools-collapser > .widget-input-label {
+  flex-grow: 1; }
+
+/* line 141, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_index.scss */
+.widget-inline-tools-collapser > span {
+  padding-inline-end: 12px; }
+
+/* line 145, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_index.scss */
+.widget-help-panel {
+  padding: 5px 10px; }
+
+/* line 149, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_index.scss */
+.widget-help-panel h2 {
+  font-size: 1.0em;
+  margin-top: 0px;
+  margin-bottom: 5px; }
+
+/* line 155, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_index.scss */
+.widget-help-panel-h2 {
+  font-size: 1.0em;
+  font-weight: 600;
+  margin-top: 0px;
+  margin-bottom: 5px; }
+
+/* line 162, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_index.scss */
+.widget-help-panel a {
+  color: steelblue;
+  font-weight: 500;
+  text-decoration: underline; }
+
+/* line 168, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_index.scss */
+.widget-help-panel h3 {
+  font-size: 1.0em;
+  margin-top: 0px;
+  color: #777; }
+
+/* line 174, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_index.scss */
+.widget-help-panel-h3 {
+  font-size: 1.0em;
+  font-weight: 400;
+  margin-top: 0px;
+  color: #777; }
+
+/* line 181, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_index.scss */
+.widget-help-panel .text-thin {
+  color: #666;
+  font-weight: 400; }
+
+/* line 187, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/widgets/_index.scss */
+.edtf-style-tools-panel, .i18n-style-tools-panel {
+  background: #fbfbfb;
+  border: 1px solid #ddd;
+  margin-bottom: 5px;
+  border-radius: 2px;
+  max-height: 200px; }
+
+/* line 1, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_map.scss */
+.geojson-editor {
+  border: 1px solid #808080;
+  margin-bottom: 5px;
+  margin-top: 5px; }
+
+/* line 7, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_map.scss */
+.geojson-error-list {
+  padding: 10px;
+  color: #a10000; }
+
+/* line 12, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_map.scss */
+#map-settings {
+  position: relative;
+  margin: -40px -35px 10px -20px; }
+
+/* line 17, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_map.scss */
+.map-sidebar-text {
+  font-size: 1.2rem; }
+
+/* line 21, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_map.scss */
+.workbench-card-container.map-container {
+  width: calc(100% - 75px); }
+
+/* line 10, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.workbench-card-sidepanel .install-buttons {
+  background: #f9f9f9;
+  position: fixed;
+  margin-right: 75px;
+  bottom: 0px;
+  border-top: 1px solid #ddd;
+  padding: 10px 35px;
+  right: 0;
+  width: 399px;
+  display: flex; }
+
+/* line 22, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.workbench-card-sidepanel .resource-instance-card-component-content .install-buttons {
+  bottom: auto;
+  border: none;
+  background: white;
+  padding: unset; }
+
+/* line 29, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.graph-designer .workbench-card-sidepanel .install-buttons {
+  margin-right: 375px; }
+
+/* line 33, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.workbench-card-sidepanel.expanded .install-buttons {
+  width: 599px; }
+
+/* line 37, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.workbench-card-sidepanel div .new-provisional-edit-card-container {
+  padding-left: 10px; }
+
+/* line 41, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.workbench-card-sidepanel .new-provisional-edit-card-container {
+  padding-bottom: 40px; }
+
+/* line 45, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.workbench-card-sidepanel-header-container {
+  padding: 14px;
+  margin-left: 0px;
+  background: #fff;
+  z-index: 20;
+  width: 400px; }
+
+/* line 53, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.workbench-card-sidepanel-border {
+  border-bottom: 1px solid #ddd;
+  margin: 0px 12px; }
+
+/* line 58, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.workbench-card-sidepanel-body {
+  overflow-y: auto;
+  width: inherit;
+  height: -moz-available;
+  height: -webkit-fill-available;
+  height: fill-available;
+  padding: 10px; }
+
+/* line 67, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.expanded .workbench-card-sidepanel-header-container {
+  width: 599px;
+  margin-left: -16px;
+  padding-left: 15px; }
+
+/* line 73, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.workbench-card-sidepanel-header {
+  position: relative;
+  cursor: pointer;
+  color: #213e5f;
+  font-size: 1.6rem; }
+
+/* line 80, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.workbench-card-sidepanel-header:before {
+  content: "\f00d";
+  font-family: FontAwesome;
+  margin-right: 6px;
+  color: #9e9e9e;
+  font-weight: lighter;
+  line-height: 1.8em; }
+
+/* line 89, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.workbench-card-sidepanel-header:hover:before {
+  color: #213e5f; }
+
+/* line 93, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.basemap-listing,
+.overlay-listing,
+.legend-listing {
+  padding: 16px 20px;
+  min-height: 60px;
+  border-bottom: 1px solid #d8d8d8;
+  font-size: 1.4rem;
+  color: #9e9e9e;
+  display: flex; }
+  /* line 103, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+  .basemap-listing span,
+  .overlay-listing span,
+  .legend-listing span {
+    padding-top: 3px; }
+
+/* line 108, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.basemap-listing,
+.overlay-listing .overlay-opacity-control,
+.overlay-listing .overlay-name {
+  cursor: pointer; }
+
+/* line 114, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.overlay-listing,
+.legend-listing {
+  cursor: grab; }
+
+/* line 119, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.basemap-listing-container,
+.overlays-listing-container,
+.legend-listing-container {
+  padding: 0px 16px 16px 16px; }
+
+/* line 125, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.basemap-listing.active-basemap,
+.basemap-listing:hover,
+.overlay-listing.active-overlay,
+.overlay-listing:hover,
+.legend-listing .legend-name {
+  color: #213e5f; }
+
+/* line 133, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.basemap-listing.active-basemap,
+.basemap-listing:hover,
+.overlay-listing:hover {
+  background-color: #f7f7f7; }
+
+/* line 139, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.basemap-listing:before,
+.overlay-listing .overlay-name:before {
+  margin: 0px 8px;
+  font-family: FontAwesome;
+  padding-top: 3px; }
+
+/* line 146, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.basemap-listing:before {
+  content: "\f10c"; }
+
+/* line 150, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.overlay-listing .overlay-name:before {
+  content: "\f204"; }
+
+/* line 154, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.basemap-listing.active-basemap:before {
+  content: "\f05d"; }
+
+/* line 158, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.overlay-listing.active-overlay .overlay-name:before {
+  content: "\f205"; }
+
+/* line 162, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.overlay-listing .overlay-name {
+  display: flex;
+  width: 300px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  position: relative;
+  top: 4px; }
+
+/* line 172, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.overlay-opacity-control .overlay-opacity-slider,
+.overlay-opacity-control i {
+  display: inline-block; }
+
+/* line 177, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.overlay-opacity-control .overlay-opacity-slider {
+  transition-property: width, opacity;
+  transition-delay: 0ms;
+  transition: 0ms;
+  -webkit-transition-delay: 0ms;
+  width: 0px;
+  opacity: 0;
+  position: relative;
+  top: 2px;
+  right: -8px; }
+
+/* line 189, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.overlay-opacity-control .overlay-opacity-slider input {
+  width: 0px;
+  height: 0px; }
+
+/* line 194, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.overlay-opacity-control:hover .overlay-opacity-slider input,
+.overlay-opacity-control:focus .overlay-opacity-slider input,
+.overlay-opacity-control:focus-within .overlay-opacity-slider input {
+  width: 150px;
+  height: 20px; }
+
+/* line 201, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.overlay-listing .overlay-opacity-control {
+  transition: 300ms;
+  transition-property: all;
+  transition-delay: 100ms;
+  position: absolute;
+  padding: 6px 6px 6px 8px;
+  right: 6px;
+  width: 30px;
+  height: 38px;
+  border: 1px solid transparent;
+  border-radius: 3px; }
+
+/* line 214, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.overlay-listing .overlay-opacity-control:hover,
+.overlay-listing .overlay-opacity-control:focus,
+.overlay-listing .overlay-opacity-control:focus-within {
+  border: 1px solid #d9d9d9;
+  background-color: white;
+  width: 200px; }
+
+/* line 222, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.overlay-listing .overlay-opacity-control:hover .overlay-opacity-slider,
+.overlay-listing .overlay-opacity-control:focus .overlay-opacity-slider,
+.overlay-listing .overlay-opacity-control:focus-within .overlay-opacity-slider {
+  transition-delay: 400ms;
+  transition: 200ms;
+  -webkit-transition-delay: 400ms;
+  width: 150px;
+  opacity: 1; }
+
+/* line 232, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.layer-listing-icon {
+  display: inline-block;
+  padding-inline-end: 4px; }
+
+/* line 237, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.layer-listing-icon::before {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border: solid 1px #d8d8d8;
+  border-radius: 100%;
+  background-color: #f7f7f7; }
+
+/* line 248, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.map-card-feature-item {
+  cursor: zoom-in; }
+
+/* line 252, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.map-card-feature-item:hover {
+  background-color: #fafafa; }
+
+/* line 256, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.map-card-feature-item.active .map-card-feature-name {
+  font-weight: 600; }
+
+/* line 260, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.map-card-feature-list .table {
+  margin-bottom: 0; }
+
+/* line 264, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.map-card-feature-tool {
+  width: 80px; }
+
+/* line 268, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.map-card-feature-tool.intersect {
+  width: 80px; }
+
+/* line 272, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.map-card-zoom-tool,
+.map-card-feature-tool {
+  font-size: 0.9em; }
+
+/* line 277, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.map-card-zoom-tool a,
+.map-card-feature-tool a,
+.map-card-zoom-tool button,
+.map-card-feature-tool button {
+  color: #2f527a; }
+
+/* line 284, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.map-card-zoom-tool button,
+.map-card-feature-tool button {
+  border: 2px;
+  background-color: rgba(0, 0, 0, 0); }
+
+/* line 290, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.map-card-zoom-tool button.inactive {
+  color: #454545;
+  cursor: default; }
+
+/* line 295, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.map-card-zoom-tool {
+  float: right;
+  padding: 10px; }
+
+/* line 300, ../venv/lib/python3.11/site-packages/arches/app/media/css/components/_index.scss */
+.map-card-zoom-tool a {
+  display: inline-block;
+  padding: 0px 3px; }
+
+/* line 1, ../venv/lib/python3.11/site-packages/arches/app/media/css/layout/_leftnav.scss */
+.sidenav-menu {
+  font-size: 1.2rem; }
