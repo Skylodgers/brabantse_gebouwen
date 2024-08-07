@@ -1,0 +1,15 @@
+*.pyc
+*.log
+brabantse_gebouwen/logs
+brabantse_gebouwen/export_deliverables
+brabantse_gebouwen/cantaloupe/*
+brabantse_gebouwen/staticfiles
+brabantse_gebouwen/media/packages
+brabantse_gebouwen/media/node_modules
+brabantse_gebouwen/media/build/*
+brabantse_gebouwen/uploadedfiles/*
+brabantse_gebouwen/settings_local.py
+brabantse_gebouwen/webpack/webpack-stats.json
+brabantse_gebouwen/webpack/webpack-user-config.js
+.vscode/
+CACHE
