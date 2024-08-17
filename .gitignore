@@ -3,6 +3,7 @@
 .venv/
 
 *.pyc
+*.py~
 *.log
 .ipynb_checkpoints
 
