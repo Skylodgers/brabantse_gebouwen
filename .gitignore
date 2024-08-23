@@ -19,3 +19,5 @@ brabantse_gebouwen/staticfiles
 brabantse_gebouwen/uploadedfiles/*
 brabantse_gebouwen/webpack/webpack-stats.json
 brabantse_gebouwen/webpack/webpack-user-config.js
+
+notebooks/import/geonames/source/alternateNames.zip
