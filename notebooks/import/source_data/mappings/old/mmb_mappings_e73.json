@@ -1,0 +1,72 @@
+{
+  "e73_Single": {
+    "node_mappings": [
+      {"from": "recordnr", "to": "Object Number"},
+      {"from": "aantekeningen", "to": "Annotation",
+        "constants":
+          {"Annotation Language": "Nederlands", "Annotation Type": "remarks"}
+      },
+      {"from": "titel", "to": "Title",
+          "constants": {
+            "Title Type": "constructed titles"}
+        },
+      {"from": "type", "to": "Object Type",
+        "function": {
+          "name": "column_lookup",
+          "args": {
+            "lookup_file": "Object_types.csv"}
+        }
+      }
+    ]
+  },
+  "e73_MaterialRecords": {
+      "node_mappings": [
+            {"from": "recordnr_mat", "to": "Material Records"}
+      ]
+    },
+  "e73_ExternalRelations": {
+        "node_mappings": [
+            {"from": "gerelateerde objecten", "to": "External Relation",
+              "constants": {
+                "External Relation": "gerelateerde objecten"}
+            },
+            {"from": "externe relaties 2 [gerelateerde objecten]", "to": "External Relation",
+              "constants": {
+                "External Relation": "gerelateerde objecten"}
+            },
+            {"from": "externe relaties 3 [gerelateerde objecten]", "to": "External Relation",
+              "constants": {
+                "External Relation": "gerelateerde objecten"}
+            },
+            {"from": "externe relaties 4 [gerelateerde objecten]", "to": "External Relation",
+              "constants": {
+                "External Relation": "gerelateerde objecten"}
+            },
+            {"from": "externe relaties 5 [gerelateerde objecten]", "to": "External Relation",
+              "constants": {
+                "External Relation": "gerelateerde objecten"}
+            },
+            {"from": "externe relaties 6 [gerelateerde objecten]", "to": "External Relation",
+              "constants": {
+                "External Relation": "gerelateerde objecten"}
+            },
+            {"from": "externe relaties 7 [gerelateerde objecten]", "to": "External Relation",
+              "constants": {
+                "External Relation": "gerelateerde objecten"}
+            },
+            {"from": "externe relaties 8 [gerelateerde objecten]", "to": "External Relation",
+              "constants": {
+                "External Relation": "gerelateerde objecten"}
+            },
+            {"from": "externe relaties 9 [gerelateerde objecten]", "to": "External Relation",
+              "constants": {
+                "External Relation": "gerelateerde objecten"}
+            },
+            {"from": "externe relaties 10 [gerelateerde objecten]", "to": "External Relation",
+              "constants": {
+                "External Relation": "gerelateerde objecten"}
+            }
+        ]
+    }
+}
+

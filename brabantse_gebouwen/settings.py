@@ -86,28 +86,6 @@ LOAD_PACKAGE_ONTOLOGIES = True
 # Make sure to use a trailing slash
 ARCHES_NAMESPACE_FOR_DATA_EXPORT = "http://localhost:8000/"
 
-DATABASES = {
-    "default": {
-        "ATOMIC_REQUESTS": False,
-        "AUTOCOMMIT": True,
-        "CONN_MAX_AGE": 0,
-        "ENGINE": "django.contrib.gis.db.backends.postgis",
-        "HOST": "localhost",
-        "NAME": "brabantse_gebouwen",
-        "OPTIONS": {},
-        "PASSWORD": "postgis",
-        "PORT": "5432",
-        "POSTGIS_TEMPLATE": "template_postgis",
-        "TEST": {
-            "CHARSET": None,
-            "COLLATION": None,
-            "MIRROR": None,
-            "NAME": None
-        },
-        "TIME_ZONE": None,
-        "USER": "postgres"
-    }
-}
 
 SEARCH_THUMBNAILS = False
 
