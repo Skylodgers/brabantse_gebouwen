@@ -335,7 +335,7 @@
                     "name": "Image Identifier",
                     "nodegroup_id": "2307b710-a141-11ed-a102-9cf387da2c40",
                     "nodeid": "2307bd14-a141-11ed-a102-9cf387da2c40",
-                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
                     "sortorder": 0,
                     "sourcebranchpublication_id": null
@@ -381,7 +381,7 @@
                     "name": "Image Name",
                     "nodegroup_id": "77d3d164-7b18-11ee-abe4-96a6d245525a",
                     "nodeid": "77d3dac4-7b18-11ee-abe4-96a6d245525a",
-                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
                     "sortorder": 0,
                     "sourcebranchpublication_id": null

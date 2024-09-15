@@ -28771,10 +28771,10 @@ NI.10.5530	Ticuantepe	Ticuantepe	11002672
 NI.10.5532	El Crucero	El Crucero	11002673
 NI.04.6545	El Coral	El Coral	11002674
 NI.14.8530	San Juan del Nicaragua	San Juan del Nicaragua	11002676
-NL.15.0193	Gemeente Zwolle	Gemeente Zwolle	2743476
+15.0193	Gemeente Zwolle	Gemeente Zwolle	2743476
 NL.11.0642	Gemeente Zwijndrecht	Gemeente Zwijndrecht	2743492
 NL.03.0301	Gemeente Zutphen	Gemeente Zutphen	2743607
-NL.06.0879	Gemeente Zundert	Gemeente Zundert	2743618
+NL.06.0879	Gemeente Zundert	GemeentNL.e Zundert	2743618
 NL.11.0638	Gemeente Zoeterwoude	Gemeente Zoeterwoude	2743852
 NL.11.0637	Gemeente Zoetermeer	Gemeente Zoetermeer	2743855
 NL.03.0299	Gemeente Zevenaar	Gemeente Zevenaar	2743948

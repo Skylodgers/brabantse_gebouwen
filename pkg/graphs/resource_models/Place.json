@@ -1123,7 +1123,7 @@
                     "name": "Place Identifier",
                     "nodegroup_id": "d2328c1c-7b28-11ee-8ad4-96a6d245525a",
                     "nodeid": "d2328f46-7b28-11ee-8ad4-96a6d245525a",
-                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
                     "sortorder": 0,
                     "sourcebranchpublication_id": null
@@ -1190,7 +1190,7 @@
                     "name": "Place Description",
                     "nodegroup_id": "d2327e48-7b28-11ee-8ad4-96a6d245525a",
                     "nodeid": "d23292e8-7b28-11ee-8ad4-96a6d245525a",
-                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
                     "sortorder": 0,
                     "sourcebranchpublication_id": null
@@ -1236,7 +1236,7 @@
                     "name": "Place Name",
                     "nodegroup_id": "d23288de-7b28-11ee-8ad4-96a6d245525a",
                     "nodeid": "d23294a0-7b28-11ee-8ad4-96a6d245525a",
-                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
                     "sortorder": 0,
                     "sourcebranchpublication_id": null

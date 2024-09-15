@@ -747,7 +747,7 @@
                     "name": "Institution Identifier",
                     "nodegroup_id": "12203382-a1ff-11ed-a102-9cf387da2c40",
                     "nodeid": "12203864-a1ff-11ed-a102-9cf387da2c40",
-                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
                     "sortorder": 0,
                     "sourcebranchpublication_id": null
@@ -770,7 +770,7 @@
                     "name": "Organisation Name",
                     "nodegroup_id": "cd03aa60-c970-11ed-9e22-96a6d245525a",
                     "nodeid": "13926712-7b20-11ee-8ad4-96a6d245525a",
-                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
                     "sortorder": 0,
                     "sourcebranchpublication_id": null
@@ -839,7 +839,7 @@
                     "name": "Organisation Description",
                     "nodegroup_id": "31f5d09c-c971-11ed-9e22-96a6d245525a",
                     "nodeid": "49147206-c971-11ed-9e22-96a6d245525a",
-                    "ontologyclass": "http://www.w3.org/2001/XMLSchema#string",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
                     "sortorder": 0,
                     "sourcebranchpublication_id": null

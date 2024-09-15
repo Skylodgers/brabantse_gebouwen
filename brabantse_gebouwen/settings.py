@@ -23,6 +23,22 @@ MIN_ARCHES_VERSION = arches.__version__
 MAX_ARCHES_VERSION = arches.__version__
 
 
+
+ONTOLOGY_NAMESPACES = {
+    #'http://my_namespace_here/': 'some_ns',
+    #'http://www.w3.org/1999/02/22-rdf-syntax-ns#': 'RDF' <-- note the all caps
+    "http://www.cidoc-crm.org/cidoc-crm/": "",
+    "http://www.ics.forth.gr/isl/CRMarchaeo/": "CRMarchaeo",
+    "http://www.ics.forth.gr/isl/CRMdig/": "CRMdig",
+    "http://www.ics.forth.gr/isl/CRMgeo/": "CRMgeo",
+    "http://www.ics.forth.gr/isl/CRMinf/": "CRMinf",
+    "http://www.ics.forth.gr/isl/CRMsci/": "CRMsci",
+    "http://www.w3.org/ns/dcat#": "DCAT", 
+    "http://iflastandards.info/ns/lrm/lrmoo/": "LMRoo"
+}
+
+
+
 WEBPACK_LOADER = {
     "DEFAULT": {
         "STATS_FILE": os.path.join(APP_ROOT, 'webpack/webpack-stats.json'),

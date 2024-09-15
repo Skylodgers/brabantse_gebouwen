@@ -1,5 +1,99 @@
-2024-07-30 13:11:17,789 arches.app.search.search WARNING  2024-07-30 13:11:17.789737: WARNING: failed to delete document by query: {'query': {'match_all': {}}, 'source_includes': [], 'source_excludes': []} 
-Exception detail: TLS error caused by: TlsError(TLS error caused by: SSLError([SSL] record layer failure (_ssl.c:1006)))
+2024-09-08 12:46:08,495 arches.app.utils.data_management.resource_graphs.importer ERROR    "'https://takin.solutions/ontologies/rdm/R1_Linguistic_Authority_Document' is not a valid Delving CRM v7.1.2 ontology class"
+Traceback (most recent call last):
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/utils/data_management/resource_graphs/importer.py", line 128, in import_graph
+    graph.save()
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/models/graph.py", line 478, in save
+    self.validate()
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/models/graph.py", line 1696, in validate
+    raise GraphValidationError(
+arches.app.models.graph.GraphValidationError: "'https://takin.solutions/ontologies/rdm/R1_Linguistic_Authority_Document' is not a valid Delving CRM v7.1.2 ontology class"
+2024-09-08 13:01:23,326 arches.app.utils.data_management.resource_graphs.importer WARNING  No ontologies have been loaded. Any GraphModel that depends on an ontology cannot be loaded.
+2024-09-08 13:01:35,600 arches.app.utils.data_management.resource_graphs.importer ERROR    "Your graph isn't semantically valid. Entity domain 'http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation' and                                 Entity range 'http://www.w3.org/2001/XMLSchema#string' cannot                                 be related via Property 'http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content'."
+Traceback (most recent call last):
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/utils/data_management/resource_graphs/importer.py", line 128, in import_graph
+    graph.save()
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/models/graph.py", line 478, in save
+    self.validate()
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/models/graph.py", line 1722, in validate
+    raise GraphValidationError(
+arches.app.models.graph.GraphValidationError: "Your graph isn't semantically valid. Entity domain 'http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation' and                                 Entity range 'http://www.w3.org/2001/XMLSchema#string' cannot                                 be related via Property 'http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content'."
+2024-09-08 13:01:36,027 arches.app.utils.data_management.resource_graphs.importer ERROR    "Your graph isn't semantically valid. Entity domain 'http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation' and                                 Entity range 'http://www.w3.org/2001/XMLSchema#string' cannot                                 be related via Property 'http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content'."
+Traceback (most recent call last):
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/utils/data_management/resource_graphs/importer.py", line 128, in import_graph
+    graph.save()
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/models/graph.py", line 478, in save
+    self.validate()
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/models/graph.py", line 1722, in validate
+    raise GraphValidationError(
+arches.app.models.graph.GraphValidationError: "Your graph isn't semantically valid. Entity domain 'http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation' and                                 Entity range 'http://www.w3.org/2001/XMLSchema#string' cannot                                 be related via Property 'http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content'."
+2024-09-08 13:06:47,532 arches.app.utils.data_management.resource_graphs.importer ERROR    "Your graph isn't semantically valid. Entity domain 'http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object' and                                 Entity range 'http://www.w3.org/2000/01/rdf-schema#Literal' cannot                                 be related via Property 'http://www.w3.org/2000/01/rdf-schema#label'."
+Traceback (most recent call last):
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/utils/data_management/resource_graphs/importer.py", line 128, in import_graph
+    graph.save()
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/models/graph.py", line 478, in save
+    self.validate()
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/models/graph.py", line 1722, in validate
+    raise GraphValidationError(
+arches.app.models.graph.GraphValidationError: "Your graph isn't semantically valid. Entity domain 'http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object' and                                 Entity range 'http://www.w3.org/2000/01/rdf-schema#Literal' cannot                                 be related via Property 'http://www.w3.org/2000/01/rdf-schema#label'."
+2024-09-08 13:16:55,009 arches.app.utils.data_management.resource_graphs.importer WARNING  No ontologies have been loaded. Any GraphModel that depends on an ontology cannot be loaded.
+2024-09-08 14:24:21,631 arches.app.utils.data_management.resource_graphs.importer WARNING  No ontologies have been loaded. Any GraphModel that depends on an ontology cannot be loaded.
+2024-09-08 14:24:32,794 arches.app.utils.data_management.resource_graphs.importer ERROR    "Your graph isn't semantically valid. Entity domain 'http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span' and                                 Entity range 'http://www.w3.org/2001/XMLSchema#dateTime' cannot                                 be related via Property 'http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin'."
+Traceback (most recent call last):
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/utils/data_management/resource_graphs/importer.py", line 128, in import_graph
+    graph.save()
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/models/graph.py", line 478, in save
+    self.validate()
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/models/graph.py", line 1722, in validate
+    raise GraphValidationError(
+arches.app.models.graph.GraphValidationError: "Your graph isn't semantically valid. Entity domain 'http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span' and                                 Entity range 'http://www.w3.org/2001/XMLSchema#dateTime' cannot                                 be related via Property 'http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin'."
+2024-09-08 15:13:38,741 arches.app.views.search ERROR    Node matching query does not exist.
+Traceback (most recent call last):
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/views/search.py", line 326, in search_results
+    search_filter.append_dsl(search_results_object, permitted_nodegroups, include_provisional)
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/search/components/advanced_search.py", line 36, in append_dsl
+    node = models.Node.objects.get(pk=key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 637, in get
+    raise self.model.DoesNotExist(
+arches.app.models.models.Node.DoesNotExist: Node matching query does not exist.
+2024-09-08 15:21:31,033 arches.app.utils.data_management.resource_graphs.importer WARNING  No ontologies have been loaded. Any GraphModel that depends on an ontology cannot be loaded.
+2024-09-08 15:31:51,984 arches.app.utils.data_management.resource_graphs.importer WARNING  No ontologies have been loaded. Any GraphModel that depends on an ontology cannot be loaded.
+2024-09-08 15:33:29,116 arches.app.utils.data_management.resource_graphs.importer WARNING  No ontologies have been loaded. Any GraphModel that depends on an ontology cannot be loaded.
+2024-09-08 15:35:13,167 arches.app.utils.data_management.resource_graphs.importer WARNING  No ontologies have been loaded. Any GraphModel that depends on an ontology cannot be loaded.
+2024-09-08 16:17:35,824 arches.app.utils.data_management.resource_graphs.importer WARNING  No ontologies have been loaded. Any GraphModel that depends on an ontology cannot be loaded.
+2024-09-09 14:44:53,997 arches.app.utils.data_management.resource_graphs.importer ERROR    "Your graph isn't semantically valid. Entity domain 'http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation' and                                 Entity range 'http://www.w3.org/2001/XMLSchema#string' cannot                                 be related via Property 'http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content'."
+Traceback (most recent call last):
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/utils/data_management/resource_graphs/importer.py", line 128, in import_graph
+    graph.save()
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/models/graph.py", line 478, in save
+    self.validate()
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/models/graph.py", line 1722, in validate
+    raise GraphValidationError(
+arches.app.models.graph.GraphValidationError: "Your graph isn't semantically valid. Entity domain 'http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation' and                                 Entity range 'http://www.w3.org/2001/XMLSchema#string' cannot                                 be related via Property 'http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content'."
+2024-09-14 02:36:23,332 arches.app.utils.data_management.resource_graphs.importer ERROR    "Your graph isn't semantically valid. Entity domain 'http://www.cidoc-crm.org/cidoc-crm/E61_Time_Primitive' and                                 Entity range 'http://www.cidoc-crm.org/cidoc-crm/E55_Type' cannot                                 be related via Property 'http://www.cidoc-crm.org/cidoc-crm/P2_has_type'."
+Traceback (most recent call last):
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/utils/data_management/resource_graphs/importer.py", line 128, in import_graph
+    graph.save()
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/models/graph.py", line 478, in save
+    self.validate()
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/models/graph.py", line 1722, in validate
+    raise GraphValidationError(
+arches.app.models.graph.GraphValidationError: "Your graph isn't semantically valid. Entity domain 'http://www.cidoc-crm.org/cidoc-crm/E61_Time_Primitive' and                                 Entity range 'http://www.cidoc-crm.org/cidoc-crm/E55_Type' cannot                                 be related via Property 'http://www.cidoc-crm.org/cidoc-crm/P2_has_type'."
+2024-09-14 03:32:12,181 arches.app.views.tile ERROR    Unable to save. Please verify your input is valid [Tile id: ]                      [Exception message: TileValidationError: edtf error, 1900-0-01  - Incorrect Extended Date Time Format. See http://www.loc.gov/standards/datetime/ for supported formats. Unable to save.]                      [Exception trace: Traceback (most recent call last):
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/views/tile.py", line 144, in post
+    tile.save(request=request, transaction_id=transaction_id)
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/models/tile.py", line 456, in save
+    self.validate([], request=request)
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/models/tile.py", line 350, in validate
+    raise TileValidationError(_("{0}".format(error_instance["message"])))
+arches.app.models.tile.TileValidationError: 'edtf error, 1900-0-01  - Incorrect Extended Date Time Format. See http://www.loc.gov/standards/datetime/ for supported formats. Unable to save.'
+]
+2024-09-15 09:13:29,315 arches.app.search.search WARNING  2024-09-15 09:13:29.315334: WARNING: failed to index document: {'id': '85394923-1c84-4114-9fdf-bf3033597519', 'conceptid': 'd2adbeb1-7093-451e-85b4-aa257f01a15e', 'type': 'prefLabel', 'category': 'label', 'value': 'Event Role Type', 'language': 'en', 'top_concept': 'd2adbeb1-7093-451e-85b4-aa257f01a15e'} 
+Exception detail: ApiError(429, 'cluster_block_exception', 'index [brabantse_gebouwen_concepts] blocked by: [TOO_MANY_REQUESTS/12/disk usage exceeded flood-stage watermark, index has read-only-allow-delete block];')
 
-2024-08-05 12:50:11,598 arches.app.utils.data_management.resource_graphs.importer WARNING  No ontologies have been loaded. Any GraphModel that depends on an ontology cannot be loaded.
-2024-08-05 12:54:46,018 arches.app.utils.data_management.resource_graphs.importer WARNING  No ontologies have been loaded. Any GraphModel that depends on an ontology cannot be loaded.
+2024-09-15 09:15:11,848 arches.app.search.search WARNING  2024-09-15 09:15:11.848342: WARNING: failed to index document: {'id': 'bddcbc77-2d1e-46d7-8e08-bbebb1e25a2f', 'conceptid': 'e2b0bd0f-d445-41b1-8f7f-0d983e7da94f', 'type': 'prefLabel', 'category': 'label', 'value': 'Event Role Type', 'language': 'en', 'top_concept': 'e2b0bd0f-d445-41b1-8f7f-0d983e7da94f'} 
+Exception detail: ApiError(429, 'cluster_block_exception', 'index [brabantse_gebouwen_concepts] blocked by: [TOO_MANY_REQUESTS/12/disk usage exceeded flood-stage watermark, index has read-only-allow-delete block];')
+
