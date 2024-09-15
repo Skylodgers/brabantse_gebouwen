@@ -526,7 +526,30 @@
                     "rangenode_id": "fff74ef4-72b1-11ef-a972-96a6d2455259"
                 }
             ],
-            "functions_x_graphs": [],
+            "functions_x_graphs": [
+                {
+                    "config": {
+                        "descriptor_types": {
+                            "description": {
+                                "nodegroup_id": "76f4a214-72b1-11ef-a972-96a6d2455259",
+                                "string_template": "<name_content>"
+                            },
+                            "map_popup": {
+                                "nodegroup_id": "",
+                                "string_template": ""
+                            },
+                            "name": {
+                                "nodegroup_id": "46c43cee-72b1-11ef-a972-96a6d2455259",
+                                "string_template": "<identifier_content>"
+                            }
+                        },
+                        "triggering_nodegroups": []
+                    },
+                    "function_id": "60000000-0000-0000-0000-000000000001",
+                    "graph_id": "a25a7737-db7b-413d-b867-76fb108cf96e",
+                    "id": "edf34f03-29fa-4caf-a2b1-827fcf9fa790"
+                }
+            ],
             "graphid": "a25a7737-db7b-413d-b867-76fb108cf96e",
             "iconclass": "fa fa-paperclip",
             "is_editable": true,
@@ -1031,7 +1054,12 @@
                 }
             ],
             "ontology_id": "0b1f5462-faa7-11e9-8f09-3af9d3b32b71",
-            "publication": null,
+            "publication": {
+                "graph_id": "a25a7737-db7b-413d-b867-76fb108cf96e",
+                "notes": null,
+                "publicationid": "4043d596-7388-11ef-921e-96a6d2455259",
+                "published_time": "2024-09-15T12:30:50.270"
+            },
             "relatable_resource_model_ids": [],
             "resource_2_resource_constraints": [],
             "root": {
@@ -1066,7 +1094,7 @@
     ],
     "metadata": {
         "db": "PostgreSQL 15.8 (Postgres.app) on aarch64-apple-darwin21.6.0, compiled by Apple clang version 14.0.0 (clang-1400.0.29.102), 64-bit",
-        "git hash": "c03827e9 2024-09-15 17:26:04 +0200",
+        "git hash": "0fa1ba5b 2024-09-15 17:31:52 +0200",
         "os": "Darwin",
         "os version": "23.6.0"
     }

@@ -1047,23 +1047,23 @@
                     "config": {
                         "descriptor_types": {
                             "description": {
-                                "nodegroup_id": "76b8dfa4-bb13-11ea-85a6-3af9d3b32b71",
-                                "string_template": "<statement_content>"
-                            },
-                            "map_popup": {
-                                "nodegroup_id": "64556d86-bb14-11ea-85a6-3af9d3b32b71",
-                                "string_template": "<Defined By (GeoJSON)>"
-                            },
-                            "name": {
                                 "nodegroup_id": "5f00c6df-0650-11ee-8f04-cd21e680a247",
                                 "string_template": "<name_content>"
+                            },
+                            "map_popup": {
+                                "nodegroup_id": "",
+                                "string_template": ""
+                            },
+                            "name": {
+                                "nodegroup_id": "8a740bf0-72a6-11ef-a972-96a6d2455259",
+                                "string_template": "<identifier_content>"
                             }
                         },
                         "triggering_nodegroups": []
                     },
                     "function_id": "60000000-0000-0000-0000-000000000001",
                     "graph_id": "f6e89030-b4b4-11ea-84f7-3af9d3b32b71",
-                    "id": "0029c186-5142-4599-8914-0978edf5cdcb"
+                    "id": "f32c99c2-f89d-4f7b-a73d-0a9ddd2fa284"
                 }
             ],
             "graphid": "f6e89030-b4b4-11ea-84f7-3af9d3b32b71",
@@ -2212,7 +2212,12 @@
                 }
             ],
             "ontology_id": "0b1f5462-faa7-11e9-8f09-3af9d3b32b71",
-            "publication": null,
+            "publication": {
+                "graph_id": "f6e89030-b4b4-11ea-84f7-3af9d3b32b71",
+                "notes": null,
+                "publicationid": "58fe1c04-7388-11ef-921e-96a6d2455259",
+                "published_time": "2024-09-15T12:31:31.756"
+            },
             "relatable_resource_model_ids": [],
             "resource_2_resource_constraints": [],
             "root": {
@@ -2246,7 +2251,7 @@
     ],
     "metadata": {
         "db": "PostgreSQL 15.8 (Postgres.app) on aarch64-apple-darwin21.6.0, compiled by Apple clang version 14.0.0 (clang-1400.0.29.102), 64-bit",
-        "git hash": "c03827e9 2024-09-15 17:26:04 +0200",
+        "git hash": "0fa1ba5b 2024-09-15 17:31:52 +0200",
         "os": "Darwin",
         "os version": "23.6.0"
     }

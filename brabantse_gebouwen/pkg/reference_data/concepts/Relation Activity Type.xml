@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+>
+  <skos:Concept rdf:about="http://localhost:8000/3d014856-3dff-41aa-9c8b-bc41794c72a8">
+    <skos:prefLabel xml:lang="en">{"id": "02f14b2c-361b-471e-9000-79ef65fb76ab", "value": "Engagement"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "771d7b55-6185-480e-84c1-5cce108707a0", "value": "http://gedcomx.org/Engagement"}</dcterms:identifier>
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/8f295cd4-d962-4027-a074-bd35853b4060">
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/3f66c571-447f-4e98-9599-b4a39981d373"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/5517580c-6a70-461f-a678-2038f2082761"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/3d014856-3dff-41aa-9c8b-bc41794c72a8"/>
+        <dcterms:identifier xml:lang="en">{"id": "274d36be-7cd1-4ed9-aaf1-809b0a7bc206", "value": "http://gedcomx.org/Divorce"}</dcterms:identifier>
+        <dcterms:identifier xml:lang="en">{"id": "e85b32e1-e620-444b-8521-f6ed7db8ad2e", "value": "http://gedcomx.org/Marriage"}</dcterms:identifier>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/9fa7c8ea-a021-4e72-9d77-b9292e83e20e"/>
+        <dcterms:title xml:lang="en">{"id": "8dbb8f81-9729-4b65-9018-ecdf4d8ab924", "value": "Relation Avtivity Type"}</dcterms:title>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/5517580c-6a70-461f-a678-2038f2082761">
+    <skos:inScheme rdf:resource="http://localhost:8000/8f295cd4-d962-4027-a074-bd35853b4060"/>
+    <dcterms:identifier xml:lang="en">{"id": "b87bfec9-22f8-4885-b20b-8cee8b15c359", "value": "http://gedcomx.org/Separation"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "acbbccf3-2c20-4f4f-9e6a-46f221f65d70", "value": "Separation"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/3f66c571-447f-4e98-9599-b4a39981d373">
+    <skos:inScheme rdf:resource="http://localhost:8000/8f295cd4-d962-4027-a074-bd35853b4060"/>
+    <skos:prefLabel xml:lang="en">{"id": "81e285a2-6275-412d-a00d-4b08c5839348", "value": "Divorce"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/9fa7c8ea-a021-4e72-9d77-b9292e83e20e">
+    <skos:prefLabel xml:lang="en">{"id": "7f231fd8-af27-4975-99d7-c9a15f264f1b", "value": "Marriage"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/8f295cd4-d962-4027-a074-bd35853b4060"/>
+  </skos:Concept>
+</rdf:RDF>

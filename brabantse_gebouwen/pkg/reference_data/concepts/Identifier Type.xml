@@ -1,25 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
-  xmlns:dcterms="http://purl.org/dc/terms/"
-  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
 >
-  <skos:ConceptScheme rdf:about="http://localhost:8000/4b8f0ff6-430a-4e11-a188-bd9e6b93ecbc">
-    <dcterms:identifier xml:lang="en">{"id": "9a222959-5e74-4ca8-a6d0-162703271f31", "value": "http://localhost:8000/4b8f0ff6-430a-4e11-a188-bd9e6b93ecbc"}</dcterms:identifier>
-    <skos:hasTopConcept>
-      <skos:Concept rdf:about="http://localhost:8000/484bca37-569b-4130-87c3-f16c35fba908">
-        <dcterms:identifier xml:lang="en">{"id": "f9740900-643f-4640-823e-4efd5cfaee06", "value": "http://localhost:8000/484bca37-569b-4130-87c3-f16c35fba908"}</dcterms:identifier>
-        <skos:inScheme rdf:resource="http://localhost:8000/4b8f0ff6-430a-4e11-a188-bd9e6b93ecbc"/>
-        <skos:prefLabel xml:lang="en">{"id": "22e82a93-c21f-41eb-b657-48b4c35b72e7", "value": "ARK-URI"}</skos:prefLabel>
-      </skos:Concept>
-    </skos:hasTopConcept>
-    <skos:hasTopConcept>
-      <skos:Concept rdf:about="http://localhost:8000/fa747ed1-6634-4b40-b75a-ac8a0c5399bf">
-        <dcterms:identifier xml:lang="en">{"id": "031be860-e117-414a-8cb1-a153ebab2a45", "value": "http://localhost:8000/fa747ed1-6634-4b40-b75a-ac8a0c5399bf"}</dcterms:identifier>
-        <skos:prefLabel xml:lang="en">{"id": "9d6c4d68-7aa8-4578-86c6-984a86f6c817", "value": "Wikidata"}</skos:prefLabel>
-        <skos:inScheme rdf:resource="http://localhost:8000/4b8f0ff6-430a-4e11-a188-bd9e6b93ecbc"/>
-      </skos:Concept>
-    </skos:hasTopConcept>
-    <dcterms:title xml:lang="en">{"id": "20a78fb8-1b64-40c9-a5b6-35319b998685", "value": "Identifier Type"}</dcterms:title>
-  </skos:ConceptScheme>
+  <skos:Concept rdf:about="http://localhost:8000/aed7a5e3-84ba-4cb6-8f50-05d0fcaf6202">
+    <skos:prefLabel xml:lang="en">{"id": "6e2f3413-5f53-48dc-80da-ea0b7f44c72a", "value": "Wikibase"}</skos:prefLabel>
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/4b8f0ff6-430a-4e11-a188-bd9e6b93ecbc">
+        <dcterms:identifier xml:lang="en">{"id": "9a222959-5e74-4ca8-a6d0-162703271f31", "value": "http://localhost:8000/4b8f0ff6-430a-4e11-a188-bd9e6b93ecbc"}</dcterms:identifier>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/aed7a5e3-84ba-4cb6-8f50-05d0fcaf6202"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/c6d05a09-2cf4-479d-a424-953b759415a6"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/dcdf5fd2-0f1c-44ca-8213-8efe49b05358"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/9d210dd9-50ad-42e4-8244-b0a5ef50c46a"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/ac08ddc2-5721-4791-be17-d4a9dfb883fc"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/984e1d47-9f07-44b4-8ad8-5a354b3d7e66"/>
+        <dcterms:title xml:lang="en">{"id": "20a78fb8-1b64-40c9-a5b6-35319b998685", "value": "Identifier Type"}</dcterms:title>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/932fdf75-c345-448f-95b7-31a8070f04d1"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/dcdf5fd2-0f1c-44ca-8213-8efe49b05358">
+    <skos:prefLabel xml:lang="en">{"id": "90ea6a8b-2d73-40cc-9763-212dc1eb24ae", "value": "preferred URI"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/4b8f0ff6-430a-4e11-a188-bd9e6b93ecbc"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/ac08ddc2-5721-4791-be17-d4a9dfb883fc">
+    <skos:inScheme rdf:resource="http://localhost:8000/4b8f0ff6-430a-4e11-a188-bd9e6b93ecbc"/>
+    <skos:prefLabel xml:lang="en">{"id": "47b002d6-d3c2-4d26-a266-acebe9028e9f", "value": "Wikidata"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/9d210dd9-50ad-42e4-8244-b0a5ef50c46a">
+    <skos:prefLabel xml:lang="en">{"id": "6d6df0c8-3106-4bae-bb44-1ec59c5d4eec", "value": " regioWiki"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/4b8f0ff6-430a-4e11-a188-bd9e6b93ecbc"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/984e1d47-9f07-44b4-8ad8-5a354b3d7e66">
+    <skos:prefLabel xml:lang="en">{"id": "f3c8bc54-6739-443c-bc46-448ce0317895", "value": "MIP"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/4b8f0ff6-430a-4e11-a188-bd9e6b93ecbc"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/932fdf75-c345-448f-95b7-31a8070f04d1">
+    <skos:inScheme rdf:resource="http://localhost:8000/4b8f0ff6-430a-4e11-a188-bd9e6b93ecbc"/>
+    <skos:prefLabel xml:lang="en">{"id": "b08393d2-8379-42ee-9cd0-05d0c187b1a4", "value": "RCE Monuments"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/c6d05a09-2cf4-479d-a424-953b759415a6">
+    <skos:prefLabel xml:lang="en">{"id": "6c94ffb0-9889-4aca-b5dc-70cfe1a291a7", "value": "dbPedia"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/4b8f0ff6-430a-4e11-a188-bd9e6b93ecbc"/>
+  </skos:Concept>
 </rdf:RDF>

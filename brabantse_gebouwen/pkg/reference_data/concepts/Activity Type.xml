@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:Concept rdf:about="http://localhost:8000/803c4aa3-d903-470b-8ad9-db0cebb2a6ff">
+    <skos:prefLabel xml:lang="nl">{"id": "e1edd0a5-ff22-472e-ac3e-4609e4d0d7b0", "value": "inhuldigingen"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "6397687d-e7e8-438c-9703-e25a9e59f81d", "value": "http://vocab.getty.edu/aat/300404068"}</dcterms:identifier>
+    <skos:scopeNote xml:lang="en">{"id": "f0dd2087-8619-4db0-bbde-ec155fb6d906", "value": "Formal introductions of a major work into public use with appropriate ceremonies, as the opening of a building or park, the unveiling of a statue, fountain, or other work."}</skos:scopeNote>
+    <skos:prefLabel xml:lang="en">{"id": "7e118c95-e521-4786-827d-2aaa247f04b2", "value": "inaugurations (building ceremonies)"}</skos:prefLabel>
+    <skos:scopeNote xml:lang="nl">{"id": "878d26ff-44f5-40b5-ac6a-443892d2e743", "value": "Formele introducties van een groot werk voor publiek gebruik met gepaste ceremonies, zoals de opening van een gebouw of park, de onthulling van een standbeeld, fontein of ander werk."}</skos:scopeNote>
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/5d41be1e-4e04-4fc4-a5c4-d7e7cb55f99b">
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/d7166d24-c46e-4c44-b966-8f36615af4a3"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/803c4aa3-d903-470b-8ad9-db0cebb2a6ff"/>
+        <dcterms:title xml:lang="en">{"id": "524abd6e-c476-4009-8c18-793b5c930eaf", "value": "Activity Type"}</dcterms:title>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/88f8a641-6273-4352-82e6-8f6e784121b3"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/88f8a641-6273-4352-82e6-8f6e784121b3">
+    <skos:inScheme rdf:resource="http://localhost:8000/5d41be1e-4e04-4fc4-a5c4-d7e7cb55f99b"/>
+    <dcterms:identifier xml:lang="en">{"id": "0ac06723-cdfe-455d-8222-cc9c9c0049c6", "value": "http://vocab.getty.edu/aat/300069274"}</dcterms:identifier>
+    <skos:scopeNote xml:lang="en">{"id": "37b9d4b9-87ab-4f37-a371-3c82b7fb8150", "value": "Acts or rites of setting aside something or someone to a special use or purpose, or to the memory of particular people or events."}</skos:scopeNote>
+    <skos:scopeNote xml:lang="nl">{"id": "a4c95721-0557-40c2-a612-b8325e89360f", "value": "Optredens of riten die iets of iemand aan een bepaald gebruik of doel toewijden of ter nagedachtenis aan bepaalde mensen of gebeurtenissen."}</skos:scopeNote>
+    <skos:prefLabel xml:lang="nl">{"id": "b8613399-b9ef-41d7-b805-6732eb355582", "value": "toewijdingen (ceremonies)"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "d4a47848-a011-4145-b345-8326c68fd20b", "value": "dedications (ceremonies)"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/d7166d24-c46e-4c44-b966-8f36615af4a3">
+    <skos:prefLabel xml:lang="en">{"id": "03b9ba76-794a-4875-874d-24ba9384cabd", "value": "consecrations"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">{"id": "55611589-87f7-4fa8-8d31-2f2fbac432cf", "value": "consecraties"}</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">{"id": "14b3541d-02af-499a-9804-e32dd23cfa2c", "value": "Formal dedications and settings apart by a cleric or other religious dignitary of buildings, plots of land, or objects for ceremonial or religious purposes. For the bestowings of a sacred office upon a person, use \"ordinations.\""}</skos:scopeNote>
+    <skos:inScheme rdf:resource="http://localhost:8000/5d41be1e-4e04-4fc4-a5c4-d7e7cb55f99b"/>
+    <dcterms:identifier xml:lang="en">{"id": "e373eb3f-8d21-4c8e-aecb-1d11e960c0cb", "value": "http://vocab.getty.edu/aat/300069272"}</dcterms:identifier>
+  </skos:Concept>
+</rdf:RDF>

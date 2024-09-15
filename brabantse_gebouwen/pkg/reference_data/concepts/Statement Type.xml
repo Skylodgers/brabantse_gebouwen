@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:Concept rdf:about="http://localhost:8000/08ba5ca4-6c7d-410a-a3de-161c2f177202">
+    <skos:prefLabel xml:lang="nl">{"id": "046053ea-5d6a-4a26-b73b-61a0771ddbf5", "value": "samenvattingen"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">{"id": "d0b8d172-bb98-4367-818b-617825bae748", "value": "Res\u00fcmee"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "8e5885d0-8af8-483f-a220-84d1804934df", "value": "http://vocab.getty.edu/aat/300139067"}</dcterms:identifier>
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/b665a7a2-d0cd-407d-b793-ad7b7ced9868">
+        <dcterms:title xml:lang="en">{"id": "0036df22-81fb-4e0d-a42f-eaee17d5ec09", "value": "Statement Type"}</dcterms:title>
+        <dcterms:identifier xml:lang="en">{"id": "c10023fb-beb1-48e9-8b25-ee773a18ed04", "value": "http://localhost:8000/b665a7a2-d0cd-407d-b793-ad7b7ced9868"}</dcterms:identifier>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/08ba5ca4-6c7d-410a-a3de-161c2f177202"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/d7421674-b9ff-4e3c-a70e-91037bc55fdb"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/5a2556fa-409d-4966-9c44-ce648578b649"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+    <skos:prefLabel xml:lang="en">{"id": "463c24f2-8487-4d50-8be3-fe7548a070ee", "value": "summaries"}</skos:prefLabel>
+    <skos:scopeNote xml:lang="de">{"id": "6e562874-a3f7-41ec-9f3a-d64e8608e1f0", "value": "Kurze Darstellung der wesentlichen Punkte eines l\u00e4ngeren Dokuments."}</skos:scopeNote>
+    <skos:scopeNote xml:lang="en">{"id": "9ac2750a-c7bf-4e24-9857-c3cc224131f4", "value": "Brief statements condensing substansive points in a longer document. "}</skos:scopeNote>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/5a2556fa-409d-4966-9c44-ce648578b649">
+    <skos:inScheme rdf:resource="http://localhost:8000/b665a7a2-d0cd-407d-b793-ad7b7ced9868"/>
+    <skos:prefLabel xml:lang="en">{"id": "f19edf07-67e6-4601-84ec-7053ff068c07", "value": "descriptive note"}</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">{"id": "bdd81899-2356-4d62-ad0f-af689f83c2b0", "value": "A textual description of the work or other entity, including a discussion of issues related to it. "}</skos:scopeNote>
+    <dcterms:identifier xml:lang="en">{"id": "07069df5-5b06-45b3-8f0c-3a907c2b7c11", "value": "http://vocab.getty.edu/aat/300435416"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/d7421674-b9ff-4e3c-a70e-91037bc55fdb">
+    <dcterms:identifier xml:lang="en">{"id": "56dd5f96-9b67-4c67-8812-7d45de48a711", "value": "http://vocab.getty.edu/aat/300435415"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "42919ede-2359-44f0-ac1a-30f5f3264919", "value": "remarks"}</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">{"id": "091b0701-689c-4729-a813-5e1a8e24fcb6", "value": "Miscellaneous notes or comments pertinent to information in a record."}</skos:scopeNote>
+    <skos:inScheme rdf:resource="http://localhost:8000/b665a7a2-d0cd-407d-b793-ad7b7ced9868"/>
+  </skos:Concept>
+</rdf:RDF>

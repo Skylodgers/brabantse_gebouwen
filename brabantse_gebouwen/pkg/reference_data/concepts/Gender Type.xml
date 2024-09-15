@@ -1,40 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
   xmlns:dcterms="http://purl.org/dc/terms/"
-  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 >
-  <skos:ConceptScheme rdf:about="http://localhost:8000/cce058aa-1d2c-419f-bfe0-33d0a38b1446">
-    <skos:hasTopConcept>
-      <skos:Concept rdf:about="http://localhost:8000/468bbd39-e473-4ad9-be98-81017855a5db">
-        <skos:prefLabel xml:lang="en">{"id": "679df64e-93f6-455b-a076-2782f2439df4", "value": "Not documented"}</skos:prefLabel>
-        <skos:inScheme rdf:resource="http://localhost:8000/cce058aa-1d2c-419f-bfe0-33d0a38b1446"/>
-      </skos:Concept>
-    </skos:hasTopConcept>
-    <skos:hasTopConcept>
-      <skos:Concept rdf:about="http://localhost:8000/9b12bf5e-cc30-4d5c-bb67-e0a2a87eb8de">
-        <skos:inScheme rdf:resource="http://localhost:8000/cce058aa-1d2c-419f-bfe0-33d0a38b1446"/>
-        <skos:prefLabel xml:lang="en">{"id": "9c2a76b1-43b2-47a9-939e-18421f007082", "value": "Unknown (yet)"}</skos:prefLabel>
-      </skos:Concept>
-    </skos:hasTopConcept>
-    <skos:hasTopConcept>
-      <skos:Concept rdf:about="http://localhost:8000/561b044a-bde2-4248-9f94-4eb36afe2ef6">
-        <skos:prefLabel xml:lang="en">{"id": "754f14b3-5dd4-43d2-b98b-4f83a128cf5f", "value": "Female"}</skos:prefLabel>
-        <skos:inScheme rdf:resource="http://localhost:8000/cce058aa-1d2c-419f-bfe0-33d0a38b1446"/>
-      </skos:Concept>
-    </skos:hasTopConcept>
-    <dcterms:title xml:lang="en">{"id": "35aa1745-65d8-4511-a677-0ca4eb1c7cc5", "value": "Gender Type"}</dcterms:title>
-    <skos:hasTopConcept>
-      <skos:Concept rdf:about="http://localhost:8000/327a6f99-fa61-44c7-974d-4c582efe589f">
-        <skos:inScheme rdf:resource="http://localhost:8000/cce058aa-1d2c-419f-bfe0-33d0a38b1446"/>
-        <skos:prefLabel xml:lang="en">{"id": "5737df2e-f5f1-4f44-b117-82bdb8d44de0", "value": "Male"}</skos:prefLabel>
-      </skos:Concept>
-    </skos:hasTopConcept>
-    <skos:hasTopConcept>
-      <skos:Concept rdf:about="http://localhost:8000/b0ded342-2ca5-4802-a9e0-94818eac59b2">
-        <skos:inScheme rdf:resource="http://localhost:8000/cce058aa-1d2c-419f-bfe0-33d0a38b1446"/>
-        <skos:prefLabel xml:lang="en">{"id": "63416f86-6b17-4554-a0be-398c8c879bcf", "value": "Intersex"}</skos:prefLabel>
-      </skos:Concept>
-    </skos:hasTopConcept>
-  </skos:ConceptScheme>
+  <skos:Concept rdf:about="http://localhost:8000/561b044a-bde2-4248-9f94-4eb36afe2ef6">
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/cce058aa-1d2c-419f-bfe0-33d0a38b1446">
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/561b044a-bde2-4248-9f94-4eb36afe2ef6"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/9b12bf5e-cc30-4d5c-bb67-e0a2a87eb8de"/>
+        <dcterms:identifier xml:lang="en">{"id": "40a857a6-e76f-45f5-b335-c44624b19e29", "value": "http://localhost:8000/cce058aa-1d2c-419f-bfe0-33d0a38b1446"}</dcterms:identifier>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/468bbd39-e473-4ad9-be98-81017855a5db"/>
+        <dcterms:title xml:lang="en">{"id": "35aa1745-65d8-4511-a677-0ca4eb1c7cc5", "value": "Gender Type"}</dcterms:title>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/375f296c-b60f-4d25-896e-00faebd76d15"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/327a6f99-fa61-44c7-974d-4c582efe589f"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/b0ded342-2ca5-4802-a9e0-94818eac59b2"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+    <skos:prefLabel xml:lang="en">{"id": "754f14b3-5dd4-43d2-b98b-4f83a128cf5f", "value": "Female"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "38e27c27-53c6-45bc-bce6-57dbd8bb9dbc", "value": "http://localhost:8000/561b044a-bde2-4248-9f94-4eb36afe2ef6"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/b0ded342-2ca5-4802-a9e0-94818eac59b2">
+    <skos:inScheme rdf:resource="http://localhost:8000/cce058aa-1d2c-419f-bfe0-33d0a38b1446"/>
+    <dcterms:identifier xml:lang="en">{"id": "4571c82a-63e9-40c3-aab5-a10f3efde2c8", "value": "http://localhost:8000/b0ded342-2ca5-4802-a9e0-94818eac59b2"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "63416f86-6b17-4554-a0be-398c8c879bcf", "value": "Intersex"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/327a6f99-fa61-44c7-974d-4c582efe589f">
+    <dcterms:identifier xml:lang="en">{"id": "269829fe-2eee-49c9-a556-4794044338f0", "value": "http://localhost:8000/327a6f99-fa61-44c7-974d-4c582efe589f"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "5737df2e-f5f1-4f44-b117-82bdb8d44de0", "value": "Male"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/cce058aa-1d2c-419f-bfe0-33d0a38b1446"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/375f296c-b60f-4d25-896e-00faebd76d15">
+    <skos:inScheme rdf:resource="http://localhost:8000/cce058aa-1d2c-419f-bfe0-33d0a38b1446"/>
+    <skos:prefLabel xml:lang="en">{"id": "4b86307b-bf74-4ee9-a002-2649fae8eb6e", "value": "Non-binary"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/9b12bf5e-cc30-4d5c-bb67-e0a2a87eb8de">
+    <skos:inScheme rdf:resource="http://localhost:8000/cce058aa-1d2c-419f-bfe0-33d0a38b1446"/>
+    <dcterms:identifier xml:lang="en">{"id": "2560abeb-620b-49bb-a21d-1343308f09e5", "value": "http://localhost:8000/9b12bf5e-cc30-4d5c-bb67-e0a2a87eb8de"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "9c2a76b1-43b2-47a9-939e-18421f007082", "value": "Unknown (yet)"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/468bbd39-e473-4ad9-be98-81017855a5db">
+    <dcterms:identifier xml:lang="en">{"id": "f1e883ae-8a63-4547-b65a-b9591e787f28", "value": "http://localhost:8000/468bbd39-e473-4ad9-be98-81017855a5db"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "679df64e-93f6-455b-a076-2782f2439df4", "value": "Not documented"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/cce058aa-1d2c-419f-bfe0-33d0a38b1446"/>
+  </skos:Concept>
 </rdf:RDF>

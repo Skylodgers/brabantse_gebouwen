@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+>
+  <skos:Concept rdf:about="http://localhost:8000/fc616e5c-3354-43c2-9c06-9e781523f100">
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/a021e879-c596-4437-96d2-71e6554ede9f">
+        <dcterms:title xml:lang="en">{"id": "15b1caa7-c837-430e-ac1a-750bb6615da9", "value": "Place Role Type"}</dcterms:title>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/70ec13da-ed5b-42e7-b9df-2e418b729c2f"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+    <skos:prefLabel xml:lang="en">{"id": "a4b6f9a4-d98b-4753-8f22-8a64ae63d716", "value": "formation place"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/c511496c-87b4-49dc-ae20-99d962da4955">
+    <skos:inScheme rdf:resource="http://localhost:8000/a021e879-c596-4437-96d2-71e6554ede9f"/>
+    <skos:prefLabel xml:lang="en">{"id": "001a4b9a-c040-446f-8fcb-9b95df3bb807", "value": "dissolution place"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/70ec13da-ed5b-42e7-b9df-2e418b729c2f">
+    <skos:inScheme rdf:resource="http://localhost:8000/a021e879-c596-4437-96d2-71e6554ede9f"/>
+    <skos:prefLabel xml:lang="en">{"id": "c493a2a8-f9f4-4e71-9309-c6e799a7d236", "value": "Organisation"}</skos:prefLabel>
+    <skos:narrower rdf:resource="http://localhost:8000/fc616e5c-3354-43c2-9c06-9e781523f100"/>
+    <skos:narrower rdf:resource="http://localhost:8000/c511496c-87b4-49dc-ae20-99d962da4955"/>
+  </skos:Concept>
+</rdf:RDF>

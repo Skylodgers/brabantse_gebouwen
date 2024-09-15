@@ -2248,16 +2248,16 @@
                     "config": {
                         "descriptor_types": {
                             "description": {
-                                "nodegroup_id": "",
-                                "string_template": ""
+                                "nodegroup_id": "5c6506a4-7299-11ef-a972-96a6d2455259",
+                                "string_template": "<name_content>"
                             },
                             "map_popup": {
                                 "nodegroup_id": "",
                                 "string_template": ""
                             },
                             "name": {
-                                "nodegroup_id": "cd03aa60-c970-11ed-9e22-96a6d245525a",
-                                "string_template": "<Organisation Name>"
+                                "nodegroup_id": "6f358744-7290-11ef-a972-96a6d2455259",
+                                "string_template": "<identifier_content>"
                             }
                         },
                         "triggering_nodegroups": []
@@ -4593,7 +4593,7 @@
     ],
     "metadata": {
         "db": "PostgreSQL 15.8 (Postgres.app) on aarch64-apple-darwin21.6.0, compiled by Apple clang version 14.0.0 (clang-1400.0.29.102), 64-bit",
-        "git hash": "c03827e9 2024-09-15 17:26:04 +0200",
+        "git hash": "0fa1ba5b 2024-09-15 17:31:52 +0200",
         "os": "Darwin",
         "os version": "23.6.0"
     }

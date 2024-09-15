@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+>
+  <skos:Concept rdf:about="http://localhost:8000/3bb1a4bf-fbf7-4c95-9f72-26de6515fd91">
+    <skos:prefLabel xml:lang="en">{"id": "cfa8a878-9e9d-4924-b0b5-38101ecd7901", "value": "Dutch"}</skos:prefLabel>
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/72b83426-52da-441d-807a-e948a764989d">
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/3bb1a4bf-fbf7-4c95-9f72-26de6515fd91"/>
+        <dcterms:title xml:lang="en">{"id": "d9e5a0cc-f43c-44f7-a33d-3d76d7d8a975", "value": "Nationality Type"}</dcterms:title>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+  </skos:Concept>
+</rdf:RDF>

@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
-  xmlns:dcterms="http://purl.org/dc/terms/"
-  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
 >
-  <skos:ConceptScheme rdf:about="http://localhost:8000/0eb0d1b9-c6f2-4285-a313-9a9ee834474e">
-    <skos:hasTopConcept>
-      <skos:Concept rdf:about="http://localhost:8000/9a7d9fe5-a982-47c4-8f6a-f8f5cbb65578">
-        <dcterms:identifier xml:lang="en">{"id": "cc4db6c6-3736-44c1-aef3-21d143a7c086", "value": "http://localhost:8000/9a7d9fe5-a982-47c4-8f6a-f8f5cbb65578"}</dcterms:identifier>
-        <skos:inScheme rdf:resource="http://localhost:8000/0eb0d1b9-c6f2-4285-a313-9a9ee834474e"/>
-        <skos:prefLabel xml:lang="en">{"id": "5450f2d3-4a04-4cdf-890e-2d962fee1d17", "value": "Preferred name"}</skos:prefLabel>
-      </skos:Concept>
-    </skos:hasTopConcept>
-    <dcterms:identifier xml:lang="en">{"id": "915c083a-b821-43a3-a287-5511aade9d28", "value": "http://localhost:8000/0eb0d1b9-c6f2-4285-a313-9a9ee834474e"}</dcterms:identifier>
-    <skos:hasTopConcept>
-      <skos:Concept rdf:about="http://localhost:8000/cc8631de-63a0-4197-9f53-00c19efbd34f">
-        <dcterms:identifier xml:lang="en">{"id": "115c91c1-eea5-4aab-af3f-ff051861dab8", "value": "http://localhost:8000/cc8631de-63a0-4197-9f53-00c19efbd34f"}</dcterms:identifier>
-        <skos:inScheme rdf:resource="http://localhost:8000/0eb0d1b9-c6f2-4285-a313-9a9ee834474e"/>
-        <skos:prefLabel xml:lang="en">{"id": "5da3a42d-b892-4fb2-9454-f687e087b28f", "value": "Alternative name"}</skos:prefLabel>
-      </skos:Concept>
-    </skos:hasTopConcept>
-    <dcterms:title xml:lang="en">{"id": "b2ed0862-bdee-4ebc-98cd-1d40f1aab443", "value": "Name Type"}</dcterms:title>
-  </skos:ConceptScheme>
+  <skos:Concept rdf:about="http://localhost:8000/9a7d9fe5-a982-47c4-8f6a-f8f5cbb65578">
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/0eb0d1b9-c6f2-4285-a313-9a9ee834474e">
+        <dcterms:identifier xml:lang="en">{"id": "915c083a-b821-43a3-a287-5511aade9d28", "value": "http://localhost:8000/0eb0d1b9-c6f2-4285-a313-9a9ee834474e"}</dcterms:identifier>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/cc8631de-63a0-4197-9f53-00c19efbd34f"/>
+        <dcterms:title xml:lang="en">{"id": "b2ed0862-bdee-4ebc-98cd-1d40f1aab443", "value": "Name Type"}</dcterms:title>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/9a7d9fe5-a982-47c4-8f6a-f8f5cbb65578"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+    <dcterms:identifier xml:lang="en">{"id": "4c2a2caa-cc1d-4a51-82ef-71f56ba21ec6", "value": "http://gedcomx.org/Primary"}</dcterms:identifier>
+    <dcterms:identifier xml:lang="en">{"id": "cc4db6c6-3736-44c1-aef3-21d143a7c086", "value": "http://localhost:8000/9a7d9fe5-a982-47c4-8f6a-f8f5cbb65578"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "5450f2d3-4a04-4cdf-890e-2d962fee1d17", "value": "Primary"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/cc8631de-63a0-4197-9f53-00c19efbd34f">
+    <skos:prefLabel xml:lang="en">{"id": "5da3a42d-b892-4fb2-9454-f687e087b28f", "value": "Secondary"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/0eb0d1b9-c6f2-4285-a313-9a9ee834474e"/>
+    <dcterms:identifier xml:lang="en">{"id": "0f5dc17a-00a4-43d2-bf8c-4102d8d75101", "value": "http://gedcomx.org/Secondary"}</dcterms:identifier>
+    <dcterms:identifier xml:lang="en">{"id": "115c91c1-eea5-4aab-af3f-ff051861dab8", "value": "http://localhost:8000/cc8631de-63a0-4197-9f53-00c19efbd34f"}</dcterms:identifier>
+  </skos:Concept>
 </rdf:RDF>

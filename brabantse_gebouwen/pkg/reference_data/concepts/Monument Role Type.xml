@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+>
+  <skos:Concept rdf:about="http://localhost:8000/34a6124f-756f-4633-b54b-853f7d2f2f43">
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/fd8e1b8d-2cfb-489e-9f40-4c8a153595a8">
+        <dcterms:title xml:lang="en">{"id": "cc5a921b-e144-4b9b-80de-47e57b6844ea", "value": "Monument Role Type"}</dcterms:title>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/34a6124f-756f-4633-b54b-853f7d2f2f43"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+    <skos:prefLabel xml:lang="en">{"id": "564d507e-d63c-4c1a-8561-5d0fe8e04be0", "value": "Monument Role Type placeholder"}</skos:prefLabel>
+  </skos:Concept>
+</rdf:RDF>
