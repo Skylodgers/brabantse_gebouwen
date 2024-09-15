@@ -146,3 +146,4 @@ DETAIL:  Key (conceptidto)=(23bdf593-4c71-43f7-99d7-ce9eb0c6cdeb) is not present
 2024-09-15 14:50:30,764 arches.app.utils.skos WARNING  insert or update on table "relations" violates foreign key constraint "relations_conceptidto_6fb05b5e_fk_concepts_conceptid"
 DETAIL:  Key (conceptidto)=(2afd9541-65c9-4620-ae30-821258d37f2a) is not present in table "concepts".
 
+2024-09-15 15:26:28,259 arches.app.utils.data_management.resource_graphs.importer WARNING  No ontologies have been loaded. Any GraphModel that depends on an ontology cannot be loaded.
