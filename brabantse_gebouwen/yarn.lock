@@ -3003,9 +3003,9 @@ anymatch@~3.1.2:
   resolved "https://registry.yarnpkg.com/aproba/-/aproba-2.0.0.tgz#52520b8ae5b569215b354efc0caa3fe1e45a8adc"
   integrity sha512-lYe4Gx7QT+MKGbDsA+Z+he/Wtef0BiwDOlK/XkBrdfsh9J/jPPXbX0tE9x9cl27Tmu5gg3QUbUrQYa/y+KOHPQ==
 
-arches-dev-dependencies@archesproject/arches-dev-dependencies#stable/7.5.3:
-  version "7.5.3"
-  resolved "https://codeload.github.com/archesproject/arches-dev-dependencies/tar.gz/5457f3b2fe391c556f0b0b526edb9ac77ef589b4"
+arches-dev-dependencies@archesproject/arches-dev-dependencies#stable/7.5.4:
+  version "7.5.4"
+  resolved "https://codeload.github.com/archesproject/arches-dev-dependencies/tar.gz/9f7f29363de11caa14afe44f5a6415c07a5ebe85"
   dependencies:
     "@babel/core" "^7.16.7"
     "@babel/eslint-parser" "^7.18.2"
@@ -3043,9 +3043,9 @@ arches-dev-dependencies@archesproject/arches-dev-dependencies#stable/7.5.3:
     webpack-dev-server "^4.7.3"
     webpack-merge "^5.8.0"
 
-arches@archesproject/arches#stable/7.5.3:
-  version "7.5.3"
-  resolved "https://codeload.github.com/archesproject/arches/tar.gz/32613b3a43aeee19897c10d26f19ae2a4388fbf8"
+arches@archesproject/arches#stable/7.5.4:
+  version "7.5.4"
+  resolved "https://codeload.github.com/archesproject/arches/tar.gz/e2253433a8c19aea303f3645562a7c7d78e78489"
   dependencies:
     "@babel/runtime" "^7.17.2"
     "@mapbox/geojson-extent" "~1.0.1"
