@@ -1,0 +1,214 @@
+{
+    "graph": [
+        {
+            "author": "",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "74659c68-738a-11ef-921e-96a6d2455259",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": {
+                        "en": ""
+                    },
+                    "graph_id": "74659b32-738a-11ef-921e-96a6d2455259",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "digital_file"
+                    },
+                    "nodegroup_id": "74659bbe-738a-11ef-921e-96a6d2455259",
+                    "sortorder": null,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "74659c68-738a-11ef-921e-96a6d2455259",
+                    "config": {
+                        "acceptedFiles": "",
+                        "defaultValue": [],
+                        "label": "digital_file",
+                        "maxFilesize": "200",
+                        "rerender": true
+                    },
+                    "id": "74659d12-738a-11ef-921e-96a6d2455259",
+                    "label": {
+                        "en": "digital_file"
+                    },
+                    "node_id": "74659bbe-738a-11ef-921e-96a6d2455259",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000019"
+                }
+            ],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "en": ""
+            },
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "74659bbe-738a-11ef-921e-96a6d2455259",
+                    "edgeid": "7465b31a-738a-11ef-921e-96a6d2455259",
+                    "graph_id": "74659b32-738a-11ef-921e-96a6d2455259",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "rangenode_id": "74659ccc-738a-11ef-921e-96a6d2455259"
+                }
+            ],
+            "functions_x_graphs": [],
+            "graphid": "74659b32-738a-11ef-921e-96a6d2455259",
+            "iconclass": "fa fa-paperclip",
+            "is_editable": true,
+            "isresource": false,
+            "jsonldcontext": null,
+            "name": {
+                "en": "digital_file"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "46c43cee-72b1-11ef-a972-96a6d2455259",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "4f23f996-72b2-11ef-a972-96a6d2455259",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "76f4a214-72b1-11ef-a972-96a6d2455259",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "a3895554-72b1-11ef-a972-96a6d2455259",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "acbb3f02-72b1-11ef-a972-96a6d2455259",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "fff74d6e-72b1-11ef-a972-96a6d2455259",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "digital_file",
+                    "config": {
+                        "activateMax": false,
+                        "imagesOnly": false,
+                        "maxFileSize": null,
+                        "maxFiles": 1
+                    },
+                    "datatype": "file-list",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "74659b32-738a-11ef-921e-96a6d2455259",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "digital_file",
+                    "nodegroup_id": "74659bbe-738a-11ef-921e-96a6d2455259",
+                    "nodeid": "74659bbe-738a-11ef-921e-96a6d2455259",
+                    "ontologyclass": "http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object",
+                    "parentproperty": "",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "digital_file_type",
+                    "config": {
+                        "rdmCollection": "ba010b1e-7bb0-493e-beb6-29209b6987d6"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "74659b32-738a-11ef-921e-96a6d2455259",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "digital_file_type",
+                    "nodegroup_id": "74659bbe-738a-11ef-921e-96a6d2455259",
+                    "nodeid": "74659ccc-738a-11ef-921e-96a6d2455259",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                }
+            ],
+            "ontology_id": "0b1f5462-faa7-11e9-8f09-3af9d3b32b71",
+            "publication": {
+                "graph_id": "74659b32-738a-11ef-921e-96a6d2455259",
+                "notes": null,
+                "publicationid": "7496b17c-738a-11ef-921e-96a6d2455259",
+                "published_time": "2024-09-15T12:46:37.048"
+            },
+            "relatable_resource_model_ids": [],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": "digital_file",
+                "config": {
+                    "activateMax": false,
+                    "imagesOnly": false,
+                    "maxFileSize": null,
+                    "maxFiles": 1
+                },
+                "datatype": "file-list",
+                "description": null,
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "74659b32-738a-11ef-921e-96a6d2455259",
+                "hascustomalias": false,
+                "is_collector": true,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "digital_file",
+                "nodegroup_id": "74659bbe-738a-11ef-921e-96a6d2455259",
+                "nodeid": "74659bbe-738a-11ef-921e-96a6d2455259",
+                "ontologyclass": "http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object",
+                "sortorder": 0,
+                "sourcebranchpublication_id": null
+            },
+            "slug": null,
+            "subtitle": {
+                "en": ""
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ]
+}

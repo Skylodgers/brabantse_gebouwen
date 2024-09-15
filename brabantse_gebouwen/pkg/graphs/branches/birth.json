@@ -1,0 +1,342 @@
+{
+    "graph": [
+        {
+            "author": "",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "b45f232e-6e2c-11ef-b245-96a6d2455259",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": {
+                        "en": ""
+                    },
+                    "graph_id": "b45f214e-6e2c-11ef-b245-96a6d2455259",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "birth"
+                    },
+                    "nodegroup_id": "b45f222a-6e2c-11ef-b245-96a6d2455259",
+                    "sortorder": null,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "en": ""
+            },
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "b45f222a-6e2c-11ef-b245-96a6d2455259",
+                    "edgeid": "b45f2914-6e2c-11ef-b245-96a6d2455259",
+                    "graph_id": "b45f214e-6e2c-11ef-b245-96a6d2455259",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at",
+                    "rangenode_id": "b45f2496-6e2c-11ef-b245-96a6d2455259"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "b45f222a-6e2c-11ef-b245-96a6d2455259",
+                    "edgeid": "b45f298c-6e2c-11ef-b245-96a6d2455259",
+                    "graph_id": "b45f214e-6e2c-11ef-b245-96a6d2455259",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by",
+                    "rangenode_id": "b45f23ba-6e2c-11ef-b245-96a6d2455259"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "b45f222a-6e2c-11ef-b245-96a6d2455259",
+                    "edgeid": "b45f29f0-6e2c-11ef-b245-96a6d2455259",
+                    "graph_id": "b45f214e-6e2c-11ef-b245-96a6d2455259",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span",
+                    "rangenode_id": "b45f2540-6e2c-11ef-b245-96a6d2455259"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "b45f23ba-6e2c-11ef-b245-96a6d2455259",
+                    "edgeid": "b45f2a54-6e2c-11ef-b245-96a6d2455259",
+                    "graph_id": "b45f214e-6e2c-11ef-b245-96a6d2455259",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
+                    "rangenode_id": "b45f243c-6e2c-11ef-b245-96a6d2455259"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "b45f2540-6e2c-11ef-b245-96a6d2455259",
+                    "edgeid": "b45f2aae-6e2c-11ef-b245-96a6d2455259",
+                    "graph_id": "b45f214e-6e2c-11ef-b245-96a6d2455259",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin",
+                    "rangenode_id": "b45f24f0-6e2c-11ef-b245-96a6d2455259"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "b45f2540-6e2c-11ef-b245-96a6d2455259",
+                    "edgeid": "b45f2b12-6e2c-11ef-b245-96a6d2455259",
+                    "graph_id": "b45f214e-6e2c-11ef-b245-96a6d2455259",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end",
+                    "rangenode_id": "b45f259a-6e2c-11ef-b245-96a6d2455259"
+                }
+            ],
+            "functions_x_graphs": [],
+            "graphid": "b45f214e-6e2c-11ef-b245-96a6d2455259",
+            "iconclass": "fa fa-user",
+            "is_editable": true,
+            "isresource": false,
+            "jsonldcontext": null,
+            "name": {
+                "en": "birth"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "b45f222a-6e2c-11ef-b245-96a6d2455259",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "death",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b45f214e-6e2c-11ef-b245-96a6d2455259",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "birth",
+                    "nodegroup_id": "b45f222a-6e2c-11ef-b245-96a6d2455259",
+                    "nodeid": "b45f222a-6e2c-11ef-b245-96a6d2455259",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E69_Death",
+                    "parentproperty": "",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "death_statement",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b45f214e-6e2c-11ef-b245-96a6d2455259",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "death_statement",
+                    "nodegroup_id": "b45f222a-6e2c-11ef-b245-96a6d2455259",
+                    "nodeid": "b45f23ba-6e2c-11ef-b245-96a6d2455259",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "death_statement_content",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b45f214e-6e2c-11ef-b245-96a6d2455259",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "death_statement_content",
+                    "nodegroup_id": "b45f222a-6e2c-11ef-b245-96a6d2455259",
+                    "nodeid": "b45f243c-6e2c-11ef-b245-96a6d2455259",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "death_location",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "f6e89030-b4b4-11ea-84f7-3af9d3b32b71",
+                                "inverseRelationshipConcept": "ac41d9be-79db-4256-b368-2f4559cfbe55",
+                                "name": "Place",
+                                "relationshipCollection": "00000000-0000-0000-0000-000000000005",
+                                "relationshipConcept": "ac41d9be-79db-4256-b368-2f4559cfbe55",
+                                "useOntologyRelationship": false
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b45f214e-6e2c-11ef-b245-96a6d2455259",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "death_location",
+                    "nodegroup_id": "b45f222a-6e2c-11ef-b245-96a6d2455259",
+                    "nodeid": "b45f2496-6e2c-11ef-b245-96a6d2455259",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E53_Place",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "death_timespan_begin_of_the_begin",
+                    "config": {
+                        "fuzzy_day_padding": 1,
+                        "fuzzy_month_padding": 1,
+                        "fuzzy_season_padding": 12,
+                        "fuzzy_year_padding": 1,
+                        "multiplier_if_approximate": 1,
+                        "multiplier_if_both": 1,
+                        "multiplier_if_uncertain": 1
+                    },
+                    "datatype": "edtf",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b45f214e-6e2c-11ef-b245-96a6d2455259",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "death_timespan_begin_of_the_begin",
+                    "nodegroup_id": "b45f222a-6e2c-11ef-b245-96a6d2455259",
+                    "nodeid": "b45f24f0-6e2c-11ef-b245-96a6d2455259",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "death_timespan",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b45f214e-6e2c-11ef-b245-96a6d2455259",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "death_timespan",
+                    "nodegroup_id": "b45f222a-6e2c-11ef-b245-96a6d2455259",
+                    "nodeid": "b45f2540-6e2c-11ef-b245-96a6d2455259",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "death_timespan_end_of_the_end",
+                    "config": {
+                        "fuzzy_day_padding": 1,
+                        "fuzzy_month_padding": 1,
+                        "fuzzy_season_padding": 12,
+                        "fuzzy_year_padding": 1,
+                        "multiplier_if_approximate": 1,
+                        "multiplier_if_both": 1,
+                        "multiplier_if_uncertain": 1
+                    },
+                    "datatype": "edtf",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "b45f214e-6e2c-11ef-b245-96a6d2455259",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "death_timespan_end_of_the_end",
+                    "nodegroup_id": "b45f222a-6e2c-11ef-b245-96a6d2455259",
+                    "nodeid": "b45f259a-6e2c-11ef-b245-96a6d2455259",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                }
+            ],
+            "ontology_id": "0b1f5462-faa7-11e9-8f09-3af9d3b32b71",
+            "publication": {
+                "graph_id": "b45f214e-6e2c-11ef-b245-96a6d2455259",
+                "notes": null,
+                "publicationid": "dd41218e-6e2c-11ef-b245-96a6d2455259",
+                "published_time": "2024-09-08T16:54:04.142"
+            },
+            "relatable_resource_model_ids": [],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": "death",
+                "config": {
+                    "en": ""
+                },
+                "datatype": "semantic",
+                "description": null,
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "b45f214e-6e2c-11ef-b245-96a6d2455259",
+                "hascustomalias": false,
+                "is_collector": true,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "birth",
+                "nodegroup_id": "b45f222a-6e2c-11ef-b245-96a6d2455259",
+                "nodeid": "b45f222a-6e2c-11ef-b245-96a6d2455259",
+                "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E69_Death",
+                "sortorder": 0,
+                "sourcebranchpublication_id": null
+            },
+            "slug": null,
+            "subtitle": {
+                "en": ""
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ]
+}

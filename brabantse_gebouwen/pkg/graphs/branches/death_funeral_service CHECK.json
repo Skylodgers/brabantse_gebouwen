@@ -1,0 +1,317 @@
+{
+    "graph": [
+        {
+            "author": "",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "8b27dab2-6e33-11ef-b245-96a6d2455259",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": {
+                        "en": ""
+                    },
+                    "graph_id": "8b27d76a-6e33-11ef-b245-96a6d2455259",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": null
+                    },
+                    "helptitle": {
+                        "en": null
+                    },
+                    "instructions": {
+                        "en": null
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "death_funeral_service CHECK"
+                    },
+                    "nodegroup_id": "8b27d95e-6e33-11ef-b245-96a6d2455259",
+                    "sortorder": null,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [],
+            "color": null,
+            "config": {},
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "en": ""
+            },
+            "edges": [
+                {
+                    "description": null,
+                    "domainnode_id": "8b27d95e-6e33-11ef-b245-96a6d2455259",
+                    "edgeid": "8b27e19c-6e33-11ef-b245-96a6d2455259",
+                    "graph_id": "8b27d76a-6e33-11ef-b245-96a6d2455259",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span",
+                    "rangenode_id": "8b27db70-6e33-11ef-b245-96a6d2455259"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "8b27db70-6e33-11ef-b245-96a6d2455259",
+                    "edgeid": "8b27e25a-6e33-11ef-b245-96a6d2455259",
+                    "graph_id": "8b27d76a-6e33-11ef-b245-96a6d2455259",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin",
+                    "rangenode_id": "8b27dc2e-6e33-11ef-b245-96a6d2455259"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "8b27db70-6e33-11ef-b245-96a6d2455259",
+                    "edgeid": "8b27e2e6-6e33-11ef-b245-96a6d2455259",
+                    "graph_id": "8b27d76a-6e33-11ef-b245-96a6d2455259",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end",
+                    "rangenode_id": "8b27dcb0-6e33-11ef-b245-96a6d2455259"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "8b27d95e-6e33-11ef-b245-96a6d2455259",
+                    "edgeid": "8b27e35e-6e33-11ef-b245-96a6d2455259",
+                    "graph_id": "8b27d76a-6e33-11ef-b245-96a6d2455259",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at",
+                    "rangenode_id": "8b27dd28-6e33-11ef-b245-96a6d2455259"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "8b27d95e-6e33-11ef-b245-96a6d2455259",
+                    "edgeid": "8b27e3e0-6e33-11ef-b245-96a6d2455259",
+                    "graph_id": "8b27d76a-6e33-11ef-b245-96a6d2455259",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P8_took_place_on_or_within",
+                    "rangenode_id": "8b27dda0-6e33-11ef-b245-96a6d2455259"
+                }
+            ],
+            "functions_x_graphs": [],
+            "graphid": "8b27d76a-6e33-11ef-b245-96a6d2455259",
+            "iconclass": "fa fa-user",
+            "is_editable": true,
+            "isresource": false,
+            "jsonldcontext": null,
+            "name": {
+                "en": "death_funeral_service CHECK"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "8b27d95e-6e33-11ef-b245-96a6d2455259",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "death_funeral_service_check",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "8b27d76a-6e33-11ef-b245-96a6d2455259",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "death_funeral_service CHECK",
+                    "nodegroup_id": "8b27d95e-6e33-11ef-b245-96a6d2455259",
+                    "nodeid": "8b27d95e-6e33-11ef-b245-96a6d2455259",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E7_Activity",
+                    "parentproperty": "",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "death_funeral_service_time_span",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "semantic",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "8b27d76a-6e33-11ef-b245-96a6d2455259",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "death_funeral_service_time_span",
+                    "nodegroup_id": "8b27d95e-6e33-11ef-b245-96a6d2455259",
+                    "nodeid": "8b27db70-6e33-11ef-b245-96a6d2455259",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "death_funeral_service_time_span_start",
+                    "config": {
+                        "fuzzy_day_padding": 1,
+                        "fuzzy_month_padding": 1,
+                        "fuzzy_season_padding": 12,
+                        "fuzzy_year_padding": 1,
+                        "multiplier_if_approximate": 1,
+                        "multiplier_if_both": 1,
+                        "multiplier_if_uncertain": 1
+                    },
+                    "datatype": "edtf",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "8b27d76a-6e33-11ef-b245-96a6d2455259",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "death_funeral_service_time_span_start",
+                    "nodegroup_id": "8b27d95e-6e33-11ef-b245-96a6d2455259",
+                    "nodeid": "8b27dc2e-6e33-11ef-b245-96a6d2455259",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "death_funeral_service_time_span_end",
+                    "config": {
+                        "fuzzy_day_padding": 1,
+                        "fuzzy_month_padding": 1,
+                        "fuzzy_season_padding": 12,
+                        "fuzzy_year_padding": 1,
+                        "multiplier_if_approximate": 1,
+                        "multiplier_if_both": 1,
+                        "multiplier_if_uncertain": 1
+                    },
+                    "datatype": "edtf",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "8b27d76a-6e33-11ef-b245-96a6d2455259",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "death_funeral_service_time_span_end",
+                    "nodegroup_id": "8b27d95e-6e33-11ef-b245-96a6d2455259",
+                    "nodeid": "8b27dcb0-6e33-11ef-b245-96a6d2455259",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "death_funeral_service_location",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "f6e89030-b4b4-11ea-84f7-3af9d3b32b71",
+                                "inverseRelationshipConcept": "ac41d9be-79db-4256-b368-2f4559cfbe55",
+                                "name": "Place",
+                                "relationshipCollection": "00000000-0000-0000-0000-000000000005",
+                                "relationshipConcept": "ac41d9be-79db-4256-b368-2f4559cfbe55",
+                                "useOntologyRelationship": false
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "8b27d76a-6e33-11ef-b245-96a6d2455259",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "death_funeral_service_location",
+                    "nodegroup_id": "8b27d95e-6e33-11ef-b245-96a6d2455259",
+                    "nodeid": "8b27dd28-6e33-11ef-b245-96a6d2455259",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E53_Place",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "death_funeral_service_building",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "9a944b24-a1fd-11ed-a102-9cf387da2c40",
+                                "name": "Monument"
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "8b27d76a-6e33-11ef-b245-96a6d2455259",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "death_funeral_service_building",
+                    "nodegroup_id": "8b27d95e-6e33-11ef-b245-96a6d2455259",
+                    "nodeid": "8b27dda0-6e33-11ef-b245-96a6d2455259",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E22_Human-Made_Object",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P8_took_place_on_or_within",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                }
+            ],
+            "ontology_id": "0b1f5462-faa7-11e9-8f09-3af9d3b32b71",
+            "publication": {
+                "graph_id": "8b27d76a-6e33-11ef-b245-96a6d2455259",
+                "notes": null,
+                "publicationid": "8efe272c-6e33-11ef-b245-96a6d2455259",
+                "published_time": "2024-09-08T17:41:59.318"
+            },
+            "relatable_resource_model_ids": [],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": "death_funeral_service_check",
+                "config": {
+                    "en": ""
+                },
+                "datatype": "semantic",
+                "description": null,
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "8b27d76a-6e33-11ef-b245-96a6d2455259",
+                "hascustomalias": false,
+                "is_collector": true,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "death_funeral_service CHECK",
+                "nodegroup_id": "8b27d95e-6e33-11ef-b245-96a6d2455259",
+                "nodeid": "8b27d95e-6e33-11ef-b245-96a6d2455259",
+                "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E7_Activity",
+                "sortorder": 0,
+                "sourcebranchpublication_id": null
+            },
+            "slug": null,
+            "subtitle": {
+                "en": ""
+            },
+            "template_id": "50000000-0000-0000-0000-000000000001",
+            "version": ""
+        }
+    ]
+}

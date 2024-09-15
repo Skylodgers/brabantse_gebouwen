@@ -1,0 +1,315 @@
+{
+    "graph": [
+        {
+            "author": "",
+            "cards": [
+                {
+                    "active": true,
+                    "cardid": "d34bee6a-7391-11ef-921e-96a6d2455259",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": "skipfirst",
+                    "description": {
+                        "en": ""
+                    },
+                    "graph_id": "d34bed0c-7391-11ef-921e-96a6d2455259",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "coordinates_geo_json"
+                    },
+                    "nodegroup_id": "d34bedb6-7391-11ef-921e-96a6d2455259",
+                    "sortorder": 8,
+                    "visible": true
+                }
+            ],
+            "cards_x_nodes_x_widgets": [
+                {
+                    "card_id": "d34bee6a-7391-11ef-921e-96a6d2455259",
+                    "config": {
+                        "basemap": "streets",
+                        "bearing": null,
+                        "centerX": 3,
+                        "centerY": 8.5,
+                        "defaultValue": null,
+                        "defaultValueType": null,
+                        "featureColor": "#FF0000",
+                        "featureLineWidth": 1,
+                        "featurePointSize": 3,
+                        "geocodePlaceholder": "Search",
+                        "geocodeProvider": "10000000-0000-0000-0000-010000000000",
+                        "geocoderVisible": true,
+                        "geometryTypes": [
+                            {
+                                "id": "Point",
+                                "text": "Point"
+                            },
+                            {
+                                "id": "Line",
+                                "text": "Line"
+                            },
+                            {
+                                "id": "Polygon",
+                                "text": "Polygon"
+                            }
+                        ],
+                        "label": "GeoJSON",
+                        "maxZoom": 20,
+                        "minZoom": null,
+                        "overlayConfigs": [],
+                        "overlayOpacity": null,
+                        "pitch": null,
+                        "rerender": true,
+                        "zoom": null
+                    },
+                    "id": "d34beea6-7391-11ef-921e-96a6d2455259",
+                    "label": {
+                        "en": "GeoJSON"
+                    },
+                    "node_id": "d34bedb6-7391-11ef-921e-96a6d2455259",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000007"
+                }
+            ],
+            "color": "rgb(148,204,125)",
+            "config": {
+                "basemap": "streets",
+                "bearing": 0,
+                "centerX": -122.3979693,
+                "centerY": 37.79,
+                "featureColor": "#FF0000",
+                "featureEditingDisabled": true,
+                "featureLineWidth": 1,
+                "featurePointSize": 3,
+                "geocodePlaceholder": "Search",
+                "geocodeProvider": "10000000-0000-0000-0000-010000000000",
+                "geocoderVisible": true,
+                "geometryTypes": [
+                    {
+                        "id": "Point",
+                        "text": "Point"
+                    },
+                    {
+                        "id": "Line",
+                        "text": "Line"
+                    },
+                    {
+                        "id": "Polygon",
+                        "text": "Polygon"
+                    }
+                ],
+                "mapControlsHidden": false,
+                "maxZoom": 20,
+                "minZoom": 0,
+                "overlayConfigs": [],
+                "overlayOpacity": 0,
+                "pitch": 0,
+                "zoom": 10
+            },
+            "deploymentdate": null,
+            "deploymentfile": null,
+            "description": {
+                "en": ""
+            },
+            "edges": [],
+            "functions_x_graphs": [],
+            "graphid": "d34bed0c-7391-11ef-921e-96a6d2455259",
+            "iconclass": "fa fa-map-marker",
+            "is_editable": true,
+            "isresource": false,
+            "jsonldcontext": "",
+            "name": {
+                "en": "coordinates_geo_json"
+            },
+            "nodegroups": [
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "1f1a1196-72a7-11ef-a972-96a6d2455259",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "21c5af38-72af-11ef-a972-96a6d2455259",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "436ccb80-2a5f-11ec-b195-0a9473e82189",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "48c25566-bb14-11ea-85a6-3af9d3b32b71",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "53e2b514-72a6-11ef-a972-96a6d2455259",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "5f00c6df-0650-11ee-8f04-cd21e680a247",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "64556d86-bb14-11ea-85a6-3af9d3b32b71",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "76b8dfa4-bb13-11ea-85a6-3af9d3b32b71",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "8a740bf0-72a6-11ef-a972-96a6d2455259",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "d3f735ac-72ad-11ef-a972-96a6d2455259",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "d5c46d60-48b4-11ee-8a8d-11afefc4bff7",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "f690163a-72a6-11ef-a972-96a6d2455259",
+                    "parentnodegroup_id": null
+                }
+            ],
+            "nodes": [
+                {
+                    "alias": "coordinates_geo_json",
+                    "config": {
+                        "addToMap": false,
+                        "advancedStyle": "",
+                        "advancedStyling": false,
+                        "clusterDistance": 20,
+                        "clusterMaxZoom": 5,
+                        "clusterMinPoints": 3,
+                        "fillColor": "rgba(130, 130, 130, 0.5)",
+                        "haloRadius": 4,
+                        "haloWeight": 4,
+                        "layerActivated": true,
+                        "layerIcon": "",
+                        "layerLegend": "",
+                        "layerName": "",
+                        "lineColor": "rgba(130, 130, 130, 0.7)",
+                        "lineHaloColor": "rgba(200, 200, 200, 0.5)",
+                        "outlineColor": "rgba(200, 200, 200, 0.7)",
+                        "outlineWeight": 2,
+                        "pointColor": "rgba(130, 130, 130, 0.7)",
+                        "pointHaloColor": "rgba(200, 200, 200, 0.5)",
+                        "radius": 2,
+                        "simplification": 0.3,
+                        "weight": 2
+                    },
+                    "datatype": "geojson-feature-collection",
+                    "description": "* Collection_id: \n* Field_id: PIRM.54_LAF.30_coordinates_geo_json\n* Category_id: CAT.5_Location",
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "d34bed0c-7391-11ef-921e-96a6d2455259",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": true,
+                    "name": "coordinates_geo_json",
+                    "nodegroup_id": "d34bedb6-7391-11ef-921e-96a6d2455259",
+                    "nodeid": "d34bedb6-7391-11ef-921e-96a6d2455259",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "",
+                    "sortorder": 3,
+                    "sourcebranchpublication_id": null
+                }
+            ],
+            "ontology_id": "0b1f5462-faa7-11e9-8f09-3af9d3b32b71",
+            "publication": {
+                "graph_id": "d34bed0c-7391-11ef-921e-96a6d2455259",
+                "notes": null,
+                "publicationid": "d36a993c-7391-11ef-921e-96a6d2455259",
+                "published_time": "2024-09-15T13:39:22.620"
+            },
+            "relatable_resource_model_ids": [],
+            "resource_2_resource_constraints": [],
+            "root": {
+                "alias": "coordinates_geo_json",
+                "config": {
+                    "addToMap": false,
+                    "advancedStyle": "",
+                    "advancedStyling": false,
+                    "clusterDistance": 20,
+                    "clusterMaxZoom": 5,
+                    "clusterMinPoints": 3,
+                    "fillColor": "rgba(130, 130, 130, 0.5)",
+                    "haloRadius": 4,
+                    "haloWeight": 4,
+                    "layerActivated": true,
+                    "layerIcon": "",
+                    "layerLegend": "",
+                    "layerName": "",
+                    "lineColor": "rgba(130, 130, 130, 0.7)",
+                    "lineHaloColor": "rgba(200, 200, 200, 0.5)",
+                    "outlineColor": "rgba(200, 200, 200, 0.7)",
+                    "outlineWeight": 2,
+                    "pointColor": "rgba(130, 130, 130, 0.7)",
+                    "pointHaloColor": "rgba(200, 200, 200, 0.5)",
+                    "radius": 2,
+                    "simplification": 0.3,
+                    "weight": 2
+                },
+                "datatype": "geojson-feature-collection",
+                "description": "* Collection_id: \n* Field_id: PIRM.54_LAF.30_coordinates_geo_json\n* Category_id: CAT.5_Location",
+                "exportable": false,
+                "fieldname": null,
+                "graph_id": "d34bed0c-7391-11ef-921e-96a6d2455259",
+                "hascustomalias": false,
+                "is_collector": true,
+                "isrequired": false,
+                "issearchable": true,
+                "istopnode": true,
+                "name": "coordinates_geo_json",
+                "nodegroup_id": "d34bedb6-7391-11ef-921e-96a6d2455259",
+                "nodeid": "d34bedb6-7391-11ef-921e-96a6d2455259",
+                "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                "sortorder": 3,
+                "sourcebranchpublication_id": null
+            },
+            "slug": null,
+            "subtitle": {
+                "en": ""
+            },
+            "template_id": "50000000-0000-0000-0000-000000000002",
+            "version": ""
+        }
+    ]
+}
