@@ -3,9 +3,10 @@
 .venv/
 
 *.pyc
-*.py~
 *.log
 .ipynb_checkpoints
+
+*~
 
 CACHE
 brabantse_gebouwen/cantaloupe/*
