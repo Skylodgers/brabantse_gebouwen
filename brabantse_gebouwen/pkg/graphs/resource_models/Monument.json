@@ -27,7 +27,7 @@
                         "en": "material_monument"
                     },
                     "nodegroup_id": "a5823972-6ec7-11ef-b245-96a6d2455259",
-                    "sortorder": 15,
+                    "sortorder": 16,
                     "visible": true
                 },
                 {
@@ -130,12 +130,12 @@
                     "instructions": {
                         "en": ""
                     },
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": {
                         "en": "Dedication"
                     },
                     "nodegroup_id": "07ea4426-72b8-11ef-a972-96a6d2455259",
-                    "sortorder": 12,
+                    "sortorder": 13,
                     "visible": true
                 },
                 {
@@ -149,13 +149,13 @@
                     "graph_id": "bf70e52f-9697-491f-999a-5f1fa39df60e",
                     "helpenabled": false,
                     "helptext": {
-                        "en": null
+                        "en": ""
                     },
                     "helptitle": {
-                        "en": null
+                        "en": ""
                     },
                     "instructions": {
-                        "en": null
+                        "en": ""
                     },
                     "is_editable": true,
                     "name": {
@@ -297,7 +297,7 @@
                         "en": "Consecration"
                     },
                     "nodegroup_id": "1bb81cfe-7370-11ef-921e-96a6d2455259",
-                    "sortorder": 14,
+                    "sortorder": 15,
                     "visible": true
                 },
                 {
@@ -405,7 +405,7 @@
                         "en": "Creation"
                     },
                     "nodegroup_id": "aac07c84-72b7-11ef-a972-96a6d2455259",
-                    "sortorder": 11,
+                    "sortorder": 12,
                     "visible": true
                 },
                 {
@@ -459,7 +459,7 @@
                         "en": "statement"
                     },
                     "nodegroup_id": "5a20beea-72b4-11ef-a972-96a6d2455259",
-                    "sortorder": 7,
+                    "sortorder": 8,
                     "visible": true
                 },
                 {
@@ -508,7 +508,7 @@
                     "instructions": {
                         "en": ""
                     },
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": {
                         "en": "name"
                     },
@@ -581,13 +581,13 @@
                     "graph_id": "bf70e52f-9697-491f-999a-5f1fa39df60e",
                     "helpenabled": false,
                     "helptext": {
-                        "en": null
+                        "en": ""
                     },
                     "helptitle": {
-                        "en": null
+                        "en": ""
                     },
                     "instructions": {
-                        "en": null
+                        "en": ""
                     },
                     "is_editable": true,
                     "name": {
@@ -729,7 +729,7 @@
                         "en": "Inauguration"
                     },
                     "nodegroup_id": "a473d22e-736e-11ef-921e-96a6d2455259",
-                    "sortorder": 13,
+                    "sortorder": 14,
                     "visible": true
                 },
                 {
@@ -756,7 +756,7 @@
                         "en": "language"
                     },
                     "nodegroup_id": "91f8fabc-7381-11ef-921e-96a6d2455259",
-                    "sortorder": 8,
+                    "sortorder": 9,
                     "visible": true
                 },
                 {
@@ -783,7 +783,34 @@
                         "en": "keyword"
                     },
                     "nodegroup_id": "557652b0-7381-11ef-921e-96a6d2455259",
-                    "sortorder": 9,
+                    "sortorder": 10,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "c6d935d3-6ca3-4478-ba85-1f4bebc284f9",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": null,
+                    "graph_id": "bf70e52f-9697-491f-999a-5f1fa39df60e",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "architectual_style"
+                    },
+                    "nodegroup_id": "4d0e0e38-7403-11ef-8d5e-96a6d2455259",
+                    "sortorder": 7,
                     "visible": true
                 },
                 {
@@ -810,7 +837,7 @@
                         "en": "rights"
                     },
                     "nodegroup_id": "7c57d254-7382-11ef-921e-96a6d2455259",
-                    "sortorder": 10,
+                    "sortorder": 11,
                     "visible": true
                 },
                 {
@@ -832,7 +859,7 @@
                     "instructions": {
                         "en": ""
                     },
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": {
                         "en": "identifier"
                     },
@@ -851,13 +878,13 @@
                     "graph_id": "bf70e52f-9697-491f-999a-5f1fa39df60e",
                     "helpenabled": false,
                     "helptext": {
-                        "en": null
+                        "en": ""
                     },
                     "helptitle": {
-                        "en": null
+                        "en": ""
                     },
                     "instructions": {
-                        "en": null
+                        "en": ""
                     },
                     "is_editable": true,
                     "name": {
@@ -924,10 +951,40 @@
             ],
             "cards_x_nodes_x_widgets": [
                 {
+                    "card_id": "5a20bf9e-72b4-11ef-a972-96a6d2455259",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "statement_type",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "04c75706-d6a3-4c59-b8cf-753c47a2e30e",
+                    "label": {
+                        "en": "statement_type"
+                    },
+                    "node_id": "5a20c0de-72b4-11ef-a972-96a6d2455259",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
                     "card_id": "04a446e9-b559-4864-a5a8-c68793f0bd36",
                     "config": {
+                        "defaultValue": "",
                         "en": "",
-                        "label": "material_identifier_type"
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "material_identifier_type",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
                     },
                     "id": "06d3e570-c8e4-4358-8785-c44d6a13e964",
                     "label": {
@@ -1009,7 +1066,16 @@
                     "config": {
                         "defaultValue": "",
                         "en": "",
-                        "label": "Name"
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Name",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
                     },
                     "id": "07ea487c-72b8-11ef-a972-96a6d2455259",
                     "label": {
@@ -1152,7 +1218,14 @@
                     "config": {
                         "defaultValue": "5450f2d3-4a04-4cdf-890e-2d962fee1d17",
                         "en": "",
-                        "label": "Name Type"
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Name Type",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
                     },
                     "id": "07ea4930-72b8-11ef-a972-96a6d2455259",
                     "label": {
@@ -1189,7 +1262,14 @@
                     "config": {
                         "defaultValue": "cc5cb5e1-2eba-4184-969e-7c6c954c84c9",
                         "en": "",
-                        "label": "Name language"
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Name language",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
                     },
                     "id": "07ea4962-72b8-11ef-a972-96a6d2455259",
                     "label": {
@@ -1261,6 +1341,28 @@
                     },
                     "node_id": "07ea4610-72b8-11ef-a972-96a6d2455259",
                     "sortorder": 3,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "d7c4c658-72b3-11ef-a972-96a6d2455259",
+                    "config": {
+                        "defaultValue": "90ea6a8b-2d73-40cc-9763-212dc1eb24ae",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "identifier_type",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "0d46bd69-5a94-415b-9fbe-a73b99d0e475",
+                    "label": {
+                        "en": "identifier_type"
+                    },
+                    "node_id": "d7c4c720-72b3-11ef-a972-96a6d2455259",
+                    "sortorder": null,
                     "visible": true,
                     "widget_id": "10000000-0000-0000-0000-000000000002"
                 },
@@ -1392,7 +1494,16 @@
                     "config": {
                         "defaultValue": "",
                         "en": "",
-                        "label": "Name"
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Name",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
                     },
                     "id": "1bb82280-7370-11ef-921e-96a6d2455259",
                     "label": {
@@ -1472,8 +1583,16 @@
                 {
                     "card_id": "1bb81db2-7370-11ef-921e-96a6d2455259",
                     "config": {
+                        "defaultValue": "",
                         "en": "",
-                        "label": "Name Type"
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Name Type",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
                     },
                     "id": "1bb822e4-7370-11ef-921e-96a6d2455259",
                     "label": {
@@ -1593,7 +1712,14 @@
                     "config": {
                         "defaultValue": "cc5cb5e1-2eba-4184-969e-7c6c954c84c9",
                         "en": "",
-                        "label": "Name language"
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Name language",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
                     },
                     "id": "1bb82370-7370-11ef-921e-96a6d2455259",
                     "label": {
@@ -1712,6 +1838,28 @@
                     "widget_id": "adfd15ce-dbab-11e7-86d1-0fcf08612b27"
                 },
                 {
+                    "card_id": "5a20bf9e-72b4-11ef-a972-96a6d2455259",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "statement_language",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "2f7cdc5b-8b5e-404a-8b4e-726fbd99a5c3",
+                    "label": {
+                        "en": "statement_language"
+                    },
+                    "node_id": "5a20c070-72b4-11ef-a972-96a6d2455259",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
                     "card_id": "4efd96f5-899e-4e08-a4d1-2e62dafd35fd",
                     "config": {
                         "defaultValue": "",
@@ -1802,7 +1950,7 @@
                     "node_id": "5a20c03e-72b4-11ef-a972-96a6d2455259",
                     "sortorder": 0,
                     "visible": true,
-                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                    "widget_id": "10000000-0000-0000-0000-000000000005"
                 },
                 {
                     "card_id": "0adaabd4-6df9-4487-9708-8296d50214c5",
@@ -1853,7 +2001,7 @@
                 {
                     "card_id": "6ac5501c-72b4-11ef-a972-96a6d2455259",
                     "config": {
-                        "defaultValue": "cc5cb5e1-2eba-4184-969e-7c6c954c84c9",
+                        "defaultValue": "5450f2d3-4a04-4cdf-890e-2d962fee1d17",
                         "i18n_properties": [
                             "placeholder"
                         ],
@@ -1897,7 +2045,14 @@
                 {
                     "card_id": "85d20ef4-a43f-4c40-abee-b53bc23bd245",
                     "config": {
-                        "en": ""
+                        "defaultResourceInstance": [],
+                        "en": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "placeholder": {
+                            "en": ""
+                        }
                     },
                     "id": "76daec5f-2018-49e2-9864-8a9b6a316beb",
                     "label": {
@@ -1979,7 +2134,22 @@
                 {
                     "card_id": "85d20ef4-a43f-4c40-abee-b53bc23bd245",
                     "config": {
-                        "en": ""
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "en": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
                     },
                     "id": "7ffb1044-5b2b-4716-9a0c-3d2ce82835df",
                     "label": {
@@ -2015,7 +2185,22 @@
                 {
                     "card_id": "85d20ef4-a43f-4c40-abee-b53bc23bd245",
                     "config": {
-                        "en": ""
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "en": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
                     },
                     "id": "804be514-bdb7-4ec0-acf6-ae6f9a2ae90a",
                     "label": {
@@ -2029,7 +2214,15 @@
                 {
                     "card_id": "85d20ef4-a43f-4c40-abee-b53bc23bd245",
                     "config": {
-                        "en": ""
+                        "defaultValue": "",
+                        "en": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
                     },
                     "id": "8ffa359a-0a4a-4c9f-a731-8c1536c2c9ac",
                     "label": {
@@ -2095,7 +2288,40 @@
                 {
                     "card_id": "85d20ef4-a43f-4c40-abee-b53bc23bd245",
                     "config": {
-                        "en": ""
+                        "basemap": "streets",
+                        "bearing": 0.0,
+                        "centerX": 0,
+                        "centerY": 0,
+                        "defaultValue": "",
+                        "defaultValueType": "",
+                        "en": "",
+                        "featureColor": "#FF0000",
+                        "featureLineWidth": 1,
+                        "featurePointSize": 3,
+                        "geocodePlaceholder": "Search",
+                        "geocodeProvider": "10000000-0000-0000-0000-010000000000",
+                        "geocoderVisible": true,
+                        "geometryTypes": [
+                            {
+                                "id": "Point",
+                                "text": "Point"
+                            },
+                            {
+                                "id": "Line",
+                                "text": "Line"
+                            },
+                            {
+                                "id": "Polygon",
+                                "text": "Polygon"
+                            }
+                        ],
+                        "maxZoom": 20,
+                        "minZoom": 0,
+                        "overlayConfigs": [],
+                        "overlayOpacity": 0.0,
+                        "pitch": 0.0,
+                        "rerender": true,
+                        "zoom": 0
                     },
                     "id": "9a7db6d8-9b5d-437f-8939-e4aa7560fe65",
                     "label": {
@@ -2126,6 +2352,28 @@
                     "sortorder": 7,
                     "visible": true,
                     "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
+                },
+                {
+                    "card_id": "c6d935d3-6ca3-4478-ba85-1f4bebc284f9",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "architectual_style",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "a27341ba-8931-4122-9461-120a4838e1ea",
+                    "label": {
+                        "en": "architectual_style"
+                    },
+                    "node_id": "4d0e0e38-7403-11ef-8d5e-96a6d2455259",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
                 },
                 {
                     "card_id": "a473cfa4-736e-11ef-921e-96a6d2455259",
@@ -2198,7 +2446,16 @@
                     "config": {
                         "defaultValue": "",
                         "en": "",
-                        "label": "Name"
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Name",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
                     },
                     "id": "a473dc2e-736e-11ef-921e-96a6d2455259",
                     "label": {
@@ -2278,8 +2535,16 @@
                 {
                     "card_id": "a473d332-736e-11ef-921e-96a6d2455259",
                     "config": {
+                        "defaultValue": "",
                         "en": "",
-                        "label": "Name Type"
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Name Type",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
                     },
                     "id": "a473dd00-736e-11ef-921e-96a6d2455259",
                     "label": {
@@ -2399,7 +2664,14 @@
                     "config": {
                         "defaultValue": "cc5cb5e1-2eba-4184-969e-7c6c954c84c9",
                         "en": "",
-                        "label": "Name language"
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Name language",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
                     },
                     "id": "a473de2c-736e-11ef-921e-96a6d2455259",
                     "label": {
@@ -2569,7 +2841,13 @@
                     "config": {
                         "defaultResourceInstance": [],
                         "en": "",
-                        "label": "material_keeper"
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "material_keeper",
+                        "placeholder": {
+                            "en": ""
+                        }
                     },
                     "id": "c04bfb31-b01d-420a-a92a-20c957f74c4e",
                     "label": {
@@ -2692,12 +2970,7 @@
                 {
                     "card_id": "d7c4c658-72b3-11ef-a972-96a6d2455259",
                     "config": {
-                        "defaultValue": {
-                            "en": {
-                                "direction": "ltr",
-                                "value": ""
-                            }
-                        },
+                        "defaultValue": "",
                         "i18n_properties": [
                             "placeholder"
                         ],
@@ -2743,7 +3016,15 @@
                 {
                     "card_id": "85d20ef4-a43f-4c40-abee-b53bc23bd245",
                     "config": {
-                        "en": ""
+                        "defaultValue": "",
+                        "en": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
                     },
                     "id": "e638a57f-7a40-437d-84c2-087d7658894c",
                     "label": {
@@ -2803,7 +3084,22 @@
                 {
                     "card_id": "85d20ef4-a43f-4c40-abee-b53bc23bd245",
                     "config": {
-                        "en": ""
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "en": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
                     },
                     "id": "fe489db0-37ad-4a44-a15c-6e1a94168e16",
                     "label": {
@@ -2817,7 +3113,22 @@
                 {
                     "card_id": "85d20ef4-a43f-4c40-abee-b53bc23bd245",
                     "config": {
-                        "en": ""
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "en": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
                     },
                     "id": "ffdcd69b-5147-4b1b-9ef3-e1f83f724fb1",
                     "label": {
@@ -4063,6 +4374,15 @@
                 },
                 {
                     "description": null,
+                    "domainnode_id": "6b100ba2-6ec7-11ef-b245-96a6d2455259",
+                    "edgeid": "c77d5ab9-ecf5-4d39-aabf-9c508d208ff6",
+                    "graph_id": "bf70e52f-9697-491f-999a-5f1fa39df60e",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "rangenode_id": "4d0e0e38-7403-11ef-8d5e-96a6d2455259"
+                },
+                {
+                    "description": null,
                     "domainnode_id": "07ea47dc-72b8-11ef-a972-96a6d2455259",
                     "edgeid": "c9146b0b-7900-4fce-a0bf-f7fb04ec078a",
                     "graph_id": "bf70e52f-9697-491f-999a-5f1fa39df60e",
@@ -4207,6 +4527,15 @@
                 },
                 {
                     "description": null,
+                    "domainnode_id": "7c57d254-7382-11ef-921e-96a6d2455259",
+                    "edgeid": "edd0a492-75f9-4eca-acb1-1b96e2afcc48",
+                    "graph_id": "bf70e52f-9697-491f-999a-5f1fa39df60e",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P67_refers_to",
+                    "rangenode_id": "a7468b3e-73f7-11ef-8d5e-96a6d2455259"
+                },
+                {
+                    "description": null,
                     "domainnode_id": "ee0105e4-72b3-11ef-a972-96a6d2455259",
                     "edgeid": "ee011cfa-72b3-11ef-a972-96a6d2455259",
                     "graph_id": "bf70e52f-9697-491f-999a-5f1fa39df60e",
@@ -4290,12 +4619,12 @@
                     },
                     "function_id": "60000000-0000-0000-0000-000000000001",
                     "graph_id": "bf70e52f-9697-491f-999a-5f1fa39df60e",
-                    "id": "fae7114e-e97a-4b3d-85fb-10ba4002ba50"
+                    "id": "4f701a3f-63e0-4c7e-8d61-9b1957e42da0"
                 }
             ],
             "graphid": "bf70e52f-9697-491f-999a-5f1fa39df60e",
             "iconclass": "fa fa-building",
-            "is_editable": true,
+            "is_editable": false,
             "isresource": true,
             "jsonldcontext": null,
             "name": {
@@ -4366,6 +4695,12 @@
                     "cardinality": "1",
                     "legacygroupid": null,
                     "nodegroupid": "45de70c4-72b6-11ef-a972-96a6d2455259",
+                    "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "4d0e0e38-7403-11ef-8d5e-96a6d2455259",
                     "parentnodegroup_id": null
                 },
                 {
@@ -4753,7 +5088,7 @@
                     "sourcebranchpublication_id": null
                 },
                 {
-                    "alias": "dedication_activity_location_role",
+                    "alias": "2",
                     "config": {
                         "graphs": [],
                         "rdmCollection": null,
@@ -4770,7 +5105,7 @@
                     "isrequired": false,
                     "issearchable": true,
                     "istopnode": false,
-                    "name": "dedication_activity_location_role",
+                    "name": "2",
                     "nodegroup_id": "07ea4372-72b8-11ef-a972-96a6d2455259",
                     "nodeid": "07ea4642-72b8-11ef-a972-96a6d2455259",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
@@ -5756,6 +6091,29 @@
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
                     "sortorder": 5,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "architectual_style",
+                    "config": {
+                        "rdmCollection": null
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bf70e52f-9697-491f-999a-5f1fa39df60e",
+                    "hascustomalias": false,
+                    "is_collector": true,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "architectual_style",
+                    "nodegroup_id": "4d0e0e38-7403-11ef-8d5e-96a6d2455259",
+                    "nodeid": "4d0e0e38-7403-11ef-8d5e-96a6d2455259",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
+                    "sortorder": 0,
                     "sourcebranchpublication_id": null
                 },
                 {
@@ -7692,6 +8050,44 @@
                     "sourcebranchpublication_id": null
                 },
                 {
+                    "alias": "rights_holder",
+                    "config": {
+                        "graphs": [
+                            {
+                                "graphid": "95075050-6e27-11ef-b245-96a6d2455259",
+                                "name": "Person"
+                            },
+                            {
+                                "graphid": "fa335042-a1fe-11ed-a102-9cf387da2c40",
+                                "inverseRelationshipConcept": "ac41d9be-79db-4256-b368-2f4559cfbe55",
+                                "name": "Organisation",
+                                "relationshipCollection": "00000000-0000-0000-0000-000000000005",
+                                "relationshipConcept": "ac41d9be-79db-4256-b368-2f4559cfbe55",
+                                "useOntologyRelationship": false
+                            }
+                        ],
+                        "searchDsl": "",
+                        "searchString": ""
+                    },
+                    "datatype": "resource-instance-list",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bf70e52f-9697-491f-999a-5f1fa39df60e",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "rights_holder",
+                    "nodegroup_id": "7c57d254-7382-11ef-921e-96a6d2455259",
+                    "nodeid": "a7468b3e-73f7-11ef-8d5e-96a6d2455259",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E39_Actor",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P67_refers_to",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
                     "alias": "creation_event",
                     "config": {
                         "en": ""
@@ -7864,9 +8260,9 @@
                 {
                     "alias": "material_production_event_material",
                     "config": {
-                        "rdmCollection": null
+                        "rdmCollection": "ee449f04-dc40-40d2-aaa7-189eb32f58e9"
                     },
-                    "datatype": "semantic",
+                    "datatype": "concept",
                     "description": null,
                     "exportable": false,
                     "fieldname": null,
@@ -8629,8 +9025,8 @@
             "publication": {
                 "graph_id": "bf70e52f-9697-491f-999a-5f1fa39df60e",
                 "notes": null,
-                "publicationid": "f267ff80-7398-11ef-ac22-96a6d2455259",
-                "published_time": "2024-09-15T14:30:21.090"
+                "publicationid": "260f14fc-7404-11ef-8d5e-96a6d2455259",
+                "published_time": "2024-09-16T03:17:43.898"
             },
             "relatable_resource_model_ids": [],
             "resource_2_resource_constraints": [],
@@ -8666,7 +9062,7 @@
     ],
     "metadata": {
         "db": "PostgreSQL 15.8 (Postgres.app) on aarch64-apple-darwin21.6.0, compiled by Apple clang version 14.0.0 (clang-1400.0.29.102), 64-bit",
-        "git hash": "47a0ab61 2024-09-15 21:16:54 +0200",
+        "git hash": "5423d34f 2024-09-15 23:05:15 +0200",
         "os": "Darwin",
         "os version": "23.6.0"
     }
