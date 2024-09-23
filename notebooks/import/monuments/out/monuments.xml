@@ -1,0 +1,327 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<records>
+  <record>
+    <id>Q2452</id>
+    <LandmarksOrHistoricalBuildings>
+      <id>https://n2t.net/ark:/15052/01e9b23c-3e65-4bdf-a730-b882c5bdcb53</id>
+      <wikibaseURI>"http://gebouwen.brabantcloud.nl/entity/Q2452"</wikibaseURI>
+      <name>Huis van de Heilige Anna</name>
+      <alternateName>Huis van de H. Anna</alternateName>
+      <alternateName>Huize St. Anna</alternateName>
+      <alternateName>Huize Sint-Anna</alternateName>
+      <additionalType>"http://vocab.getty.edu/aat/300000641"</additionalType>
+      <typeOfBuilding>Kloostergebouw</typeOfBuilding>
+      <isReplacedByURI>"https://n2t.net/ark:/15052/d5e7bb8d-016f-4199-9c77-e5c37433850e"</isReplacedByURI>
+      <architectURI>
+        <Agent>
+          <id>https://n2t.net/ark:/15052/6dc0f577-b706-4f18-83a8-50548f252d6f</id>
+          <prefLabel>Johannes Heijkants</prefLabel>
+          <altLabel>J. Heijkants</altLabel>
+        </Agent>
+      </architectURI>
+      <religionURI>
+        <Concept>
+          <id>https://n2t.net/ark:/15052/7a44be7c-1bdb-4edb-bb1c-083ee2003c72</id>
+          <prefLabel>Rooms-Katholieke Kerk</prefLabel>
+          <wikidata>"https://www.wikidata.org/wiki/Q9592"</wikidata>
+          <altLabel>Katholieke Kerk</altLabel>
+          <altLabel>Rooms Katholiek</altLabel>
+          <altLabel>Rooms-Katholiek</altLabel>
+        </Concept>
+      </religionURI>
+      <religiousOrder>
+        <Concept>
+          <id>https://n2t.net/ark:/15052/0a306ffd-cbaa-4361-a90d-37080645c471</id>
+          <prefLabel>Franciscanessen van Veghel</prefLabel>
+          <wikidata>"http://www.wikidata.org/entity/Q83546129"</wikidata>
+          <altLabel>Zusters Franciscanessen</altLabel>
+          <altLabel>Franciscanessen van Veghel SFIC</altLabel>
+          <altLabel>Zusters Franciscanessen der Onbevlekte Ontvangenis van de Heilige Moeder Gods</altLabel>
+          <altLabel>Franciscan Sisters of the Immaculate Conception</altLabel>
+          <altLabel>Zusters Franciscanessen SFIC</altLabel>
+          <altLabel>S.F.I.C.</altLabel>
+          <altLabel>SFIC</altLabel>
+        </Concept>
+      </religiousOrder>
+      <placeURI>
+        <PostalAddress>
+          <id>https://n2t.net/ark:/15052/f5bdff81-6273-4be4-b6a2-e6f086cb5ee8</id>
+          <streetAddress>Oude Peelstraat 1</streetAddress>
+          <addressLocality>Helenaveen</addressLocality>
+          <addressRegion>Gemeente Deurne</addressRegion>
+        </PostalAddress>
+      </placeURI>
+      <dateDestroyedRaw>1944-11-20T00:00:00+00:00</dateDestroyedRaw>
+      <dateInUseRaw>1884-10-27T00:00:00+00:00</dateInUseRaw>
+      <dateNoLongerInUse>20-11-1944</dateNoLongerInUse>
+      <dateCreated>31-7-1883</dateCreated>
+      <dateCreatedRaw>1883-07-31T00:00:00+00:00</dateCreatedRaw>
+      <dateNoLongerInUseRaw>1944-11-20T00:00:00+00:00</dateNoLongerInUseRaw>
+      <regioWiki>"https://www.deurnewiki.nl/wiki/index.php?title</regioWiki>
+      <dateInUse>27-10-1884</dateInUse>
+      <latLong>Point(5.9188 51.3885)</latLong>
+      <dateDestroyed>20-11-1944</dateDestroyed>
+    </LandmarksOrHistoricalBuildings>
+  </record>
+  <record>
+    <id>Q2477</id>
+    <LandmarksOrHistoricalBuildings>
+      <id>https://n2t.net/ark:/15052/2ab1039e-8715-4d05-9798-9aeeb30e60c7</id>
+      <wikibaseURI>"http://gebouwen.brabantcloud.nl/entity/Q2477"</wikibaseURI>
+      <name>Klooster Heilige Paulus</name>
+      <alternateName>Klooster H. Paulus</alternateName>
+      <alternateName>Huize Paulus</alternateName>
+      <alternateName>Huis Paulus</alternateName>
+      <additionalType>"http://vocab.getty.edu/aat/300000641"</additionalType>
+      <typeOfBuilding>Kloostergebouw</typeOfBuilding>
+      <monumentStatus>Gemeentelijk monument</monumentStatus>
+      <monumentLinkRCE>"https://nl.wikipedia.org/wiki/Lijst_van_gemeentelijke_monumenten_in_Eindhoven"</monumentLinkRCE>
+      <dedicationURI>
+        <Concept>
+          <id>https://n2t.net/ark:/15052/a6881884-78b7-445e-be53-4c069482a072</id>
+          <prefLabel>Paulus</prefLabel>
+          <wikidata>"https://www.wikidata.org/entity/Q9200"</wikidata>
+          <altLabel>Sint-Paulus</altLabel>
+          <altLabel>Paulus (apostel)</altLabel>
+          <altLabel>Saulus van Tarsus</altLabel>
+          <altLabel>Sint Paulus</altLabel>
+          <altLabel>Saulus</altLabel>
+          <altLabel>Paulus van Tarsus</altLabel>
+          <altLabel>De Apostel Paulus</altLabel>
+          <altLabel>Apostel Paulus</altLabel>
+          <altLabel>St. Paulus</altLabel>
+        </Concept>
+      </dedicationURI>
+      <architectURI>
+        <Agent>
+          <id>https://n2t.net/ark:/15052/360909c2-8b88-4684-adc4-46aabd53efa6</id>
+          <prefLabel>Louis Kooken</prefLabel>
+          <wikidata>"https://www.wikidata.org/entity/Q2036765"</wikidata>
+          <altLabel>L.J.P. Kooken</altLabel>
+          <altLabel>Louis Joseph Petrus Kooken</altLabel>
+        </Agent>
+      </architectURI>
+      <religionURI>
+        <Concept>
+          <id>https://n2t.net/ark:/15052/7a44be7c-1bdb-4edb-bb1c-083ee2003c72</id>
+          <prefLabel>Rooms-Katholieke Kerk</prefLabel>
+          <wikidata>"https://www.wikidata.org/wiki/Q9592"</wikidata>
+          <altLabel>Rooms Katholiek</altLabel>
+          <altLabel>Katholieke Kerk</altLabel>
+          <altLabel>Rooms-Katholiek</altLabel>
+        </Concept>
+      </religionURI>
+      <religiousOrder>
+        <Concept>
+          <id>https://n2t.net/ark:/15052/9cc891f8-15a6-441b-aefa-da2b7f749b24</id>
+          <prefLabel>Zusters van Liefde van Tilburg</prefLabel>
+          <wikidata>"http://www.wikidata.org/entity/Q2125209"</wikidata>
+          <altLabel>Sorores Caritatis Matris Misericordiae, S.C.M.M.</altLabel>
+          <altLabel>Zusters van Liefde van Onze Lieve Vrouw, Moeder van Barmhartigheid</altLabel>
+          <altLabel>Zusters van Liefde van Onze Lieve Vrouwe van Barmhartigheid SCMM</altLabel>
+          <altLabel>Zusters van Tilburg</altLabel>
+          <altLabel>Zusters van Liefde van O.L.V. Moeder van Barmhartigheid</altLabel>
+          <altLabel>S.C.M.M.</altLabel>
+          <altLabel>SCMM</altLabel>
+          <altLabel>De Zusters van Liefde van Tilburg</altLabel>
+          <altLabel>De Zusters van Liefde van Tilburg SCMM</altLabel>
+        </Concept>
+      </religiousOrder>
+      <placeURI>
+        <PostalAddress>
+          <id>https://n2t.net/ark:/15052/6659ec5c-c127-4432-ac32-8f67d4ec97a3</id>
+          <streetAddress>Strijpsestraat 144</streetAddress>
+          <addressLocality>Eindhoven</addressLocality>
+          <addressRegion>Gemeente Eindhoven</addressRegion>
+        </PostalAddress>
+      </placeURI>
+      <dateCreated>1909</dateCreated>
+      <latLong>Point(5.4575 51.4409)</latLong>
+      <dateInUse>1910</dateInUse>
+      <dateCreatedRaw>1909-01-01T00:00:00+00:00</dateCreatedRaw>
+      <dateNoLongerInUse>20-8-1958</dateNoLongerInUse>
+      <dateInUseRaw>1910-01-01T00:00:00+00:00</dateInUseRaw>
+      <dateNoLongerInUseRaw>1958-08-20T00:00:00+00:00</dateNoLongerInUseRaw>
+      <mipURI>"https://data.brabantcloud.nl/mip-gallery/brabantcloud_mip_ae031-002749"</mipURI>
+    </LandmarksOrHistoricalBuildings>
+  </record>
+  <record>
+    <id>Q2522</id>
+    <LandmarksOrHistoricalBuildings>
+      <id>https://n2t.net/ark:/15052/6425d3f6-d339-4327-97da-4777ec9d29ce</id>
+      <wikibaseURI>"http://gebouwen.brabantcloud.nl/entity/Q2522"</wikibaseURI>
+      <name>Sint-Antoniuskerk</name>
+      <alternateName>Antonius Abtkerk</alternateName>
+      <alternateName>H. Antonius Abtkerk</alternateName>
+      <alternateName>St. Antoniuskerk</alternateName>
+      <alternateName>Sint Antoniuskerk</alternateName>
+      <alternateName>Heilige Antonius Abtkerk</alternateName>
+      <additionalType>"http://vocab.getty.edu/aat/300007466"</additionalType>
+      <typeOfBuilding>Kerkgebouw</typeOfBuilding>
+      <monumentStatus>Rijksmonument</monumentStatus>
+      <monumentLinkRCE>"https://monumentenregister.cultureelerfgoed.nl/monumenten/32401"</monumentLinkRCE>
+      <dedicationURI>
+        <Concept>
+          <id>https://n2t.net/ark:/15052/5de8a5c6-3674-4c25-947d-5636a515e477</id>
+          <prefLabel>Antonius van Egypte</prefLabel>
+          <wikidata>"https://www.wikidata.org/entity/Q170547"</wikidata>
+          <altLabel>Sint-Anthonius-Abt</altLabel>
+          <altLabel>Antonius Abt</altLabel>
+          <altLabel>H. Antonius Abt</altLabel>
+          <altLabel>Antonius de Grote</altLabel>
+          <altLabel>Antonius-Abt</altLabel>
+          <altLabel>Antonius-Heremiet</altLabel>
+          <altLabel>H. Anthonius Abt</altLabel>
+          <altLabel>Sint-Antonius Abt</altLabel>
+          <altLabel>Sint-Antonius Kluizenaar</altLabel>
+          <altLabel>Sint-Antonius-Abt</altLabel>
+        </Concept>
+      </dedicationURI>
+      <architectURI>
+        <Agent>
+          <id>https://n2t.net/ark:/15052/47030884-c96f-4dec-9186-968c07a0c334</id>
+          <prefLabel>Wilhelmus Jacobus van Vogelpoel</prefLabel>
+          <wikidata>"https://www.wikidata.org/entity/Q2678249"</wikidata>
+          <altLabel>W.J. van Vogelpoel</altLabel>
+        </Agent>
+      </architectURI>
+      <religionURI>
+        <Concept>
+          <id>https://n2t.net/ark:/15052/7a44be7c-1bdb-4edb-bb1c-083ee2003c72</id>
+          <prefLabel>Rooms-Katholieke Kerk</prefLabel>
+          <wikidata>"https://www.wikidata.org/wiki/Q9592"</wikidata>
+          <altLabel>Katholieke Kerk</altLabel>
+          <altLabel>Rooms Katholiek</altLabel>
+          <altLabel>Rooms-Katholiek</altLabel>
+        </Concept>
+      </religionURI>
+      <imageURI>
+        <WebResource>
+          <id>https://n2t.net/ark:/15052/520f4049-94ea-420f-9665-c104bcd7724d</id>
+          <prefLabel>Overlangel Rijksmonument 32401 kerk</prefLabel>
+          <rightsLabel>Creative Commons Zero, Public Domain Dedication</rightsLabel>
+          <rightsURI>"http://creativecommons.org/publicdomain/zero/1.0/deed.en"</rightsURI>
+          <creator>Havang(nl)</creator>
+          <imageLink>"https://upload.wikimedia.org/wikipedia/commons/2/24/Overlangel_Rijksmonument_32401_kerk.JPG"</imageLink>
+          <wikiBaseURI>"http://gebouwen.brabantcloud.nl/entity/Q2274"</wikiBaseURI>
+        </WebResource>
+      </imageURI>
+      <imageURI>
+        <WebResource>
+          <id>https://n2t.net/ark:/15052/fd36520f-f07f-42ed-a744-dc1c2b3d57d0</id>
+          <prefLabel>Overlangel, flêche surmontée d'un bateau à voile</prefLabel>
+          <rightsLabel>Public domain</rightsLabel>
+          <creator>Havang(nl)</creator>
+          <imageLink>"https://upload.wikimedia.org/wikipedia/commons/2/2b/Overlangel%2C_fl%C3%AAche_surmont%C3%A9e_d%27un_bateau_%C3%A0_voile.JPG"</imageLink>
+          <wikiBaseURI>"http://gebouwen.brabantcloud.nl/entity/Q1759"</wikiBaseURI>
+        </WebResource>
+      </imageURI>
+      <placeURI>
+        <PostalAddress>
+          <id>https://n2t.net/ark:/15052/5562fdbe-c1b2-4fc7-bd75-c2a491730609</id>
+          <streetAddress>Kerkstraat 20</streetAddress>
+          <addressLocality>Overlangel</addressLocality>
+          <addressRegion>Gemeente Oss</addressRegion>
+        </PostalAddress>
+      </placeURI>
+      <latLong>Point(5.6731 51.7755)</latLong>
+      <dateCreatedRaw>1854-01-01T00:00:00+00:00</dateCreatedRaw>
+      <wikidata>"https://www.wikidata.org/entity/Q17439346"</wikidata>
+      <rightsURI>"http://gebouwen.brabantcloud.nl/entity/Q2274"</rightsURI>
+      <rightsURI>"http://gebouwen.brabantcloud.nl/entity/Q1759"</rightsURI>
+      <dateInUse>9-1854</dateInUse>
+      <dateCreated>1854</dateCreated>
+      <dbpedia>"http://nl.dbpedia.org/resource/Sint-Antoniuskerk_(Overlangel)"</dbpedia>
+      <mipURI>"https://data.brabantcloud.nl/mip-gallery/brabantcloud_mip_mk091-000637"</mipURI>
+      <dateInUseRaw>1854-09-01T00:00:00+00:00</dateInUseRaw>
+      <reliWiki>"https://reliwiki.nl/index.php/Overlangel,_Kerkstraat_20_-_Antonius_Abt"</reliWiki>
+    </LandmarksOrHistoricalBuildings>
+  </record>
+  <record>
+    <id>Q2543</id>
+    <LandmarksOrHistoricalBuildings>
+      <id>https://n2t.net/ark:/15052/8ee8afb4-5818-40fe-85e4-46ab45e23a5d</id>
+      <wikibaseURI>"http://gebouwen.brabantcloud.nl/entity/Q2543"</wikibaseURI>
+      <name>Sint-Lambertuskerk</name>
+      <alternateName>Lambertuskerk</alternateName>
+      <alternateName>Sint Lambertuskerk</alternateName>
+      <alternateName>St. Lambertuskerk</alternateName>
+      <alternateName>R.K. Sint-Lambertuskerk</alternateName>
+      <alternateName>RK Sint-Lambertuskerk</alternateName>
+      <additionalType>"http://vocab.getty.edu/aat/300007466"</additionalType>
+      <typeOfBuilding>Kerkgebouw</typeOfBuilding>
+      <replacesPreviousURI>"https://n2t.net/ark:/15052/3a739103-c273-47a1-9f8c-224d397fe0fa"</replacesPreviousURI>
+      <monumentStatus>Rijksmonument</monumentStatus>
+      <monumentLinkRCE>"https://monumentenregister.cultureelerfgoed.nl/monumenten/518193"</monumentLinkRCE>
+      <dedicationURI>
+        <Concept>
+          <id>https://n2t.net/ark:/15052/9c1f658e-5529-4693-a9b2-9f9143e7d586</id>
+          <prefLabel>Lambertus van Maastricht</prefLabel>
+          <wikidata>"https://www.wikidata.org/entity/Q283447"</wikidata>
+          <altLabel>Lambert</altLabel>
+          <altLabel>Lambertus van Luik</altLabel>
+          <altLabel>Lambrecht</altLabel>
+          <altLabel>Landebertus</altLabel>
+          <altLabel>Sint-Lambertus</altLabel>
+        </Concept>
+      </dedicationURI>
+      <dedicationURI>
+        <Concept>
+          <id>https://n2t.net/ark:/15052/1ebb7107-6cf4-4861-9100-39c394f12099</id>
+          <prefLabel>Eligius van Noyon</prefLabel>
+          <wikidata>"https://www.wikidata.org/entity/Q360798"</wikidata>
+          <altLabel>Eligius</altLabel>
+        </Concept>
+      </dedicationURI>
+      <architectURI>
+        <Agent>
+          <id>https://n2t.net/ark:/15052/f4027efe-b445-4c43-bfde-0f1c5fee996d</id>
+          <prefLabel>Caspar Franssen</prefLabel>
+          <wikidata>"http://www.wikidata.org/entity/Q2682321"</wikidata>
+          <altLabel>C.J.H. Franssen</altLabel>
+          <altLabel>Caspar Johannes Hubertus Franssen</altLabel>
+          <altLabel>C. Franssen</altLabel>
+        </Agent>
+      </architectURI>
+      <religionURI>
+        <Concept>
+          <id>https://n2t.net/ark:/15052/7a44be7c-1bdb-4edb-bb1c-083ee2003c72</id>
+          <prefLabel>Rooms-Katholieke Kerk</prefLabel>
+          <wikidata>"https://www.wikidata.org/wiki/Q9592"</wikidata>
+          <altLabel>Rooms-Katholiek</altLabel>
+          <altLabel>Rooms Katholiek</altLabel>
+          <altLabel>Katholieke Kerk</altLabel>
+        </Concept>
+      </religionURI>
+      <imageURI>
+        <WebResource>
+          <id>https://n2t.net/ark:/15052/2ce5e4e3-5a38-48f8-a69b-1fcb8d5b9281</id>
+          <prefLabel>Huisseling, kerk foto3 RM518193 2012-03-19 13.10</prefLabel>
+          <rightsLabel>Creative Commons Attribution-Share Alike 3.0</rightsLabel>
+          <rightsURI>"https://creativecommons.org/licenses/by-sa/3.0"</rightsURI>
+          <creator>Michielverbeek</creator>
+          <imageLink>"https://upload.wikimedia.org/wikipedia/commons/e/ed/Huisseling%2C_kerk_foto3_RM518193_2012-03-19_13.10.JPG"</imageLink>
+          <wikiBaseURI>"http://gebouwen.brabantcloud.nl/entity/Q1764"</wikiBaseURI>
+        </WebResource>
+      </imageURI>
+      <placeURI>
+        <PostalAddress>
+          <id>https://n2t.net/ark:/15052/474dccc2-8012-4d56-bdf0-0c203fd9ce05</id>
+          <streetAddress>Hamstraat 1</streetAddress>
+          <addressLocality>Huisseling</addressLocality>
+          <addressRegion>Gemeente Oss</addressRegion>
+        </PostalAddress>
+      </placeURI>
+      <latLong>Point(5.641 51.7878)</latLong>
+      <dateCreated>1911</dateCreated>
+      <dateCreatedRaw>1911-01-01T00:00:00+00:00</dateCreatedRaw>
+      <wikidata>"http://www.wikidata.org/entity/Q17594961"</wikidata>
+      <dateInUseRaw>1912-01-01T00:00:00+00:00</dateInUseRaw>
+      <dateInUse>1912</dateInUse>
+      <rightsURI>"http://gebouwen.brabantcloud.nl/entity/Q1764"</rightsURI>
+      <mipURI>"https://data.brabantcloud.nl/mip-gallery/brabantcloud_mip_mk091-000616"</mipURI>
+      <dbpedia>"http://nl.dbpedia.org/resource/Sint-Lambertuskerk_(Huisseling)"</dbpedia>
+      <reliWiki>"https://reliwiki.nl/index.php/Huisseling,_Hamstraat_1_-_Lambertus"</reliWiki>
+    </LandmarksOrHistoricalBuildings>
+  </record>
+</records>

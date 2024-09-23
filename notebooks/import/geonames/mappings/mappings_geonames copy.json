@@ -1,0 +1,152 @@
+notebooks/import/geonames/out/geonames_nb.csv
+{
+  "cards": [
+    {
+      "card_name": "e53_alternate_name",
+      "filter": [
+        {
+          "exclude": [
+            {
+              "key": "isolanguage",
+              "values": [
+                "post",
+                "link",
+                "unlc",
+                "wkdt",
+                "unic",
+                "iata"
+              ]
+            }
+          ]
+        }
+      ],
+}
+
+
+
+
+
+
+{
+  "name": "brabantse_gebouwen",
+  "graph": "Place",
+  "mappings": [
+    {
+      "dataset": "geonames_nb.csv",
+      "cards": [
+        {
+          "card_name": "e53_single",
+          "node_mappings": [
+            {
+              "from": "geonamesid",
+              "to": "geonamesid",
+              "constants": {
+                "Object Identifier Type": "Geonames identifier"
+              }
+            },
+            {
+              "from": "name",
+              "to": "name_content",
+              "constants": {
+                "name_type": "Primary",
+                "name_language": "Nederlands"
+              }
+            },
+            {
+              "from": "parentid",
+              "to": "part_of_location",
+              "function": {
+                "name": "related_resource"
+              }
+            },
+            {
+              "from": "population",
+              "to": "annotation_population"
+            },
+            {
+              "from": "elevation",
+              "to": "annotation_elevation"
+            },
+            {
+              "from": "digital_elevation_model",
+              "to": "annotation_digital_elevation_mode"
+            },
+            {
+              "from": "timezone",
+              "to": "annotation_timezone"
+            },
+            {
+              "from": "source_modification_date",
+              "to": "annotation_source_modification_date"
+            },
+            {
+              "from": "country_code",
+              "to": "country"
+            },
+            {
+              "from": "feature_code",
+              "to": "type",
+              "function": {
+                "name": "concept_lookup",
+                "args": {
+                  "lookup_file": "feature_codes.csv"
+                }
+              }
+            },
+            {
+              "from": "lat_long",
+              "to": "coordinates_geo_json",
+              "function": {
+                "name": "coordinates_geo_json"
+              }
+            },
+            {
+              "from": "lat_long",
+              "to": "coordinates_wkt",
+              "function": {
+                "name": "coordinates_wkt"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dataset": "alternate_names_nb.csv",
+      "cards": [
+        {
+          "card_name": "e53_altenate_name",
+          "node_mappings": [
+            {
+              "from": "geonamesid",
+              "to": "geonamesid",
+              "constants": {
+                "Object Identifier Type": "Geonames identifier"
+              }
+            },
+            {
+              "from": "alternateNameId",
+              "to": "alternative_name_identifier",
+              "constants": {
+                "Object Identifier Type": "Geonames identifier"
+              }
+            },
+            {
+              "from": "alternate_name",
+              "to": "alternative_name_content",
+              "constants": {
+                "alternative_name_type": "Secondary"
+              },
+              "function": {
+                "name": "concept_lookup",
+                "args": {
+                  "lookup_file": "feature_codes.csv"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

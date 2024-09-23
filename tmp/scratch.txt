@@ -1,51 +1,11 @@
-_identification
-@rdf:about
-custom:isReplacedByURI
-custom:replacesPreviousURI
-schema:name
-schema:alternateName
-custom:latLong
 
-_classification
-custom:typeOfBuilding
-custom:monumentStatus  
-schema:additionalType
-custom:religionURI
-custom:religiousOrder
-custom:reliWiki
-
-_Relations
-custom:hasPartURI
-custom:architectURI
-custom:placeURI
-custom:imageURI
-
-_Associated things
-custom:dbpedia
-custom:wikibaseURI
-custom:wikidata
-custom:monumentLinkRCE
-custom:mipURI
-custom:regioWiki
-
-_rights
-custom:rightsURI
-
-_events
-custom:dedicationURI
-custom:dateInUse
-custom:dateInUseRaw
-custom:dateNoLongerInUse
-custom:dateNoLongerInUseRaw
-custom:dateDestroyed
-custom:dateDestroyedRaw
-custom:dateCreated
-custom:dateCreatedRaw
-
-
-"Monument_Status_Type": "custom:monumentStatus",
-  "Building_Type": "custom:typeOfBuilding",
-  "Buikding_AAT_Type": "schema:additionalType",
-  "Rights_Type": "custom:rightsURI",
-  "Religion_Type": "",
-  "Religious_Order_Type": ""
+Baroque
+Byzantine (culture and style)
+Early Christian
+Gothic (Medieval)
+Modern (style or period)
+Postmodern
+Renaissance
+Rococo
+Romanesque
+revival (concept)

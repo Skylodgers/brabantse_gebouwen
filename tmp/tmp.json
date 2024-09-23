@@ -1,0 +1,22 @@
+{
+    "cards": [
+        {
+            "card_name": "e53_alternate_name",
+            "filter": [
+                {
+                    "exclude": {
+                        "key": "isolanguage",
+                        "values": [
+                            "post",
+                            "link",
+                            "unlc",
+                            "wkdt",
+                            "unic",
+                            "iata"
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

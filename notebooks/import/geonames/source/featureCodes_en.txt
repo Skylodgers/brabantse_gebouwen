@@ -1,3 +1,4 @@
+class_code	concept	description
 A.ADM1	first-order administrative division	a primary administrative division of a country, such as a state in the United States
 A.ADM1H	historical first-order administrative division	a former first-order administrative division
 A.ADM2	second-order administrative division	a subdivision of a first-order administrative division
@@ -682,4 +683,3 @@ V.TREE	tree(s)	a conspicuous tree used as a landmark
 V.TUND	tundra	a marshy, treeless, high latitude plain, dominated by mosses, lichens, and low shrub vegetation under permafrost conditions
 V.VIN	vineyard	a planting of grapevines
 V.VINS	vineyards	plantings of grapevines
-null	not available	

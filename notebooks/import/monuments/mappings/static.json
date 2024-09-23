@@ -1,0 +1,20 @@
+{
+  "pkg_mmb": {
+    "name": "Museum Mayer van den Bergh",
+    "museum_uri": "https://data.antwerpen.be/id/ark:/24970/784198d4-56b2-5085-a593-e5c34562b3e0",
+    "arches_url": "https://arches.museummayervandenbergh.be",
+    "naan": "59511",
+    "ark_url": "https://data.museummayervandenbergh.be",
+    "dlod_url": "https://data.museummayervandenbergh.be",
+    "anet_url": "https://anet.be/record/opaclhobj/",
+    "isaar_url": "https://anet.be/record/isaarlh/",
+    "aspace_au_uri": "https://data.antwerp.be",
+    "publ_url": "https://anet.be/record/opacanet/"
+  },
+  "au": {
+    "naan": "83110",
+    "ark_url": "data.antwerp.be",
+    "dlod_url": "data.antwerp.be"
+  }
+}
+
