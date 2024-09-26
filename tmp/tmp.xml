@@ -1,0 +1,39 @@
+If a tag is repeated on the same level, how do i remove duplicates and add "multiple = true and max_occur = x" as attributes? Like:
+
+<records>
+    <record>
+        <LandmarksOrHistoricalBuildings>
+            <religiousOrder>
+                <Concept>
+                    <id/>
+                    <prefLabel/>
+                    <wikidata/>
+                    <altLabel/>
+                    <altLabel/>
+                    <altLabel/>
+                    <altLabel/>
+                    <altLabel/>
+                    <altLabel/>
+                    <altLabel/>
+                </Concept>
+            </religiousOrder>
+        </LandmarksOrHistoricalBuildings>
+    </record>
+</records>
+
+to
+
+<records>
+    <record>
+        <LandmarksOrHistoricalBuildings>
+            <religiousOrder>
+                <Concept>
+                    <id/>
+                    <prefLabel/>
+                    <wikidata/>
+                    <altLabel multiple="true",  max_occur = "7"/>
+                </Concept>
+            </religiousOrder>
+        </LandmarksOrHistoricalBuildings>
+    </record>
+</records>
