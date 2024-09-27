@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/c4979f4d-f1cc-54b1-a02e-3d470aa006ed">
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="https://n2t.net/ark:/1552/BuildingType/68879e07-a0d3-557c-bbfc-1d1efef13d8e">
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/ab12df21-9c38-5252-8674-f8abc7a33f17"/>
+        <dcterms:title xml:lang="en">Building Type</dcterms:title>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/0fa96539-a55c-59ed-a309-002f678c8edd"/>
+        <dcterms:title xml:lang="nl">Building Type</dcterms:title>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/e77b72f1-bb36-5222-8832-6cd982aa02f6"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/c4979f4d-f1cc-54b1-a02e-3d470aa006ed"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+    <skos:prefLabel xml:lang="nl">Kerktoren</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/ab12df21-9c38-5252-8674-f8abc7a33f17">
+    <skos:prefLabel xml:lang="nl">Kerkgebouw</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/BuildingType/68879e07-a0d3-557c-bbfc-1d1efef13d8e"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/0fa96539-a55c-59ed-a309-002f678c8edd">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/BuildingType/68879e07-a0d3-557c-bbfc-1d1efef13d8e"/>
+    <skos:prefLabel xml:lang="nl">Kapel</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/e77b72f1-bb36-5222-8832-6cd982aa02f6">
+    <skos:prefLabel xml:lang="nl">Kloostergebouw</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/BuildingType/68879e07-a0d3-557c-bbfc-1d1efef13d8e"/>
+  </skos:Concept>
+</rdf:RDF>

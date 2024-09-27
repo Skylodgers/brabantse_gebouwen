@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:Concept rdf:about="http://localhost:8000/fa5d28eb-1c92-4c86-b243-4dd1fcd45b99">
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f">
+        <dcterms:title xml:lang="en">{"id": "b3e1e1bf-f679-4a46-afff-f12dd625f6dc", "value": "Geonames"}</dcterms:title>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/ff95d7dd-21a9-4c90-ba6c-cf8030f1d895"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+    <skos:scopeNote xml:lang="en">{"id": "a0b3e3c2-da06-4f20-ad0b-b44e7b08f686", "value": "A.ADM2\tsecond-order administrative division\ta subdivision of a first-order administrative division"}</skos:scopeNote>
+    <skos:prefLabel xml:lang="en">{"id": "4496073c-3f44-4f75-a301-ef64724bd291", "value": "Geemeente"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/ff95d7dd-21a9-4c90-ba6c-cf8030f1d895">
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/b72df56b-2765-4eec-9fbe-902552675510">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="en">{"id": "fa5082ce-e8de-4cea-9046-967701a8be98", "value": "R: road, railroad "}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/34b954f8-c581-4463-841c-d86d3d04bf7c">
+        <skos:narrower rdf:resource="http://localhost:8000/18586313-0ff1-4f55-954d-87efa8dd133b"/>
+        <skos:narrower rdf:resource="http://localhost:8000/c1daaa0b-da0f-4d54-ba14-4a633d89a4bf"/>
+        <skos:prefLabel xml:lang="en">{"id": "485e4e64-5c73-4627-b9da-38c344a64431", "value": "P: city, village,..."}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/bf588540-1094-47d3-a604-5542029b9575">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="en">{"id": "0fe46c0f-5d7b-41bb-9d11-191fa4b70ade", "value": "L: parks,area, ..."}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/95936d31-bd8a-4264-ae8e-5cf4cbcbf6be">
+        <skos:prefLabel xml:lang="en">{"id": "27f8c7f4-b95b-47ec-87b0-0f4c67c6282e", "value": "T: mountain,hill,rock,..."}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/4f962a63-25ab-4d01-b128-5a974261f1e1">
+        <skos:prefLabel xml:lang="en">{"id": "d2a892ba-920a-42dc-bc22-e40d22a46278", "value": "V: forest,heath,..."}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="en">{"id": "0cfb58c8-b339-40f2-b306-7960f6bc12bb", "value": "Feature codes"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/42d276e0-02df-4cff-8815-062c45deb072">
+        <skos:scopeNote xml:lang="en">{"id": "0dd51361-32a6-471c-a09a-a6c09dfea85b", "value": "H: stream, lake, ..."}</skos:scopeNote>
+        <skos:prefLabel xml:lang="en">{"id": "23bdf2c1-f625-4e00-b960-2f5b290ac8e0", "value": "H: stream, lake, ..."}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/f69b8622-0f35-429a-bc57-f636f5e40bad">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="en">{"id": "038c7a08-bd93-4fff-b704-e7544ad0f1dc", "value": "A: country, state, region,..."}</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">{"id": "e6e3f81c-3bb9-4fd2-a253-daee87d8b774", "value": "A"}</skos:scopeNote>
+        <skos:narrower rdf:resource="http://localhost:8000/fa5d28eb-1c92-4c86-b243-4dd1fcd45b99"/>
+        <skos:narrower rdf:resource="http://localhost:8000/08f6a841-154f-425d-ac50-24f2a9bdd93a"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/685b000d-2c32-417e-9955-4dc1f1f42fde">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="en">{"id": "0cde6d88-e26a-4c9e-a269-661441b6acb0", "value": "U: undersea"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/81f92dc5-52c0-4e5b-ae1c-7bd2c7de8ee4">
+        <skos:prefLabel xml:lang="en">{"id": "7d0bc007-be29-49af-a897-bb234912b414", "value": "S: spot, building, farm"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/18586313-0ff1-4f55-954d-87efa8dd133b">
+    <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+    <skos:scopeNote xml:lang="en">{"id": "06c16927-1ef5-44a4-b840-e51bfe43ce53", "value": "P.PPLC\tcapital of a political entity\tcapital of a political entity designated as an independent state"}</skos:scopeNote>
+    <skos:prefLabel xml:lang="en">{"id": "47620701-70f7-4212-bbe8-e3dcc6032012", "value": "capital of a political entity"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/c1daaa0b-da0f-4d54-ba14-4a633d89a4bf">
+    <skos:prefLabel xml:lang="en">{"id": "284aff79-a247-4017-882b-09a7f96534f3", "value": "Ort"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+    <skos:scopeNote xml:lang="en">{"id": "75a61908-3c09-4349-bc33-5a884521f2c6", "value": "P.PPLS\tpopulated places\tcities, towns, villages, or other agglomerations of buildings where people live and work"}</skos:scopeNote>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/08f6a841-154f-425d-ac50-24f2a9bdd93a">
+    <skos:prefLabel xml:lang="nl">{"id": "75b5494a-0aa5-4e94-a7d8-d22870a7bf7d", "value": "Provincie"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+    <skos:scopeNote xml:lang="nl">{"id": "ea5d33e9-69cf-4fef-99de-7d6a0ea4c136", "value": "ADM1 first-order administrative division\ta primary administrative division of a country, such as a state in the United States"}</skos:scopeNote>
+  </skos:Concept>
+</rdf:RDF>

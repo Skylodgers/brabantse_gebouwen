@@ -55,25 +55,7 @@
                 {
                     "cardinality": "1",
                     "legacygroupid": null,
-                    "nodegroupid": "55f0f714-7b15-11ee-abe4-96a6d245525a",
-                    "parentnodegroup_id": null
-                },
-                {
-                    "cardinality": "1",
-                    "legacygroupid": null,
-                    "nodegroupid": "6055eb0a-7291-11ef-a972-96a6d2455259",
-                    "parentnodegroup_id": null
-                },
-                {
-                    "cardinality": "1",
-                    "legacygroupid": null,
-                    "nodegroupid": "6f358744-7290-11ef-a972-96a6d2455259",
-                    "parentnodegroup_id": null
-                },
-                {
-                    "cardinality": "1",
-                    "legacygroupid": null,
-                    "nodegroupid": "892e45d2-7290-11ef-a972-96a6d2455259",
+                    "nodegroupid": "1b4be3ce-7292-11ef-a972-96a6d2455259",
                     "parentnodegroup_id": null
                 }
             ],

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:Concept rdf:about="http://localhost:8000/23bdf593-4c71-43f7-99d7-ce9eb0c6cdeb">
+    <skos:prefLabel xml:lang="de">{"id": "41317487-76e8-4f69-b6f1-497f586b8af2", "value": "Englisch"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">{"id": "a78f490a-57ef-431f-b632-66392482dc6c", "value": "English (language)"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">{"id": "16279945-c26a-4f5a-8c40-f9942d986c6c", "value": "Engels"}</skos:prefLabel>
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/abaaed13-38f5-4a92-b812-ce5ad9f37dc5">
+        <dcterms:title xml:lang="en">{"id": "2fdbfa05-d7c2-4a47-af2a-cf5e60c98775", "value": "Language AAT Type"}</dcterms:title>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/23bdf593-4c71-43f7-99d7-ce9eb0c6cdeb"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/2afd9541-65c9-4620-ae30-821258d37f2a"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+    <skos:prefLabel xml:lang="fr">{"id": "08ff0277-7361-42fd-a075-ee9b9889510c", "value": "anglais"}</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">{"id": "511b384e-72e7-4374-a557-50a654966b92", "value": "West Germanic language of the Indo-European language family that is closely related to Frisian, German, and Dutch (in Belgium called Flemish) languages. It is spoken in England and also used in many varieties throughout the world."}</skos:scopeNote>
+    <skos:scopeNote xml:lang="nl">{"id": "ea0b50b2-d13a-422e-9481-1e8a0a392acd", "value": "Algemene term voor de West-Germaanse taal die in Engeland wordt gesproken en in vele varianten over de hele wereld wordt gebruikt."}</skos:scopeNote>
+    <dcterms:identifier xml:lang="en">{"id": "51ab2d5f-0fa6-4635-8ae2-81c6297fea3c", "value": "http://vocab.getty.edu/aat/300388277"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/2afd9541-65c9-4620-ae30-821258d37f2a">
+    <skos:prefLabel xml:lang="nl">{"id": "4882dd0b-fb87-482c-9bdd-ba6143b52e49", "value": "Nederlands"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "e98e6662-9cf7-4734-ada9-f3c86b49d8ab", "value": "http://vocab.getty.edu/aat/300388256"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "cc5cb5e1-2eba-4184-969e-7c6c954c84c9", "value": "Dutch (language)"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/abaaed13-38f5-4a92-b812-ce5ad9f37dc5"/>
+    <skos:prefLabel xml:lang="de">{"id": "8468a7ca-3fcc-4567-a65e-fe9abd9d7df2", "value": "Niederl\u00e4ndisch"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="fr">{"id": "1bd8507b-bf10-4c33-8542-b3660d5196da", "value": "n\u00e9erlandais"}</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">{"id": "2596ceeb-d8b0-4085-a849-11a8f221699c", "value": "West Germanic language that is the national language of the Netherlands; it largely developed in the historical province of Holland. Although it is basically the same language that is, with French and German, one of the three official languages of Belgium, for the language as used in Belgium prefer \"Flemish.\""}</skos:scopeNote>
+  </skos:Concept>
+</rdf:RDF>

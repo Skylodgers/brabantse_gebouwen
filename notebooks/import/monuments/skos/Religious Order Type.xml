@@ -1,0 +1,1847 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+>
+  <skos:ConceptScheme rdf:about="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1">
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/53811934-87a2-478c-b42a-ed96b1843ae0">
+        <skos:prefLabel xml:lang="nl">Franciscanessen van Bergen op Zoom</skos:prefLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/2533e5fa-cb87-41e4-8ab2-9d2530085029">
+        <skos:altLabel xml:lang="nl">Schoolzusters van Sint-Franciscus</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Franciscanessen van Erlenbad</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">O.S.F.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Schoolzusters van Sint Franciscus</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">OSF</skos:altLabel>
+        <skos:altLabel xml:lang="nl">SSSF</skos:altLabel>
+        <skos:altLabel xml:lang="nl">S.S.S.F.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Schoolzusters van St. Franciscus</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/9cc891f8-15a6-441b-aefa-da2b7f749b24">
+        <skos:altLabel xml:lang="nl">De Zusters van Liefde van Tilburg SCMM</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Zusters van Liefde van Tilburg</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Liefde van Onze Lieve Vrouw, Moeder van Barmhartigheid</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Liefde van O.L.V. Moeder van Barmhartigheid</skos:altLabel>
+        <skos:altLabel xml:lang="nl">S.C.M.M.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Sorores Caritatis Matris Misericordiae, S.C.M.M.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Tilburg</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Liefde van Onze Lieve Vrouwe van Barmhartigheid SCMM</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">De Zusters van Liefde van Tilburg</skos:altLabel>
+        <skos:altLabel xml:lang="nl">SCMM</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/3670df3c-6ffc-43a5-9406-cbb23a1c6732">
+        <skos:altLabel xml:lang="nl">OAnnM</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Annunciaden</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van de Tien Deugden van Maria</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Zusters annunciaten</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Annonciaden</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Annunciaten</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Ordo de Annuntiatione Beatæ Mariæ Virginis</skos:altLabel>
+        <skos:altLabel xml:lang="nl">O.Ann.M.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Annuntiaten</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Orde van de Annunciatie van de Gezegende Maagd Maria</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/b3770330-37e0-4ea5-9a28-be464c23132e">
+        <skos:altLabel xml:lang="nl">Congregatio Pretiosi Sanguinis</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Missiezusters van het Kostbaar Bloed</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Missiezusters van het Kostbaar Bloed CPS</skos:altLabel>
+        <skos:altLabel xml:lang="nl">C.P.S.</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Missiezusters van Mariannhill</skos:altLabel>
+        <skos:altLabel xml:lang="nl">CPS</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/1cfd88b0-ea29-4b35-b186-5e95a6a88720">
+        <skos:altLabel xml:lang="nl">Broeders van de Heilige Norbertus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van de H. Norbertus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van Elshout</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:prefLabel xml:lang="nl">Broeders van de Heilige Norbertus van Elshout</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/c294cc74-65f9-495a-8d1e-ae9bc6d692dc">
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Moeders der Armen</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Dochters van de Goddelijke Voorzienigheid</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/db71d7b9-da72-436f-9ea1-63a1c1b9ac6e">
+        <skos:altLabel xml:lang="nl">S.C.M.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van het Gezelschap van Maria</skos:altLabel>
+        <skos:altLabel xml:lang="nl">SCM</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Dochters van O.L. Vrouw</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Dochters van Onze Lieve Vrouw</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/c9dbf3cc-9d2a-4f77-b63a-5c584e0212c1">
+        <skos:altLabel xml:lang="nl">OCR</skos:altLabel>
+        <skos:altLabel xml:lang="nl">O.C.S.O.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Hervormde Cisterciënzers</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Trappisten</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">OCistRef</skos:altLabel>
+        <skos:altLabel xml:lang="nl">OCSO</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Cisterciënzers van de Strenge Onderhouding</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Cisterciënzerorde van de Stricte Observantie</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Trappistenorde</skos:altLabel>
+        <skos:altLabel xml:lang="nl">OCistR</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Ordo Cisterciensis Strictioris Observantiae</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/41e57a0e-06ab-4294-b120-ad0eff16c536">
+        <skos:altLabel xml:lang="nl">Kanunnikessen van de Heilige Augustinus van de Congregatie van Onze Lieve Vrouw</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Kanunnikessen van Sint-Augustinus van de Congregatie van Onze-Lieve-Vrouw</skos:altLabel>
+        <skos:altLabel xml:lang="nl">C.B.M.V.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Ordinis Canonissarum Regularium Sancti Augustini Congregationis Nostrae Dominae</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Chanoinesses Régulières de St. Augustin de la Congrégation de Notre-Dame</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Reguliere Kanunnikessen van de Heilige Augustinus</skos:prefLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Kanunnikessen van de H. Augustinus van de Congregatie van O.L. Vrouw</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Kanunnikessen van de Heilige Augustinus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Kanunnikessen van de H. Augustinus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Reguliere Kanunnikessen van de H. Augustinus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">CBMV</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/5bca7081-fea6-4dde-ba2d-6baf2690951b">
+        <skos:altLabel xml:lang="nl">Congregatie van het Allerheiligste Sacrament</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Sacramentijnen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Paters van het Allerheiligst Sacrament SSS</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Paters van Brakkenstein</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Gemeenschap van het H. Sacrament</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatie van het H. Sacrament</skos:altLabel>
+        <skos:altLabel xml:lang="nl">S.S.S.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Societas Sanctissimi Sacramenti</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Gemeenschap van het Heilig Sacrament</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Paters sacramentijnen</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Congregatie van het Heilig Sacrament</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">SSS</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/948709d8-f04f-4d69-a493-cd30e011bce0">
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Franciscanessen van de H. Familie</skos:altLabel>
+        <skos:altLabel xml:lang="nl">OSF</skos:altLabel>
+        <skos:altLabel xml:lang="nl">O.S.F.</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Franciscanessen van de Heilige Familie</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/0a306ffd-cbaa-4361-a90d-37080645c471">
+        <skos:altLabel xml:lang="nl">Franciscanessen van Veghel SFIC</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Franciscanessen van Veghel</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Zusters Franciscanessen SFIC</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">SFIC</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters Franciscanessen der Onbevlekte Ontvangenis van de Heilige Moeder Gods</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Franciscan Sisters of the Immaculate Conception</skos:altLabel>
+        <skos:altLabel xml:lang="nl">S.F.I.C.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters Franciscanessen</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/1b3b28bd-2350-4958-bfc9-4f4f88f60aa5">
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Broeders van de H. Jozef</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van de Heilige Jozef</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van Heerlen</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Broeders van de Heilige Joseph</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Broeders van de H. Joseph</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders v.d. H. Jozef</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/29a16535-b0fc-4a2d-bd7e-4ba1d9fdb5b7">
+        <skos:altLabel xml:lang="nl">CDBV</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatie van de (Zusters) Dominicanessen van Bethanië uit Venlo</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatio Dominicanarum a Betania Venlonensis</skos:altLabel>
+        <skos:altLabel xml:lang="nl">C.D.B.V.</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Dominicanessen van Bethanië</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Dominicanessen van Bethanië CDBV</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/a1c336fe-2a58-4f79-a53a-20b22ab45b1c">
+        <skos:prefLabel xml:lang="nl">Zusters van Julie Postel</skos:prefLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">S.M.M.P.</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/4598a5a6-632a-4dfa-a383-ba8a39f6a0fc">
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Missionarissen van Scheut CICM</skos:altLabel>
+        <skos:altLabel xml:lang="nl">CICM</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatie van het Onbevlekt Hart van Maria</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Missie-Congregatie van het Onbevlekt Hart van Maria</skos:altLabel>
+        <skos:altLabel xml:lang="nl">C.I.C.M.</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Missionarissen van Scheut</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Congregatio Immaculati Cordis Mariae</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Scheutisten</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/8191a671-d0c3-46b1-a63d-e07a1c1a6bca">
+        <skos:prefLabel xml:lang="nl">Broeders van de Christelijke Scholen</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">F.S.C.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Fratres Scolarum Christianorum</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van de la Salle</skos:altLabel>
+        <skos:altLabel xml:lang="nl">FSC</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Lasallianen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van de Christelijke Scholen FSC</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/45309554-6a70-4ddd-9eb9-1754adf7ce89">
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:prefLabel xml:lang="nl">Zusters van de Voorzienigheid van Ruillé</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/24f9af6d-9b19-405f-99ea-5eb18df67678">
+        <skos:altLabel xml:lang="nl">Broeders van Liefde van Gent</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Hospitaalbroeders van de H. Vincentius</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Broeders van Liefde</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Broeders van Liefde van Eindhoven</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatie van de Broeders van Liefde</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van Liefde FC</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Fratres Caritate</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Hospitaalbroeders van de Heilige Vincentius</skos:altLabel>
+        <skos:altLabel xml:lang="nl">FC</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatio Fratrum Caritatis</skos:altLabel>
+        <skos:altLabel xml:lang="nl">F.C.</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/c11c558d-448c-4d6e-9575-446c2ab997ea">
+        <skos:altLabel xml:lang="nl">Broedercongregatie van Onze Lieve Vrouw van Zeven Smarten</skos:altLabel>
+        <skos:altLabel xml:lang="nl">C.S.D.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatio Septum Dolorum</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van Onze Lieve Vrouw van Zeven Smarten</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van Onze Lieve Vrouw van Zeven Smarten CSD</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van Amsterdam</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van Onze-Lieve-Vrouw van Zeven Smarten</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Broedercongregatie Onze-Lieve-Vrouw van Zeven Smarten</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Broeders met de Blauwe Koorden CSD</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">CSD</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/2c623170-164f-46ac-aad3-07641e4b98d7">
+        <skos:altLabel xml:lang="nl">F.F.S.C.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Franciscaner Broeders van het H. Kruis</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van het H. Kruis</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders Franciscanen van het H. Kruis</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Franciscaner Broeders van het Heilige Kruis</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">FFSC</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Broeders van het Heilige Kruis</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders Franciscanen van het Heilig Kruis</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/8ae62b81-7516-4463-866e-0e82921e9abf">
+        <skos:prefLabel xml:lang="nl">Zusters van Barmhartigheid (Geldrop)</skos:prefLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Zusters van Barmhartigheid van Cadier en Keer</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/b9e6798d-6cfa-4011-816d-763712faa57d">
+        <skos:prefLabel xml:lang="nl">Jezuïeten</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Paters Jezuïeten</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Societatis Jesu</skos:altLabel>
+        <skos:altLabel xml:lang="nl">S.I.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Sociëteit van Jezus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">SI</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Jezuïeten SJ</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">S.J.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Societatis Iesu</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Jezuïetenorde</skos:altLabel>
+        <skos:altLabel xml:lang="nl">SJ</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/925a7009-6f75-4d3e-9d6c-d9afe09ba187">
+        <skos:prefLabel xml:lang="nl">Ongeschoeide Karmelietessen</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">O.C.D.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Ordo Carmelitarum Discalceatorum</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Monialen van de Ongeschoeide Karmel</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Theresianen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde van O.L. Vrouw van de Berg Karmel</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Ongeschoeide Karmelitessen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Ongeschoeide Karmelietessen OCD</skos:altLabel>
+        <skos:altLabel xml:lang="nl">OCD</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Ongeschoeide Karmelietessen van de Orde van de Zalige Maagd Maria van de Berg Karmel</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Ongeschoeide Carmelietessen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Karmelietessen</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/dc22d92f-af4a-4e51-a7ad-76e93839bd5b">
+        <skos:altLabel xml:lang="nl">Missionarissen van Cadier en Keer</skos:altLabel>
+        <skos:altLabel xml:lang="nl">SMA</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Societas Missionum ad Afros</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Sociëteit voor Afrikaanse Missiën SMA</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">S.M.A.</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Sociëteit voor Afrikaanse Missiën</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/69718d45-8f79-44b3-9f42-325df862e64a">
+        <skos:altLabel xml:lang="nl">Karmelitessen</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Karmelieten</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Carmelieten</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Karmelietenpaters</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde van de Broeders van O.L. Vrouw van de berg Karmel</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde van O.L. Vrouw van de Berg Karmel</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">O.carm.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Karmelietessen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Ordo Carmelitarum</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde van de Broeders van Onze Lieve Vrouw van de berg Karmel</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde van Onze Lieve Vrouw van de Berg Karmel</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Ordo Fratrum et Sororum Beatae Mariae Virginis de Monte Carmelo</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Geschoeide Karmelieten</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Karmelieten OCARM</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Ocarm</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/6053bc7f-66b7-4333-9fdb-3ef5ee84e430">
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Juliaantjes</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Liefde van de H. Juliana van Falconieri</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Julianazusters</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Zusters van de Heilige Juliana van Falconieri</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Liefdezusters van de Heilige Juliana van Falconieri</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <dcterms:title xml:lang="nl">Religious Order Type</dcterms:title>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/6fd44889-82b5-4f25-ab6a-3079ca890cb1">
+        <skos:altLabel xml:lang="nl">S.S.C.J.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">SSCJ</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Moerdijk</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Sorores Sanctissimi Cordis Jesu</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van het Heilig Hart</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Zusters van het Allerheiligste Hart van Jezus</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Zusters van het Allerheiligst Heilig Hart van Jezus SSCJ</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van het Allerheiligst H. Hart van Jezus SSCJ</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/5a4ac6ff-58c1-424e-b5c0-adba68e2641c">
+        <skos:prefLabel xml:lang="nl">Bogarden van de derde regel van Sint-Franciscus</skos:prefLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Begharden</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/60c1fb27-17e1-476c-a2f3-be0685d92530">
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Redemptoristinnen OSsR</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde van de Allerheiligste Verlosser</skos:altLabel>
+        <skos:altLabel xml:lang="nl">OSsR</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Redemptoristinnen</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Ordo Sanctissimi Redemptoris</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters Redemptoristinnen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">O.Ss.R.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Rode nonnen</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/a17fbc73-23a4-4fc0-8c94-91b08586f55c">
+        <skos:prefLabel xml:lang="nl">Zusters van Jezus, Maria, Jozef</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Zusters van J.M.J.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Sociëteit van Jezus, Maria en Jozef</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van JMJ</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/5ed337e7-9c65-42db-baff-98df06d85a27">
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:prefLabel xml:lang="nl">Franciscanessen van Oudenbosch</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">FSA</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Penitenten-Recollectinen van de Reguliere Derde Orde van de H. Franciscus van Assisi</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Franciscanessen van St. Anna</skos:altLabel>
+        <skos:altLabel xml:lang="nl">F.S.A.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Franciscanessen van Sint-Anna</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Penitenten-Recollectinen van de Reguliere Derde Orde van de Heilige Franciscus van Assisi</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Franciscanessen van Sint Anna</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/671133f2-7dfe-4711-9333-bf6e2e593c1e">
+        <skos:prefLabel xml:lang="nl">Missiezusters van Onze Lieve Vrouw van Afrika</skos:prefLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Missiezusters van O.L. Vrouw van Afrika ZMAFR (Witte zusters)</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Missiezusters van O.L. Vrouw van Afrika</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Witte Zusters</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Missiezusters van Onze Lieve Vrouw van Afrika MZOLA</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters Missionarissen van Onze Lieve Vrouw van Afrika</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Witte Zusters ZMAFR</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/0bbf00c1-7d9a-4f61-a430-bae6a981b6dd">
+        <skos:altLabel xml:lang="nl">Kleine Zusters van de Goddelijke Voorzienigheid</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Kleine Zusters van de Heilige Jozef</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Kleine Zusters van de Heilige Joseph</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Kleine Zusters van Sint-Joseph</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Kleine Zusters van Sint Joseph</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Kleine Zusters van St. Joseph</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Heerlen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Kleine Zusters van de H.H. Harten van Jezus en Maria</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Kleine Zusters van de H. Joseph</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Paus Pius IX</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Kleine Zusters van de H. Jozef</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Kleine Zusters van het Allerheiligst Hart van Jezus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Sint-Joseph Congregatie</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Kleine Pius-Zusters</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/651c547f-a7c5-43c4-9279-80134bf95fd8">
+        <skos:altLabel xml:lang="nl">Zusters van de H.H. Harten van Jezus en Maria en der Altijddurende Aanbidding van het H. Sacrament des Altaars</skos:altLabel>
+        <skos:altLabel xml:lang="nl">SSCC</skos:altLabel>
+        <skos:altLabel xml:lang="nl">S.S.C.C.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Picpus-zusters</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van de H.H. Harten</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:prefLabel xml:lang="nl">Zusters van de HH. Harten</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/769f8b6e-4523-4c2f-9d6c-dc5629bbef94">
+        <skos:altLabel xml:lang="nl">Ursulinen van de Romeinse Unie OSU</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Ursulinen van de Romeinse Unie</skos:altLabel>
+        <skos:altLabel xml:lang="nl">OSU</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Ursulinen</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Zusters van de Romeinse Unie</skos:altLabel>
+        <skos:altLabel xml:lang="nl">O.S.U.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Ursulinen (van de Romeinse Unie)</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde van de Ursulinen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde van Sint-Ursula</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Ordo Sanctae Ursulae</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/76b40ea2-8864-4f44-a173-5dad6ea6f390">
+        <skos:altLabel xml:lang="nl">Franse paters</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Missionarii a Sancta Familia</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Missionarissen van de Heilige Familie MSF</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Paters van de Heilige Familie</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Paters van de H. Familie</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:prefLabel xml:lang="nl">Missionarissen van de Heilige Familie</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">M.S.F.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Missionarissen van de H. Familie</skos:altLabel>
+        <skos:altLabel xml:lang="nl">MSF</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatio Missionariorum a Sacra Familia</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/e96843fd-1a4c-40e6-9e13-07a1b261ebd2">
+        <skos:altLabel xml:lang="nl">Broeders van de Heilige Aloysius Gonzaga CSAL</skos:altLabel>
+        <skos:altLabel xml:lang="nl">C.S.A.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van Saint Louis</skos:altLabel>
+        <skos:altLabel xml:lang="nl">C.S.A.L.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van Saint-Louis</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van Saint Louis CSAL</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">CSA</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van de H. Aloysius Gonzaga</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Broeders van Oudenbosch</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">CSAL</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van de H. Aloysius Gonzaga CSAL</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van de Heilige Aloysius Gonzaga</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatio Sancti Aloysii</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/57b5de69-0e13-4c09-b96d-51fdc37a2d04">
+        <skos:altLabel xml:lang="nl">Augustijnen van de Assumptie</skos:altLabel>
+        <skos:altLabel xml:lang="nl">A.A.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatie van de Paters Assumptionisten</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Paters Assumptionisten</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Assumptionisten</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Congregatio Augustinianorum ab Assumptione</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Priesters van O.L. Vrouw ten Hemelopneming</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Assumptionisten AA</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">AA</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Augustijnen van O.L. Vrouw ten Hemelopneming</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Priesters van Onze Lieve Vrouw ten Hemelopneming</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Augustiniani ab Assumptione</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatie van de Priesters van Onze Lieve Vrouw Hemelvaart</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Assumptionisten A.A.</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/ea56bf5f-878e-42da-80ef-271d5077785a">
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">O.Cart</skos:altLabel>
+        <skos:altLabel xml:lang="nl">OCart</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde der Kartuizers</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Kartuizers</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Ordo Cartusiensis</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Karthuizers</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/d2a18d39-15ff-4a15-b835-17ada39d02c9">
+        <skos:altLabel xml:lang="nl">S.H.Sp</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van de H. Jozef</skos:altLabel>
+        <skos:altLabel xml:lang="nl">School- en Ziekenzusters van de Heilige Geest</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van de Heilige Jozef</skos:altLabel>
+        <skos:altLabel xml:lang="nl">SHSp</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van de H. Geest (Koblenz)</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van de H. Geest</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Zusters van de Heilige Geest</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Zusters van de Heilige Geest (Koblenz)</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/2431f0a4-4392-49af-9e83-1a57e48ca1b6">
+        <skos:altLabel xml:lang="nl">Missiezusters Oblaten van O.L. Vrouw ten Hemelopneming</skos:altLabel>
+        <skos:altLabel xml:lang="nl">O.A.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">OA</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Oblaten van de Assumptie</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters Oblaten van Onze Lieve Vrouw Assumptie</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Zusters Oblaten van Onze Lieve Vrouw Assumptie OA</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Oblaten van O.L. Vrouw Assumptie</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Oblaten van Onze Lieve Vrouw Assumptie</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Missiezusters Oblaten van Onze Lieve Vrouw ten Hemelopneming</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters Oblaten van O.L. Vrouw Assumptie</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/a49a49aa-d7c9-42ee-b952-790b2d3a8c4d">
+        <skos:altLabel xml:lang="nl">O.S.C.</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Kruisbroeders</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Reguliere Kanunniken van het H. Kruis</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Reguliere Kanunniken van het Heilig Kruis</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde van het H. Kruis</skos:altLabel>
+        <skos:altLabel xml:lang="nl">OSC</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Orde van het Heilig Kruis</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Ordo Sanctae Crucis</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Kruisheren</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/56ee0470-2872-40f4-8284-b3e15867e00d">
+        <skos:altLabel xml:lang="nl">MSC</skos:altLabel>
+        <skos:altLabel xml:lang="nl">De Rooi Harten</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Missionarissen van het Heilig Hart van Jezus MSC</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Rooi Harten</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Missiehuis van het Heilig Hart</skos:altLabel>
+        <skos:altLabel xml:lang="nl">M.S.C.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Missionarissen van het H. Hart van Jezus</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Missionarissen van het Heilig Hart van Jezus</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Missionarii Sacratissimi Cordis Jesu</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Missionarissen van het Heilig Hart</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Missionarissen van het H. Hart</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/5558e685-89c5-41bc-b563-0f50cd7c155f">
+        <skos:altLabel xml:lang="nl">Franciscanessen van de H. Elisabeth</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Franciscanessen van de Heilige Elisabeth</skos:prefLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/760b0e65-07d3-4d0d-840b-a038daa1ec80">
+        <skos:altLabel xml:lang="nl">Norbertinessen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Premonstratenzerinnen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Norbertinessen OPRAEM</skos:altLabel>
+        <skos:altLabel xml:lang="nl">OPRAEM</skos:altLabel>
+        <skos:altLabel xml:lang="nl">OPraem</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Kanunnikessen van de Orde van Premonstreit</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Ordo Praemonstratensis</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Norbertinessen</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/c2b93604-7abc-4ffb-804b-994ca83c617e">
+        <skos:altLabel xml:lang="nl">Gezelschap van Maria</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Paters Montfortanen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Compagnie de Marie</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Societas Mariae Montfortana</skos:altLabel>
+        <skos:altLabel xml:lang="nl">S.M.M.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">SMM</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Montfortanen SMM</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Missionarissen van het Gezelschap van Maria</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Montfortanen</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/b37c9929-1ec8-465a-a970-39bcd90d9f82">
+        <skos:prefLabel xml:lang="nl">Liefdezusters van het Kostbaar Bloed</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Koningsbosch</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Dochters van het Kostbaar Bloed van Onze Heer Jezus Christus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Liefdezusters van het Kostbaar Bloed van Koningsbosch</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/d3798a19-5e02-42f7-a223-e9c0fb2cabb8">
+        <skos:altLabel xml:lang="nl">Augustinessen van Sint-Monica</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Augustinessen van Sint Monica</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters Augustinessen van Sint Monica</skos:altLabel>
+        <skos:altLabel xml:lang="nl">O.S.A.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">OSA</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Augustinessen van St. Monica</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters Augustinessen van St. Monica</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:prefLabel xml:lang="nl">Zusters Augustinessen van Sint-Monica</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/592a3124-9aff-4d57-b141-cad6a1fc6f84">
+        <skos:altLabel xml:lang="nl">Zusters van de Goede Herder</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van O.L. Vrouw van Liefde van de Goede Herder  / diverse</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Congregatie van O.L. Vrouw van Liefde van de Goede Herder</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Onze Lieve Vrouw van Liefde van de Goede Herder</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Congregatie van Onze Lieve Vrouw van Liefde van de Goede Herder</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/106bf8f3-16ab-4066-9818-7b50c7190274">
+        <skos:altLabel xml:lang="nl">Fratres De Misericordia</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Broeders van Scheppers</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">F.D.M.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van O.L.V. van Barmhartigheid (Mechelen)</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van Scheppers FDM</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van Onze-Lieve-Vrouw van Barmhartigheid (Mechelen)</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Broeders van O.L. Vrouw van Barmhartigheid</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van Onze Lieve Vrouw van Barmhartigheid</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van Scheppers</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van Onze-Lieve-Vrouw van Barmhartigheid</skos:altLabel>
+        <skos:altLabel xml:lang="nl">FDM</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van Oud-Gastel</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/81d81c6f-7df3-477e-86f5-73a68dc4a3ea">
+        <skos:prefLabel xml:lang="nl">Karmelietessen van het Goddelijk Hart van Jezus</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Zusters van de Kollenberg</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Karmelitessen van het Heilig Hart van Jezus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">D.C.J.</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Karmelitessen DCJ</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Karmelitessen van het H. Hart van Jezus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">DCJ</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Karmelitessen van het Goddelijk Hart van Jezus</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/aa6f433e-40c3-4fe2-b811-534fa084b899">
+        <skos:prefLabel xml:lang="nl">Franciscanessen van Oirschot</skos:prefLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Zusters van Oirschot</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters Franciscanessen van Oirschot</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/4d11966f-aff2-4578-9da6-5d0cb364dfde">
+        <skos:altLabel xml:lang="nl">Missiezusters van Asten</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Missiezusters Franciscanessen van de Heilige Antonius van Padua</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Missiezusters Franciscanessen van de H. Antonius van Padua</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Franciscanessen van Asten</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/9c307f8e-d77d-48ea-ac91-0dafed2ac3e8">
+        <skos:altLabel xml:lang="nl">Trappistinnen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Ordo Cisterciensis Strictioris Observantiae</skos:altLabel>
+        <skos:altLabel xml:lang="nl">O.C.S.O.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Bernadinnen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Cisterciënzers</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Cisterciënzerinnen</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Cisterciënzerinnen OCSO</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">OCSO</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde der Cisterciënzers van de Strikte Observantie</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Bernadijnen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde der Cisterciënzer</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/4bc31870-a41c-4848-897a-cca093442620">
+        <skos:prefLabel xml:lang="nl">Zusters van de Goddelijke Verlosser (Deurne)</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Dochters van de Allerheiligste Heiland</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van de Goddelijke Verlosser</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van de Goddelijke Verlosser FDS</skos:altLabel>
+        <skos:altLabel xml:lang="nl">FDS</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van de Allerheiligste Verlosser</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Filiae Divini Salvatoris</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Weense Zusters</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van de Goddelijke Heiland</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Dochters van de Goddelijke Heiland</skos:altLabel>
+        <skos:altLabel xml:lang="nl">F.D.S.</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/ba90e00c-daf1-4f22-98d9-bb98068b3bfa">
+        <skos:altLabel xml:lang="nl">Zusters van Steyl</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Zusters van de Goddelijke Voorzienigheid (Steyl)</skos:prefLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Zusters van de Goddelijke Voorzienigheid (Tegelen)</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van de Goddelijke Voorzienigheid van Steyl</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatie van de Zusters van de Zusters van de Goddelijke Voorzienigheid</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/2bfdf64b-41bc-44c0-9f6d-d1a57dcfda5d">
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Congregatio Sacrorum Cordium</skos:altLabel>
+        <skos:altLabel xml:lang="nl">S.S.C.C.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatie van Picpus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van de Heilige Harten</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Paters van de Heilige Harten van Jezus en Maria</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Paters van de Heilige Harten SSCC</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Damianen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Picpus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatie van de Heilige Harten van Jezus en Maria</skos:altLabel>
+        <skos:altLabel xml:lang="nl">SSCC</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Paters van de HH. Harten</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatio Sacrorum Cordium Iesu et Mariæ necnon adorationis perpetuæ Ss. Sacramenti altaris</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Paters van de Heilige Harten</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">SS.CC</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Paters van de HH. Harten van Jezus en Maria en van de Eeuwigdurende Aanbidding van het Allerheiligste Sacrament des Altaars</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Picpus-paters</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/6e181da5-86a9-4db7-aec8-218408763abf">
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Missionarissen Oblaten van de Onbevlekte Maagd Maria OMI</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatio Missionariorum Oblatorum Beatae Mariae Virgini Immaculatae</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Oblaten van Maria</skos:altLabel>
+        <skos:altLabel xml:lang="nl">O.M.I.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">OMI</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Oblaten van de Onbevlekte Maagd Maria</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/922f9989-4643-4205-9cff-fbfc73f9bb9c">
+        <skos:altLabel xml:lang="nl">Christelijke Broeders van de Onbevlekte Ontvangenis van de Allerheiligste Maagd en Moeder Gods Maria</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatio Fratrum Huijbergen (CFH)</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Broeders van Huijbergen</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Broeders van Sainte Marie</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatie van de Broeders van Huijbergen (CFH)</skos:altLabel>
+        <skos:altLabel xml:lang="nl">C.F.H.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van Huijbergen C.F.H.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">CFH</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatio Fratrum Immaculatae Conceptionis Beatae Virginis et Dei Genetricis Mariae</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van Huijbergen CFH</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van Huijbergen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatie der Broeders van de Onbevlekte Ontvangenis der Allerheiligste Maagd en Moeder Gods Maria</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Broeders van Sint Marie</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/1bca3c7c-c66b-44d9-8f75-bbeef570e438">
+        <skos:altLabel xml:lang="nl">Franciscanessen van Roosendaal</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Franciscanessen van Mariadal PR</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Franciscanessen ‘Mariadal’</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Franciscanessen van Mariadal</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/d3b47166-f25d-457f-917f-30f8b6c00b65">
+        <skos:altLabel xml:lang="nl">Penitenten-Recollectinen van de Haagdijk</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Franciscanessen Alles voor Allen</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">P.R.</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Franciscanessen 'Alles voor Allen'</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatie 'Alles voor Allen'</skos:altLabel>
+        <skos:altLabel xml:lang="nl">PR</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Franciscanessen Alles voor Allen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Franciscanessen van Maria Mater Dei</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Penitenten-Recollectinen van het R.K. Gasthuis aan de Haagdijk</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Franciscanessen Gasthuiszusters</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters Franciscanessen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Gasthuiszusters van Breda</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters Franciscanessen Alles voor Allen</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/c0d5b42b-c15b-4a54-84bf-b83e0d163793">
+        <skos:altLabel xml:lang="nl">Zusters Alexianen CFAC</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Cellezusters</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatie van de Zwarte Zusters van de H. Augustinus</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Congregatie van de Zwarte Zusters van de Heilige Augustinus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zwarte Zusters van de H. Augustinus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Celzusters</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Cellitinnen</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Zwarte Zusters van de Heilige Augustinus</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Zwartzusters</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters Alexianen</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/827485c4-4b9a-4e29-b75f-253345a52ddd">
+        <skos:altLabel xml:lang="nl">Colettinen</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Clarissen-Coletinen OCC</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Clarissen-Coletinen</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Ordo Monialum Clarissae Reformationis a S. Coleta</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Clarissen-Coletinen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">OCC</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Coletienen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Coletinen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">O.C.C.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Ordo Sanctae Clarae reformationis ab Coleta</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters Clarissen Coletienen</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/27ec172d-dece-428f-b35a-ff1ed59e57b9">
+        <skos:altLabel xml:lang="nl">Franciscanessen van de Allerzaligste Maagd Maria ter Engelen BMVA</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Maria ter Engelen BMVA</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Franciscanessen van de Allerzaligste Maagd Maria ter Engelen</skos:prefLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Zusters van Maria ter Engelen</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/1ef2c09b-021b-4780-8cc6-6dd9ed6cedc4">
+        <skos:prefLabel xml:lang="nl">Franciscanessen van Bennebroek</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Penitenten der Derde Orde van de Heilige Vader Franciscus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Bruine zusters</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Franciscanessen van St. Lucia</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Franciscanessen van Sint Lucia</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Franciscanessen van Sint-Lucia</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Religieuzen-Penitenten der Derde Orde van de Heilige Franciscus</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/52634174-2d54-470a-8ff7-9e8eeba37a8c">
+        <skos:altLabel xml:lang="nl">Penitenten-Recollectinen van de Reforme van Limburg</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Franciscanessen van Dongen</skos:prefLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">PR</skos:altLabel>
+        <skos:altLabel xml:lang="nl">P.R.</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/567fe70e-7693-48bf-a893-5d1fb1030411">
+        <skos:prefLabel xml:lang="nl">Zusters Dienaressen Jezus Christus Priester</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Dienaressen Jezus Christus Priester</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Dienaressen J.C. Priester</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/65221173-f75d-4512-82dc-bf2fb75af159">
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:prefLabel xml:lang="nl">Kartuizers van Vught</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Karthuizers van Vught</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/58a2d3b2-d9aa-456f-b7e5-dcd1a361b283">
+        <skos:altLabel xml:lang="nl">Orde van Sint-Benedictus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Benedictinessen OSB</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Ordo Sancti Benedicti</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Benedictinessen</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Benedictinessen van Oosterhout</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Benedictinessen van Solesmes</skos:altLabel>
+        <skos:altLabel xml:lang="nl">OSB</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde van St. Benedictus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde van Sint Benedictus</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">O.S.B.</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/497651f3-db07-4f28-847b-d1445f629117">
+        <skos:altLabel xml:lang="nl">SMR</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Soeurs de Marie-Réparatrice</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Reparatricen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters Reparatricen SMR</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Maria Reparatrix</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatie van Maria Eerherstel</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Maria Eerherstel</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Zusters Reparatricen</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Congregatie van de Reparatricen</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">S.M.R.</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/a900a803-7a8e-4ea7-a2ed-d8d9068a5668">
+        <skos:altLabel xml:lang="nl">Borromerinnen</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:prefLabel xml:lang="nl">Barmhartige Zusters van de Heilige Carolus Borromeus (D)</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Barmhartigheid van de H. Carolus Borromeus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Barmhartigheid van de Heilige Carolus Borromeus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Barmhartige Zusters van de H. Carolus Borromeus</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/e5f841c4-5839-4b3a-8393-47895d4f6e26">
+        <skos:altLabel xml:lang="nl">Franciscanessen van de H. Jozef</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Valkenburg</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Franciscanessen van de H. Josef</skos:altLabel>
+        <skos:altLabel xml:lang="nl">FSJ</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Franciscanessen van Sint-Jozef</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Barmhartige Zusters van de Derde Orde van de H. Franciscus van Assisi</skos:altLabel>
+        <skos:altLabel xml:lang="nl">F.S.J.</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Franciscanessen van de Heilige Jozef</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Franciscanessen van de Heilige Jozef FSJ</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Barmhartige Zusters van de Derde Orde van de Heilige Franciscus van Assisi</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Franciscanessen van de Heilige Josef</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Schin-op-Geulle</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Franciscanessen van de H. Jozef FSJ</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Franciscanessen van Sint Jozef</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Franciscanessen van St. Jozef</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zwarte Zusters</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/f251c89a-e050-4266-9e37-a03670dc6056">
+        <skos:altLabel xml:lang="nl">Fraters van Tilburg CMM</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Fraters van Tilburg C.M.M.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">C.M.M.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatie van Onze Lieve Vrouw, Moeder van Barmhartigheid</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatie der Fraters van O.L.-Vrouw, Moeder van Barmhartigheid</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatio Matris Misericordiae</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatio Fratrum Beatae Mariae Virginis Matris Misericordiae</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Fraters van de Heilige Maagd Maria, Moeder van Barmhartigheid</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Fraters van Tilburg</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">CMM</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/1a6d8497-f909-4d4e-be00-67cf9d72877d">
+        <skos:prefLabel xml:lang="nl">Franciscanessen van Mill Hill</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">F.M.S.J.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Franciscanessen Missiezusters van de Heilige Joseph van Mill Hill</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Mill Hill-Zusters</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Franciscanessen Missiezusters van de H. Joseph van Mill Hill</skos:altLabel>
+        <skos:altLabel xml:lang="nl">FMSJ</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/b49d1f35-8758-4b4e-b4cb-ff05f2affea4">
+        <skos:altLabel xml:lang="nl">OCCap</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:prefLabel xml:lang="nl">Clarissen-Capucinessen</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Orde der Clarissen-Capucinessen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Ordo Clarissarum Capucinarum</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/6f17bd52-a33c-4184-a928-d03d4638dd24">
+        <skos:altLabel xml:lang="nl">Soeurs de Marie-Jozef</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Zusters van Maria en Jozef</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Maria en Joseph</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Soeurs des Prisons</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Zusters van Maria-Jozef</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <dcterms:title xml:lang="en">Religious Order Type</dcterms:title>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/6b404890-c823-45af-bd12-61c5e6729544">
+        <skos:altLabel xml:lang="nl">D.S.C.S.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatie van de Heilige Catharina van Senen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Dominicanessen van de H. Catharina van Siena</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Dominicanessen van de Heilige Catharina van Siena</skos:prefLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">DSCS</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Dominicanessen van de Heilige Catharina van Siena (Portugal)</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Dominicanas de Santa Catarina de Sena</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Dominicanessen van Voorschoten</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatie van de H. Catharina v. Senen</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/93a66f07-ef2c-4103-acee-ce2ef5ae77b5">
+        <skos:altLabel xml:lang="nl">Zusters van de Allerheiligste Verlosser</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Filiae Divini Salvatoris</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Zusters van de Goddelijke Verlosser (Esch)</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Zusters van de Goddelijke Verlosser</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/37ecde44-4c8d-47e0-8d92-f85d49176e0d">
+        <skos:altLabel xml:lang="nl">Congregatie van de Dochters van Liefde van de H. Vincentius à Paulo</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Liefdeszusters</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Vincentianessen</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Dochters van Liefde van Vincentius à Paulo</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Dochters der Liefde</skos:altLabel>
+        <skos:altLabel xml:lang="nl">F.d.C.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">FdC</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/f97d6c5b-e714-42d3-8ffe-5c497fdeb758">
+        <skos:prefLabel xml:lang="nl">Zusters van de Choorstraat</skos:prefLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/201adba0-6f29-4bcb-93c6-2fe059680204">
+        <skos:altLabel xml:lang="nl">OSC</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde der Clarissen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">O.S.C.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Clarissen-Urbanisten</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Arme Claren</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Urbanisten</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Clarissen OSC</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Clarissen</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Zusters van de Tweede Orde van Sint-Franciscus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van de Tweede Orde van St. Franciscus</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Arme Klaren</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Rijke Klaren</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Ordo Sanctae Clarae</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Klarissen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Arme Clarissen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van de Tweede Orde van Sint Franciscus</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/14573658-bdb7-471f-85dd-8617dca5ef27">
+        <skos:altLabel xml:lang="nl">Broeders van Oostakker</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van de Goede Werken</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Broeders van Onze-Lieve-Vrouw van Lourdes</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Broeders van de H. Vincentius</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van Ronse</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatie van de Broeders van Goede Werken</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatio Fratrum Beatae Mariae Virginis de Lourdes</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van Dongen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van Onze Lieve Vrouw van Lourdes</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Broeders van de Heilige Vincentius</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van Goede Werken</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van O.L. Vrouw van Lourdes</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/7bde150c-7de6-408e-8ec8-fbbc51e6232c">
+        <skos:altLabel xml:lang="nl">Broeders Penitenten CFPSF</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatio Fratrum Poenitentium Sancti Francisci</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Broeders van Huize Padua</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van de Derde Regel van Penitentie</skos:altLabel>
+        <skos:altLabel xml:lang="nl">c.f.p-s.f.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders Penitenten van de H. Franciscus van Assisi</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Broeders Penitenten</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Broeders van Boekel</skos:altLabel>
+        <skos:altLabel xml:lang="nl">CFP-SF</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders Penitenten van de Heilige Franciscus van Assisi</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatie van de Broeders van den Derden Regel van Penitentie van den H. Vader Franciscus van Assisië</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/28c2bb4d-42f9-4bfc-aaf5-cf1266f8d8cb">
+        <skos:prefLabel xml:lang="nl">Franciscanen</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Minderbroeders franciscanen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Franciscanen OFM/OFMCONV</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Serafijnse Orde</skos:altLabel>
+        <skos:altLabel xml:lang="nl">O.F.M.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Franciskanen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Minnebroeders</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">OFM</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Ordo Fratrum Minorum</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Franciscaner Orde</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde van de Minderbroeders</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Minderbroeders</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/88f3d70e-3256-4aaf-bcf7-20998e93275d">
+        <skos:prefLabel xml:lang="nl">Missie- en Aanbiddingszusters van de Heilige Familie</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Missie- en Aanbiddingszusters van de H. Familie MASF</skos:altLabel>
+        <skos:altLabel xml:lang="nl">MASF</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van de H. Familie</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van de Heilige Familie</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Missie- en Aanbiddingszusters van de H. Familie</skos:altLabel>
+        <skos:altLabel xml:lang="nl">M.A.S.F.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Missio Adoratio Sancta Familia</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/f2c8863e-55fb-4a3d-a0c6-90e4e7ff3de2">
+        <skos:prefLabel xml:lang="nl">Missionarissen van het Goddelijk Woord</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">SVD</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Gezelschap van het Goddelijk Woord</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Missionarissen van Steyl</skos:altLabel>
+        <skos:altLabel xml:lang="nl">S.V.D.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Missionarissen van het Goddelijk Woord SVD</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Societas Verbi Divini</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Missiepaters van Steyl</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Paters van Steyl</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/bb22a7c4-d82e-448a-8722-310d9a610c02">
+        <skos:altLabel xml:lang="nl">Ordo Visitatio Mariae</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde van Maria Visitatie</skos:altLabel>
+        <skos:altLabel xml:lang="nl">OVM</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Visitandinnen</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Zusters van de Orde van Onze Lieve vrouw Visitatie</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/54b25a1b-4972-4613-bb30-ae53a7d556ec">
+        <skos:altLabel xml:lang="nl">Congregatie van het Lijden van Jezus Christus</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">CP</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatie van het Allerheiligste Kruis en het Lijden onzes Heren Jezus Christus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatio Passionis Jesu Christi</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Passionisten</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Congregatio Clericorum Excalceatorum Sanctissimae Crucis et Passionis Domini Nostri Jesu Christi</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Passionisten CP</skos:altLabel>
+        <skos:altLabel xml:lang="nl">C.P.</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/f96f1d78-95d4-4860-8dcb-966f18300190">
+        <skos:prefLabel xml:lang="nl">Dochters van de Heilige Geest</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Dochters van de H. Geest</skos:altLabel>
+        <skos:altLabel xml:lang="nl">FSE</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">F.S.E.</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/73ed9cf1-2d6f-4e7d-9417-62767ea7b359">
+        <skos:altLabel xml:lang="nl">Broeders van Maastricht FIC</skos:altLabel>
+        <skos:altLabel xml:lang="nl">FIC</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van de Beyart</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Meesters uit Maastricht</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Broeders van de Onbevlekte Ontvangenis van de H. Maagd Maria onder bescherming van de H. Vincentius à Paulo</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatie van de Broeders van de Onbevlekte Ontvangenis van de H. Maagd Maria</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Broeders van Maastricht</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Broeders van de Onbevlekte Ontvangenis van Maria</skos:altLabel>
+        <skos:altLabel xml:lang="nl">F.I.C.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van de Onbevlekte Ontvangenis van de H. Maagd Maria</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatio Fratrum Immaculatae Conceptionis Beatae Mariae Virginis</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/f12ff24b-6a9a-40d3-8194-cb430be4515f">
+        <skos:altLabel xml:lang="nl">OSsS</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde van St. Birgitta</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde van de Allerheiligste Verlosser</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde van Sint-Birgitta</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Birgittinessen</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Birgittinessen OSSS</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Ordo Sanctissimi Salvatoris</skos:altLabel>
+        <skos:altLabel xml:lang="nl">O.Ss.S</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">OSSS</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde van Sint Birgitta</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/b8b295bb-f0f0-481d-b006-ba8c1bfbc2a6">
+        <skos:altLabel xml:lang="nl">Congregatio Fratrum Misericordiae de Montabaur</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van Joannes de Deo</skos:altLabel>
+        <skos:altLabel xml:lang="nl">F.M.M.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van de Heilige Joannes de Deo</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van Barmhartigheid van Sint Joannes de Deo</skos:altLabel>
+        <skos:altLabel xml:lang="nl">FMM</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van de H. Joannes de Deo</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van Barmhartigheid van St. Joannes de Deo</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Fratres Misericordiae Montabaur</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:prefLabel xml:lang="nl">Broeders van Barmhartigheid van Sint-Joannes de Deo</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Barmherzige Brüder von Montabaur</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders van Barmhartigheid van Sint-Joannes de Deo FMM</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Barmhartige Broeders van Montabaur</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/f74d16f7-c3e4-4cb0-9657-7af729887a34">
+        <skos:altLabel xml:lang="nl">CSsr</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:prefLabel xml:lang="nl">Redemptoristen</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">C.Ss.R.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Redemptoristen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Redemptoristen CSSR</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatie van de Allerheiligste Verlosser</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatio Sanctissimi Redemptoris</skos:altLabel>
+        <skos:altLabel xml:lang="nl">CSSR</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/209bd9fa-9cd6-448e-b2f8-49b23e89775e">
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">FDNSC</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Dochters van Onze Lieve Vrouw van het Heilig Hart</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Dochters van O.L. Vrouw van het Heilig Hart FDNSC</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Dochters van Onze Lieve Vrouw van het Heilig Hart FDNSC</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Gutjesnonnen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">F.D.N.S.C.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Dochters OLV H. Hart</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Filia Dominae Nostrae a Sacro Corde</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/fc9effe4-f807-497e-bbe8-58874204b1a3">
+        <skos:altLabel xml:lang="nl">Paters van de Heilige Geest CSSP</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Spiritanen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Paters van de H. Geest CSSP</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Spiritijnen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatie van de Heilige Geest onder bescherming van het Onbevlekt Hart van Maria</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatie van de Heilige Geest CSSP</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatie van de H. Geest onder bescherming van het Onbevlekt Hart van Maria</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatie van de H. Geest</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">CSSp</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatio Sancti Spiritus sub tutela Immaculati Cordis Beatissimae Virginis Mariae</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Congregatie van de Heilige Geest</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Congregatie van de Paters van de Heilige Geest</skos:altLabel>
+        <skos:altLabel xml:lang="nl">C.S.S.p</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Paters van de Heilige Geest</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/0e788c26-f53c-4d62-9ed2-e42a2384e392">
+        <skos:prefLabel xml:lang="nl">Birgittijnen</skos:prefLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/da47b501-9211-47ad-b30f-ebcb120f711c">
+        <skos:altLabel xml:lang="nl">Benedictinessen van het Heilige Sacrament</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Benedictinessen van het Heilig Sacrament</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Benedictinessen van het H. Sacrament</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Benedictinessen van de Altijddurende Aanbidding van het Heilig Sacrament OSBADPERP</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Benedictinessen van Altijddurende Aanbidding van het Allerheiligste Sacrament</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Benedictinessen van het H. Sacrament OSBADPERP</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Benedictinessen van de Altijddurende Aanbidding van het Heilig Sacrament</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/0c702c69-a428-4ddb-b111-656e6bb3eb4c">
+        <skos:altLabel xml:lang="nl">Zusters van O.L. Vrouw van het Cenakel</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Onze-Lieve-Vrouw der Afzondering in het Cenakel</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Onze Lieve Vrouw der Afzondering in het Cenakel</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Onze Lieve Vrouw van het Cenakel FC</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Zusters van Onze Lieve Vrouw van het Cenakel</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Zusters van O.L. Vrouw van het Cenakel FC</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Zusters van het Cenakel</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/f75f91be-c291-42a4-9b75-81a861b6b0e3">
+        <skos:altLabel xml:lang="nl">OSB</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Benedictijnen OSB</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde van St. Benedictus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde van Sint Benedictus</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Confoederatio Benedictina</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde der Benedictijnen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde van de H. Benedictus</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Benedictijnen</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Orde van Sint-Benedictus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde van de Heilige Benedictus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">O.S.B.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zwarte monniken</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Ordo Sancti Benedicti</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/67c1d721-8ca5-490c-b2e0-6c9f9228ac6c">
+        <skos:altLabel xml:lang="nl">OP</skos:altLabel>
+        <skos:altLabel xml:lang="nl">O.P.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Dominicanessen van de Heilige Familie, Jezus, Maria en Jozef</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Dominicanessen van Neerbosch</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Dominicanessen van de Heilige Familie</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Dominicanessen van de Heilige Familie OP</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/23e37c6a-e663-4c94-a748-c272f2eeb31d">
+        <skos:altLabel xml:lang="nl">Helpsters van de Zielen in het Vagevuur</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Auxiliatricen der Zielen in het Vagevuur</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">SA</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Auxiliatricen van de Zielen in het Vagevuur</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Auxiliatricen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">S.A.</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Zusters Auxiliatricen</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/48c88f17-a64f-4d70-aa58-8f0bed43ebe3">
+        <skos:altLabel xml:lang="nl">Reguliere Kanunniken van Sint-Jan van Lateranen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">C.R.L.</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Reguliere Kanunniken van Lateranen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatie der Reguliere Kanunniken van de Allerheiligste Verlosser van Lateranen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatie van Lateranen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Reguliere Kanunniken van Sint Augustinus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Reguliere Kanunniken van de Heilige Augustinus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">CRL</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Reguliere Kanunniken van de H. Augustinus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Reguliere Kanunniken van St. Jan van Lateranen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Reguliere Kanunniken van St. Augustinus</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Reguliere Kanunniken van Sint-Augustinus</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Canonici Regulares Lateranenses</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Reguliere Kanunniken van Sint Jan van Lateranen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Lateraanse Congregatie</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/c6bd6f76-ba97-449a-97c1-b2601d5077bb">
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Guilielmieten</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Wilhelmieten</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Willemieten</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Baselaars</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/921fc212-46c4-4eb6-a923-5b9bd2425643">
+        <skos:altLabel xml:lang="nl">Franciscanessen van Megen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van de Derde Orde van de H. Franciscus</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Penitenten van de Eenheid</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Zusters van de Derde Orde van de Heilige Franciscus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatie der Zusters Penitenten der Hereniging</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Franciscanessen van Haren</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Penitenten (van de Eenheid)</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/c718e50b-91a0-4330-8a5e-abc9f654b3ec">
+        <skos:altLabel xml:lang="nl">Missiezusters Dienaressen van de H. Geest</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Blauwe Zusters van Steyl-Baexem</skos:altLabel>
+        <skos:altLabel xml:lang="nl">CMSSpS</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Missiecongregatie van de Dienaressen van de Heilige Geest</skos:altLabel>
+        <skos:altLabel xml:lang="nl">S.Sp.S</skos:altLabel>
+        <skos:altLabel xml:lang="nl">C.M.S.Sp.S</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatio Missionalis Servarum Spiritus Sanctis</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Servarum Spiritus Sancti</skos:altLabel>
+        <skos:altLabel xml:lang="nl">SSpS</skos:altLabel>
+        <skos:altLabel xml:lang="nl">SSPS</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Missiecongregatie van de Dienaressen van de H. Geest</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Dienaressen van de H. Geest</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Missiezusters van Steyl</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:prefLabel xml:lang="nl">Missiezusters Dienaressen van de Heilige Geest</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Blauwe Zusters</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Dienaressen van de Heilige Geest</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Steyl</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/44272128-b69a-403f-bc49-ff456a8dfdc6">
+        <skos:altLabel xml:lang="nl">OSA</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Augustijner Heremieten</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde van Sint Augustinus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Reguliere Kanunniken van Augustinus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Augustijnen Eremieten</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Augustijnen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">O.S.A.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">C.R.S.A.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde van de Augustijnen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Heremieten van Sint Augustinus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Paters Augustijnen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde van Paters Augustijnen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Augustijnerorde</skos:altLabel>
+        <skos:altLabel xml:lang="nl">CRSA</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde van Sint-Augustinus</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Augustijnen</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">OESA</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Ordo Sancti Augustini</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde van de Eremieten van Sint Augustinus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Augustijnen OSA</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Augustijnermonniken</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Heremieten van Sint-Augustinus</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Ordo Eremitarum Sancti Augustini</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Augustijnen O.S.A.</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/cc8b72de-5993-42fb-8d39-1c257225eb76">
+        <skos:altLabel xml:lang="nl">Ordo Praedicatorum</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Dominicaner orde</skos:altLabel>
+        <skos:altLabel xml:lang="nl">OP</skos:altLabel>
+        <skos:altLabel xml:lang="nl">O.P.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Dominicanen OP</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Ordo Fratrum Praedicatorum</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Predikbroeders</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Predikheren</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde der Predikheren</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Dominicanen</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Preekheren</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/59130d1e-9eab-4c61-b468-bc0ecc9cdc89">
+        <skos:prefLabel xml:lang="nl">Maristen</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Paters Maristen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Sociëteit van Maria</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">SM</skos:altLabel>
+        <skos:altLabel xml:lang="nl">S.M.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Maristen SM</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Societas Mariae</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/578e9787-b9db-41ec-90e5-d4a7c0a7b98f">
+        <skos:altLabel xml:lang="nl">Zusters van Liefde van Schijndel</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Schijndel</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatie Zusters van Liefde</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Congregatie van de Zusters van Liefde</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Liefde van Jezus en Maria van Goede Bijstand</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Liefde (Schijndel)</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Liefde van Jezus en Maria, Troosteres der Bedrukten</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Zusters van Liefde van Jezus en Maria, Moeder van Goede Bijstand</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/e4bcaf32-c8bc-4856-84ba-79009f1efd98">
+        <skos:prefLabel xml:lang="nl">Monniken van de Orthodoxe Kerk van de Heilige Profeet Elias aan de Nimrod</skos:prefLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/a37f5cc6-5593-401c-96b7-f2c758850555">
+        <skos:altLabel xml:lang="nl">PA</skos:altLabel>
+        <skos:altLabel xml:lang="nl">MAfr</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Sociëteit der Missionarissen van Afrika</skos:altLabel>
+        <skos:altLabel xml:lang="nl">PB</skos:altLabel>
+        <skos:altLabel xml:lang="nl">WF</skos:altLabel>
+        <skos:altLabel xml:lang="nl">P.A.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">WP</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Patres Albi (p.a.)</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Missionarissen van Afrika</skos:prefLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">MAFR</skos:altLabel>
+        <skos:altLabel xml:lang="nl">M.Afr.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Witte Paters</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Pères Blancs</skos:altLabel>
+        <skos:altLabel xml:lang="nl">White Fathers</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/965fcb88-f9ec-4e43-918c-19c289a2fd25">
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:prefLabel xml:lang="nl">Dochters van Maria en Joseph</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Omnibus Charitas</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Omnibus Charitas</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatie van de Dochters van Maria en Joseph</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Liefdezusters van Maria en Joseph</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van de Choorstraat</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Dochters van Maria en Josef</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/9ba0e276-bd38-4078-a9b5-559fd2c60207">
+        <skos:altLabel xml:lang="nl">Orde van Premonstreit</skos:altLabel>
+        <skos:altLabel xml:lang="nl">OPRAEM</skos:altLabel>
+        <skos:altLabel xml:lang="nl">OPraem</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Norbertijnen OPRAEM</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Norbertijnen</skos:prefLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Orde der Premonstratenzers</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Norbertijnen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Praemonstratenzers</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde der Reguliere Kanunniken van Prémontré</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Premonstratenzers</skos:altLabel>
+        <skos:altLabel xml:lang="nl">O. Praem.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Ordo Canonici Regularis Praemonstratensis</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Witheren</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/5e62c2b1-016c-4c80-b877-1f1d55b38d03">
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:prefLabel xml:lang="nl">De Zusters van Barmhartigheid (Maastricht)</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/a5be29bd-9806-428a-9635-a779f90ba8d4">
+        <skos:altLabel xml:lang="nl">Witte Zusters</skos:altLabel>
+        <skos:altLabel xml:lang="nl">FMM</skos:altLabel>
+        <skos:altLabel xml:lang="nl">F.M.M.</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:prefLabel xml:lang="nl">Franciscanessen Missionarissen van Maria</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Zusters Franciscanessen Missionarissen van Maria</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters Franciscanessen Missionarissen van Maria FMM</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/0c3334c4-fc20-4c38-b412-e43b359b8cbe">
+        <skos:altLabel xml:lang="nl">Priesters van het H. Hart van Jezus SCJ</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Priesters van het Heilig Hart van Jezus SCJ</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Priestercongregatie van het Heilig Hart van Jezus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">S.C.I.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">SCJ</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Priesters van het H. Hart van Jezus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">S.C.J.</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Priesters van het Heilig Hart van Jezus</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Priestercongregatie van het H. Hart van Jezus</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">SCI</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/b03e6560-b562-46c4-ae0d-1e555f0b7d2b">
+        <skos:prefLabel xml:lang="nl">Liefdezusters van de Heilige Carolus Borromeus</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Barmhartige Zusters van de Heilige Carolus Borromeus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Barmhartige Zusters van de H. Carolus Borromeus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">SMCB</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Liefdezusters van de Heilige Carolus Borromeus (Maastricht)</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van de H. Vincentius a Paulo</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Sorores Misericordiae Sancti Caroli Borromei</skos:altLabel>
+        <skos:altLabel xml:lang="nl">S.M.C.B.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters Onder de Bogen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Liefdezusters CB</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Maastricht</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Liefdezusters van de H. Carolus Borromeus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Bogenzusters</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van de Heilige Vincentius a Paulo</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatie van de Liefdeszusters</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Liefdezusters van de H. Carolus Borromeus (Maastricht)</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/ebdafb40-212e-40bc-82a2-dddf6376b73d">
+        <skos:altLabel xml:lang="nl">Missiezusters van de Heilige Geest CSSP</skos:altLabel>
+        <skos:altLabel xml:lang="nl">C.S.S.P.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Spiritaines</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Missiezusters van de H. Geest</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Missionnaires du Saint Esprit (de Boulogne-sur-Seine)</skos:altLabel>
+        <skos:altLabel xml:lang="nl">CSSP</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:prefLabel xml:lang="nl">Missiezusters van de Heilige Geest</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Missiezusters van de H. Geest CSSP</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/94e8330e-aea1-4400-a869-5a03b7be4af5">
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:prefLabel xml:lang="nl">Catechisten van Breda</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Vereniging van Catechisten</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Catechisten van de Eucharistische Kruistocht</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/f0bef749-28ae-476f-b4ba-2fd7a6462479">
+        <skos:prefLabel xml:lang="nl">Franciscanessen van Etten</skos:prefLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/0651af9b-8949-4235-9fe6-253d70b783fa">
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">CM</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Congregatie der Missie</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Congregatie der Missie</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Lazaristen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatio Missionis</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Lazaristen CM</skos:altLabel>
+        <skos:altLabel xml:lang="nl">C.M.</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/a522f75b-0f62-4695-a125-ac94e8641d27">
+        <skos:altLabel xml:lang="nl">Congregatio Fratrum Alexianorum Cellitarum</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Cellebroeders</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Lollarden</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Broeders Alexianen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">CFA</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Arme broeders</skos:altLabel>
+        <skos:altLabel xml:lang="nl">C.F.A.</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Cellieten</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Alexianen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatio Fratrum Alexianorum</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Alexianen (Cellebroeders)</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/46dbb1a4-d573-4130-96eb-69c44ecb5c17">
+        <skos:altLabel xml:lang="nl">OFMCap</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Kapucijnen OFMCAP</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Ordo Fratrum Minorum Capuccinorum</skos:altLabel>
+        <skos:altLabel xml:lang="nl">OMCap</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Kapucijnen</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Minderbroeders Kapucijnen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Capucijnen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">O.F.M.Cap.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Minderbroeders Capucijnen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Franciscaner Orde der Minderbroeders Kapucijnen</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/0c5f73ce-77c8-4ba4-89b5-221f9c4ba082">
+        <skos:altLabel xml:lang="nl">Zusters Franciscanessen van Herentals</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:prefLabel xml:lang="nl">Franciscanessen van Herentals</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Franciscanessen van Sint-Josefdal te Herentals</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/b154f63f-e9c5-4838-beef-75f0258ca086">
+        <skos:altLabel xml:lang="nl">Reguliere Geestelijken ter Ziekenverpleging</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Dienaren der zieken</skos:altLabel>
+        <skos:altLabel xml:lang="nl">CRMI</skos:altLabel>
+        <skos:altLabel xml:lang="nl">MI</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Camillianen</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Orde van de Reguliere Geestelijken</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Ordo Clericorum Regularium Ministrantium Infirmis</skos:altLabel>
+        <skos:altLabel xml:lang="nl">OSCam</skos:altLabel>
+        <skos:altLabel xml:lang="nl">O.S.Cam.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Camillianen OSCAM</skos:altLabel>
+        <skos:altLabel xml:lang="nl">M.I.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde der Camillianen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Vaders van de Goede Dood</skos:altLabel>
+        <skos:altLabel xml:lang="nl">CCRRMMII</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Paters van de Zalige Dood</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde van Reguliere Clericale Dienaren der Zieken</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde der Reguliere Clerici voor de Zieken</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/3107d820-feb7-4231-8e5b-7b98062b862e">
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">OSFS</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Oblaten van de Heilige Franciscus van Sales</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Oblaten van de H. Franciscus van Sales</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Institutum Oblatorum Sancti Francisci Salesii</skos:altLabel>
+        <skos:altLabel xml:lang="nl">O.S.F.S.</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/d56fdbaa-3f8b-4077-ac22-f3371be0da10">
+        <skos:prefLabel xml:lang="nl">Broeders van Drunen</skos:prefLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/47b34c6c-44b3-4fb3-80d8-10d3671e056a">
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">SOC</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Cistercienzers</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Cisterciënzen</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Cisterciënzers</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Bernardijnen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Cisterciënzers OCIST</skos:altLabel>
+        <skos:altLabel xml:lang="nl">OCist</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Orde der Cisterciënzers</skos:altLabel>
+        <skos:altLabel xml:lang="nl">O.Cist.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">SOCist</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Grijzemonniken</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Ordo Cisterciensis</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Schieremonniken</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/89eef2cc-218b-42db-809e-b48191e53e4c">
+        <skos:altLabel xml:lang="nl">Congregatie van Missionarissen van Mill Hill</skos:altLabel>
+        <skos:altLabel xml:lang="nl">S.S.J.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Fathers van Mill Hill</skos:altLabel>
+        <skos:altLabel xml:lang="nl">St. Josephs Congregatie van Mill Hill</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Missiegenootschap van Sint-Jozef</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Missiegenootschap van Sint Jozef</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Missiegenootschap van St. Jozef</skos:altLabel>
+        <skos:altLabel xml:lang="nl">M.H.M.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Societas Sancti Josephi pro Missionibus exteris de Mill Hill apud Londinum</skos:altLabel>
+        <skos:altLabel xml:lang="nl">St. Jozef Congregatie van Mill Hill</skos:altLabel>
+        <skos:altLabel xml:lang="nl">MHM</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Sint Jozef Congregatie van Mill Hill</skos:altLabel>
+        <skos:altLabel xml:lang="nl">St. Joseph’s Congregatie voor Vreemde Missiën</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Missionarissen van Mill Hill MHM</skos:altLabel>
+        <skos:altLabel xml:lang="nl">SSJ</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Societas Missionariorum a S. Joseph</skos:altLabel>
+        <skos:altLabel xml:lang="nl">St. Joseph's Foreign Missionary Society</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Missionarissen van Mill Hill</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Sint-Jozef Congregatie van Mill Hill</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Paters van Mill Hill</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/dc0aa06e-7d68-40dc-93f6-ec2193fba77c">
+        <skos:altLabel xml:lang="nl">Reguliere Kanunnikessen van de H. Augustinus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">C.R.W.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Reguliere Kanunnikessen van Windesheim</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Augustinessen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">CRW</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Augustinessen van Windesheim</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Reguliere Kanunnikessen van de Heilige Augustinus (Windesheim)</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Reguliere Kanunnikessen van de H. Augustinus (Windesheim)</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Canonicae Regulares Windeshemenses</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters Augustinessen van Windesheim</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/7d9a1986-350a-4a70-b720-ba9f61ef1d12">
+        <skos:altLabel xml:lang="nl">Monialen van de Orde van O.L. Vrouw van de Berg Karmel</skos:altLabel>
+        <skos:altLabel xml:lang="nl">O.Carm</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Karmelietessen OCarm</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Geschoeide Karmelitessen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van O.L. Vrouw van de Berg Karmel</skos:altLabel>
+        <skos:altLabel xml:lang="nl">OCarm</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Karmelitessen</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Karmelietessen</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Orde van O.L. Vrouw van de Berg Karmel</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/f154fa02-fd95-402a-adc1-e2e1dbea509b">
+        <skos:altLabel xml:lang="nl">Zusters van de Orthodoxe Kerk</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:prefLabel xml:lang="nl">Zusters van de Grieks-Orthodoxe Kerk</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/54e81627-e4eb-4011-9634-bbe2e8ef7449">
+        <skos:altLabel xml:lang="nl">Zusters van Barmhartigheid van de Heilige Carolus Borromeus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Barmhartige Zusters van de H. Carolus Borromeus (F)</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Barmhartigheid van de H. Carolus Borromeus</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Soeurs de la Charité de St. Charles</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Barmhartige Zusters van de Heilige Carolus Borromeus (F)</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Soeurs de la Ste. Famille de Jésus, Marie, Joseph</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/492bbefd-c99d-490b-82bc-dfb6803dc8d8">
+        <skos:altLabel xml:lang="nl">Franciscanessen van de Heilige Nicolaas</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Franciscanessen van de Heilige Martelaar Georgius</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Franciscanessen van Denekamp</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Franciscanessen van de H. Nicolaas</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Franciscanessen van Thuine</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Franciscanessen van de H. Martelaar Georgius</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/6e6b3547-c126-4425-b6cb-a4afdbb691ad">
+        <skos:altLabel xml:lang="nl">Zusters van Ronse</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:prefLabel xml:lang="nl">Zusters van Barmhartigheid (Eindhoven)</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Barmhartigheid (van Ronse)</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Barmhartigheid van Ronse</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/1a9a14fe-16d9-4220-8f37-77c196cde0ff">
+        <skos:prefLabel xml:lang="nl">Franciscanessen van Charitas</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Penitenten-Recollectinen</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Zusters van Steenbergen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Congregatie 'Charitas'</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/a78205c7-1b14-4f45-9e23-4fbe68c2dc91">
+        <skos:altLabel xml:lang="nl">Zusters van Onze Lieve Vrouw van Tegelen</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Zusters van Onze Lieve Vrouw (Tegelen)</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Zusters van O.L. Vrouw</skos:altLabel>
+        <skos:altLabel xml:lang="nl">S.N.D.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van O.L. Vrouw van Tegelen</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Zusters van Onze Lieve Vrouw</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van O.L. Vrouw (Tegelen)</skos:altLabel>
+        <skos:altLabel xml:lang="nl">SND</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Onze-Lieve-Vrouw van Tegelen</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/e135528a-3912-4aea-94b4-00974032eea2">
+        <skos:altLabel xml:lang="nl">Zusters van de Boetvaardigheid en van de Christelijke Liefde van de Derde Orde van de H. Franciscus</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+        <skos:altLabel xml:lang="nl">Sorores de Poenitentia ac Charitate Christiana Tertii Ordinis Sancti Francisci</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van de Boetvaardigheid</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Franciscanessen van Heythuysen</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">OSF</skos:altLabel>
+        <skos:altLabel xml:lang="nl">O.S.F.</skos:altLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/e3d81705-9e57-45ad-87bb-a8c89d878e13">
+        <skos:altLabel xml:lang="nl">Werksters van het Kruis</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">Zusters Obreras de la Cruz</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">Obreras de la Cruz</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Spaanse Zusters</skos:altLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligiousOrderType/d80ae659-e46b-597f-b78f-16660ee24cd1"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+  </skos:ConceptScheme>
+</rdf:RDF>

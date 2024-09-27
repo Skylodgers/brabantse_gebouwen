@@ -487,7 +487,7 @@
                     },
                     "function_id": "60000000-0000-0000-0000-000000000001",
                     "graph_id": "fd02a1f8-2965-4f14-81d7-bb8c57e87cbf",
-                    "id": "ac009761-91a8-4205-afc7-28fa51782765"
+                    "id": "3cbba823-037d-4398-a365-2a51ac54ed1e"
                 }
             ],
             "graphid": "fd02a1f8-2965-4f14-81d7-bb8c57e87cbf",
@@ -959,11 +959,5 @@
             "template_id": "50000000-0000-0000-0000-000000000001",
             "version": ""
         }
-    ],
-    "metadata": {
-        "db": "PostgreSQL 15.8 (Postgres.app) on aarch64-apple-darwin21.6.0, compiled by Apple clang version 14.0.0 (clang-1400.0.29.102), 64-bit",
-        "git hash": "47a0ab61 2024-09-15 21:16:54 +0200",
-        "os": "Darwin",
-        "os version": "23.6.0"
-    }
+    ]
 }

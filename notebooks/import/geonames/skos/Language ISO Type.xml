@@ -1,0 +1,1122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/b83f65b3-ba0d-558a-845e-b1e78c19d0ee">
+    <skos:prefLabel xml:lang="nl">sl</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Slovenian</skos:altLabel>
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705">
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/e0b5d80c-dbbb-5b13-aaef-da55b701271b"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/be32f753-a0e7-5a81-b6a6-4e5c8a1fa8f7"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/5e077d42-209e-591e-bec6-41547e5d21ba"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/f72532b9-1152-5a79-ab6a-2f603a36bd95"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/9e062cec-2d53-5d18-9579-f79fb06589a3"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/8999c4c5-ab00-591c-871c-ad579f4ff3e0"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/1884413b-c3bd-5ecb-9aa2-988900d3f685"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/9b91d061-3fed-55c8-92b0-a410d461996a"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/dfca9f2e-5b01-5677-b598-48d60176e84e"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/1ff6f1ba-cdfb-59a8-ae74-97e0383b1629"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/68bf2166-1aef-5d99-9d38-5d2828073188"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/b2546000-ba60-552b-bf16-fae3d4efd102"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/c28670cf-d072-50c8-a588-96ca1616bd46"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/268d6639-9286-5f24-9c89-b6a5a5754a22"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/2e067622-7cad-5ea1-aad0-a4724e39c564"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/17f83224-30e0-573d-a40e-68451a0caafe"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/a572baaf-1fb8-5d89-a136-c68728a701ad"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/1a9cce55-a1b0-534a-ae67-6a7dd0f053ba"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/0336a330-5219-538d-aba8-36d0d153426d"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/0dbae75e-1bc6-55de-bfc6-cfd7ed861597"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/20d666c2-dc17-597c-a6b2-657554c9a2e6"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/762d42f5-1e22-50be-8b04-00c8d93fe9ca"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/c659c9cf-919e-502c-90f6-47f2af7ee20e"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/b85ae186-2554-5ee2-88d5-94793691cc6e"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/67e7dd27-cf6b-53c0-8c8e-c1d954d7ee48"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/7fc13d32-a541-5906-8a2f-73b55750bf8d"/>
+        <dcterms:title xml:lang="nl">Language ISO Type</dcterms:title>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/cf136734-c6d9-5590-b2c9-3335d5c5b468"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/85d0ad2b-bc6a-575e-97cd-c75055aacdb1"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/d0e44cbb-6571-521c-8488-f370872a7274"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/4324a025-1266-5498-b3e3-7736676be95e"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/e0accef8-6f60-585d-b579-67173fd1ec57"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/afdb4209-680d-571b-a592-6013dad87904"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/62a6d9ff-06c4-5634-8ea7-1ed7230cdc9a"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/ce924fcc-7598-52df-8a66-c6dc06281dda"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/fc4af251-9f1a-5eb1-ac99-35adefadd89b"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/2954e4ab-3d10-5396-8cf5-85c0b3c580c6"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/96826ea8-3522-5892-ac13-cc847716adb2"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/c29f9c5d-55da-5b3e-b993-c055295a48ad"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/3451ecd5-88d2-5f38-bc6d-d3e54d944a4b"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/f40d8023-3df1-5882-9d06-5a8ce67562ed"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/5aab8bdc-4893-5ef4-b843-4bb7fe418bb1"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/cd25b688-3303-5c12-9c2f-0ce42d2faaf1"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/de729f6c-604c-5a70-8607-40191dcb1fa5"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/a19ae99b-17a9-5e6e-a083-91cd20baf7f6"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/f8d9c3dc-7ff8-56c7-9685-e12f4c4452d7"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/08c33d30-1786-5762-bdc7-eac04c0d4449"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/ad385d5d-ac2c-57dc-955f-2f3b7ac02077"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/645a3e24-4c4f-527d-ba90-d936786447e6"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/8a137d27-0eb5-548b-bd51-61014b7a0d30"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/2c6a07c5-b959-5d6d-8924-082de92600bd"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/f160e388-8a38-5584-93a6-b4396e00e98e"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/47919354-aca2-581b-b958-84d18f1d54f4"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/8ae75c52-64cc-5e58-8fc4-1050d169f051"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/a95501b0-7e64-5088-ba55-d069c447352d"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/86472a8f-3476-50f4-b8c3-a3f27661eede"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/d1189e78-2b82-5a97-aaf4-d9fae1d83f8c"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/87ec6350-c233-5fa8-a6d0-36a6eb566bff"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/8ec3fdb5-6168-5b4c-8b4d-0df4f7ec868e"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/26fedf3c-91bf-50e4-b40d-73da20f01b0d"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/b927201f-5bae-51e8-a074-f72491cfcd46"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/de8b6328-e888-5a22-9450-2e7f0453dce6"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/8783a1e2-fa45-5d3d-9995-33b90e7eed1f"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/070b3ddd-ff0d-5cc9-afca-d0d791757e50"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/0b85af37-d907-5049-9a19-b2fbf0866a04"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/1a1c6976-3e56-51cc-afb9-41d02f649fae"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/d0d862e2-a9ba-5fa8-b7c0-cfdcf616a3e1"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/ec5dc14e-8c65-513f-9f91-bf2caf3c1ed1"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/9839e948-b637-55ca-8002-fba704c32862"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/cf0253e3-5645-5f19-8e75-a25657af32d7"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/43311ecb-151c-5ebe-84e5-c1c66b5a413d"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/97881e43-dc72-58a5-be0d-a10e1be10de5"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/4b801f85-a00f-5cbe-a24f-e89752940b32"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/710a586f-e1aa-54ec-93a9-85a85aa0b725"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/3dcb44ad-af6e-5cfc-97d4-57ac77579c2c"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/dcf3b26b-01a4-5a75-87c5-5ae89a8ce51c"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/c6cd002a-3180-5ec0-ba4e-88b968c1430f"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/297f69d4-f340-504a-a980-b6fb2f67f52e"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/e312ff2b-4b25-558c-8852-51956aff6b6f"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/aaf88ce4-cab1-555b-a82e-fbfc29097641"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/212c3e74-30a1-5ced-b9de-b43dad4ac57a"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/98642539-3f0f-5bdc-bbd3-2bffe66aa582"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/1179cd03-dea4-5488-9e73-16894fbc3656"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/b7111347-868f-5b29-9a64-69e36b0f149a"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/d98ec7f8-1e98-538a-a859-206543b0c57f"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/bbb897bd-76a5-5dae-82a2-55395a8a4610"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/41d53031-0756-53dd-ab21-6263196ef51a"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/fe2235f8-ffed-5625-8885-a1596dd3f82c"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/40cb09f4-3e59-55d8-b2ef-980691ff5161"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/dd5202dd-d391-512b-a774-e858968905fe"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/48a5a403-b92a-525b-a75b-1e5661d7f1fb"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/31cb911a-5b9f-5be9-b1c4-467459601ae6"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/a9181168-e838-5875-98a2-c7aa8081ec14"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/d764e336-985f-53b7-920d-55e93c898490"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/a0153f18-695e-5348-809c-36a3e791fd5d"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/a3a3bffb-7be8-5cf4-83f9-88e05f21222a"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/848e7ecf-0bf8-5450-8789-a0d148d76098"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/af8ef044-7bb3-5e22-a7c5-b7fdd1a65d71"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/6484ce8d-049d-5ea9-bb21-1c8eeba01ecd"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/340d6168-8b7a-5b5c-bcf6-fa59d38835fc"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/9fd23fd7-c6d6-54ba-a523-195db9d3e642"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/f1e2569d-8110-5853-9efb-eea188789685"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/cf42ef69-cc4c-5acc-a6b4-4a4791fd63d3"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/5da89ce1-999d-560f-b06f-e22ab55d1047"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/cfed2ead-805b-573a-875c-9e0e99b10cdd"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/4877a3ca-e5b8-531a-9427-079b3e2ff93d"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/1ca5b2b0-ee31-583d-830f-5497160941a0"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/2c2b72fb-fb50-5f25-8204-084f1f36e987"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/8c1ab838-fbd0-51b3-bba4-e4d3608abbf5"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/d3348903-5080-5b81-b099-2a153961a525"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/0743d11c-69ef-5d54-a7d3-91e8d16d1861"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/758e8404-223d-517a-978f-396643517fb9"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/545c8ec5-824a-582e-b1ff-fb73a517e449"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/c3659713-1cd5-5847-8f3d-63e3774b834c"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/5a75e32f-b5dd-56e1-9098-f05e57b42ed6"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/36fbbfad-ebb8-584e-8864-94542e5ffcd5"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/1fa82040-d858-5205-b49d-fb1dd28e0c09"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/ec73ff3a-b1ab-528b-9e11-fcc061864232"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/3c4bb9e3-a225-5b80-9a31-c5283833f002"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/9ab6ad02-f710-5429-8daf-e9574e43e8a7"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/2122e32b-ae39-5d0c-afd8-825632c52553"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/39946f64-86a3-51ef-a5fa-3cb345923870"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/1019d47e-dad7-53de-9cb3-f6649613ce35"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/3a94cfcb-7270-5d38-b861-f9cb580bb8d6"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/cf109a11-e4ef-5833-84a3-58e1b3a7f392"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/39b29b6b-fe7d-57a3-b933-d723db952825"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/78d64f17-cf91-57f8-ad96-20a1c3a6c114"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/5c5dd568-db47-508c-8328-01c6562f5860"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/a6a3d835-a66b-525b-985a-96736f20fab9"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/a56a47e8-7ca1-5e58-914c-812ef6e7a240"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/54d2ae4b-f891-5175-87a7-94177dc6b4d0"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/8515dad6-8166-570d-838e-6f6840cce68e"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/e394d7cd-0a64-551e-a143-03e90c18ceae"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/138b8030-c45a-5e42-b829-e45b795a2562"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/85900bfd-2ed8-5884-a727-2df3f1d29691"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/d8c7084c-3be4-5636-8168-d3b438c920d1"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/21c6a155-8f56-56cc-ae5a-72977ecc54c5"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/1c8b3375-a836-5722-9e30-570df2fe82e5"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/e56bd3bb-33e3-530d-880c-7642dda7cb6f"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/c3140015-e44d-53b0-b061-8fd397636dc2"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/7c2a63d5-1d1b-5e0f-a07d-26b74298f210"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/0e730757-9acf-5440-9cba-e8d20d709182"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/3aebdb00-972a-5ced-821b-17bcb88cbd1b"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/b6b66ca9-c5ae-5395-b080-8deac1a53a0b"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/9cee0282-32fb-5b7a-a929-d6907463dd62"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/ac7ba9b1-fb08-5271-9d09-d7904836b45b"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/769ed871-af03-5f7f-9766-5bc4fa35ff25"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/321e55f2-72af-50a1-bc18-7694c668cb53"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/7abd01cf-406d-565e-aee0-014aec0144d1"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/7840b4f2-ebf9-5617-b844-3bb494ba97c7"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/e854e9b1-219b-56cf-a904-08005024b69b"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/b2813025-8325-5a1f-9aab-774c274485ee"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/7536cf64-388b-5d03-bc01-6b580b0e049e"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/a1f48800-efaa-5615-b419-5324de339221"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/5265bde2-67e4-5dd2-9e66-a7b755dd9811"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/ed0df6be-7557-5a87-94c0-919efc356c09"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/d6c36f43-f76e-58ca-90b2-c49be0841fb0"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/de36c88c-ee47-5fed-8698-f9447a00fbd7"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/3f19be31-39c9-59fc-805b-42043c5d1fc2"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/2d543c9d-ba78-5e72-a8d5-2d4410e8ff67"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/3aa3d388-8f95-585e-b815-913a321f6ae8"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/aa243798-410b-50fb-9b0e-076998f23c98"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/265238fd-89bb-5e39-8e96-e456adef8c6e"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/8602b885-7cd0-5fea-a4b0-043881f42c0c"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/2e54c5f3-e478-5ee9-91e2-9a9488a83735"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/167916b4-87fd-53fc-8805-f3a36a0f5751"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/657e1bbb-53f6-52d7-9f16-3b0c291cf3ba"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/d4a23455-e6df-5ce8-89d5-c950cee4423f"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/60fe18a1-a741-5b3e-aa8b-268daac63b2f"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/d1704526-3eec-5d41-a0a7-7845eb24eea4"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/6670e963-ce29-51b3-bb4d-f14ec10fdc71"/>
+        <dcterms:title xml:lang="en">Language ISO Type</dcterms:title>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/0c01696c-a9fb-5e06-98f0-f3d9105d1dac"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/b83f65b3-ba0d-558a-845e-b1e78c19d0ee"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/a734f490-8c9e-559f-b4db-76c51ff771d5"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/e214ae7c-31ef-51ea-b2de-da45548addb1"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/452a3022-2c43-5cab-979d-eb041f57bc5a"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/3d9b7aab-4492-5f75-98b2-4f5430d28313"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/7bde1d1f-e3b0-53d2-b778-84a842092de3"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/57642b2a-5efd-5e18-adcc-e1fd25e74789"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/cf223929-9f6b-51e1-928a-5088c9e52f6f"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/597eca72-4f74-52ca-9b72-548d57f0df86"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/99a81dbd-c404-5c60-a09f-522cc863f3e3"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/0410868d-adf1-5006-bfb5-151c571e0a96"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/9b28ab67-0562-5302-9ba4-ae6ca73338ef"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/720dacce-13d9-5015-b6a9-de2d7825d17b"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/ea488b02-19f9-5371-836d-540c1e444c1d"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/0c01696c-a9fb-5e06-98f0-f3d9105d1dac">
+    <skos:prefLabel xml:lang="nl">kv</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Komi</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/d764e336-985f-53b7-920d-55e93c898490">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Danish</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">da</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/17f83224-30e0-573d-a40e-68451a0caafe">
+    <skos:prefLabel xml:lang="nl">gn</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Guarani</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/3a94cfcb-7270-5d38-b861-f9cb580bb8d6">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">to</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Tonga (Tonga Islands)</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/85d0ad2b-bc6a-575e-97cd-c75055aacdb1">
+    <skos:prefLabel xml:lang="nl">oj</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Ojibwa</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/b2546000-ba60-552b-bf16-fae3d4efd102">
+    <skos:prefLabel xml:lang="nl">mg</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Malagasy</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/7c2a63d5-1d1b-5e0f-a07d-26b74298f210">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Malay (macrolanguage)</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">ms</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/a19ae99b-17a9-5e6e-a083-91cd20baf7f6">
+    <skos:altLabel xml:lang="nl">Dzongkha</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">dz</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/4b801f85-a00f-5cbe-a24f-e89752940b32">
+    <skos:prefLabel xml:lang="nl">mh</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Marshallese</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/3dcb44ad-af6e-5cfc-97d4-57ac77579c2c">
+    <skos:prefLabel xml:lang="nl">pl</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Polish</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/5c5dd568-db47-508c-8328-01c6562f5860">
+    <skos:prefLabel xml:lang="nl">lv</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Latvian</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/2122e32b-ae39-5d0c-afd8-825632c52553">
+    <skos:altLabel xml:lang="nl">Basque</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">eu</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/1a1c6976-3e56-51cc-afb9-41d02f649fae">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">so</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Somali</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/8ec3fdb5-6168-5b4c-8b4d-0df4f7ec868e">
+    <skos:prefLabel xml:lang="nl">no</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Norwegian</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/2e067622-7cad-5ea1-aad0-a4724e39c564">
+    <skos:altLabel xml:lang="nl">Southern Sotho</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">st</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/39b29b6b-fe7d-57a3-b933-d723db952825">
+    <skos:prefLabel xml:lang="nl">fi</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Finnish</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/8783a1e2-fa45-5d3d-9995-33b90e7eed1f">
+    <skos:prefLabel xml:lang="nl">ng</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Ndonga</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/1fa82040-d858-5205-b49d-fb1dd28e0c09">
+    <skos:altLabel xml:lang="nl">Cree</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">cr</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/87ec6350-c233-5fa8-a6d0-36a6eb566bff">
+    <skos:altLabel xml:lang="nl">Norwegian Bokmål</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">nb</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/96826ea8-3522-5892-ac13-cc847716adb2">
+    <skos:prefLabel xml:lang="nl">hu</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Hungarian</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/aaf88ce4-cab1-555b-a82e-fbfc29097641">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">ii</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Sichuan Yi</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/dd5202dd-d391-512b-a774-e858968905fe">
+    <skos:prefLabel xml:lang="nl">bs</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Bosnian</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/d6c36f43-f76e-58ca-90b2-c49be0841fb0">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">ff</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Fulah</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/2c6a07c5-b959-5d6d-8924-082de92600bd">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">gl</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Galician</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/57642b2a-5efd-5e18-adcc-e1fd25e74789">
+    <skos:altLabel xml:lang="nl">Dhivehi</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">dv</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/20d666c2-dc17-597c-a6b2-657554c9a2e6">
+    <skos:altLabel xml:lang="nl">Kannada</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">kn</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/c28670cf-d072-50c8-a588-96ca1616bd46">
+    <skos:prefLabel xml:lang="nl">mn</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Mongolian</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/ac7ba9b1-fb08-5271-9d09-d7904836b45b">
+    <skos:prefLabel xml:lang="nl">sg</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Sango</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/a0153f18-695e-5348-809c-36a3e791fd5d">
+    <skos:altLabel xml:lang="nl">Turkmen</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">tk</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/cf0253e3-5645-5f19-8e75-a25657af32d7">
+    <skos:prefLabel xml:lang="nl">tl</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Tagalog</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/aa243798-410b-50fb-9b0e-076998f23c98">
+    <skos:altLabel xml:lang="nl">Albanian</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">sq</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/9e062cec-2d53-5d18-9579-f79fb06589a3">
+    <skos:altLabel xml:lang="nl">Nyanja</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">ny</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/4877a3ca-e5b8-531a-9427-079b3e2ff93d">
+    <skos:prefLabel xml:lang="nl">pi</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Pali</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/1ca5b2b0-ee31-583d-830f-5497160941a0">
+    <skos:altLabel xml:lang="nl">Bislama</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">bi</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/98642539-3f0f-5bdc-bbd3-2bffe66aa582">
+    <skos:altLabel xml:lang="nl">Burmese</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">my</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/769ed871-af03-5f7f-9766-5bc4fa35ff25">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Serbian</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">sr</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/40cb09f4-3e59-55d8-b2ef-980691ff5161">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Arabic</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">ar</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/758e8404-223d-517a-978f-396643517fb9">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">English</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">en</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/a95501b0-7e64-5088-ba55-d069c447352d">
+    <skos:prefLabel xml:lang="nl">kg</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Kongo</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/2c2b72fb-fb50-5f25-8204-084f1f36e987">
+    <skos:prefLabel xml:lang="nl">sv</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Swedish</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/fe2235f8-ffed-5625-8885-a1596dd3f82c">
+    <skos:prefLabel xml:lang="nl">rn</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Rundi</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/b927201f-5bae-51e8-a074-f72491cfcd46">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Amharic</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">am</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/5aab8bdc-4893-5ef4-b843-4bb7fe418bb1">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">yo</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Yoruba</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/e312ff2b-4b25-558c-8852-51956aff6b6f">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">hr</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Croatian</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/0e730757-9acf-5440-9cba-e8d20d709182">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">is</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Icelandic</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/f1e2569d-8110-5853-9efb-eea188789685">
+    <skos:prefLabel xml:lang="nl">ki</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Kikuyu</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/1c8b3375-a836-5722-9e30-570df2fe82e5">
+    <skos:altLabel xml:lang="nl">Swati</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">ss</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/340d6168-8b7a-5b5c-bcf6-fa59d38835fc">
+    <skos:altLabel xml:lang="nl">Tahitian</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">ty</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/452a3022-2c43-5cab-979d-eb041f57bc5a">
+    <skos:altLabel xml:lang="nl">Kanuri</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">kr</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/b85ae186-2554-5ee2-88d5-94793691cc6e">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">ie</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Interlingue</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/cf42ef69-cc4c-5acc-a6b4-4a4791fd63d3">
+    <skos:prefLabel xml:lang="nl">te</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Telugu</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/1019d47e-dad7-53de-9cb3-f6649613ce35">
+    <skos:prefLabel xml:lang="nl">ta</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Tamil</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/545c8ec5-824a-582e-b1ff-fb73a517e449">
+    <skos:altLabel xml:lang="nl">Kalaallisut</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">kl</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/f8d9c3dc-7ff8-56c7-9685-e12f4c4452d7">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Sinhala</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">si</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/1884413b-c3bd-5ecb-9aa2-988900d3f685">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">French</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">fr</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/a56a47e8-7ca1-5e58-914c-812ef6e7a240">
+    <skos:prefLabel xml:lang="nl">qu</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Quechua</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/597eca72-4f74-52ca-9b72-548d57f0df86">
+    <skos:altLabel xml:lang="nl">Shona</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">sn</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/657e1bbb-53f6-52d7-9f16-3b0c291cf3ba">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Malayalam</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">ml</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/e0b5d80c-dbbb-5b13-aaef-da55b701271b">
+    <skos:prefLabel xml:lang="nl">tn</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Tswana</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/86472a8f-3476-50f4-b8c3-a3f27661eede">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">mt</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Maltese</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/6670e963-ce29-51b3-bb4d-f14ec10fdc71">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Ido</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">io</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/ec5dc14e-8c65-513f-9f91-bf2caf3c1ed1">
+    <skos:prefLabel xml:lang="nl">nd</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">North Ndebele</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/c3659713-1cd5-5847-8f3d-63e3774b834c">
+    <skos:prefLabel xml:lang="nl">km</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Khmer</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/60fe18a1-a741-5b3e-aa8b-268daac63b2f">
+    <skos:altLabel xml:lang="nl">Oromo</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">om</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/cfed2ead-805b-573a-875c-9e0e99b10cdd">
+    <skos:altLabel xml:lang="nl">Sundanese</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">su</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/a1f48800-efaa-5615-b419-5324de339221">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Sindhi</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">sd</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/cf223929-9f6b-51e1-928a-5088c9e52f6f">
+    <skos:prefLabel xml:lang="nl">uk</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Ukrainian</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/31cb911a-5b9f-5be9-b1c4-467459601ae6">
+    <skos:altLabel xml:lang="nl">Indonesian</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">id</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/62a6d9ff-06c4-5634-8ea7-1ed7230cdc9a">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Volapük</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">vo</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/2954e4ab-3d10-5396-8cf5-85c0b3c580c6">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Church Slavic</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">cu</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/9ab6ad02-f710-5429-8daf-e9574e43e8a7">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Estonian</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">et</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/39946f64-86a3-51ef-a5fa-3cb345923870">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Scottish Gaelic</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">gd</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/ce924fcc-7598-52df-8a66-c6dc06281dda">
+    <skos:altLabel xml:lang="nl">Haitian</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">ht</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/7840b4f2-ebf9-5617-b844-3bb494ba97c7">
+    <skos:altLabel xml:lang="nl">Japanese</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">ja</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/8c1ab838-fbd0-51b3-bba4-e4d3608abbf5">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">it</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Italian</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/8a137d27-0eb5-548b-bd51-61014b7a0d30">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Armenian</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">hy</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/e56bd3bb-33e3-530d-880c-7642dda7cb6f">
+    <skos:altLabel xml:lang="nl">Western Frisian</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">fy</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/d0d862e2-a9ba-5fa8-b7c0-cfdcf616a3e1">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">lg</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Ganda</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/b2813025-8325-5a1f-9aab-774c274485ee">
+    <skos:altLabel xml:lang="nl">Lingala</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">ln</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/99a81dbd-c404-5c60-a09f-522cc863f3e3">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">kw</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Cornish</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/e214ae7c-31ef-51ea-b2de-da45548addb1">
+    <skos:prefLabel xml:lang="nl">ce</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Chechen</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/167916b4-87fd-53fc-8805-f3a36a0f5751">
+    <skos:prefLabel xml:lang="nl">sh</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Serbo-Croatian</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/5e077d42-209e-591e-bec6-41547e5d21ba">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">fo</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Faroese</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/de729f6c-604c-5a70-8607-40191dcb1fa5">
+    <skos:altLabel xml:lang="nl">Yiddish</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">yi</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/265238fd-89bb-5e39-8e96-e456adef8c6e">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Breton</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">br</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/8ae75c52-64cc-5e58-8fc4-1050d169f051">
+    <skos:prefLabel xml:lang="nl">es</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Spanish</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/ed0df6be-7557-5a87-94c0-919efc356c09">
+    <skos:altLabel xml:lang="nl">Fijian</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">fj</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/2e54c5f3-e478-5ee9-91e2-9a9488a83735">
+    <skos:prefLabel xml:lang="nl">ur</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Urdu</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/5265bde2-67e4-5dd2-9e66-a7b755dd9811">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">ka</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Georgian</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/9cee0282-32fb-5b7a-a929-d6907463dd62">
+    <skos:prefLabel xml:lang="nl">be</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Belarusian</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/321e55f2-72af-50a1-bc18-7694c668cb53">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Nepali (macrolanguage)</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">ne</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/9b91d061-3fed-55c8-92b0-a410d461996a">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Corsican</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">co</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/7536cf64-388b-5d03-bc01-6b580b0e049e">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">ca</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Catalan</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/0b85af37-d907-5049-9a19-b2fbf0866a04">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Manx</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">gv</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/08c33d30-1786-5762-bdc7-eac04c0d4449">
+    <skos:altLabel xml:lang="nl">Uighur</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">ug</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/af8ef044-7bb3-5e22-a7c5-b7fdd1a65d71">
+    <skos:prefLabel xml:lang="nl">av</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Avaric</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/e394d7cd-0a64-551e-a143-03e90c18ceae">
+    <skos:altLabel xml:lang="nl">Venda</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">ve</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/b6b66ca9-c5ae-5395-b080-8deac1a53a0b">
+    <skos:prefLabel xml:lang="nl">cy</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Welsh</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/d1704526-3eec-5d41-a0a7-7845eb24eea4">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">ig</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Igbo</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/97881e43-dc72-58a5-be0d-a10e1be10de5">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">rw</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Kinyarwanda</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/fc4af251-9f1a-5eb1-ac99-35adefadd89b">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">nl</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Dutch</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/3c4bb9e3-a225-5b80-9a31-c5283833f002">
+    <skos:altLabel xml:lang="nl">Lao</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">lo</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/720dacce-13d9-5015-b6a9-de2d7825d17b">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Chamorro</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">ch</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/f72532b9-1152-5a79-ab6a-2f603a36bd95">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">lu</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Luba-Katanga</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/7fc13d32-a541-5906-8a2f-73b55750bf8d">
+    <skos:altLabel xml:lang="nl">Ossetian</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">os</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/67e7dd27-cf6b-53c0-8c8e-c1d954d7ee48">
+    <skos:altLabel xml:lang="nl">Slovak</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">sk</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/85900bfd-2ed8-5884-a727-2df3f1d29691">
+    <skos:prefLabel xml:lang="nl">an</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Aragonese</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/cf136734-c6d9-5590-b2c9-3335d5c5b468">
+    <skos:prefLabel xml:lang="nl">nn</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Norwegian Nynorsk</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/be32f753-a0e7-5a81-b6a6-4e5c8a1fa8f7">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Luxembourgish</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">lb</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/0dbae75e-1bc6-55de-bfc6-cfd7ed861597">
+    <skos:altLabel xml:lang="nl">Bengali</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">bn</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/ea488b02-19f9-5371-836d-540c1e444c1d">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Oriya (macrolanguage)</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">or</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/d3348903-5080-5b81-b099-2a153961a525">
+    <skos:altLabel xml:lang="nl">Navajo</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">nv</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/47919354-aca2-581b-b958-84d18f1d54f4">
+    <skos:prefLabel xml:lang="nl">ts</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Tsonga</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/848e7ecf-0bf8-5450-8789-a0d148d76098">
+    <skos:altLabel xml:lang="nl">Portuguese</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">pt</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/cf109a11-e4ef-5833-84a3-58e1b3a7f392">
+    <skos:altLabel xml:lang="nl">Walloon</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">wa</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/a3a3bffb-7be8-5cf4-83f9-88e05f21222a">
+    <skos:altLabel xml:lang="nl">Herero</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">hz</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/e854e9b1-219b-56cf-a904-08005024b69b">
+    <skos:prefLabel xml:lang="nl">ko</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Korean</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/d4a23455-e6df-5ce8-89d5-c950cee4423f">
+    <skos:prefLabel xml:lang="nl">vi</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Vietnamese</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/3f19be31-39c9-59fc-805b-42043c5d1fc2">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">el</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Modern Greek (1453-)</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/d8c7084c-3be4-5636-8168-d3b438c920d1">
+    <skos:prefLabel xml:lang="nl">aa</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Afar</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/de36c88c-ee47-5fed-8698-f9447a00fbd7">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Assamese</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">as</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/a6a3d835-a66b-525b-985a-96736f20fab9">
+    <skos:altLabel xml:lang="nl">Northern Sami</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">se</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/cd25b688-3303-5c12-9c2f-0ce42d2faaf1">
+    <skos:altLabel xml:lang="nl">Tibetan</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">bo</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/a734f490-8c9e-559f-b4db-76c51ff771d5">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">ae</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Avestan</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/21c6a155-8f56-56cc-ae5a-72977ecc54c5">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Panjabi</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">pa</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/5da89ce1-999d-560f-b06f-e22ab55d1047">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Xhosa</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">xh</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/710a586f-e1aa-54ec-93a9-85a85aa0b725">
+    <skos:prefLabel xml:lang="nl">ab</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Abkhazian</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/5a75e32f-b5dd-56e1-9098-f05e57b42ed6">
+    <skos:prefLabel xml:lang="nl">kk</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Kazakh</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/41d53031-0756-53dd-ab21-6263196ef51a">
+    <skos:prefLabel xml:lang="nl">mk</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Macedonian</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/3451ecd5-88d2-5f38-bc6d-d3e54d944a4b">
+    <skos:prefLabel xml:lang="nl">bm</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Bambara</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/1179cd03-dea4-5488-9e73-16894fbc3656">
+    <skos:prefLabel xml:lang="nl">ak</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Akan</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/c3140015-e44d-53b0-b061-8fd397636dc2">
+    <skos:prefLabel xml:lang="nl">oc</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Occitan (post 1500)</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/0410868d-adf1-5006-bfb5-151c571e0a96">
+    <skos:prefLabel xml:lang="nl">za</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Zhuang</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/e0accef8-6f60-585d-b579-67173fd1ec57">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">zh</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Chinese</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/762d42f5-1e22-50be-8b04-00c8d93fe9ca">
+    <skos:prefLabel xml:lang="nl">cs</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Czech</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/2d543c9d-ba78-5e72-a8d5-2d4410e8ff67">
+    <skos:prefLabel xml:lang="nl">ro</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Romanian</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/de8b6328-e888-5a22-9450-2e7f0453dce6">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Esperanto</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">eo</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/b7111347-868f-5b29-9a64-69e36b0f149a">
+    <skos:prefLabel xml:lang="nl">mi</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Maori</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/dfca9f2e-5b01-5677-b598-48d60176e84e">
+    <skos:prefLabel xml:lang="nl">zu</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Zulu</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/0743d11c-69ef-5d54-a7d3-91e8d16d1861">
+    <skos:altLabel xml:lang="nl">Twi</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">tw</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/c659c9cf-919e-502c-90f6-47f2af7ee20e">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Hausa</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">ha</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/8602b885-7cd0-5fea-a4b0-043881f42c0c">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Kirghiz</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">ky</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/dcf3b26b-01a4-5a75-87c5-5ae89a8ce51c">
+    <skos:altLabel xml:lang="nl">Samoan</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">sm</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/48a5a403-b92a-525b-a75b-1e5661d7f1fb">
+    <skos:altLabel xml:lang="nl">Uzbek</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">uz</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/a572baaf-1fb8-5d89-a136-c68728a701ad">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Kuanyama</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">kj</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/36fbbfad-ebb8-584e-8864-94542e5ffcd5">
+    <skos:prefLabel xml:lang="nl">ks</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Kashmiri</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/070b3ddd-ff0d-5cc9-afca-d0d791757e50">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Latin</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">la</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/6484ce8d-049d-5ea9-bb21-1c8eeba01ecd">
+    <skos:prefLabel xml:lang="nl">ik</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Inupiaq</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/1ff6f1ba-cdfb-59a8-ae74-97e0383b1629">
+    <skos:prefLabel xml:lang="nl">bg</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Bulgarian</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/9fd23fd7-c6d6-54ba-a523-195db9d3e642">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Tajik</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">tg</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/afdb4209-680d-571b-a592-6013dad87904">
+    <skos:altLabel xml:lang="nl">Interlingua (International Auxiliary Language Association)</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">ia</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/4324a025-1266-5498-b3e3-7736676be95e">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">af</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Afrikaans</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/a9181168-e838-5875-98a2-c7aa8081ec14">
+    <skos:prefLabel xml:lang="nl">jv</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Javanese</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/78d64f17-cf91-57f8-ad96-20a1c3a6c114">
+    <skos:altLabel xml:lang="nl">Irish</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">ga</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/268d6639-9286-5f24-9c89-b6a5a5754a22">
+    <skos:prefLabel xml:lang="nl">he</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Hebrew</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/ec73ff3a-b1ab-528b-9e11-fcc061864232">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Bihari languages</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">bh</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/9b28ab67-0562-5302-9ba4-ae6ca73338ef">
+    <skos:prefLabel xml:lang="nl">rm</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Romansh</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/297f69d4-f340-504a-a980-b6fb2f67f52e">
+    <skos:altLabel xml:lang="nl">Hindi</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">hi</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/f40d8023-3df1-5882-9d06-5a8ce67562ed">
+    <skos:altLabel xml:lang="nl">Pushto</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">ps</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/26fedf3c-91bf-50e4-b40d-73da20f01b0d">
+    <skos:altLabel xml:lang="nl">Ewe</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">ee</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/3aebdb00-972a-5ced-821b-17bcb88cbd1b">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Nauru</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">na</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/d0e44cbb-6571-521c-8488-f370872a7274">
+    <skos:prefLabel xml:lang="nl">ru</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Russian</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/9839e948-b637-55ca-8002-fba704c32862">
+    <skos:altLabel xml:lang="nl">Gujarati</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">gu</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/3d9b7aab-4492-5f75-98b2-4f5430d28313">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">sw</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Swahili (macrolanguage)</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/138b8030-c45a-5e42-b829-e45b795a2562">
+    <skos:altLabel xml:lang="nl">Sanskrit</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">sa</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/bbb897bd-76a5-5dae-82a2-55395a8a4610">
+    <skos:altLabel xml:lang="nl">Bashkir</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">ba</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/7abd01cf-406d-565e-aee0-014aec0144d1">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">German</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">de</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/43311ecb-151c-5ebe-84e5-c1c66b5a413d">
+    <skos:altLabel xml:lang="nl">Chuvash</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">cv</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/54d2ae4b-f891-5175-87a7-94177dc6b4d0">
+    <skos:prefLabel xml:lang="nl">li</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Limburgan</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/212c3e74-30a1-5ced-b9de-b43dad4ac57a">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">ay</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Aymara</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/8999c4c5-ab00-591c-871c-ad579f4ff3e0">
+    <skos:altLabel xml:lang="nl">Inuktitut</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">iu</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/c6cd002a-3180-5ec0-ba4e-88b968c1430f">
+    <skos:altLabel xml:lang="nl">Persian</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">fa</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/1a9cce55-a1b0-534a-ae67-6a7dd0f053ba">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Hiri Motu</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">ho</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/0336a330-5219-538d-aba8-36d0d153426d">
+    <skos:prefLabel xml:lang="nl">tr</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Turkish</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/3aa3d388-8f95-585e-b815-913a321f6ae8">
+    <skos:prefLabel xml:lang="nl">az</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Azerbaijani</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/d98ec7f8-1e98-538a-a859-206543b0c57f">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">wo</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Wolof</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/c29f9c5d-55da-5b3e-b993-c055295a48ad">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Kurdish</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">ku</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/ad385d5d-ac2c-57dc-955f-2f3b7ac02077">
+    <skos:altLabel xml:lang="nl">Tigrinya</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">ti</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/645a3e24-4c4f-527d-ba90-d936786447e6">
+    <skos:altLabel xml:lang="nl">Lithuanian</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">lt</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/68bf2166-1aef-5d99-9d38-5d2828073188">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">th</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Thai</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/8515dad6-8166-570d-838e-6f6840cce68e">
+    <skos:altLabel xml:lang="nl">Tatar</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">tt</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/f160e388-8a38-5584-93a6-b4396e00e98e">
+    <skos:altLabel xml:lang="nl">Sardinian</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">sc</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/7bde1d1f-e3b0-53d2-b778-84a842092de3">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:altLabel xml:lang="nl">Marathi</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">mr</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/d1189e78-2b82-5a97-aaf4-d9fae1d83f8c">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"/>
+    <skos:prefLabel xml:lang="nl">nr</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">South Ndebele</skos:altLabel>
+  </skos:Concept>
+</rdf:RDF>

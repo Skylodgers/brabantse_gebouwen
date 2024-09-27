@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/2cbe995e-b077-53ac-a56c-583c29384470">
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="https://n2t.net/ark:/1552/MonumentStatusType/ea4b44e3-f7a3-527e-8a3c-74dd0530b5b6">
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/0774e090-e4f5-5222-bfd2-127fefe3cf3b"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/2cbe995e-b077-53ac-a56c-583c29384470"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/847030c2-c59f-5ac1-b04e-ac72df48500f"/>
+        <dcterms:title xml:lang="en">Monument Status Type</dcterms:title>
+        <dcterms:title xml:lang="nl">Monument Status Type</dcterms:title>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+    <skos:prefLabel xml:lang="nl">Gemeentelijk monument</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/847030c2-c59f-5ac1-b04e-ac72df48500f">
+    <skos:prefLabel xml:lang="nl">Rijksmonument</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/MonumentStatusType/ea4b44e3-f7a3-527e-8a3c-74dd0530b5b6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/0774e090-e4f5-5222-bfd2-127fefe3cf3b">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/MonumentStatusType/ea4b44e3-f7a3-527e-8a3c-74dd0530b5b6"/>
+    <skos:prefLabel xml:lang="nl">Beeldbepalend gebouw</skos:prefLabel>
+  </skos:Concept>
+</rdf:RDF>

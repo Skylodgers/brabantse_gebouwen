@@ -186,7 +186,16 @@
                     "config": {
                         "defaultValue": "",
                         "en": "",
-                        "label": "Name"
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Name",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
                     },
                     "id": "8e8b76b0-736e-11ef-921e-96a6d2455259",
                     "label": {
@@ -327,8 +336,16 @@
                 {
                     "card_id": "8e8b6d64-736e-11ef-921e-96a6d2455259",
                     "config": {
+                        "defaultValue": "",
                         "en": "",
-                        "label": "Name Type"
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Name Type",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
                     },
                     "id": "8e8b7822-736e-11ef-921e-96a6d2455259",
                     "label": {
@@ -365,7 +382,14 @@
                     "config": {
                         "defaultValue": "cc5cb5e1-2eba-4184-969e-7c6c954c84c9",
                         "en": "",
-                        "label": "Name language"
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Name language",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
                     },
                     "id": "8e8b7886-736e-11ef-921e-96a6d2455259",
                     "label": {
@@ -634,85 +658,25 @@
                 {
                     "cardinality": "1",
                     "legacygroupid": null,
-                    "nodegroupid": "07ea4188-72b8-11ef-a972-96a6d2455259",
-                    "parentnodegroup_id": "07ea4426-72b8-11ef-a972-96a6d2455259"
+                    "nodegroupid": "8e8b64a4-736e-11ef-921e-96a6d2455259",
+                    "parentnodegroup_id": "8e8b6c56-736e-11ef-921e-96a6d2455259"
                 },
                 {
                     "cardinality": "1",
                     "legacygroupid": null,
-                    "nodegroupid": "07ea42b4-72b8-11ef-a972-96a6d2455259",
-                    "parentnodegroup_id": "07ea4426-72b8-11ef-a972-96a6d2455259"
+                    "nodegroupid": "8e8b6882-736e-11ef-921e-96a6d2455259",
+                    "parentnodegroup_id": "8e8b6c56-736e-11ef-921e-96a6d2455259"
                 },
                 {
                     "cardinality": "1",
                     "legacygroupid": null,
-                    "nodegroupid": "07ea4372-72b8-11ef-a972-96a6d2455259",
-                    "parentnodegroup_id": "07ea4426-72b8-11ef-a972-96a6d2455259"
+                    "nodegroupid": "8e8b6a80-736e-11ef-921e-96a6d2455259",
+                    "parentnodegroup_id": "8e8b6c56-736e-11ef-921e-96a6d2455259"
                 },
                 {
                     "cardinality": "1",
                     "legacygroupid": null,
-                    "nodegroupid": "07ea4426-72b8-11ef-a972-96a6d2455259",
-                    "parentnodegroup_id": null
-                },
-                {
-                    "cardinality": "1",
-                    "legacygroupid": null,
-                    "nodegroupid": "45de70c4-72b6-11ef-a972-96a6d2455259",
-                    "parentnodegroup_id": null
-                },
-                {
-                    "cardinality": "1",
-                    "legacygroupid": null,
-                    "nodegroupid": "5a20beea-72b4-11ef-a972-96a6d2455259",
-                    "parentnodegroup_id": null
-                },
-                {
-                    "cardinality": "1",
-                    "legacygroupid": null,
-                    "nodegroupid": "6ac54f4a-72b4-11ef-a972-96a6d2455259",
-                    "parentnodegroup_id": null
-                },
-                {
-                    "cardinality": "1",
-                    "legacygroupid": null,
-                    "nodegroupid": "6b1c1bb6-72b6-11ef-a972-96a6d2455259",
-                    "parentnodegroup_id": null
-                },
-                {
-                    "cardinality": "1",
-                    "legacygroupid": null,
-                    "nodegroupid": "7c22fb7a-72b4-11ef-a972-96a6d2455259",
-                    "parentnodegroup_id": null
-                },
-                {
-                    "cardinality": "1",
-                    "legacygroupid": null,
-                    "nodegroupid": "a5823972-6ec7-11ef-b245-96a6d2455259",
-                    "parentnodegroup_id": null
-                },
-                {
-                    "cardinality": "1",
-                    "legacygroupid": null,
-                    "nodegroupid": "aac07c84-72b7-11ef-a972-96a6d2455259",
-                    "parentnodegroup_id": null
-                },
-                {
-                    "cardinality": "1",
-                    "legacygroupid": null,
-                    "nodegroupid": "c221b5b0-72bb-11ef-a972-96a6d2455259",
-                    "parentnodegroup_id": null
-                },
-                {
-                    "cardinality": "1",
-                    "legacygroupid": null,
-                    "nodegroupid": "d7c4c57c-72b3-11ef-a972-96a6d2455259",
-                    "parentnodegroup_id": null
-                },
-                {
-                    "cardinality": "1",
-                    "legacygroupid": null,
-                    "nodegroupid": "ee0105e4-72b3-11ef-a972-96a6d2455259",
+                    "nodegroupid": "8e8b6c56-736e-11ef-921e-96a6d2455259",
                     "parentnodegroup_id": null
                 }
             ],

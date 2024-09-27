@@ -1,96 +1,1583 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-  xmlns:dcterms="http://purl.org/dc/terms/"
   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
 >
-  <skos:Concept rdf:about="http://localhost:8000/fa5d28eb-1c92-4c86-b243-4dd1fcd45b99">
+  <skos:Concept rdf:about="http://localhost:8000/2d543c9d-ba78-5e72-a8d5-2d4410e8ff67">
+    <dcterms:identifier xml:lang="en">{"id": "89b451e2-b992-4b89-aa01-abc459df4a9a", "value": "https://n2t.net/ark:/1552/2d543c9d-ba78-5e72-a8d5-2d4410e8ff67"}</dcterms:identifier>
+    <skos:altLabel xml:lang="nl">{"id": "7f35bcb8-1c5e-4673-bc28-d7d3f9a3e1e7", "value": "Romanian"}</skos:altLabel>
     <skos:inScheme>
       <skos:ConceptScheme rdf:about="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f">
-        <dcterms:title xml:lang="en">{"id": "b3e1e1bf-f679-4a46-afff-f12dd625f6dc", "value": "Geonames"}</dcterms:title>
         <skos:hasTopConcept rdf:resource="http://localhost:8000/ff95d7dd-21a9-4c90-ba6c-cf8030f1d895"/>
+        <dcterms:identifier xml:lang="en">{"id": "98386565-83e6-46ba-a0de-f78f3b35b31d", "value": "http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"}</dcterms:identifier>
+        <dcterms:title xml:lang="en">{"id": "b3e1e1bf-f679-4a46-afff-f12dd625f6dc", "value": "Geonames"}</dcterms:title>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/882f5315-def5-5adc-bd17-f23575c80705"/>
       </skos:ConceptScheme>
     </skos:inScheme>
-    <skos:scopeNote xml:lang="en">{"id": "a0b3e3c2-da06-4f20-ad0b-b44e7b08f686", "value": "A.ADM2\tsecond-order administrative division\ta subdivision of a first-order administrative division"}</skos:scopeNote>
-    <skos:prefLabel xml:lang="en">{"id": "4496073c-3f44-4f75-a301-ef64724bd291", "value": "Geemeente"}</skos:prefLabel>
+    <skos:prefLabel xml:lang="nl">{"id": "4efd3a16-f059-440e-9e7f-6d2b08598035", "value": "ro"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/85d0ad2b-bc6a-575e-97cd-c75055aacdb1">
+    <skos:altLabel xml:lang="nl">{"id": "a3e04028-086d-4200-9254-02cc3b94b619", "value": "Ojibwa"}</skos:altLabel>
+    <dcterms:identifier xml:lang="en">{"id": "402d8cde-82ab-43ea-8d5c-c920d96ba7c0", "value": "https://n2t.net/ark:/1552/85d0ad2b-bc6a-575e-97cd-c75055aacdb1"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">{"id": "5388b71d-e249-4614-9093-5a3fa45f6a86", "value": "oj"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/f1e2569d-8110-5853-9efb-eea188789685">
+    <skos:prefLabel xml:lang="nl">{"id": "d6de266f-aafc-4872-a68e-31ec25b3a0b1", "value": "ki"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+    <skos:altLabel xml:lang="nl">{"id": "7475ab4b-f8ee-4fc9-ac06-9dc386f93081", "value": "Kikuyu"}</skos:altLabel>
+    <dcterms:identifier xml:lang="en">{"id": "331b855a-6ef4-44bd-9fc5-25e8a2253f26", "value": "https://n2t.net/ark:/1552/f1e2569d-8110-5853-9efb-eea188789685"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/de729f6c-604c-5a70-8607-40191dcb1fa5">
+    <skos:prefLabel xml:lang="nl">{"id": "06530230-790f-4c72-bd9b-08973b9b9bc5", "value": "yi"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+    <skos:altLabel xml:lang="nl">{"id": "2c55e491-9c4a-4579-b9de-a43ae1b55127", "value": "Yiddish"}</skos:altLabel>
+    <dcterms:identifier xml:lang="en">{"id": "45674261-43c9-4a3d-a455-6db7a0f7f1cd", "value": "https://n2t.net/ark:/1552/de729f6c-604c-5a70-8607-40191dcb1fa5"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/2e067622-7cad-5ea1-aad0-a4724e39c564">
+    <skos:altLabel xml:lang="nl">{"id": "bea2d507-d579-4654-aecf-5901dc3b6fb1", "value": "Southern Sotho"}</skos:altLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+    <dcterms:identifier xml:lang="en">{"id": "f775e62d-6069-46a9-b8d8-eb3346f611fe", "value": "https://n2t.net/ark:/1552/2e067622-7cad-5ea1-aad0-a4724e39c564"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">{"id": "3ba8baaf-fe34-46ae-b85f-509650f6991a", "value": "st"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/5aab8bdc-4893-5ef4-b843-4bb7fe418bb1">
+    <dcterms:identifier xml:lang="en">{"id": "74feec65-a6a5-4f30-a5ff-c3cb5297b60c", "value": "https://n2t.net/ark:/1552/5aab8bdc-4893-5ef4-b843-4bb7fe418bb1"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">{"id": "86fe8a4d-7163-4f15-9b13-53dd8e95bed3", "value": "yo"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+    <skos:altLabel xml:lang="nl">{"id": "9be5c552-d58f-4235-815b-f473a7fd9abf", "value": "Yoruba"}</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/9e062cec-2d53-5d18-9579-f79fb06589a3">
+    <skos:altLabel xml:lang="nl">{"id": "1c13efaa-e368-497c-8b6f-d110099d4e7f", "value": "Nyanja"}</skos:altLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+    <skos:prefLabel xml:lang="nl">{"id": "e046d56a-70b4-4ca4-a2fa-c432cf17c662", "value": "ny"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "9c283158-9055-4064-a6ff-328aa6bc20c5", "value": "https://n2t.net/ark:/1552/9e062cec-2d53-5d18-9579-f79fb06589a3"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/5e077d42-209e-591e-bec6-41547e5d21ba">
+    <skos:altLabel xml:lang="nl">{"id": "e3c35e28-6309-4f02-b094-6c32d0e994d1", "value": "Faroese"}</skos:altLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+    <skos:prefLabel xml:lang="nl">{"id": "380685b9-950b-4295-982a-60369d103ae5", "value": "fo"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "cdc334d7-6d67-4907-8d61-e2cc2565e7b7", "value": "https://n2t.net/ark:/1552/5e077d42-209e-591e-bec6-41547e5d21ba"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/a6a3d835-a66b-525b-985a-96736f20fab9">
+    <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+    <skos:prefLabel xml:lang="nl">{"id": "114a7b4e-55a9-473e-904c-2c7701576fa2", "value": "se"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "4d25c606-6b5f-4fcc-8ee0-4505e1b9711c", "value": "https://n2t.net/ark:/1552/a6a3d835-a66b-525b-985a-96736f20fab9"}</dcterms:identifier>
+    <skos:altLabel xml:lang="nl">{"id": "0cda084e-52ff-4b05-ab02-9ef11f91d432", "value": "Northern Sami"}</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/2e54c5f3-e478-5ee9-91e2-9a9488a83735">
+    <dcterms:identifier xml:lang="en">{"id": "0522ab9f-afee-4ec3-9081-64ffb6e727cd", "value": "https://n2t.net/ark:/1552/2e54c5f3-e478-5ee9-91e2-9a9488a83735"}</dcterms:identifier>
+    <skos:altLabel xml:lang="nl">{"id": "6a30dd91-9713-4248-8a8e-7a2e4a88e26f", "value": "Urdu"}</skos:altLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+    <skos:prefLabel xml:lang="nl">{"id": "01b1031e-ed6c-40d1-a603-7cb6ef5b780c", "value": "ur"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/c28670cf-d072-50c8-a588-96ca1616bd46">
+    <skos:prefLabel xml:lang="nl">{"id": "c9d38b85-083b-46bd-891e-b24d42fee9fe", "value": "mn"}</skos:prefLabel>
+    <dcterms:identifier xml:lang="en">{"id": "dbd95b5f-1dfe-40d5-bc75-9141d753d2c4", "value": "https://n2t.net/ark:/1552/c28670cf-d072-50c8-a588-96ca1616bd46"}</dcterms:identifier>
+    <skos:altLabel xml:lang="nl">{"id": "20336015-03ae-491b-80b9-f048887c2d09", "value": "Mongolian"}</skos:altLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/de36c88c-ee47-5fed-8698-f9447a00fbd7">
+    <skos:prefLabel xml:lang="nl">{"id": "b7bc1996-1026-4042-bba1-852ddc9f0f3f", "value": "as"}</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">{"id": "8a4caf2f-7253-47ee-ad0e-a120787d7e81", "value": "Assamese"}</skos:altLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+    <dcterms:identifier xml:lang="en">{"id": "89d46194-7743-4a94-a56e-665f8cee15af", "value": "https://n2t.net/ark:/1552/de36c88c-ee47-5fed-8698-f9447a00fbd7"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/882f5315-def5-5adc-bd17-f23575c80705">
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/9fd23fd7-c6d6-54ba-a523-195db9d3e642">
+        <dcterms:identifier xml:lang="en">{"id": "f1a29865-afb5-4521-9501-2b3496a365bf", "value": "https://n2t.net/ark:/1552/9fd23fd7-c6d6-54ba-a523-195db9d3e642"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "f093058d-66e4-4845-9594-9433e84ba57e", "value": "tg"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "32d64002-7841-44d7-901d-5d71dc383694", "value": "Tajik"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/ea488b02-19f9-5371-836d-540c1e444c1d">
+        <skos:altLabel xml:lang="nl">{"id": "675ea596-73c6-4a37-8133-8cf64b914c25", "value": "Oriya (macrolanguage)"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "6c181770-4700-4965-b9b7-5d6f2e4d89b6", "value": "or"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "3414c1c6-ec79-4db2-b6ad-5de7b45bff7f", "value": "https://n2t.net/ark:/1552/ea488b02-19f9-5371-836d-540c1e444c1d"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/3d9b7aab-4492-5f75-98b2-4f5430d28313">
+        <dcterms:identifier xml:lang="en">{"id": "a3e6908f-4591-4a2b-a2ae-1860d4a9b639", "value": "https://n2t.net/ark:/1552/3d9b7aab-4492-5f75-98b2-4f5430d28313"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "5471a8dc-c64d-4001-b01d-be02dbbb943f", "value": "Swahili (macrolanguage)"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "0b5b8a9d-3770-4123-9d4b-6ff18699cf04", "value": "sw"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/c659c9cf-919e-502c-90f6-47f2af7ee20e">
+        <skos:altLabel xml:lang="nl">{"id": "0783d8b6-a889-4ff4-aea9-5bbb32a07a51", "value": "Hausa"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "cd41a88c-0bca-43e5-becd-b62a13e67654", "value": "https://n2t.net/ark:/1552/c659c9cf-919e-502c-90f6-47f2af7ee20e"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "4189ec9c-5b19-419a-bf24-6826f6c1a91c", "value": "ha"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/3451ecd5-88d2-5f38-bc6d-d3e54d944a4b">
+        <skos:prefLabel xml:lang="nl">{"id": "116cbf8c-d285-4307-ace5-b8c2eae15f7f", "value": "bm"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "bc18d07f-f1d6-435f-95aa-782a6fece2df", "value": "Bambara"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "e1931432-6678-4909-ab75-e1ff2b664b1a", "value": "https://n2t.net/ark:/1552/3451ecd5-88d2-5f38-bc6d-d3e54d944a4b"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/b6b66ca9-c5ae-5395-b080-8deac1a53a0b">
+        <dcterms:identifier xml:lang="en">{"id": "6f851288-cd60-48c6-a9c4-f202af1982f0", "value": "https://n2t.net/ark:/1552/b6b66ca9-c5ae-5395-b080-8deac1a53a0b"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "e08f8339-6adf-4320-8256-41952d0a7175", "value": "Welsh"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "3b700a92-ee98-4255-a531-4672436c92a5", "value": "cy"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/321e55f2-72af-50a1-bc18-7694c668cb53">
+        <skos:altLabel xml:lang="nl">{"id": "2f4b02e6-641b-4943-8bcb-94c4630a81f4", "value": "Nepali (macrolanguage)"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "d76ddc7e-46cc-452d-a538-2d5c0024774f", "value": "https://n2t.net/ark:/1552/321e55f2-72af-50a1-bc18-7694c668cb53"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "eae86000-c4a5-4383-a071-94972a8c84ca", "value": "ne"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/4324a025-1266-5498-b3e3-7736676be95e">
+        <dcterms:identifier xml:lang="en">{"id": "ef77e698-d206-49e6-ba29-b30c3813482b", "value": "https://n2t.net/ark:/1552/4324a025-1266-5498-b3e3-7736676be95e"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "09bdcb11-322f-4bd4-b25d-6e9fc5f40972", "value": "Afrikaans"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "fa26a38e-15e8-4958-89f6-de39583d462e", "value": "af"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/ed0df6be-7557-5a87-94c0-919efc356c09">
+        <skos:prefLabel xml:lang="nl">{"id": "f15fadb2-6367-4076-ae37-acdeb7dd3c88", "value": "fj"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "90832980-b40a-4d93-b0a5-b50893bdf7bc", "value": "https://n2t.net/ark:/1552/ed0df6be-7557-5a87-94c0-919efc356c09"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "b600f4f0-eda4-48dd-9d28-1c764e360248", "value": "Fijian"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/0dbae75e-1bc6-55de-bfc6-cfd7ed861597">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "97be924f-3208-4ddb-b245-3f438606caa7", "value": "https://n2t.net/ark:/1552/0dbae75e-1bc6-55de-bfc6-cfd7ed861597"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "3c34a2cb-0f46-43e7-97ab-030131e9ffbc", "value": "bn"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "4db23502-ed90-4c4e-a78a-13f22c4abb94", "value": "Bengali"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/39b29b6b-fe7d-57a3-b933-d723db952825">
+        <skos:altLabel xml:lang="nl">{"id": "fcf0c662-65d4-419f-932a-b219cf50b61b", "value": "Finnish"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "e1dd0555-3e94-4d8a-88fa-576b224c207d", "value": "fi"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "50034e19-d147-428d-998c-19bb24b2826d", "value": "https://n2t.net/ark:/1552/39b29b6b-fe7d-57a3-b933-d723db952825"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/54d2ae4b-f891-5175-87a7-94177dc6b4d0">
+        <skos:altLabel xml:lang="nl">{"id": "df6955c8-db63-47f1-b422-9531982b9117", "value": "Limburgan"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "8ac8dd36-046e-4e89-976f-ca5913428db7", "value": "https://n2t.net/ark:/1552/54d2ae4b-f891-5175-87a7-94177dc6b4d0"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "354a40f4-3dca-4f11-815e-845f260a40f3", "value": "li"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/f72532b9-1152-5a79-ab6a-2f603a36bd95">
+        <skos:altLabel xml:lang="nl">{"id": "437a6143-6fcc-46fd-933a-89f09008d419", "value": "Luba-Katanga"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "7da97a16-8d60-4d47-80c1-2cc8ff3c9142", "value": "lu"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "13d0f18b-dc2c-48d3-92ac-01ee6ca20932", "value": "https://n2t.net/ark:/1552/f72532b9-1152-5a79-ab6a-2f603a36bd95"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/7c2a63d5-1d1b-5e0f-a07d-26b74298f210">
+        <skos:prefLabel xml:lang="nl">{"id": "4785599e-e849-4441-80c4-415196c9d5ed", "value": "ms"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "7c8d5236-1889-4ccb-8cf3-e50c2554385e", "value": "https://n2t.net/ark:/1552/7c2a63d5-1d1b-5e0f-a07d-26b74298f210"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "ba24ea88-cbbf-4f0f-8499-3f770f2336f1", "value": "Malay (macrolanguage)"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/212c3e74-30a1-5ced-b9de-b43dad4ac57a">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "d55e5730-4337-4cb4-9cf8-7b2f70b457a3", "value": "https://n2t.net/ark:/1552/212c3e74-30a1-5ced-b9de-b43dad4ac57a"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "d76179a2-fea1-4710-83b6-3bb28e3cc766", "value": "Aymara"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "602e9390-1f0c-402c-a16f-5595e0c8a5fb", "value": "ay"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/7abd01cf-406d-565e-aee0-014aec0144d1">
+        <skos:altLabel xml:lang="nl">{"id": "adcb4a7a-3f73-47c3-826c-8c42c2479238", "value": "German"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "24c1c8d5-dbd9-4715-a704-8840d90d251d", "value": "https://n2t.net/ark:/1552/7abd01cf-406d-565e-aee0-014aec0144d1"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "2e1e7311-8de8-4e7a-a824-6e14e8e926d1", "value": "de"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/9b28ab67-0562-5302-9ba4-ae6ca73338ef">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "a2664c73-4ada-4dc0-b313-10906bd24674", "value": "Romansh"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "893ba24c-0aa7-498d-a0dd-b053db4dfbc9", "value": "https://n2t.net/ark:/1552/9b28ab67-0562-5302-9ba4-ae6ca73338ef"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "fdd71a1e-9e1d-4cf7-a002-94c45a9350fe", "value": "rm"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/138b8030-c45a-5e42-b829-e45b795a2562">
+        <dcterms:identifier xml:lang="en">{"id": "568cbb32-da9a-4a7a-bb00-5af18d8c797f", "value": "https://n2t.net/ark:/1552/138b8030-c45a-5e42-b829-e45b795a2562"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "ed3efc93-f34f-4423-acb9-faadc8f45c40", "value": "Sanskrit"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "ad4e255b-aa3b-4f63-983c-0d6a24a63225", "value": "sa"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/1ca5b2b0-ee31-583d-830f-5497160941a0">
+        <dcterms:identifier xml:lang="en">{"id": "ac7b6b10-09e8-41cd-928c-d37500450e89", "value": "https://n2t.net/ark:/1552/1ca5b2b0-ee31-583d-830f-5497160941a0"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "b5513529-a6b2-4ddb-9d38-e7c13e5d940b", "value": "Bislama"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "5874c385-7f81-406b-a090-96b36d9b0704", "value": "bi"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="en">{"id": "3bad8fde-bbe2-4993-9721-66a1bde40d06", "value": "Language ISO Type"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/ec73ff3a-b1ab-528b-9e11-fcc061864232">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "920683a1-0f80-46e5-8bea-d93bd6ba9429", "value": "https://n2t.net/ark:/1552/ec73ff3a-b1ab-528b-9e11-fcc061864232"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "42ffd3ec-c90c-4daf-82e9-0dfa2f076fb0", "value": "bh"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "25a2e932-0501-495a-b0b4-8c42a660e842", "value": "Bihari languages"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/a572baaf-1fb8-5d89-a136-c68728a701ad">
+        <skos:altLabel xml:lang="nl">{"id": "631ef2db-07db-48ac-9e6c-825220072476", "value": "Kuanyama"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "88f4ba1c-e324-47ea-a299-73dee1e2ced8", "value": "kj"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "d396d590-f2ae-481b-9a75-77404cf401b5", "value": "https://n2t.net/ark:/1552/a572baaf-1fb8-5d89-a136-c68728a701ad"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/4b801f85-a00f-5cbe-a24f-e89752940b32">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "52352c4d-a01e-4b39-8272-f246605d663d", "value": "Marshallese"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "283ab3ca-5c55-4575-93fc-981e51ae65bf", "value": "https://n2t.net/ark:/1552/4b801f85-a00f-5cbe-a24f-e89752940b32"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "fec3a68e-456a-4f91-9f3f-67946bfd30b7", "value": "mh"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/99a81dbd-c404-5c60-a09f-522cc863f3e3">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "b1e6fb61-2546-4eb6-a2b8-b272f0b1e19b", "value": "https://n2t.net/ark:/1552/99a81dbd-c404-5c60-a09f-522cc863f3e3"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "08cc8cca-9ce4-4690-a962-db575d675052", "value": "Cornish"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "b7c5f623-6b89-4f8a-85c9-10d8d8b5aeeb", "value": "kw"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/a3a3bffb-7be8-5cf4-83f9-88e05f21222a">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "26a1d633-b64e-4fe4-81e9-4be86a51ecc4", "value": "hz"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "951f8325-1b52-4724-835b-5f02682e88a3", "value": "Herero"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "8f007fb1-0d1e-4bbd-9569-e30047c79e15", "value": "https://n2t.net/ark:/1552/a3a3bffb-7be8-5cf4-83f9-88e05f21222a"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/8a137d27-0eb5-548b-bd51-61014b7a0d30">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "c0102241-5b1a-4e65-b66f-d1cea1b62077", "value": "https://n2t.net/ark:/1552/8a137d27-0eb5-548b-bd51-61014b7a0d30"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "a6cf098f-3a94-4de4-b85c-0ee1601afb48", "value": "hy"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "46bbcb10-da9e-497c-932a-2c73eb90fd18", "value": "Armenian"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/f160e388-8a38-5584-93a6-b4396e00e98e">
+        <skos:prefLabel xml:lang="nl">{"id": "f1925a24-36b7-49d6-8154-9acf034ee5ba", "value": "sc"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "72b65415-3df0-4680-8dd0-0507e05ca742", "value": "https://n2t.net/ark:/1552/f160e388-8a38-5584-93a6-b4396e00e98e"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "2f0a8f4a-721f-4f52-996c-66a942e0c19a", "value": "Sardinian"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/36fbbfad-ebb8-584e-8864-94542e5ffcd5">
+        <dcterms:identifier xml:lang="en">{"id": "764fad51-7b3b-4c8d-a78c-79fcefa94471", "value": "https://n2t.net/ark:/1552/36fbbfad-ebb8-584e-8864-94542e5ffcd5"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "9c9bfe54-9a28-4531-85eb-dabb3bab69a1", "value": "Kashmiri"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "03e73bc6-a679-46e1-aa51-d0b67254d44b", "value": "ks"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/7fc13d32-a541-5906-8a2f-73b55750bf8d">
+        <skos:prefLabel xml:lang="nl">{"id": "e73d312f-d44e-4f9f-a550-8df2403e5925", "value": "os"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "ca9bec9b-7aa4-45bb-ad67-9f33b371d250", "value": "Ossetian"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "e2f100c4-832b-4370-ad2d-ce389890a893", "value": "https://n2t.net/ark:/1552/7fc13d32-a541-5906-8a2f-73b55750bf8d"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/c6cd002a-3180-5ec0-ba4e-88b968c1430f">
+        <skos:prefLabel xml:lang="nl">{"id": "e255ada2-3b9d-42f4-84b0-bcfbc946c62d", "value": "fa"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "29824975-68a9-4ab4-b40f-a1fa8bd3fd2b", "value": "https://n2t.net/ark:/1552/c6cd002a-3180-5ec0-ba4e-88b968c1430f"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "ec98fdbf-d535-4ce5-a467-0612420f6e73", "value": "Persian"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/597eca72-4f74-52ca-9b72-548d57f0df86">
+        <skos:altLabel xml:lang="nl">{"id": "44fc2d73-c8d4-4740-b57b-ef2ffce771d9", "value": "Shona"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "4e54a484-106d-4899-82c9-d75fed75736f", "value": "sn"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "19b8fbe7-a3ec-4b4e-b654-978e2eb8267c", "value": "https://n2t.net/ark:/1552/597eca72-4f74-52ca-9b72-548d57f0df86"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/b927201f-5bae-51e8-a074-f72491cfcd46">
+        <skos:altLabel xml:lang="nl">{"id": "29e6038c-3136-486e-bb2e-78428c57015d", "value": "Amharic"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "1b08f4e4-cae3-4c18-86bb-a60911f9bb33", "value": "am"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "4c635e59-d719-462c-b759-f0d90fa48c6b", "value": "https://n2t.net/ark:/1552/b927201f-5bae-51e8-a074-f72491cfcd46"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/96826ea8-3522-5892-ac13-cc847716adb2">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "030ba624-e8ef-4a52-97ef-fff961a9c7a8", "value": "Hungarian"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "bb91a29f-2481-4507-850a-db7da5a9e20d", "value": "hu"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "8923d595-8368-44f4-8dd8-b1f5035b679c", "value": "https://n2t.net/ark:/1552/96826ea8-3522-5892-ac13-cc847716adb2"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/20d666c2-dc17-597c-a6b2-657554c9a2e6">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "1f4277c9-954b-4799-9530-95e5200b9b58", "value": "Kannada"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "28bb09b4-5d54-4378-bd52-2cc494facef6", "value": "https://n2t.net/ark:/1552/20d666c2-dc17-597c-a6b2-657554c9a2e6"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "8ab0033d-20e6-4316-a52d-7141ee70ea60", "value": "kn"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/0c01696c-a9fb-5e06-98f0-f3d9105d1dac">
+        <dcterms:identifier xml:lang="en">{"id": "b235f69b-fea0-4614-a494-4528128d2786", "value": "https://n2t.net/ark:/1552/0c01696c-a9fb-5e06-98f0-f3d9105d1dac"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "8898060b-b9f4-4b92-a94e-828ef1779061", "value": "kv"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "9a462287-f7a4-4a8f-867a-e58fc478bd15", "value": "Komi"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/a95501b0-7e64-5088-ba55-d069c447352d">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "3f93dbec-73aa-4f4d-b454-ab4f6dca5373", "value": "https://n2t.net/ark:/1552/a95501b0-7e64-5088-ba55-d069c447352d"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "2d3e2c36-f010-4d89-9905-b27ae55f5db9", "value": "Kongo"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "de56a4aa-72f5-46b8-a910-7fcce60df5a7", "value": "kg"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/48a5a403-b92a-525b-a75b-1e5661d7f1fb">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "eac7a401-fb29-4149-8167-ead1d7cbbe6d", "value": "Uzbek"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "e27a9086-7720-4dd6-a9c3-6a46510ce331", "value": "uz"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "d3b1101e-8d87-4e24-b3e5-39a2c06d81a8", "value": "https://n2t.net/ark:/1552/48a5a403-b92a-525b-a75b-1e5661d7f1fb"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/b7111347-868f-5b29-9a64-69e36b0f149a">
+        <dcterms:identifier xml:lang="en">{"id": "5e5ff8df-969e-482e-adac-93f3cc01e033", "value": "https://n2t.net/ark:/1552/b7111347-868f-5b29-9a64-69e36b0f149a"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "b7a11395-bc4c-496d-9bcf-f806b47a569f", "value": "Maori"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "4c54dd08-497d-448d-bbac-0a76a3e21cbb", "value": "mi"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/39946f64-86a3-51ef-a5fa-3cb345923870">
+        <skos:altLabel xml:lang="nl">{"id": "e2ceb83b-00b7-44e9-b1c8-3681a99e1c4c", "value": "Scottish Gaelic"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "5806197e-f4b7-4521-8a95-81cbf72b1e49", "value": "https://n2t.net/ark:/1552/39946f64-86a3-51ef-a5fa-3cb345923870"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "90bd8d64-1963-4cb2-b30f-99fe884b355f", "value": "gd"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/cf136734-c6d9-5590-b2c9-3335d5c5b468">
+        <skos:altLabel xml:lang="nl">{"id": "f0580c10-0435-4258-b39a-f96620c3d550", "value": "Norwegian Nynorsk"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "669367fb-3ac9-43f6-b2fd-2b2465fd874c", "value": "https://n2t.net/ark:/1552/cf136734-c6d9-5590-b2c9-3335d5c5b468"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "6131cead-e7d1-4bbc-8dc6-7d8c851c8497", "value": "nn"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/68bf2166-1aef-5d99-9d38-5d2828073188">
+        <skos:prefLabel xml:lang="nl">{"id": "9890a1dd-2dd2-49f6-a1cd-f448a1605ee1", "value": "th"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "dc4976c3-ed6f-4a27-8544-8bb3d925fb12", "value": "https://n2t.net/ark:/1552/68bf2166-1aef-5d99-9d38-5d2828073188"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "beba4ae5-9893-45f4-93ec-806f6ab5f4b7", "value": "Thai"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/340d6168-8b7a-5b5c-bcf6-fa59d38835fc">
+        <skos:altLabel xml:lang="nl">{"id": "fe3e9367-90c2-4fd1-b2b7-b33d45bfbeae", "value": "Tahitian"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "90a09664-078a-415e-b85e-8d33663c3a37", "value": "ty"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "51415112-82cb-41b6-a251-f63b05e11f4e", "value": "https://n2t.net/ark:/1552/340d6168-8b7a-5b5c-bcf6-fa59d38835fc"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/c3659713-1cd5-5847-8f3d-63e3774b834c">
+        <dcterms:identifier xml:lang="en">{"id": "91d5f9f7-fcf1-4916-896a-7d4d53cb95ba", "value": "https://n2t.net/ark:/1552/c3659713-1cd5-5847-8f3d-63e3774b834c"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "5ba85d60-1c1a-462c-a870-65a8f7d26b17", "value": "km"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "c18b8497-fe0d-4c3f-aa34-48eb11df9a34", "value": "Khmer"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/8ec3fdb5-6168-5b4c-8b4d-0df4f7ec868e">
+        <skos:altLabel xml:lang="nl">{"id": "cc0932ce-837d-4606-bf03-b1da01ced1ae", "value": "Norwegian"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "344bb8ff-c736-4a53-8d37-1dbca1608517", "value": "https://n2t.net/ark:/1552/8ec3fdb5-6168-5b4c-8b4d-0df4f7ec868e"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "59de2ad0-f755-4796-a2a3-b264c1451d99", "value": "no"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/e0accef8-6f60-585d-b579-67173fd1ec57">
+        <dcterms:identifier xml:lang="en">{"id": "0cf46e0b-c3c1-4007-a35e-86452a1f060c", "value": "https://n2t.net/ark:/1552/e0accef8-6f60-585d-b579-67173fd1ec57"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "66da999b-bb5c-4ec7-af88-6faa392c0184", "value": "zh"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "5a8155a8-4dc5-4644-ba14-4907a4233315", "value": "Chinese"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/40cb09f4-3e59-55d8-b2ef-980691ff5161">
+        <skos:prefLabel xml:lang="nl">{"id": "684c39cd-f2d3-4b92-9929-4e397290e729", "value": "ar"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "684ba320-ff8a-432a-af54-3a2915b0e3c1", "value": "https://n2t.net/ark:/1552/40cb09f4-3e59-55d8-b2ef-980691ff5161"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "671fc6a3-12cb-4989-acf5-5bb4b6cd3b56", "value": "Arabic"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/848e7ecf-0bf8-5450-8789-a0d148d76098">
+        <skos:prefLabel xml:lang="nl">{"id": "4edf926b-99ae-4a82-a3ea-ed542d3e682a", "value": "pt"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "87872081-3608-42f7-a0e4-73c9d3902272", "value": "Portuguese"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "1eb28cd8-9991-405e-9eef-af1e129aacfa", "value": "https://n2t.net/ark:/1552/848e7ecf-0bf8-5450-8789-a0d148d76098"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/b85ae186-2554-5ee2-88d5-94793691cc6e">
+        <skos:altLabel xml:lang="nl">{"id": "abedbc5a-41dc-431f-b77d-48f98f8a0e6e", "value": "Interlingue"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "40813ad9-d536-407d-bb3f-39bb0d2f2c2f", "value": "https://n2t.net/ark:/1552/b85ae186-2554-5ee2-88d5-94793691cc6e"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "1e8aee49-c3ac-47da-918f-3de3f73a7c98", "value": "ie"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/fe2235f8-ffed-5625-8885-a1596dd3f82c">
+        <dcterms:identifier xml:lang="en">{"id": "baf332f1-8264-41b4-89a4-8932523477d7", "value": "https://n2t.net/ark:/1552/fe2235f8-ffed-5625-8885-a1596dd3f82c"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "c2520712-e9f6-4d8a-99e3-d274c00a291e", "value": "rn"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "b395bd01-ddec-4534-8e61-e974f2e811bb", "value": "Rundi"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/e0b5d80c-dbbb-5b13-aaef-da55b701271b">
+        <skos:prefLabel xml:lang="nl">{"id": "9f3860b1-6c5e-4c41-89d2-41f0fa5b086c", "value": "tn"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "596a3793-9482-4c16-9496-9784668169d6", "value": "https://n2t.net/ark:/1552/e0b5d80c-dbbb-5b13-aaef-da55b701271b"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "5cc3f904-e624-4cee-a360-60924dd97899", "value": "Tswana"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/710a586f-e1aa-54ec-93a9-85a85aa0b725">
+        <skos:altLabel xml:lang="nl">{"id": "50eddc3b-6612-4b6d-803f-b86c038fda3d", "value": "Abkhazian"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "68641be4-9a8a-4e1f-9473-6a021417e09d", "value": "https://n2t.net/ark:/1552/710a586f-e1aa-54ec-93a9-85a85aa0b725"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "6cd75b8e-7502-4fa5-b873-3cef721f76bb", "value": "ab"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/c28670cf-d072-50c8-a588-96ca1616bd46"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/a9181168-e838-5875-98a2-c7aa8081ec14">
+        <skos:prefLabel xml:lang="nl">{"id": "90a88f6d-636f-4b1a-8259-76d07a4a9c96", "value": "jv"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "735ef102-e150-4d47-9c72-c2c27b7b6706", "value": "https://n2t.net/ark:/1552/a9181168-e838-5875-98a2-c7aa8081ec14"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "6ad763db-233c-4ea3-bd10-ff9f54175e19", "value": "Javanese"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/a19ae99b-17a9-5e6e-a083-91cd20baf7f6">
+        <skos:prefLabel xml:lang="nl">{"id": "d02ef93a-fb5c-46d7-88f0-f2d972774f1e", "value": "dz"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "43045846-9acf-4f6b-9a0a-264c8f13820e", "value": "Dzongkha"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "26f8ab03-aa71-4308-86a5-55154a8893dd", "value": "https://n2t.net/ark:/1552/a19ae99b-17a9-5e6e-a083-91cd20baf7f6"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/645a3e24-4c4f-527d-ba90-d936786447e6">
+        <dcterms:identifier xml:lang="en">{"id": "cee62e8c-321d-44bb-a0a1-01da8178ec3b", "value": "https://n2t.net/ark:/1552/645a3e24-4c4f-527d-ba90-d936786447e6"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "5740158f-042f-462c-9c28-5f0a2ba84e8e", "value": "lt"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "4ec9b4b4-51e7-429d-b929-2830dcf84d0d", "value": "Lithuanian"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/cf42ef69-cc4c-5acc-a6b4-4a4791fd63d3">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "a1f53d0b-15b6-4de9-86ed-b0a377cf068c", "value": "Telugu"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "454acbb2-7aec-4b92-85d5-08111259e3a4", "value": "https://n2t.net/ark:/1552/cf42ef69-cc4c-5acc-a6b4-4a4791fd63d3"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "18e7b9da-2f3e-4b4a-9e4c-7f40d1ef6b4d", "value": "te"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/e854e9b1-219b-56cf-a904-08005024b69b">
+        <skos:altLabel xml:lang="nl">{"id": "762ceb3f-4f2d-44f8-ad47-4ae93299cfe3", "value": "Korean"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "74aa81c8-7947-4e3f-b536-4d72aa02f37f", "value": "ko"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "d067c619-565c-4d7d-aa3e-40149e970d01", "value": "https://n2t.net/ark:/1552/e854e9b1-219b-56cf-a904-08005024b69b"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/b83f65b3-ba0d-558a-845e-b1e78c19d0ee">
+        <skos:altLabel xml:lang="nl">{"id": "7a849b57-c049-491a-a4c1-96ba307cb0b8", "value": "Slovenian"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "8c993058-dc92-4914-870f-701b45bd598f", "value": "sl"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "fd2681b8-0ec8-493e-a26c-eda131d6ca25", "value": "https://n2t.net/ark:/1552/b83f65b3-ba0d-558a-845e-b1e78c19d0ee"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/d98ec7f8-1e98-538a-a859-206543b0c57f">
+        <skos:altLabel xml:lang="nl">{"id": "7e72f5e7-ed6c-4c44-bd81-93d6e30389a4", "value": "Wolof"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "dc392458-6f5f-401d-8b57-8863ed4c3d2f", "value": "https://n2t.net/ark:/1552/d98ec7f8-1e98-538a-a859-206543b0c57f"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "13a1d9f0-3666-4607-a89d-d8ea5f164c49", "value": "wo"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/5265bde2-67e4-5dd2-9e66-a7b755dd9811">
+        <dcterms:identifier xml:lang="en">{"id": "e851cb84-cbe0-4a0e-a1e0-4eeb13c6cefc", "value": "https://n2t.net/ark:/1552/5265bde2-67e4-5dd2-9e66-a7b755dd9811"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "0c186947-e73d-4f77-977f-2bc07a3605a7", "value": "Georgian"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "669314c9-4f15-4753-a8ef-5f176e60a32b", "value": "ka"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/85900bfd-2ed8-5884-a727-2df3f1d29691">
+        <skos:prefLabel xml:lang="nl">{"id": "ef07d30b-cba1-4d43-8952-f1b138039a29", "value": "an"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "ca2aca0b-1c7a-415d-9e49-a79b158bc3b8", "value": "Aragonese"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "2a102ee1-a4d8-4e6d-86b7-50d2ccb0a55b", "value": "https://n2t.net/ark:/1552/85900bfd-2ed8-5884-a727-2df3f1d29691"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/6484ce8d-049d-5ea9-bb21-1c8eeba01ecd">
+        <skos:prefLabel xml:lang="nl">{"id": "5630f8da-301d-4add-97b3-70eace92df62", "value": "ik"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "e97897e5-283f-4dca-8b37-89a2bd2c4aca", "value": "Inupiaq"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "7eb233a6-a730-48c0-bb17-21a79210bf5c", "value": "https://n2t.net/ark:/1552/6484ce8d-049d-5ea9-bb21-1c8eeba01ecd"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/60fe18a1-a741-5b3e-aa8b-268daac63b2f">
+        <skos:prefLabel xml:lang="nl">{"id": "af8d6ae2-b599-4e32-bd19-81e9b724ce91", "value": "om"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "343f6a5f-0625-4c25-bb14-93979f82454a", "value": "https://n2t.net/ark:/1552/60fe18a1-a741-5b3e-aa8b-268daac63b2f"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "5b43fbfe-ce12-4882-a4ea-5c4add8b4ae1", "value": "Oromo"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/2e067622-7cad-5ea1-aad0-a4724e39c564"/>
+    <skos:narrower rdf:resource="http://localhost:8000/5aab8bdc-4893-5ef4-b843-4bb7fe418bb1"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/9cee0282-32fb-5b7a-a929-d6907463dd62">
+        <skos:altLabel xml:lang="nl">{"id": "5aed8383-605d-42d1-98ea-672d873ad2b2", "value": "Belarusian"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "ace63b30-d7da-462d-82ca-c00cda67cb62", "value": "https://n2t.net/ark:/1552/9cee0282-32fb-5b7a-a929-d6907463dd62"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "bf43a2bd-6173-4802-84a5-d3170c7d14ac", "value": "be"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/be32f753-a0e7-5a81-b6a6-4e5c8a1fa8f7">
+        <skos:altLabel xml:lang="nl">{"id": "ded5e8c4-bae6-4d0d-92e7-e2c0fe806c1b", "value": "Luxembourgish"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "367bd64b-22a3-42d8-b8dc-a6ff06a79fd2", "value": "lb"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "fc12f4bd-dfc5-4f41-9ef5-14f8d5d7f004", "value": "https://n2t.net/ark:/1552/be32f753-a0e7-5a81-b6a6-4e5c8a1fa8f7"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/cd25b688-3303-5c12-9c2f-0ce42d2faaf1">
+        <dcterms:identifier xml:lang="en">{"id": "32606822-bdf5-44b3-b220-cb825959749c", "value": "https://n2t.net/ark:/1552/cd25b688-3303-5c12-9c2f-0ce42d2faaf1"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "9b0b4c20-4305-430c-ba76-02e1bcdb7287", "value": "bo"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "326f265e-9fa8-4885-bbf8-e409f7f70aec", "value": "Tibetan"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/85d0ad2b-bc6a-575e-97cd-c75055aacdb1"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/aa243798-410b-50fb-9b0e-076998f23c98">
+        <dcterms:identifier xml:lang="en">{"id": "115e1b66-5408-422c-9a1a-7f09b1117b35", "value": "https://n2t.net/ark:/1552/aa243798-410b-50fb-9b0e-076998f23c98"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "cc4e4aa5-9dce-4404-ba44-418a3f95bc21", "value": "sq"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "61cf3eb7-a21f-4313-a687-a2dd5b896b93", "value": "Albanian"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/a0153f18-695e-5348-809c-36a3e791fd5d">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "1c9204c7-85f0-4484-9cde-128adfe1a86c", "value": "Turkmen"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "ebcdbb3b-87cb-4883-9dad-83b914194c88", "value": "https://n2t.net/ark:/1552/a0153f18-695e-5348-809c-36a3e791fd5d"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "bf2529a1-57ff-4788-80d8-a6dd6a3d23c3", "value": "tk"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/0e730757-9acf-5440-9cba-e8d20d709182">
+        <skos:altLabel xml:lang="nl">{"id": "1f0b5349-94a2-40a1-9fd7-898b77ce6541", "value": "Icelandic"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "24175f93-35e0-42e9-9112-c7aec752270f", "value": "is"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "0cce3fbc-7f6c-4358-9917-3fa11e7c3500", "value": "https://n2t.net/ark:/1552/0e730757-9acf-5440-9cba-e8d20d709182"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/ec5dc14e-8c65-513f-9f91-bf2caf3c1ed1">
+        <skos:prefLabel xml:lang="nl">{"id": "080a023d-9df4-40a0-9c9c-4f5e3a546ff7", "value": "nd"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "d11e9d97-a05d-4924-b989-d6bbc0e906cc", "value": "https://n2t.net/ark:/1552/ec5dc14e-8c65-513f-9f91-bf2caf3c1ed1"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "c8926680-8559-483a-b6f5-416128171917", "value": "North Ndebele"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/de36c88c-ee47-5fed-8698-f9447a00fbd7"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/452a3022-2c43-5cab-979d-eb041f57bc5a">
+        <skos:prefLabel xml:lang="nl">{"id": "be54f108-70fa-46f6-b9ac-7da0163df769", "value": "kr"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "438cb62c-b7fc-4fd8-95bb-1630e7c9e4a8", "value": "https://n2t.net/ark:/1552/452a3022-2c43-5cab-979d-eb041f57bc5a"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "d3fd57ae-edba-4ece-9cc0-55316a3b3360", "value": "Kanuri"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/4877a3ca-e5b8-531a-9427-079b3e2ff93d">
+        <skos:altLabel xml:lang="nl">{"id": "8058c9f5-e20b-4c3d-b1fe-ec62ebfec27c", "value": "Pali"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "377ca259-4050-4b82-ba85-b9a95ef9b5b1", "value": "pi"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "4b8f7f76-b946-46d9-9343-42c291debc8b", "value": "https://n2t.net/ark:/1552/4877a3ca-e5b8-531a-9427-079b3e2ff93d"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/297f69d4-f340-504a-a980-b6fb2f67f52e">
+        <skos:prefLabel xml:lang="nl">{"id": "75525b4d-3ee6-4b03-99e2-22fd77f462b0", "value": "hi"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "a57dfb95-2c35-41da-a7ea-9e9738823735", "value": "https://n2t.net/ark:/1552/297f69d4-f340-504a-a980-b6fb2f67f52e"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "8364dc15-a714-44b8-8d7e-e725d3a1a326", "value": "Hindi"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/de729f6c-604c-5a70-8607-40191dcb1fa5"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/d6c36f43-f76e-58ca-90b2-c49be0841fb0">
+        <dcterms:identifier xml:lang="en">{"id": "1b72618d-50ff-42bd-b700-8184a13f76e9", "value": "https://n2t.net/ark:/1552/d6c36f43-f76e-58ca-90b2-c49be0841fb0"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "16dcc38d-a832-4e3c-8b84-fdfc2ad27957", "value": "ff"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "6021f6dc-d174-4b47-b36c-1f9865cda270", "value": "Fulah"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/a1f48800-efaa-5615-b419-5324de339221">
+        <skos:altLabel xml:lang="nl">{"id": "82aa4d92-f9b6-48b9-8fb2-8ca54e74d6f8", "value": "Sindhi"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "c355b039-2883-4824-bee7-84fd077423e1", "value": "https://n2t.net/ark:/1552/a1f48800-efaa-5615-b419-5324de339221"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "c8e2fe50-8498-4dea-a7df-3c6c37644afe", "value": "sd"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/545c8ec5-824a-582e-b1ff-fb73a517e449">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "55ba9a70-717c-4cf0-ba6c-b09fd0f54e9e", "value": "Kalaallisut"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "29ed672c-db15-4ab8-adbf-c5e4d637fa16", "value": "https://n2t.net/ark:/1552/545c8ec5-824a-582e-b1ff-fb73a517e449"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "9bbb48ef-542b-4df4-a422-3da81db26813", "value": "kl"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/9b91d061-3fed-55c8-92b0-a410d461996a">
+        <dcterms:identifier xml:lang="en">{"id": "a9695a0e-a646-4d23-a7e5-1d3fe32ab013", "value": "https://n2t.net/ark:/1552/9b91d061-3fed-55c8-92b0-a410d461996a"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "d4c64333-7a80-4149-9c1d-8bb3d2beee5b", "value": "co"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "78fc5687-75cf-4c78-84a8-42a9af28f0bc", "value": "Corsican"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/d4a23455-e6df-5ce8-89d5-c950cee4423f">
+        <skos:altLabel xml:lang="nl">{"id": "4810a302-45fa-4a97-959c-03ac972a409f", "value": "Vietnamese"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "0b05a6b3-9b81-4014-b4b5-1733cc460032", "value": "vi"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "25a12df5-2ad5-4751-bb8f-cf69a389efac", "value": "https://n2t.net/ark:/1552/d4a23455-e6df-5ce8-89d5-c950cee4423f"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/1179cd03-dea4-5488-9e73-16894fbc3656">
+        <dcterms:identifier xml:lang="en">{"id": "5f0a77c2-b7bf-4bab-9704-57b5fa4e8eb9", "value": "https://n2t.net/ark:/1552/1179cd03-dea4-5488-9e73-16894fbc3656"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "2e903d7a-4007-45b1-b836-14b7a0adecb0", "value": "Akan"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "c1534120-d2bb-4a94-bd08-7aad68217e4c", "value": "ak"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/9ab6ad02-f710-5429-8daf-e9574e43e8a7">
+        <skos:prefLabel xml:lang="nl">{"id": "97b1f9e5-85a1-463e-bd6a-ab0ffc9c34ce", "value": "et"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "327475cb-65c4-4520-a609-86bc3f61e7c7", "value": "Estonian"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "82ad12a2-f8af-411b-ad85-045675c5334f", "value": "https://n2t.net/ark:/1552/9ab6ad02-f710-5429-8daf-e9574e43e8a7"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/afdb4209-680d-571b-a592-6013dad87904">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "f2e0d78f-c74a-4470-999f-def48032e672", "value": "https://n2t.net/ark:/1552/afdb4209-680d-571b-a592-6013dad87904"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "e7f63b96-5d0c-42be-ab47-6f52d81b8316", "value": "Interlingua (International Auxiliary Language Association)"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "0057abb8-59ba-420c-a548-72febcfe8eb5", "value": "ia"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/c3140015-e44d-53b0-b061-8fd397636dc2">
+        <skos:prefLabel xml:lang="nl">{"id": "e45bd477-11d9-48bf-856c-c0c83b44eebc", "value": "oc"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "9dc3d334-c037-4655-aa41-d3e7981f618f", "value": "https://n2t.net/ark:/1552/c3140015-e44d-53b0-b061-8fd397636dc2"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "799665a4-d39a-4c41-8ad7-bb100ff707ff", "value": "Occitan (post 1500)"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/26fedf3c-91bf-50e4-b40d-73da20f01b0d">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "6f533a18-dd1c-456a-adb7-cae0471c71e9", "value": "ee"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "04f08c91-461b-456d-a759-934b2005f191", "value": "Ewe"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "c3861f79-cce9-4f33-aef4-053df8a2320e", "value": "https://n2t.net/ark:/1552/26fedf3c-91bf-50e4-b40d-73da20f01b0d"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/cf0253e3-5645-5f19-8e75-a25657af32d7">
+        <skos:altLabel xml:lang="nl">{"id": "8778817b-80e8-4451-a7aa-e734456bc11a", "value": "Tagalog"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "206f57bc-781b-4230-bd79-a7fba0ab97fb", "value": "tl"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "5af5bb22-57ec-4ad9-80df-a00795ad13a3", "value": "https://n2t.net/ark:/1552/cf0253e3-5645-5f19-8e75-a25657af32d7"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/769ed871-af03-5f7f-9766-5bc4fa35ff25">
+        <dcterms:identifier xml:lang="en">{"id": "8c7c13ed-341d-4a33-b2e8-55650abbacad", "value": "https://n2t.net/ark:/1552/769ed871-af03-5f7f-9766-5bc4fa35ff25"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "03e67067-ae0e-49d8-bf20-fe4fd704a6dc", "value": "sr"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "aa02d121-ddc2-463b-87b6-cb1e0060ef1a", "value": "Serbian"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/2122e32b-ae39-5d0c-afd8-825632c52553">
+        <dcterms:identifier xml:lang="en">{"id": "a3966226-d1f7-40bc-9071-e5429f42bc34", "value": "https://n2t.net/ark:/1552/2122e32b-ae39-5d0c-afd8-825632c52553"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "0ac41c4b-5a3e-4fc4-be01-35a740cda7d3", "value": "Basque"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "73d92ab9-b6a3-4c29-a626-e000bea83761", "value": "eu"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/1a9cce55-a1b0-534a-ae67-6a7dd0f053ba">
+        <dcterms:identifier xml:lang="en">{"id": "436b4ca5-277a-4713-9bd8-7048cd0e4854", "value": "https://n2t.net/ark:/1552/1a9cce55-a1b0-534a-ae67-6a7dd0f053ba"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "3a0212f8-95c9-4e95-aea7-2eaabdc9bd51", "value": "Hiri Motu"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "c125a137-9143-498d-b94f-7fe41a876ac2", "value": "ho"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/e312ff2b-4b25-558c-8852-51956aff6b6f">
+        <skos:altLabel xml:lang="nl">{"id": "3301537a-6218-49ed-9ceb-c1baef9a357d", "value": "Croatian"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "b9b25755-cc4b-4542-b89a-7b97b66ed4b2", "value": "https://n2t.net/ark:/1552/e312ff2b-4b25-558c-8852-51956aff6b6f"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "68ad9379-640f-40a5-9717-2f0d4f9d6d57", "value": "hr"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/1019d47e-dad7-53de-9cb3-f6649613ce35">
+        <skos:prefLabel xml:lang="nl">{"id": "e26e3029-95b0-49c6-95c1-486eea2190c2", "value": "ta"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "7215ee69-fd1c-47c7-845a-76acefd8a7af", "value": "Tamil"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "11be6e59-e84f-4aa1-b734-a8fd1c47c921", "value": "https://n2t.net/ark:/1552/1019d47e-dad7-53de-9cb3-f6649613ce35"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/657e1bbb-53f6-52d7-9f16-3b0c291cf3ba">
+        <skos:altLabel xml:lang="nl">{"id": "2f79e6eb-bc73-4d9b-9f9f-e730e1fce639", "value": "Malayalam"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "494b680f-53b9-4d4d-8f5f-2e973238c56e", "value": "ml"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "804b1300-92bf-40ab-be8a-9e26d333fc24", "value": "https://n2t.net/ark:/1552/657e1bbb-53f6-52d7-9f16-3b0c291cf3ba"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/1884413b-c3bd-5ecb-9aa2-988900d3f685">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "ad871472-9b09-45da-8767-d60f24ecbf60", "value": "French"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "94f9e55d-f73f-49f0-ba8f-3244f989f530", "value": "https://n2t.net/ark:/1552/1884413b-c3bd-5ecb-9aa2-988900d3f685"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "7e15f81a-7499-4f20-b3cd-225b347a1e22", "value": "fr"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/e394d7cd-0a64-551e-a143-03e90c18ceae">
+        <skos:prefLabel xml:lang="nl">{"id": "120dede8-b372-4e36-87c7-e3dc73f25f54", "value": "ve"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "f5cbd915-0f4e-4d62-8bd3-198a57dc8de4", "value": "Venda"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "e6f002d2-40b8-4405-a07c-46df8f596e67", "value": "https://n2t.net/ark:/1552/e394d7cd-0a64-551e-a143-03e90c18ceae"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/268d6639-9286-5f24-9c89-b6a5a5754a22">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "71f061a0-0258-4131-91ac-3e55e6e0f16a", "value": "Hebrew"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "8fac6a72-3ae3-4089-8a65-194edcddb6aa", "value": "https://n2t.net/ark:/1552/268d6639-9286-5f24-9c89-b6a5a5754a22"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "24bc3424-84bd-49e9-b507-d155103b3997", "value": "he"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/7840b4f2-ebf9-5617-b844-3bb494ba97c7">
+        <skos:altLabel xml:lang="nl">{"id": "a4b55f95-9326-4911-9cd0-41fdb5b1b558", "value": "Japanese"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "73fc56af-3ad7-4fae-aa2c-6b1d705c5ef4", "value": "https://n2t.net/ark:/1552/7840b4f2-ebf9-5617-b844-3bb494ba97c7"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "1cc5e5d3-b2ae-4ce7-b712-189eea0d38c2", "value": "ja"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/57642b2a-5efd-5e18-adcc-e1fd25e74789">
+        <dcterms:identifier xml:lang="en">{"id": "94b471f7-ccaf-45bf-9488-39bf98abd5a8", "value": "https://n2t.net/ark:/1552/57642b2a-5efd-5e18-adcc-e1fd25e74789"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "da8981a1-5583-45b8-8229-992ccee40e04", "value": "dv"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "6e0b4e9c-4ae9-4894-8f9c-91a76c4c3671", "value": "Dhivehi"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/3aa3d388-8f95-585e-b815-913a321f6ae8">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "98fdfb33-4857-4444-9c04-8312babba9b4", "value": "https://n2t.net/ark:/1552/3aa3d388-8f95-585e-b815-913a321f6ae8"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "a01faaf5-135d-469e-82b7-310435626560", "value": "Azerbaijani"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "ad858f7d-8b72-44a8-8337-35d1bb31d46f", "value": "az"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/f40d8023-3df1-5882-9d06-5a8ce67562ed">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "219ad8a9-038f-4e14-871a-e3d600145cc6", "value": "ps"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "1b96afb6-a19d-4380-9dca-70045a12d8be", "value": "Pushto"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "7028f491-b9dc-4e54-a1d1-b5b6cd721ece", "value": "https://n2t.net/ark:/1552/f40d8023-3df1-5882-9d06-5a8ce67562ed"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/2d543c9d-ba78-5e72-a8d5-2d4410e8ff67"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/7bde1d1f-e3b0-53d2-b778-84a842092de3">
+        <skos:prefLabel xml:lang="nl">{"id": "3f7adc69-fac6-4f22-8065-12df92f1869a", "value": "mr"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "49ec64bc-28dd-49fe-b0a4-471af203a966", "value": "Marathi"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "3eb09021-f61d-4b5a-9433-d3864c4ce66f", "value": "https://n2t.net/ark:/1552/7bde1d1f-e3b0-53d2-b778-84a842092de3"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/cfed2ead-805b-573a-875c-9e0e99b10cdd">
+        <skos:prefLabel xml:lang="nl">{"id": "52f72bd8-1492-40c6-a300-709d3a5b7f5e", "value": "su"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "c77711db-d990-4a3d-a56f-3d8555f8f567", "value": "https://n2t.net/ark:/1552/cfed2ead-805b-573a-875c-9e0e99b10cdd"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "1930b02a-f7ec-4bd2-b6cd-74d3c11fa499", "value": "Sundanese"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/41d53031-0756-53dd-ab21-6263196ef51a">
+        <dcterms:identifier xml:lang="en">{"id": "af812f58-2ef2-41bb-a863-9eabda016921", "value": "https://n2t.net/ark:/1552/41d53031-0756-53dd-ab21-6263196ef51a"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "a062bdff-0900-4a77-bae0-6dd78e8580a5", "value": "mk"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "2b3055d8-58e8-403e-9e2e-71f287e2b2c1", "value": "Macedonian"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/dfca9f2e-5b01-5677-b598-48d60176e84e">
+        <skos:altLabel xml:lang="nl">{"id": "56ed41cd-d6db-4d8d-ba86-0f2dfa015649", "value": "Zulu"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "921e8e0c-d961-4822-84bf-8d332657ce9f", "value": "https://n2t.net/ark:/1552/dfca9f2e-5b01-5677-b598-48d60176e84e"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "5e04d28c-07cb-465f-a184-8aeb2f86fc9d", "value": "zu"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/8783a1e2-fa45-5d3d-9995-33b90e7eed1f">
+        <skos:prefLabel xml:lang="nl">{"id": "bc2072b3-fc85-4604-b0d0-dd7c99623749", "value": "ng"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "e45c7f15-8163-4694-97bc-10c78d0ba769", "value": "https://n2t.net/ark:/1552/8783a1e2-fa45-5d3d-9995-33b90e7eed1f"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "e0146b88-aa8d-48bd-a887-d5d280c80189", "value": "Ndonga"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/3f19be31-39c9-59fc-805b-42043c5d1fc2">
+        <dcterms:identifier xml:lang="en">{"id": "56ff251f-c3fa-4af0-a22e-cf8f86df9668", "value": "https://n2t.net/ark:/1552/3f19be31-39c9-59fc-805b-42043c5d1fc2"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "549559a8-374c-4410-b779-1e4c2031064c", "value": "el"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "e2cb139c-36c8-4390-b530-7cb521c9c899", "value": "Modern Greek (1453-)"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/67e7dd27-cf6b-53c0-8c8e-c1d954d7ee48">
+        <skos:altLabel xml:lang="nl">{"id": "3f387a68-4fa8-462b-b05d-535f9ec234c5", "value": "Slovak"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "a0a97585-e648-4b8d-9951-8b9905cb3e99", "value": "sk"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "64dba558-0202-4277-8173-2e137d403358", "value": "https://n2t.net/ark:/1552/67e7dd27-cf6b-53c0-8c8e-c1d954d7ee48"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/bbb897bd-76a5-5dae-82a2-55395a8a4610">
+        <dcterms:identifier xml:lang="en">{"id": "ed75adb3-5c75-41ec-a5cb-12ad3d03f729", "value": "https://n2t.net/ark:/1552/bbb897bd-76a5-5dae-82a2-55395a8a4610"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "5db9330d-242e-4f13-9fcd-246bc0a5fd16", "value": "ba"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "a530d443-60e9-450e-bf7b-c4dec992007e", "value": "Bashkir"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/d764e336-985f-53b7-920d-55e93c898490">
+        <skos:prefLabel xml:lang="nl">{"id": "0af50574-58fa-4bcc-aff0-e7cc73de78b9", "value": "da"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "42bdcf05-0747-4d7f-9fe7-d30a9dcb54ea", "value": "Danish"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "e19aa5f6-d188-42a8-bbf8-d8be956dd3a1", "value": "https://n2t.net/ark:/1552/d764e336-985f-53b7-920d-55e93c898490"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/e56bd3bb-33e3-530d-880c-7642dda7cb6f">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "23fddd0d-4ffd-4a14-bd0d-950607d05258", "value": "fy"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "f001a1d1-823a-4625-8b9f-e02d0807a160", "value": "https://n2t.net/ark:/1552/e56bd3bb-33e3-530d-880c-7642dda7cb6f"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "48387a6c-f264-4c0a-916e-190977009e8a", "value": "Western Frisian"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/2c6a07c5-b959-5d6d-8924-082de92600bd">
+        <dcterms:identifier xml:lang="en">{"id": "ab3a843c-38ed-40b1-999c-57c5b0bae630", "value": "https://n2t.net/ark:/1552/2c6a07c5-b959-5d6d-8924-082de92600bd"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "d0d176a5-5a0d-4ede-97a1-ba81a21cf0de", "value": "Galician"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "8c5eb938-c414-4302-94e5-5afdee7b4a70", "value": "gl"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/ad385d5d-ac2c-57dc-955f-2f3b7ac02077">
+        <skos:prefLabel xml:lang="nl">{"id": "d86d4a53-9baf-4161-8ba7-755fa3f46f30", "value": "ti"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "86faf94f-7ec7-43b5-9670-580f37e4eb3e", "value": "Tigrinya"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "e307f771-01a3-43bc-862f-cd5d758f09ed", "value": "https://n2t.net/ark:/1552/ad385d5d-ac2c-57dc-955f-2f3b7ac02077"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/08c33d30-1786-5762-bdc7-eac04c0d4449">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "c241d27f-aa3c-4750-989b-9222127275ad", "value": "ug"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "58bc79a5-6cc4-4ac8-a920-129dc63c48b0", "value": "https://n2t.net/ark:/1552/08c33d30-1786-5762-bdc7-eac04c0d4449"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "60b13710-fc9f-46ab-b1d4-a3432b723004", "value": "Uighur"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/a6a3d835-a66b-525b-985a-96736f20fab9"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/758e8404-223d-517a-978f-396643517fb9">
+        <skos:altLabel xml:lang="nl">{"id": "58cdeec9-1b90-4b3b-a4f3-c6517b8dd44f", "value": "English"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "699dd884-f282-4702-ba01-e3e7abd24c59", "value": "en"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "b4997cfb-ee73-4ef4-9346-a54f83e25663", "value": "https://n2t.net/ark:/1552/758e8404-223d-517a-978f-396643517fb9"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/62a6d9ff-06c4-5634-8ea7-1ed7230cdc9a">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "761a8f8e-e91a-49c0-964d-68710d1414e8", "value": "https://n2t.net/ark:/1552/62a6d9ff-06c4-5634-8ea7-1ed7230cdc9a"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "e479488c-485f-43e0-bee9-fac500276833", "value": "Volap\u00fck"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "b23c5e02-cbc9-4fc6-87a8-54c921dff42f", "value": "vo"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/2c2b72fb-fb50-5f25-8204-084f1f36e987">
+        <dcterms:identifier xml:lang="en">{"id": "ab3dfa06-653c-4d40-bf40-5dfc1d436aab", "value": "https://n2t.net/ark:/1552/2c2b72fb-fb50-5f25-8204-084f1f36e987"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "ef546977-2589-4843-9712-02f160d58127", "value": "Swedish"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "7e9fef20-c6e7-4d75-a13c-1a2dceb1decf", "value": "sv"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/5c5dd568-db47-508c-8328-01c6562f5860">
+        <skos:prefLabel xml:lang="nl">{"id": "96cd2d49-1d97-4eb6-ae30-6f11b67b4f57", "value": "lv"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "9f8b7510-e378-4db3-a866-5a544aa90694", "value": "https://n2t.net/ark:/1552/5c5dd568-db47-508c-8328-01c6562f5860"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "76b472fb-4a01-487b-ade8-6043967a2150", "value": "Latvian"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/2e54c5f3-e478-5ee9-91e2-9a9488a83735"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/167916b4-87fd-53fc-8805-f3a36a0f5751">
+        <dcterms:identifier xml:lang="en">{"id": "9854fe3b-dbfe-4601-b718-41fb552eb637", "value": "https://n2t.net/ark:/1552/167916b4-87fd-53fc-8805-f3a36a0f5751"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "d59dd0ee-c92e-4e4f-aac4-6f5ae88b5c4b", "value": "Serbo-Croatian"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "6d97e2dc-72da-49f0-bd40-63030b99de3f", "value": "sh"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/1c8b3375-a836-5722-9e30-570df2fe82e5">
+        <skos:altLabel xml:lang="nl">{"id": "796e8ed6-39c0-415e-9506-3b1cecf956cc", "value": "Swati"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "98d48023-516d-47fa-91ee-bae56c6b39a9", "value": "ss"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "08ad11e8-6d57-413e-b274-339472abc001", "value": "https://n2t.net/ark:/1552/1c8b3375-a836-5722-9e30-570df2fe82e5"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/8602b885-7cd0-5fea-a4b0-043881f42c0c">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "5df503da-c883-45c4-9d54-e3cd5e1f65de", "value": "ky"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "f9692fbe-0498-4db1-8a9a-c6a009cc1dda", "value": "https://n2t.net/ark:/1552/8602b885-7cd0-5fea-a4b0-043881f42c0c"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "c5d77ef7-0cad-40fe-a497-c35f44722c60", "value": "Kirghiz"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/3c4bb9e3-a225-5b80-9a31-c5283833f002">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "5dda2c76-b87e-4891-a25a-929f347a1caf", "value": "https://n2t.net/ark:/1552/3c4bb9e3-a225-5b80-9a31-c5283833f002"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "a7f128cd-039c-432c-9203-b14f7f0b9bde", "value": "lo"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "f303fd27-ea62-4e62-ab85-be252f3d3e19", "value": "Lao"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/47919354-aca2-581b-b958-84d18f1d54f4">
+        <dcterms:identifier xml:lang="en">{"id": "29bd1e72-ac98-48a3-a877-e7623699b900", "value": "https://n2t.net/ark:/1552/47919354-aca2-581b-b958-84d18f1d54f4"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "0b7ed0c7-925e-4cc5-ba60-dd7fa763354d", "value": "ts"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "891f91d0-d2e6-4db4-abc1-fca1d2434be2", "value": "Tsonga"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/87ec6350-c233-5fa8-a6d0-36a6eb566bff">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "c16d776c-0cec-4fd8-a2ec-de7aefb69aa4", "value": "nb"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "c8a06c7b-70c0-4233-ba73-33f230c2b383", "value": "Norwegian Bokm\u00e5l"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "74005a30-01ea-43ff-86da-71a6b14f78fd", "value": "https://n2t.net/ark:/1552/87ec6350-c233-5fa8-a6d0-36a6eb566bff"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/5da89ce1-999d-560f-b06f-e22ab55d1047">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "394827bb-a5bf-4fd3-a180-1029c57347e4", "value": "xh"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "15ea96db-223a-4214-bf16-3642d234c8df", "value": "Xhosa"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "b602a2ff-2eb9-4b80-a412-06de72eb5fd1", "value": "https://n2t.net/ark:/1552/5da89ce1-999d-560f-b06f-e22ab55d1047"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/ce924fcc-7598-52df-8a66-c6dc06281dda">
+        <dcterms:identifier xml:lang="en">{"id": "2f3dea8b-3a8c-482e-983d-83237312f365", "value": "https://n2t.net/ark:/1552/ce924fcc-7598-52df-8a66-c6dc06281dda"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "17e1d0df-83a0-4c94-ae06-f038e565aecf", "value": "Haitian"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "fff5d270-3719-4b98-a36a-7dd2d12f8d33", "value": "ht"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/e214ae7c-31ef-51ea-b2de-da45548addb1">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "9a8ffb19-a908-401d-ab2c-396457e2c91c", "value": "https://n2t.net/ark:/1552/e214ae7c-31ef-51ea-b2de-da45548addb1"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "6ba81ca9-efeb-4afe-8cbe-3f273da99411", "value": "Chechen"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "3ea8aed8-01b0-4222-94e3-f1b06935af5f", "value": "ce"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/98642539-3f0f-5bdc-bbd3-2bffe66aa582">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "3a33cec7-b19c-4851-9177-d8d1578ec7b7", "value": "Burmese"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "fc3a8316-488e-4d82-9a8e-6b44e2a373ac", "value": "my"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "b7e402b7-efb2-4ce9-8909-f1e7f55911db", "value": "https://n2t.net/ark:/1552/98642539-3f0f-5bdc-bbd3-2bffe66aa582"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/1a1c6976-3e56-51cc-afb9-41d02f649fae">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "f70d1fb5-3329-4eb2-af6c-310ccdf7cc8a", "value": "https://n2t.net/ark:/1552/1a1c6976-3e56-51cc-afb9-41d02f649fae"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "afc67bcc-fc09-4e41-9905-9360e6d689a5", "value": "Somali"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "64c4f264-23cb-4944-b885-c200fac91fbc", "value": "so"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/0743d11c-69ef-5d54-a7d3-91e8d16d1861">
+        <skos:altLabel xml:lang="nl">{"id": "fa5bfe43-0262-4263-82e0-675972972e8a", "value": "Twi"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "a11b6126-55b3-4436-8305-6cb7d0725c0b", "value": "https://n2t.net/ark:/1552/0743d11c-69ef-5d54-a7d3-91e8d16d1861"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "b8ed488b-43ba-42ed-bbcf-b712fd1b6181", "value": "tw"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/9e062cec-2d53-5d18-9579-f79fb06589a3"/>
+    <skos:prefLabel xml:lang="nl">{"id": "ef68d022-c9e6-4dea-a73e-683d48495aff", "value": "Language ISO Type"}</skos:prefLabel>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/762d42f5-1e22-50be-8b04-00c8d93fe9ca">
+        <skos:altLabel xml:lang="nl">{"id": "ecb6c4c9-ab59-4b88-a191-c9ce2c1b3f4e", "value": "Czech"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "a711fa32-876c-4762-a179-e9c7a1829aea", "value": "cs"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "6f023bf9-ba33-416f-8f2e-d80eb869fa78", "value": "https://n2t.net/ark:/1552/762d42f5-1e22-50be-8b04-00c8d93fe9ca"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/43311ecb-151c-5ebe-84e5-c1c66b5a413d">
+        <skos:altLabel xml:lang="nl">{"id": "e1c4eab6-f2dd-41bd-8564-b1d6ede9d566", "value": "Chuvash"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "c84d5858-352d-4272-9194-a5dbbc1b86fa", "value": "https://n2t.net/ark:/1552/43311ecb-151c-5ebe-84e5-c1c66b5a413d"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "b191f834-31b8-4ff5-837d-2b559d09913e", "value": "cv"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/0336a330-5219-538d-aba8-36d0d153426d">
+        <skos:altLabel xml:lang="nl">{"id": "31826463-716f-4dde-9b64-f7c94f4bcf11", "value": "Turkish"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "2253adca-33b8-43ef-a668-7c61d639b86e", "value": "tr"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "67a3846c-dfd9-4f21-922f-ac76dc1c91b8", "value": "https://n2t.net/ark:/1552/0336a330-5219-538d-aba8-36d0d153426d"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/86472a8f-3476-50f4-b8c3-a3f27661eede">
+        <skos:altLabel xml:lang="nl">{"id": "5aa17f5e-fe25-47d7-b3cc-169375aece37", "value": "Maltese"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "cd44bc4c-6142-46e8-9cdf-11603dcf63f9", "value": "https://n2t.net/ark:/1552/86472a8f-3476-50f4-b8c3-a3f27661eede"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "589f04e5-96b1-4548-a923-6b4c124287fb", "value": "mt"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/8515dad6-8166-570d-838e-6f6840cce68e">
+        <skos:altLabel xml:lang="nl">{"id": "ea038f0f-727f-48f1-a3da-5166744f4e4b", "value": "Tatar"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "0a95e303-8981-4d4d-b44c-dcd352ff744b", "value": "https://n2t.net/ark:/1552/8515dad6-8166-570d-838e-6f6840cce68e"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "70f17395-64e2-44f4-9f23-48dd468b8bed", "value": "tt"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/b2546000-ba60-552b-bf16-fae3d4efd102">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "2b4a1c99-5fca-4e7a-939e-8a81e3b32732", "value": "Malagasy"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "909cb605-8b85-48e7-9d9b-e723cf2224dd", "value": "mg"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "28a1c647-6b4b-4075-86d2-a139cf798edf", "value": "https://n2t.net/ark:/1552/b2546000-ba60-552b-bf16-fae3d4efd102"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/dcf3b26b-01a4-5a75-87c5-5ae89a8ce51c">
+        <dcterms:identifier xml:lang="en">{"id": "bb55167d-bb62-444c-abd4-817ab5100978", "value": "https://n2t.net/ark:/1552/dcf3b26b-01a4-5a75-87c5-5ae89a8ce51c"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "df6f32b9-9fcd-42c6-82f6-12cc805891f9", "value": "Samoan"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "5035cfdd-ec1c-47ab-b83c-7370dd3bd7f0", "value": "sm"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/31cb911a-5b9f-5be9-b1c4-467459601ae6">
+        <skos:altLabel xml:lang="nl">{"id": "07715074-f16b-4fd0-a11f-1d3766c3bffc", "value": "Indonesian"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "403f5d27-d4ab-456b-859b-6ed1bb904ad0", "value": "id"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "4e10298d-4604-41b3-bcd4-a965fe37daab", "value": "https://n2t.net/ark:/1552/31cb911a-5b9f-5be9-b1c4-467459601ae6"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/cf223929-9f6b-51e1-928a-5088c9e52f6f">
+        <dcterms:identifier xml:lang="en">{"id": "c3b3ca43-bd84-44a4-93f4-9c2d5e70eedb", "value": "https://n2t.net/ark:/1552/cf223929-9f6b-51e1-928a-5088c9e52f6f"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "22533cac-bacd-4ece-b90d-e3b34ca57175", "value": "uk"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "121b327d-49b2-41ca-a42e-3f8b118236f8", "value": "Ukrainian"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/cf109a11-e4ef-5833-84a3-58e1b3a7f392">
+        <skos:prefLabel xml:lang="nl">{"id": "002113db-1949-4a5e-b47f-e90fae102880", "value": "wa"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "19bdacc3-6b30-4f85-ac8e-36fbd1bd4869", "value": "Walloon"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "5d049ced-6173-4cd4-b754-4acfa6dc4c69", "value": "https://n2t.net/ark:/1552/cf109a11-e4ef-5833-84a3-58e1b3a7f392"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/aaf88ce4-cab1-555b-a82e-fbfc29097641">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "a1881963-32c4-441a-9438-9789bb3644ba", "value": "https://n2t.net/ark:/1552/aaf88ce4-cab1-555b-a82e-fbfc29097641"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "5a03a8b0-7d0d-4248-8539-1c348818458f", "value": "ii"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "7cc926ff-74e4-4448-8423-f24c1728b2eb", "value": "Sichuan Yi"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/de8b6328-e888-5a22-9450-2e7f0453dce6">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "5ad29248-773c-4d58-bf2e-7ef40fb27180", "value": "https://n2t.net/ark:/1552/de8b6328-e888-5a22-9450-2e7f0453dce6"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "c81a0d8a-343d-4ab6-92b4-af3cd42575f9", "value": "Esperanto"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "bd1c0ca5-ffc5-46a3-9fee-3bb47162d85e", "value": "eo"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/0410868d-adf1-5006-bfb5-151c571e0a96">
+        <skos:prefLabel xml:lang="nl">{"id": "d5ecb05b-1084-450b-bd32-f5eed201e698", "value": "za"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "4122b6b0-adcb-436f-a845-a796cf579a3c", "value": "Zhuang"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "4d431a4b-6c47-4497-afbb-eed8fbf3b198", "value": "https://n2t.net/ark:/1552/0410868d-adf1-5006-bfb5-151c571e0a96"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/a56a47e8-7ca1-5e58-914c-812ef6e7a240">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "59d68569-641b-4e4c-a6be-c21de9031d4d", "value": "Quechua"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "6d8462bd-4f43-4eef-be9b-9680a0cd7c88", "value": "https://n2t.net/ark:/1552/a56a47e8-7ca1-5e58-914c-812ef6e7a240"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "45263d3d-6d7c-46ed-a608-3fa9e3dc94eb", "value": "qu"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/21c6a155-8f56-56cc-ae5a-72977ecc54c5">
+        <dcterms:identifier xml:lang="en">{"id": "62cc72fe-223b-4b3b-97cd-1588e028e964", "value": "https://n2t.net/ark:/1552/21c6a155-8f56-56cc-ae5a-72977ecc54c5"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "762a6e37-f445-4475-a1a2-204a0109e44a", "value": "Panjabi"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "28f5aa4b-f36f-4415-b205-dc17a0d13331", "value": "pa"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/f8d9c3dc-7ff8-56c7-9685-e12f4c4452d7">
+        <skos:prefLabel xml:lang="nl">{"id": "01f2efe8-7d91-4a6b-9763-45e77ad9ea45", "value": "si"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "68de47ec-0a45-48d4-94ed-9f6771ffe1d0", "value": "Sinhala"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "39ada0dc-89bb-4a7c-9cf9-43259975b4a9", "value": "https://n2t.net/ark:/1552/f8d9c3dc-7ff8-56c7-9685-e12f4c4452d7"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/a734f490-8c9e-559f-b4db-76c51ff771d5">
+        <skos:prefLabel xml:lang="nl">{"id": "a82950ab-ef38-4988-a14f-9e18f22f4ade", "value": "ae"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "01a91bc7-9d4d-4d99-9bf0-5b7ae7254831", "value": "https://n2t.net/ark:/1552/a734f490-8c9e-559f-b4db-76c51ff771d5"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "774e5619-7a84-4994-9bdb-09829ffcc52a", "value": "Avestan"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/d8c7084c-3be4-5636-8168-d3b438c920d1">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "62112ac2-abb7-49ac-8cb2-7c81de194c97", "value": "Afar"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "df3bf976-8179-48dc-9690-807ee9805d88", "value": "https://n2t.net/ark:/1552/d8c7084c-3be4-5636-8168-d3b438c920d1"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "a97b1c0a-a284-4e48-b826-279aa55699e8", "value": "aa"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/c29f9c5d-55da-5b3e-b993-c055295a48ad">
+        <dcterms:identifier xml:lang="en">{"id": "4f2a1b4a-fb70-42f1-839e-f58a3812efeb", "value": "https://n2t.net/ark:/1552/c29f9c5d-55da-5b3e-b993-c055295a48ad"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "39940a7d-49b2-4abb-8c93-e5c9aebd47b8", "value": "ku"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "6eb0bd64-a22e-43c4-bfac-1ede460b7848", "value": "Kurdish"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/3dcb44ad-af6e-5cfc-97d4-57ac77579c2c">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "ca7b9d4e-6b8c-4c95-91a5-71942739c34d", "value": "Polish"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "34e365d7-1e8a-4bc4-91b8-d1a38c76a1f0", "value": "pl"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "9d099ac6-cb20-4f5b-a133-bfb2c63629a5", "value": "https://n2t.net/ark:/1552/3dcb44ad-af6e-5cfc-97d4-57ac77579c2c"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/6670e963-ce29-51b3-bb4d-f14ec10fdc71">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "4bbb1004-0c88-4f81-b3f4-289511285b0f", "value": "io"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "81e71c9a-05d4-4975-8cae-5fc48da1b287", "value": "https://n2t.net/ark:/1552/6670e963-ce29-51b3-bb4d-f14ec10fdc71"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "5adb5f46-2090-4291-a1e5-de78fc4a3503", "value": "Ido"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/5e077d42-209e-591e-bec6-41547e5d21ba"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/720dacce-13d9-5015-b6a9-de2d7825d17b">
+        <skos:altLabel xml:lang="nl">{"id": "aabd309f-4d80-46c8-b7e4-75c0f4fa10dd", "value": "Chamorro"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "d4f80606-3fb3-4cb3-a5fd-d07e89c122df", "value": "https://n2t.net/ark:/1552/720dacce-13d9-5015-b6a9-de2d7825d17b"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "cd70401f-a8f8-4b98-a3d4-679eb01c0a52", "value": "ch"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/dd5202dd-d391-512b-a774-e858968905fe">
+        <dcterms:identifier xml:lang="en">{"id": "ab4a4de1-6fca-4e00-bc89-512c196893f1", "value": "https://n2t.net/ark:/1552/dd5202dd-d391-512b-a774-e858968905fe"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "7e6565c9-4cf3-4f81-9bbf-c5d48f46cef7", "value": "bs"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "b8c74153-bc2d-4e91-a7ae-e69a5b92227d", "value": "Bosnian"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/af8ef044-7bb3-5e22-a7c5-b7fdd1a65d71">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "0828ed94-d8f8-4b9b-925e-26f5acb291b4", "value": "Avaric"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "ec008529-7859-4c49-81c9-14357d8ce7fa", "value": "av"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "7556d1be-8c50-4f6a-bfd3-821ff5ac7299", "value": "https://n2t.net/ark:/1552/af8ef044-7bb3-5e22-a7c5-b7fdd1a65d71"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/3a94cfcb-7270-5d38-b861-f9cb580bb8d6">
+        <skos:altLabel xml:lang="nl">{"id": "848c9022-f356-498b-a545-ea5ce52b79fb", "value": "Tonga (Tonga Islands)"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "258f082f-5456-447d-847c-9394ff40acfa", "value": "to"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "f1fa131b-3154-4de2-a1df-b7f48d4c2d53", "value": "https://n2t.net/ark:/1552/3a94cfcb-7270-5d38-b861-f9cb580bb8d6"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/0b85af37-d907-5049-9a19-b2fbf0866a04">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "410e5de0-2591-4dd5-9f4d-edaf5cadfcf6", "value": "Manx"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "e8746665-c3e5-49cf-baf5-527277c0a4f9", "value": "gv"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "14fe2689-dadf-4f2c-8e8a-680738cbd049", "value": "https://n2t.net/ark:/1552/0b85af37-d907-5049-9a19-b2fbf0866a04"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/f1e2569d-8110-5853-9efb-eea188789685"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/d0d862e2-a9ba-5fa8-b7c0-cfdcf616a3e1">
+        <skos:prefLabel xml:lang="nl">{"id": "a73260c1-da38-40eb-a21d-07463ee5c86f", "value": "lg"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "d6229b79-985e-4434-a842-41256adad3a0", "value": "Ganda"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "c402bc37-62a1-4fee-9d34-a4192a7f7407", "value": "https://n2t.net/ark:/1552/d0d862e2-a9ba-5fa8-b7c0-cfdcf616a3e1"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/ac7ba9b1-fb08-5271-9d09-d7904836b45b">
+        <dcterms:identifier xml:lang="en">{"id": "68ef2f7e-de0b-4484-9592-ec03f4780055", "value": "https://n2t.net/ark:/1552/ac7ba9b1-fb08-5271-9d09-d7904836b45b"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "0f69efb7-ea5f-451f-b70f-2826136c42ba", "value": "Sango"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "ee3057f0-fc85-435e-aa1b-e50a631e6bf2", "value": "sg"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/d0e44cbb-6571-521c-8488-f370872a7274">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "eb88e95b-0336-4f49-956a-faeb2adf721f", "value": "ru"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "8257b58a-f7ed-4a11-8de7-e395a820ee9b", "value": "https://n2t.net/ark:/1552/d0e44cbb-6571-521c-8488-f370872a7274"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "748d95b9-0baf-4da0-be55-d4757887127a", "value": "Russian"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/d1704526-3eec-5d41-a0a7-7845eb24eea4">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "8e867041-ec9b-4594-bfe7-d70e2af8926e", "value": "ig"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "82104ad5-88cd-4f0c-be9e-5584165891ba", "value": "Igbo"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "fcd4e546-0a3e-4099-8f4b-9ac0e5e3ef7f", "value": "https://n2t.net/ark:/1552/d1704526-3eec-5d41-a0a7-7845eb24eea4"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/fc4af251-9f1a-5eb1-ac99-35adefadd89b">
+        <dcterms:identifier xml:lang="en">{"id": "9234391d-89f1-40a8-827b-523ae331611c", "value": "https://n2t.net/ark:/1552/fc4af251-9f1a-5eb1-ac99-35adefadd89b"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "f9076cec-d58b-427d-8d75-2031f263d43a", "value": "Dutch"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "82e1d207-e3da-4dff-abff-d65e20e92af4", "value": "nl"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/1fa82040-d858-5205-b49d-fb1dd28e0c09">
+        <dcterms:identifier xml:lang="en">{"id": "1d912e09-6549-4ff1-a038-8585b9a862eb", "value": "https://n2t.net/ark:/1552/1fa82040-d858-5205-b49d-fb1dd28e0c09"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "206e852c-bf0f-4e3c-afe7-f8f01abd6d4d", "value": "cr"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "fe3028c2-2815-40ee-a9ca-adf502bdc4e5", "value": "Cree"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/5a75e32f-b5dd-56e1-9098-f05e57b42ed6">
+        <skos:prefLabel xml:lang="nl">{"id": "14e0a68f-10a9-41b8-89b6-a1edeb502132", "value": "kk"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "39f13288-22d6-4715-8650-5bd760b06ccf", "value": "https://n2t.net/ark:/1552/5a75e32f-b5dd-56e1-9098-f05e57b42ed6"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "dc86588e-0499-49e0-adf1-e4c8d019b8b7", "value": "Kazakh"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <dcterms:identifier xml:lang="en">{"id": "7bb9b72f-5611-48bb-9f7d-666cd2456b4f", "value": "https://n2t.net/ark:/1552/Language ISO Type/882f5315-def5-5adc-bd17-f23575c80705"}</dcterms:identifier>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/070b3ddd-ff0d-5cc9-afca-d0d791757e50">
+        <dcterms:identifier xml:lang="en">{"id": "02b8465c-3b77-4c7e-8283-620e664eaa74", "value": "https://n2t.net/ark:/1552/070b3ddd-ff0d-5cc9-afca-d0d791757e50"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "8b4c7fce-6411-4aec-a49a-c778d0481317", "value": "la"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:altLabel xml:lang="nl">{"id": "9464db3c-7564-40af-9a13-e4ca6e0282e8", "value": "Latin"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/8ae75c52-64cc-5e58-8fc4-1050d169f051">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "e96f39c4-d188-4099-89e3-0c5e8448cc11", "value": "es"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "396066a6-78f3-4177-a328-57aa2dbba0fc", "value": "Spanish"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "3ea82f8e-6360-402f-b34d-e0678dd04108", "value": "https://n2t.net/ark:/1552/8ae75c52-64cc-5e58-8fc4-1050d169f051"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/3aebdb00-972a-5ced-821b-17bcb88cbd1b">
+        <skos:altLabel xml:lang="nl">{"id": "b36fce3c-34be-4a4c-9e73-a97b19030b53", "value": "Nauru"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "1695c817-7d5c-4034-9cd1-a9056e916a05", "value": "https://n2t.net/ark:/1552/3aebdb00-972a-5ced-821b-17bcb88cbd1b"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "cb47e178-c573-4f1d-933c-e4986c9f882d", "value": "na"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/d3348903-5080-5b81-b099-2a153961a525">
+        <skos:altLabel xml:lang="nl">{"id": "ab1f7a28-1e64-4411-a372-0e01d5df9321", "value": "Navajo"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "1919c86a-5fef-4358-9afa-9c57eae9acc0", "value": "nv"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "e1202a78-82b3-46cd-a946-315a40e90228", "value": "https://n2t.net/ark:/1552/d3348903-5080-5b81-b099-2a153961a525"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/9839e948-b637-55ca-8002-fba704c32862">
+        <skos:altLabel xml:lang="nl">{"id": "845b60d4-5db5-4ca6-bee4-f2e8f1a769c3", "value": "Gujarati"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "57c89063-cdbc-4b5b-acdd-388cd21ff639", "value": "https://n2t.net/ark:/1552/9839e948-b637-55ca-8002-fba704c32862"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "48b5ccce-8f3a-45a1-a7a0-f708635ff254", "value": "gu"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/97881e43-dc72-58a5-be0d-a10e1be10de5">
+        <skos:altLabel xml:lang="nl">{"id": "1d16235e-3650-437c-9e6b-9a1db0c8c4a1", "value": "Kinyarwanda"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "107f9007-20f4-4df9-91af-4ec5473ce15c", "value": "https://n2t.net/ark:/1552/97881e43-dc72-58a5-be0d-a10e1be10de5"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "fb97b0e7-2609-432a-bae2-f1435a20dc40", "value": "rw"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/1ff6f1ba-cdfb-59a8-ae74-97e0383b1629">
+        <skos:prefLabel xml:lang="nl">{"id": "6b340290-9e89-4297-877a-359e10e3b5f7", "value": "bg"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "9b4bc636-70d7-4b72-ae5a-e09a5158fd60", "value": "Bulgarian"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "2e931313-89da-49a7-a5e1-cfff32fb3bf2", "value": "https://n2t.net/ark:/1552/1ff6f1ba-cdfb-59a8-ae74-97e0383b1629"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/2954e4ab-3d10-5396-8cf5-85c0b3c580c6">
+        <skos:prefLabel xml:lang="nl">{"id": "7f210383-1f19-4a19-a104-d28786447aaf", "value": "cu"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "8008dd9b-dff7-4d38-93be-f42d12f1ff95", "value": "https://n2t.net/ark:/1552/2954e4ab-3d10-5396-8cf5-85c0b3c580c6"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "fa4a8b23-dc4d-40ad-b1f8-fa36317ea92c", "value": "Church Slavic"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/17f83224-30e0-573d-a40e-68451a0caafe">
+        <dcterms:identifier xml:lang="en">{"id": "4fd85879-97e5-43fe-8ba9-1bf3823ef192", "value": "https://n2t.net/ark:/1552/17f83224-30e0-573d-a40e-68451a0caafe"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "8b8057ab-6f71-4461-81eb-8006864eef2a", "value": "Guarani"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "9482062b-5703-4889-841c-27101dbb0485", "value": "gn"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/78d64f17-cf91-57f8-ad96-20a1c3a6c114">
+        <dcterms:identifier xml:lang="en">{"id": "ba271c4c-8c7d-4ce1-9184-f0e54ae7ce9d", "value": "https://n2t.net/ark:/1552/78d64f17-cf91-57f8-ad96-20a1c3a6c114"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "436fc177-e216-476d-b65d-dcfe8e076027", "value": "Irish"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "b30bbcd0-47fc-4e8c-9b75-94bde0187fa4", "value": "ga"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/265238fd-89bb-5e39-8e96-e456adef8c6e">
+        <skos:altLabel xml:lang="nl">{"id": "f14ae57e-82e5-4181-9e86-41e8df397490", "value": "Breton"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "effba373-9213-4bac-8dcb-bdeaf7a99b45", "value": "br"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "4b27078c-6aec-4234-b263-8b9e5a7fede4", "value": "https://n2t.net/ark:/1552/265238fd-89bb-5e39-8e96-e456adef8c6e"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/d1189e78-2b82-5a97-aaf4-d9fae1d83f8c">
+        <skos:prefLabel xml:lang="nl">{"id": "57ebbf24-0afb-4345-857a-c684c8698a16", "value": "nr"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "4b3ea9c1-78fc-4ece-9be9-f95875c3a417", "value": "South Ndebele"}</skos:altLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "849bfe17-dfa4-4479-8879-4169de036fe1", "value": "https://n2t.net/ark:/1552/d1189e78-2b82-5a97-aaf4-d9fae1d83f8c"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/8999c4c5-ab00-591c-871c-ad579f4ff3e0">
+        <dcterms:identifier xml:lang="en">{"id": "1c79e985-1341-4c44-abb5-3373a45a7d8a", "value": "https://n2t.net/ark:/1552/8999c4c5-ab00-591c-871c-ad579f4ff3e0"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "9c512909-bbcc-4aa8-b519-9a315978492d", "value": "iu"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "d00afedf-3a20-489f-996a-2bd89b334ddc", "value": "Inuktitut"}</skos:altLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/b2813025-8325-5a1f-9aab-774c274485ee">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <skos:prefLabel xml:lang="nl">{"id": "23ecf35a-83ad-489e-b2d3-811666f24f3f", "value": "ln"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "1a6402fe-2d98-450c-83b8-1ad9cde910d7", "value": "Lingala"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "3bf48d7c-6316-4553-a63e-48b1e76ef341", "value": "https://n2t.net/ark:/1552/b2813025-8325-5a1f-9aab-774c274485ee"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/7536cf64-388b-5d03-bc01-6b580b0e049e">
+        <skos:prefLabel xml:lang="nl">{"id": "e0dee004-7580-4efd-8b89-dd1a23a766d9", "value": "ca"}</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">{"id": "49be5a9f-78d6-4817-a093-ce4e425b0133", "value": "Catalan"}</skos:altLabel>
+        <dcterms:identifier xml:lang="en">{"id": "eef5670a-eacf-4935-815c-2052afc73e11", "value": "https://n2t.net/ark:/1552/7536cf64-388b-5d03-bc01-6b580b0e049e"}</dcterms:identifier>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/8c1ab838-fbd0-51b3-bba4-e4d3608abbf5">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "1bc8adfb-a64e-4bba-a84a-fe705ecbfc77", "value": "https://n2t.net/ark:/1552/8c1ab838-fbd0-51b3-bba4-e4d3608abbf5"}</dcterms:identifier>
+        <skos:altLabel xml:lang="nl">{"id": "8a781a2b-546a-4dc7-bcff-7cfa8824d54f", "value": "Italian"}</skos:altLabel>
+        <skos:prefLabel xml:lang="nl">{"id": "a5596a51-e593-42cd-be8e-ed71948b2015", "value": "it"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/b72df56b-2765-4eec-9fbe-902552675510">
+    <skos:prefLabel xml:lang="en">{"id": "fa5082ce-e8de-4cea-9046-967701a8be98", "value": "R: road, railroad "}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+    <dcterms:identifier xml:lang="en">{"id": "421e460e-3f29-4d3d-9e68-44e98106ca13", "value": "http://localhost:8000/b72df56b-2765-4eec-9fbe-902552675510"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/34b954f8-c581-4463-841c-d86d3d04bf7c">
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/c1daaa0b-da0f-4d54-ba14-4a633d89a4bf">
+        <skos:prefLabel xml:lang="en">{"id": "284aff79-a247-4017-882b-09a7f96534f3", "value": "Ort"}</skos:prefLabel>
+        <skos:scopeNote xml:lang="en">{"id": "75a61908-3c09-4349-bc33-5a884521f2c6", "value": "P.PPLS\tpopulated places\tcities, towns, villages, or other agglomerations of buildings where people live and work"}</skos:scopeNote>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "39b19bc8-f651-418a-90e6-70e36e3308a3", "value": "http://localhost:8000/c1daaa0b-da0f-4d54-ba14-4a633d89a4bf"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/18586313-0ff1-4f55-954d-87efa8dd133b">
+        <dcterms:identifier xml:lang="en">{"id": "7eed5573-8da7-41a3-bb9d-8714b960ba92", "value": "http://localhost:8000/18586313-0ff1-4f55-954d-87efa8dd133b"}</dcterms:identifier>
+        <skos:scopeNote xml:lang="en">{"id": "06c16927-1ef5-44a4-b840-e51bfe43ce53", "value": "P.PPLC\tcapital of a political entity\tcapital of a political entity designated as an independent state"}</skos:scopeNote>
+        <skos:prefLabel xml:lang="en">{"id": "47620701-70f7-4212-bbe8-e3dcc6032012", "value": "capital of a political entity"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:prefLabel xml:lang="en">{"id": "485e4e64-5c73-4627-b9da-38c344a64431", "value": "P: city, village,..."}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+    <dcterms:identifier xml:lang="en">{"id": "ac55d7c8-7e85-494f-b8ca-89bc8d19e869", "value": "http://localhost:8000/34b954f8-c581-4463-841c-d86d3d04bf7c"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/685b000d-2c32-417e-9955-4dc1f1f42fde">
+    <skos:prefLabel xml:lang="en">{"id": "0cde6d88-e26a-4c9e-a269-661441b6acb0", "value": "U: undersea"}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+    <dcterms:identifier xml:lang="en">{"id": "9d5b3bc8-cb65-46e6-8b04-71b55eeefe70", "value": "http://localhost:8000/685b000d-2c32-417e-9955-4dc1f1f42fde"}</dcterms:identifier>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/bf588540-1094-47d3-a604-5542029b9575">
+    <dcterms:identifier xml:lang="en">{"id": "07255a9e-c76a-4321-baa8-4b633be8e71a", "value": "http://localhost:8000/bf588540-1094-47d3-a604-5542029b9575"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "0fe46c0f-5d7b-41bb-9d11-191fa4b70ade", "value": "L: parks,area, ..."}</skos:prefLabel>
+    <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/42d276e0-02df-4cff-8815-062c45deb072">
+    <skos:prefLabel xml:lang="en">{"id": "23bdf2c1-f625-4e00-b960-2f5b290ac8e0", "value": "H: stream, lake, ..."}</skos:prefLabel>
+    <skos:scopeNote xml:lang="en">{"id": "0dd51361-32a6-471c-a09a-a6c09dfea85b", "value": "H: stream, lake, ..."}</skos:scopeNote>
+    <dcterms:identifier xml:lang="en">{"id": "5ed958d2-493d-4b12-839e-b5978a952bec", "value": "http://localhost:8000/42d276e0-02df-4cff-8815-062c45deb072"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
   </skos:Concept>
   <skos:Concept rdf:about="http://localhost:8000/ff95d7dd-21a9-4c90-ba6c-cf8030f1d895">
     <skos:narrower>
-      <skos:Concept rdf:about="http://localhost:8000/b72df56b-2765-4eec-9fbe-902552675510">
-        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
-        <skos:prefLabel xml:lang="en">{"id": "fa5082ce-e8de-4cea-9046-967701a8be98", "value": "R: road, railroad "}</skos:prefLabel>
-      </skos:Concept>
-    </skos:narrower>
-    <skos:narrower>
-      <skos:Concept rdf:about="http://localhost:8000/34b954f8-c581-4463-841c-d86d3d04bf7c">
-        <skos:narrower rdf:resource="http://localhost:8000/18586313-0ff1-4f55-954d-87efa8dd133b"/>
-        <skos:narrower rdf:resource="http://localhost:8000/c1daaa0b-da0f-4d54-ba14-4a633d89a4bf"/>
-        <skos:prefLabel xml:lang="en">{"id": "485e4e64-5c73-4627-b9da-38c344a64431", "value": "P: city, village,..."}</skos:prefLabel>
-        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
-      </skos:Concept>
-    </skos:narrower>
-    <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
-    <skos:narrower>
-      <skos:Concept rdf:about="http://localhost:8000/bf588540-1094-47d3-a604-5542029b9575">
-        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
-        <skos:prefLabel xml:lang="en">{"id": "0fe46c0f-5d7b-41bb-9d11-191fa4b70ade", "value": "L: parks,area, ..."}</skos:prefLabel>
-      </skos:Concept>
-    </skos:narrower>
-    <skos:narrower>
-      <skos:Concept rdf:about="http://localhost:8000/95936d31-bd8a-4264-ae8e-5cf4cbcbf6be">
-        <skos:prefLabel xml:lang="en">{"id": "27f8c7f4-b95b-47ec-87b0-0f4c67c6282e", "value": "T: mountain,hill,rock,..."}</skos:prefLabel>
-        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
-      </skos:Concept>
-    </skos:narrower>
-    <skos:narrower>
-      <skos:Concept rdf:about="http://localhost:8000/4f962a63-25ab-4d01-b128-5a974261f1e1">
-        <skos:prefLabel xml:lang="en">{"id": "d2a892ba-920a-42dc-bc22-e40d22a46278", "value": "V: forest,heath,..."}</skos:prefLabel>
-        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
-      </skos:Concept>
-    </skos:narrower>
-    <skos:prefLabel xml:lang="en">{"id": "0cfb58c8-b339-40f2-b306-7960f6bc12bb", "value": "Feature codes"}</skos:prefLabel>
-    <skos:narrower>
-      <skos:Concept rdf:about="http://localhost:8000/42d276e0-02df-4cff-8815-062c45deb072">
-        <skos:scopeNote xml:lang="en">{"id": "0dd51361-32a6-471c-a09a-a6c09dfea85b", "value": "H: stream, lake, ..."}</skos:scopeNote>
-        <skos:prefLabel xml:lang="en">{"id": "23bdf2c1-f625-4e00-b960-2f5b290ac8e0", "value": "H: stream, lake, ..."}</skos:prefLabel>
-        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
-      </skos:Concept>
-    </skos:narrower>
-    <skos:narrower>
       <skos:Concept rdf:about="http://localhost:8000/f69b8622-0f35-429a-bc57-f636f5e40bad">
-        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
-        <skos:prefLabel xml:lang="en">{"id": "038c7a08-bd93-4fff-b704-e7544ad0f1dc", "value": "A: country, state, region,..."}</skos:prefLabel>
-        <skos:scopeNote xml:lang="en">{"id": "e6e3f81c-3bb9-4fd2-a253-daee87d8b774", "value": "A"}</skos:scopeNote>
         <skos:narrower rdf:resource="http://localhost:8000/fa5d28eb-1c92-4c86-b243-4dd1fcd45b99"/>
         <skos:narrower rdf:resource="http://localhost:8000/08f6a841-154f-425d-ac50-24f2a9bdd93a"/>
-      </skos:Concept>
-    </skos:narrower>
-    <skos:narrower>
-      <skos:Concept rdf:about="http://localhost:8000/685b000d-2c32-417e-9955-4dc1f1f42fde">
+        <dcterms:identifier xml:lang="en">{"id": "ff619ec3-cf6b-42df-81d7-1b4b3eab457d", "value": "http://localhost:8000/f69b8622-0f35-429a-bc57-f636f5e40bad"}</dcterms:identifier>
+        <skos:scopeNote xml:lang="en">{"id": "e6e3f81c-3bb9-4fd2-a253-daee87d8b774", "value": "A"}</skos:scopeNote>
         <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
-        <skos:prefLabel xml:lang="en">{"id": "0cde6d88-e26a-4c9e-a269-661441b6acb0", "value": "U: undersea"}</skos:prefLabel>
+        <skos:prefLabel xml:lang="en">{"id": "038c7a08-bd93-4fff-b704-e7544ad0f1dc", "value": "A: country, state, region,..."}</skos:prefLabel>
       </skos:Concept>
     </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/685b000d-2c32-417e-9955-4dc1f1f42fde"/>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/4f962a63-25ab-4d01-b128-5a974261f1e1">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "4ff7ba35-cfae-4411-9333-74e841fa5f06", "value": "http://localhost:8000/4f962a63-25ab-4d01-b128-5a974261f1e1"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "d2a892ba-920a-42dc-bc22-e40d22a46278", "value": "V: forest,heath,..."}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
+    <skos:narrower rdf:resource="http://localhost:8000/b72df56b-2765-4eec-9fbe-902552675510"/>
+    <skos:narrower rdf:resource="http://localhost:8000/34b954f8-c581-4463-841c-d86d3d04bf7c"/>
+    <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
     <skos:narrower>
       <skos:Concept rdf:about="http://localhost:8000/81f92dc5-52c0-4e5b-ae1c-7bd2c7de8ee4">
+        <dcterms:identifier xml:lang="en">{"id": "1ed833cc-698f-497f-8868-158cd96bde61", "value": "http://localhost:8000/81f92dc5-52c0-4e5b-ae1c-7bd2c7de8ee4"}</dcterms:identifier>
         <skos:prefLabel xml:lang="en">{"id": "7d0bc007-be29-49af-a897-bb234912b414", "value": "S: spot, building, farm"}</skos:prefLabel>
         <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
       </skos:Concept>
     </skos:narrower>
+    <skos:prefLabel xml:lang="en">{"id": "0cfb58c8-b339-40f2-b306-7960f6bc12bb", "value": "Feature codes"}</skos:prefLabel>
+    <skos:narrower rdf:resource="http://localhost:8000/bf588540-1094-47d3-a604-5542029b9575"/>
+    <skos:narrower rdf:resource="http://localhost:8000/42d276e0-02df-4cff-8815-062c45deb072"/>
+    <dcterms:identifier xml:lang="en">{"id": "084f1e2f-24a1-441e-9c0d-b1842552afe9", "value": "http://localhost:8000/ff95d7dd-21a9-4c90-ba6c-cf8030f1d895"}</dcterms:identifier>
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/95936d31-bd8a-4264-ae8e-5cf4cbcbf6be">
+        <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
+        <dcterms:identifier xml:lang="en">{"id": "1da130b7-f695-4385-8d77-f1d0142d41a8", "value": "http://localhost:8000/95936d31-bd8a-4264-ae8e-5cf4cbcbf6be"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="en">{"id": "27f8c7f4-b95b-47ec-87b0-0f4c67c6282e", "value": "T: mountain,hill,rock,..."}</skos:prefLabel>
+      </skos:Concept>
+    </skos:narrower>
   </skos:Concept>
-  <skos:Concept rdf:about="http://localhost:8000/18586313-0ff1-4f55-954d-87efa8dd133b">
+  <skos:Concept rdf:about="http://localhost:8000/fa5d28eb-1c92-4c86-b243-4dd1fcd45b99">
+    <dcterms:identifier xml:lang="en">{"id": "7d6c54ac-3572-42ae-be63-637b65a8fa27", "value": "http://localhost:8000/fa5d28eb-1c92-4c86-b243-4dd1fcd45b99"}</dcterms:identifier>
+    <skos:scopeNote xml:lang="en">{"id": "a0b3e3c2-da06-4f20-ad0b-b44e7b08f686", "value": "A.ADM2\tsecond-order administrative division\ta subdivision of a first-order administrative division"}</skos:scopeNote>
+    <skos:prefLabel xml:lang="en">{"id": "4496073c-3f44-4f75-a301-ef64724bd291", "value": "Geemeente"}</skos:prefLabel>
     <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
-    <skos:scopeNote xml:lang="en">{"id": "06c16927-1ef5-44a4-b840-e51bfe43ce53", "value": "P.PPLC\tcapital of a political entity\tcapital of a political entity designated as an independent state"}</skos:scopeNote>
-    <skos:prefLabel xml:lang="en">{"id": "47620701-70f7-4212-bbe8-e3dcc6032012", "value": "capital of a political entity"}</skos:prefLabel>
-  </skos:Concept>
-  <skos:Concept rdf:about="http://localhost:8000/c1daaa0b-da0f-4d54-ba14-4a633d89a4bf">
-    <skos:prefLabel xml:lang="en">{"id": "284aff79-a247-4017-882b-09a7f96534f3", "value": "Ort"}</skos:prefLabel>
-    <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
-    <skos:scopeNote xml:lang="en">{"id": "75a61908-3c09-4349-bc33-5a884521f2c6", "value": "P.PPLS\tpopulated places\tcities, towns, villages, or other agglomerations of buildings where people live and work"}</skos:scopeNote>
   </skos:Concept>
   <skos:Concept rdf:about="http://localhost:8000/08f6a841-154f-425d-ac50-24f2a9bdd93a">
-    <skos:prefLabel xml:lang="nl">{"id": "75b5494a-0aa5-4e94-a7d8-d22870a7bf7d", "value": "Provincie"}</skos:prefLabel>
     <skos:inScheme rdf:resource="http://localhost:8000/015afc19-6153-4988-9cb7-7b03818c5d6f"/>
     <skos:scopeNote xml:lang="nl">{"id": "ea5d33e9-69cf-4fef-99de-7d6a0ea4c136", "value": "ADM1 first-order administrative division\ta primary administrative division of a country, such as a state in the United States"}</skos:scopeNote>
+    <dcterms:identifier xml:lang="en">{"id": "af54c3e4-10bb-4628-bb08-b6b8196cad48", "value": "http://localhost:8000/08f6a841-154f-425d-ac50-24f2a9bdd93a"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="nl">{"id": "75b5494a-0aa5-4e94-a7d8-d22870a7bf7d", "value": "Provincie"}</skos:prefLabel>
   </skos:Concept>
 </rdf:RDF>

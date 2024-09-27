@@ -84,37 +84,7 @@
                 {
                     "cardinality": "1",
                     "legacygroupid": null,
-                    "nodegroupid": "46c43cee-72b1-11ef-a972-96a6d2455259",
-                    "parentnodegroup_id": null
-                },
-                {
-                    "cardinality": "1",
-                    "legacygroupid": null,
-                    "nodegroupid": "4f23f996-72b2-11ef-a972-96a6d2455259",
-                    "parentnodegroup_id": null
-                },
-                {
-                    "cardinality": "1",
-                    "legacygroupid": null,
-                    "nodegroupid": "76f4a214-72b1-11ef-a972-96a6d2455259",
-                    "parentnodegroup_id": null
-                },
-                {
-                    "cardinality": "1",
-                    "legacygroupid": null,
-                    "nodegroupid": "a3895554-72b1-11ef-a972-96a6d2455259",
-                    "parentnodegroup_id": null
-                },
-                {
-                    "cardinality": "1",
-                    "legacygroupid": null,
-                    "nodegroupid": "acbb3f02-72b1-11ef-a972-96a6d2455259",
-                    "parentnodegroup_id": null
-                },
-                {
-                    "cardinality": "1",
-                    "legacygroupid": null,
-                    "nodegroupid": "fff74d6e-72b1-11ef-a972-96a6d2455259",
+                    "nodegroupid": "74659bbe-738a-11ef-921e-96a6d2455259",
                     "parentnodegroup_id": null
                 }
             ],

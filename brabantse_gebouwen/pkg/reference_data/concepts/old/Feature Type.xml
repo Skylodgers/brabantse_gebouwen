@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+>
+  <skos:ConceptScheme rdf:about="http://localhost:8000/b28329ca-6f0c-43ad-8109-a938991d71e6">
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/df56ca00-11a9-41a3-9e0c-f62e66e242b8">
+        <skos:prefLabel xml:lang="en">{"id": "ffe9b475-b9ab-4c71-8047-016f56bda495", "value": "cemetary"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/b28329ca-6f0c-43ad-8109-a938991d71e6"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <dcterms:title xml:lang="en">{"id": "c350051b-f390-4a46-8061-e07bd9f0ebb9", "value": "Feature Type"}</dcterms:title>
+  </skos:ConceptScheme>
+</rdf:RDF>

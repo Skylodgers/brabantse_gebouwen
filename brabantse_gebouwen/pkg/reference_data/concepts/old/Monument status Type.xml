@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:Concept rdf:about="http://localhost:8000/a14e0eb8-2f04-46a1-968f-b0a5c8dd56ad">
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/1a496d21-5f68-4a57-85b9-03390e7fa7bf">
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/a14e0eb8-2f04-46a1-968f-b0a5c8dd56ad"/>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/04241297-6478-454f-929d-d80558ab0b55"/>
+        <dcterms:title xml:lang="en">{"id": "9c387093-bde2-4313-9b10-4e546b28827e", "value": "Monument Status Type"}</dcterms:title>
+        <dcterms:identifier xml:lang="en">{"id": "9814761b-618e-4e1b-ae25-553303039fb9", "value": "http://localhost:8000/1a496d21-5f68-4a57-85b9-03390e7fa7bf"}</dcterms:identifier>
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/dd722800-d57d-4085-8a0f-004c03ca1b40"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+    <skos:prefLabel xml:lang="nl">{"id": "48ad3a14-37f9-463d-bbcf-6db97cad753a", "value": "Beeldbepalend gebouw"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/dd722800-d57d-4085-8a0f-004c03ca1b40">
+    <dcterms:identifier xml:lang="en">{"id": "24352166-9d4e-495c-aa0a-ba27cb634dcc", "value": "http://localhost:8000/dd722800-d57d-4085-8a0f-004c03ca1b40"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/1a496d21-5f68-4a57-85b9-03390e7fa7bf"/>
+    <skos:prefLabel xml:lang="nl">{"id": "a0605e25-053a-4694-a278-5e92ae927833", "value": "Gemeentelijk monument"}</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="http://localhost:8000/04241297-6478-454f-929d-d80558ab0b55">
+    <dcterms:identifier xml:lang="en">{"id": "62a58777-87bd-48e5-8ae7-49f30a7c8514", "value": "http://localhost:8000/04241297-6478-454f-929d-d80558ab0b55"}</dcterms:identifier>
+    <skos:inScheme rdf:resource="http://localhost:8000/1a496d21-5f68-4a57-85b9-03390e7fa7bf"/>
+    <skos:prefLabel xml:lang="nl">{"id": "e3fab248-1b58-4727-9a17-c237095cd0c5", "value": "Rijksmonument"}</skos:prefLabel>
+  </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:Concept rdf:about="http://localhost:8000/a8192e9b-c51b-42c2-9bb1-d88da37c32d3">
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/606966c3-f5a5-4bf0-8d11-5db688b20315">
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/a8192e9b-c51b-42c2-9bb1-d88da37c32d3"/>
+        <dcterms:title xml:lang="en">{"id": "1f62a693-49e3-46a7-988a-b9f3e9571c50", "value": "Organisation Type"}</dcterms:title>
+        <dcterms:identifier xml:lang="en">{"id": "0db8e313-ed11-446e-a937-430c1950b093", "value": "http://localhost:8000/606966c3-f5a5-4bf0-8d11-5db688b20315"}</dcterms:identifier>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+    <dcterms:identifier xml:lang="en">{"id": "4dbf17c9-1bdf-4fb5-b9bb-9a4941038bd3", "value": "http://localhost:8000/a8192e9b-c51b-42c2-9bb1-d88da37c32d3"}</dcterms:identifier>
+    <skos:prefLabel xml:lang="en">{"id": "ecc1c094-6499-45df-8aaf-14a0127d7a52", "value": "Religious Order"}</skos:prefLabel>
+  </skos:Concept>
+</rdf:RDF>

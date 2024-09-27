@@ -168,7 +168,7 @@
             "iconclass": "fa fa-map-marker",
             "is_editable": true,
             "isresource": false,
-            "jsonldcontext": null,
+            "jsonldcontext": "https://linked.art/ns/v1/linked-art.json",
             "name": {
                 "en": "statement"
             },

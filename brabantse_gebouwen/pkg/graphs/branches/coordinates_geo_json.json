@@ -136,73 +136,7 @@
                 {
                     "cardinality": "1",
                     "legacygroupid": null,
-                    "nodegroupid": "1f1a1196-72a7-11ef-a972-96a6d2455259",
-                    "parentnodegroup_id": null
-                },
-                {
-                    "cardinality": "1",
-                    "legacygroupid": null,
-                    "nodegroupid": "21c5af38-72af-11ef-a972-96a6d2455259",
-                    "parentnodegroup_id": null
-                },
-                {
-                    "cardinality": "n",
-                    "legacygroupid": null,
-                    "nodegroupid": "436ccb80-2a5f-11ec-b195-0a9473e82189",
-                    "parentnodegroup_id": null
-                },
-                {
-                    "cardinality": "1",
-                    "legacygroupid": null,
-                    "nodegroupid": "48c25566-bb14-11ea-85a6-3af9d3b32b71",
-                    "parentnodegroup_id": null
-                },
-                {
-                    "cardinality": "1",
-                    "legacygroupid": null,
-                    "nodegroupid": "53e2b514-72a6-11ef-a972-96a6d2455259",
-                    "parentnodegroup_id": null
-                },
-                {
-                    "cardinality": "n",
-                    "legacygroupid": null,
-                    "nodegroupid": "5f00c6df-0650-11ee-8f04-cd21e680a247",
-                    "parentnodegroup_id": null
-                },
-                {
-                    "cardinality": "n",
-                    "legacygroupid": null,
-                    "nodegroupid": "64556d86-bb14-11ea-85a6-3af9d3b32b71",
-                    "parentnodegroup_id": null
-                },
-                {
-                    "cardinality": "n",
-                    "legacygroupid": null,
-                    "nodegroupid": "76b8dfa4-bb13-11ea-85a6-3af9d3b32b71",
-                    "parentnodegroup_id": null
-                },
-                {
-                    "cardinality": "1",
-                    "legacygroupid": null,
-                    "nodegroupid": "8a740bf0-72a6-11ef-a972-96a6d2455259",
-                    "parentnodegroup_id": null
-                },
-                {
-                    "cardinality": "1",
-                    "legacygroupid": null,
-                    "nodegroupid": "d3f735ac-72ad-11ef-a972-96a6d2455259",
-                    "parentnodegroup_id": null
-                },
-                {
-                    "cardinality": "1",
-                    "legacygroupid": null,
-                    "nodegroupid": "d5c46d60-48b4-11ee-8a8d-11afefc4bff7",
-                    "parentnodegroup_id": null
-                },
-                {
-                    "cardinality": "1",
-                    "legacygroupid": null,
-                    "nodegroupid": "f690163a-72a6-11ef-a972-96a6d2455259",
+                    "nodegroupid": "d34bedb6-7391-11ef-921e-96a6d2455259",
                     "parentnodegroup_id": null
                 }
             ],

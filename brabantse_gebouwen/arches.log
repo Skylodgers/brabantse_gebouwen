@@ -148,3 +148,95 @@ DETAIL:  Key (conceptidto)=(2afd9541-65c9-4620-ae30-821258d37f2a) is not present
 
 2024-09-15 15:26:28,259 arches.app.utils.data_management.resource_graphs.importer WARNING  No ontologies have been loaded. Any GraphModel that depends on an ontology cannot be loaded.
 2024-09-16 05:34:39,865 arches.app.utils.data_management.resource_graphs.importer WARNING  No ontologies have been loaded. Any GraphModel that depends on an ontology cannot be loaded.
+2024-09-26 09:12:05,115 arches.app.utils.skos WARNING  
+The SKOS file "Dedication Subject Type.xml" appears to have orphaned concepts.
+2024-09-26 15:17:26,806 arches.app.utils.data_management.resource_graphs.importer WARNING  No ontologies have been loaded. Any GraphModel that depends on an ontology cannot be loaded.
+2024-09-26 15:17:36,024 arches.app.utils.skos WARNING  
+The SKOS file "Brabantse Gebouwen.xml" appears to have orphaned concepts.
+2024-09-26 15:17:36,213 arches.app.utils.skos WARNING  insert or update on table "relations" violates foreign key constraint "relations_conceptidto_6fb05b5e_fk_concepts_conceptid"
+DETAIL:  Key (conceptidto)=(7da08de2-8f46-46be-a67f-4235b246010a) is not present in table "concepts".
+
+2024-09-26 15:17:36,227 arches.app.utils.skos WARNING  insert or update on table "relations" violates foreign key constraint "relations_conceptidto_6fb05b5e_fk_concepts_conceptid"
+DETAIL:  Key (conceptidto)=(dd722800-d57d-4085-8a0f-004c03ca1b40) is not present in table "concepts".
+
+2024-09-26 15:17:36,229 arches.app.utils.skos WARNING  insert or update on table "relations" violates foreign key constraint "relations_conceptidto_6fb05b5e_fk_concepts_conceptid"
+DETAIL:  Key (conceptidto)=(9a7d9fe5-a982-47c4-8f6a-f8f5cbb65578) is not present in table "concepts".
+
+2024-09-26 15:17:36,241 arches.app.utils.skos WARNING  insert or update on table "relations" violates foreign key constraint "relations_conceptidto_6fb05b5e_fk_concepts_conceptid"
+DETAIL:  Key (conceptidto)=(d790adfa-6332-47c1-91e0-493c4accefe1) is not present in table "concepts".
+
+2024-09-26 15:17:36,246 arches.app.utils.skos WARNING  insert or update on table "relations" violates foreign key constraint "relations_conceptidto_6fb05b5e_fk_concepts_conceptid"
+DETAIL:  Key (conceptidto)=(9f567b55-ceec-4461-b7d2-c73d6b06a6d2) is not present in table "concepts".
+
+2024-09-26 15:17:36,253 arches.app.utils.skos WARNING  insert or update on table "relations" violates foreign key constraint "relations_conceptidto_6fb05b5e_fk_concepts_conceptid"
+DETAIL:  Key (conceptidto)=(13ffbad5-492d-41f7-8db2-a8f0ff31d820) is not present in table "concepts".
+
+2024-09-26 15:17:36,270 arches.app.utils.skos WARNING  insert or update on table "relations" violates foreign key constraint "relations_conceptidto_6fb05b5e_fk_concepts_conceptid"
+DETAIL:  Key (conceptidto)=(b4beedc2-7adf-408e-8812-935e63898f5e) is not present in table "concepts".
+
+2024-09-26 15:17:36,286 arches.app.utils.skos WARNING  insert or update on table "relations" violates foreign key constraint "relations_conceptidto_6fb05b5e_fk_concepts_conceptid"
+DETAIL:  Key (conceptidto)=(44d943b6-c77f-4ec6-b372-693962ae7406) is not present in table "concepts".
+
+2024-09-26 15:17:36,291 arches.app.utils.skos WARNING  insert or update on table "relations" violates foreign key constraint "relations_conceptidto_6fb05b5e_fk_concepts_conceptid"
+DETAIL:  Key (conceptidto)=(c172f5f6-d770-4ded-9a84-250922abf516) is not present in table "concepts".
+
+2024-09-26 15:17:36,324 arches.app.utils.skos WARNING  insert or update on table "relations" violates foreign key constraint "relations_conceptidto_6fb05b5e_fk_concepts_conceptid"
+DETAIL:  Key (conceptidto)=(a8192e9b-c51b-42c2-9bb1-d88da37c32d3) is not present in table "concepts".
+
+2024-09-26 15:17:36,342 arches.app.utils.skos WARNING  insert or update on table "relations" violates foreign key constraint "relations_conceptidto_6fb05b5e_fk_concepts_conceptid"
+DETAIL:  Key (conceptidto)=(477b5e08-cfde-495b-beeb-82560b805dee) is not present in table "concepts".
+
+2024-09-26 15:17:36,365 arches.app.utils.skos WARNING  insert or update on table "relations" violates foreign key constraint "relations_conceptidto_6fb05b5e_fk_concepts_conceptid"
+DETAIL:  Key (conceptidto)=(9067b30b-b76d-4149-975b-ceccb3d040a0) is not present in table "concepts".
+
+2024-09-26 15:17:36,373 arches.app.utils.skos WARNING  insert or update on table "relations" violates foreign key constraint "relations_conceptidto_6fb05b5e_fk_concepts_conceptid"
+DETAIL:  Key (conceptidto)=(8a5351c4-0d51-4670-8046-2e6aafabbfe9) is not present in table "concepts".
+
+2024-09-26 15:17:36,394 arches.app.utils.skos WARNING  insert or update on table "relations" violates foreign key constraint "relations_conceptidto_6fb05b5e_fk_concepts_conceptid"
+DETAIL:  Key (conceptidto)=(c44e4cca-d283-44aa-89b9-2ac26f32f892) is not present in table "concepts".
+
+2024-09-26 15:17:36,396 arches.app.utils.skos WARNING  insert or update on table "relations" violates foreign key constraint "relations_conceptidto_6fb05b5e_fk_concepts_conceptid"
+DETAIL:  Key (conceptidto)=(36da50a6-44f1-46db-9602-cd777267b1d1) is not present in table "concepts".
+
+2024-09-26 15:17:36,408 arches.app.utils.skos WARNING  insert or update on table "relations" violates foreign key constraint "relations_conceptidto_6fb05b5e_fk_concepts_conceptid"
+DETAIL:  Key (conceptidto)=(f2d26877-f91d-4633-ad6c-b50e45931d63) is not present in table "concepts".
+
+2024-09-26 15:17:36,415 arches.app.utils.skos WARNING  insert or update on table "relations" violates foreign key constraint "relations_conceptidto_6fb05b5e_fk_concepts_conceptid"
+DETAIL:  Key (conceptidto)=(cc8631de-63a0-4197-9f53-00c19efbd34f) is not present in table "concepts".
+
+2024-09-26 15:17:36,419 arches.app.utils.skos WARNING  insert or update on table "relations" violates foreign key constraint "relations_conceptidto_6fb05b5e_fk_concepts_conceptid"
+DETAIL:  Key (conceptidto)=(739af934-af35-482c-a4df-4496a3658520) is not present in table "concepts".
+
+2024-09-26 15:17:36,435 arches.app.utils.skos WARNING  insert or update on table "relations" violates foreign key constraint "relations_conceptidto_6fb05b5e_fk_concepts_conceptid"
+DETAIL:  Key (conceptidto)=(c422d4a9-6526-42ae-b8db-b6614b270c87) is not present in table "concepts".
+
+2024-09-26 15:17:36,462 arches.app.utils.skos WARNING  insert or update on table "relations" violates foreign key constraint "relations_conceptidto_6fb05b5e_fk_concepts_conceptid"
+DETAIL:  Key (conceptidto)=(04241297-6478-454f-929d-d80558ab0b55) is not present in table "concepts".
+
+2024-09-26 15:17:36,482 arches.app.utils.skos WARNING  insert or update on table "relations" violates foreign key constraint "relations_conceptidto_6fb05b5e_fk_concepts_conceptid"
+DETAIL:  Key (conceptidto)=(40b37ac2-251a-44d1-8894-8e5425874f43) is not present in table "concepts".
+
+2024-09-26 15:17:36,486 arches.app.utils.skos WARNING  insert or update on table "relations" violates foreign key constraint "relations_conceptidto_6fb05b5e_fk_concepts_conceptid"
+DETAIL:  Key (conceptidto)=(34a6124f-756f-4633-b54b-853f7d2f2f43) is not present in table "concepts".
+
+2024-09-26 15:18:45,904 arches.app.utils.data_management.resource_graphs.importer WARNING  No ontologies have been loaded. Any GraphModel that depends on an ontology cannot be loaded.
+2024-09-26 15:18:54,442 arches.app.utils.skos WARNING  
+The SKOS file "Brabantse Gebouwen.xml" appears to have orphaned concepts.
+2024-09-26 15:39:03,780 arches.app.utils.data_management.resource_graphs.importer WARNING  No ontologies have been loaded. Any GraphModel that depends on an ontology cannot be loaded.
+2024-09-26 15:39:12,014 arches.app.utils.skos WARNING  
+The SKOS file "Brabantse Gebouwen.xml" appears to have orphaned concepts.
+2024-09-26 15:42:45,806 arches.app.utils.data_management.resource_graphs.importer WARNING  No ontologies have been loaded. Any GraphModel that depends on an ontology cannot be loaded.
+2024-09-26 15:48:52,947 arches.app.utils.data_management.resource_graphs.importer WARNING  No ontologies have been loaded. Any GraphModel that depends on an ontology cannot be loaded.
+2024-09-26 15:52:04,887 arches.app.utils.data_management.resource_graphs.importer WARNING  No ontologies have been loaded. Any GraphModel that depends on an ontology cannot be loaded.
+2024-09-26 15:52:17,595 arches.app.utils.skos WARNING  
+The SKOS file "Brabantse Gebouwen.xml" appears to have orphaned concepts.
+2024-09-26 16:03:24,746 arches.app.utils.data_management.resource_graphs.importer WARNING  No ontologies have been loaded. Any GraphModel that depends on an ontology cannot be loaded.
+2024-09-26 16:03:38,466 arches.app.utils.skos WARNING  
+The SKOS file "Brabantse Gebouwen.xml" appears to have orphaned concepts.
+2024-09-26 16:06:15,803 arches.app.utils.data_management.resource_graphs.importer WARNING  No ontologies have been loaded. Any GraphModel that depends on an ontology cannot be loaded.
+2024-09-26 16:09:53,113 arches.app.utils.data_management.resource_graphs.importer WARNING  No ontologies have been loaded. Any GraphModel that depends on an ontology cannot be loaded.
+2024-09-26 16:11:03,014 arches.app.utils.skos WARNING  
+The SKOS file "Brabantse Gebouwen.xml" appears to have orphaned concepts.
+2024-09-26 16:15:38,325 arches.app.utils.data_management.resource_graphs.importer WARNING  No ontologies have been loaded. Any GraphModel that depends on an ontology cannot be loaded.
+2024-09-26 16:18:50,113 arches.app.utils.data_management.resource_graphs.importer WARNING  No ontologies have been loaded. Any GraphModel that depends on an ontology cannot be loaded.
+2024-09-26 16:24:00,331 arches.app.utils.data_management.resource_graphs.importer WARNING  No ontologies have been loaded. Any GraphModel that depends on an ontology cannot be loaded.

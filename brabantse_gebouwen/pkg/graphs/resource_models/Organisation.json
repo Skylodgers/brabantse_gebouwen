@@ -41,17 +41,21 @@
                     "graph_id": "fa335042-a1fe-11ed-a102-9cf387da2c40",
                     "helpenabled": false,
                     "helptext": {
-                        "en": ""
+                        "en": "",
+                        "nl": ""
                     },
                     "helptitle": {
-                        "en": ""
+                        "en": "",
+                        "nl": ""
                     },
                     "instructions": {
-                        "en": ""
+                        "en": "",
+                        "nl": ""
                     },
                     "is_editable": true,
                     "name": {
-                        "en": "name"
+                        "en": "Name",
+                        "nl": "Naam"
                     },
                     "nodegroup_id": "5c6506a4-7299-11ef-a972-96a6d2455259",
                     "sortorder": 3,
@@ -563,14 +567,16 @@
                         "label": "name_content",
                         "maxLength": null,
                         "placeholder": {
-                            "en": "Enter text"
+                            "en": "Enter text",
+                            "nl": "Enter text"
                         },
                         "uneditable": false,
                         "width": "100%"
                     },
                     "id": "5c650ad2-7299-11ef-a972-96a6d2455259",
                     "label": {
-                        "en": "name_content"
+                        "en": "name_content",
+                        "nl": "name_content"
                     },
                     "node_id": "5c65092e-7299-11ef-a972-96a6d2455259",
                     "sortorder": 0,
@@ -587,16 +593,18 @@
                         "label": "name_content_type",
                         "options": [],
                         "placeholder": {
-                            "en": "Select an option"
+                            "en": "Select an option",
+                            "nl": "Select an option"
                         }
                     },
                     "id": "5c650b2c-7299-11ef-a972-96a6d2455259",
                     "label": {
-                        "en": "name_content_type"
+                        "en": "name_content_type",
+                        "nl": "name_content_type"
                     },
                     "node_id": "5c6509ec-7299-11ef-a972-96a6d2455259",
                     "sortorder": 1,
-                    "visible": true,
+                    "visible": false,
                     "widget_id": "10000000-0000-0000-0000-000000000002"
                 },
                 {
@@ -609,16 +617,18 @@
                         "label": "name_content_language",
                         "options": [],
                         "placeholder": {
-                            "en": "Select an option"
+                            "en": "Select an option",
+                            "nl": "Select an option"
                         }
                     },
                     "id": "5c650b72-7299-11ef-a972-96a6d2455259",
                     "label": {
-                        "en": "name_content_language"
+                        "en": "name_content_language",
+                        "nl": "name_content_language"
                     },
                     "node_id": "5c650a8c-7299-11ef-a972-96a6d2455259",
                     "sortorder": 2,
-                    "visible": true,
+                    "visible": false,
                     "widget_id": "10000000-0000-0000-0000-000000000002"
                 },
                 {
@@ -1043,7 +1053,7 @@
                 {
                     "card_id": "6f438660-7299-11ef-a972-96a6d2455259",
                     "config": {
-                        "defaultValue": "cc5cb5e1-2eba-4184-969e-7c6c954c84c9",
+                        "defaultValue": "5da3a42d-b892-4fb2-9454-f687e087b28f",
                         "i18n_properties": [
                             "placeholder"
                         ],
@@ -2434,7 +2444,7 @@
                     },
                     "function_id": "60000000-0000-0000-0000-000000000001",
                     "graph_id": "fa335042-a1fe-11ed-a102-9cf387da2c40",
-                    "id": "c9662f8e-a9a8-4dc2-8248-75c93fedb3e3"
+                    "id": "6fde9ecd-7c73-4e59-90ef-baf0a6533c49"
                 }
             ],
             "graphid": "fa335042-a1fe-11ed-a102-9cf387da2c40",
@@ -5117,12 +5127,7 @@
                 }
             ],
             "ontology_id": "0b1f5462-faa7-11e9-8f09-3af9d3b32b71",
-            "publication": {
-                "graph_id": "fa335042-a1fe-11ed-a102-9cf387da2c40",
-                "notes": null,
-                "publicationid": "f21bcb72-739f-11ef-a98f-96a6d2455259",
-                "published_time": "2024-09-15T15:20:27.067"
-            },
+            "publication": null,
             "relatable_resource_model_ids": [],
             "resource_2_resource_constraints": [],
             "root": {
@@ -5153,11 +5158,5 @@
             "template_id": "50000000-0000-0000-0000-000000000001",
             "version": ""
         }
-    ],
-    "metadata": {
-        "db": "PostgreSQL 15.8 (Postgres.app) on aarch64-apple-darwin21.6.0, compiled by Apple clang version 14.0.0 (clang-1400.0.29.102), 64-bit",
-        "git hash": "6744276b 2024-09-15 21:53:28 +0200",
-        "os": "Darwin",
-        "os version": "23.6.0"
-    }
+    ]
 }

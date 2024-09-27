@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:ConceptScheme rdf:about="http://localhost:8000/6dc6ef15-0dcf-4287-8781-752a0745bd36">
+    <dcterms:title xml:lang="en">{"id": "c1047a6e-2a84-43f0-a3a7-0e084c65b7e7", "value": "Place Type"}</dcterms:title>
+    <dcterms:identifier xml:lang="en">{"id": "a2f4a8c3-dc5a-4c30-b9da-4e60237d5558", "value": "http://localhost:8000/6dc6ef15-0dcf-4287-8781-752a0745bd36"}</dcterms:identifier>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/c422d4a9-6526-42ae-b8db-b6614b270c87">
+        <dcterms:identifier xml:lang="en">{"id": "a625a92d-91f8-45ed-b2ca-75f98479e853", "value": "http://localhost:8000/c422d4a9-6526-42ae-b8db-b6614b270c87"}</dcterms:identifier>
+        <skos:prefLabel xml:lang="nl">{"id": "6e90fca0-f327-4e92-a59c-f3a07ef8d91c", "value": "Provincie"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/6dc6ef15-0dcf-4287-8781-752a0745bd36"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/40b37ac2-251a-44d1-8894-8e5425874f43">
+        <skos:prefLabel xml:lang="en">{"id": "5833e72a-22cb-482e-a471-7c6ecd0b96e2", "value": "Stad"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/6dc6ef15-0dcf-4287-8781-752a0745bd36"/>
+        <dcterms:identifier xml:lang="en">{"id": "ee97b71c-c7de-4750-85cc-0fe1b836a4e3", "value": "http://localhost:8000/40b37ac2-251a-44d1-8894-8e5425874f43"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/477b5e08-cfde-495b-beeb-82560b805dee">
+        <skos:inScheme rdf:resource="http://localhost:8000/6dc6ef15-0dcf-4287-8781-752a0745bd36"/>
+        <skos:prefLabel xml:lang="nl">{"id": "16867e5e-9960-402b-8f01-c7c1b885dc72", "value": "Dorp"}</skos:prefLabel>
+        <dcterms:identifier xml:lang="en">{"id": "2eb2620d-428e-43e9-9b63-815bafe6c7e5", "value": "http://localhost:8000/477b5e08-cfde-495b-beeb-82560b805dee"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/7da08de2-8f46-46be-a67f-4235b246010a">
+        <skos:prefLabel xml:lang="nl">{"id": "20a5dfca-218b-4e9c-be16-41620ad084a7", "value": "Gemeente"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/6dc6ef15-0dcf-4287-8781-752a0745bd36"/>
+        <dcterms:identifier xml:lang="en">{"id": "7811f94d-adf0-48d4-8993-c90bdf288c55", "value": "http://localhost:8000/7da08de2-8f46-46be-a67f-4235b246010a"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:hasTopConcept>
+  </skos:ConceptScheme>
+</rdf:RDF>
