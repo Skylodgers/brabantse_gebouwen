@@ -1,32 +1,3 @@
-notebooks/import/geonames/out/geonames_nb.csv
-{
-  "cards": [
-    {
-      "card_name": "e53_alternate_name",
-      "filter": [
-        {
-          "exclude": [
-            {
-              "key": "isolanguage",
-              "values": [
-                "post",
-                "link",
-                "unlc",
-                "wkdt",
-                "unic",
-                "iata"
-              ]
-            }
-          ]
-        }
-      ],
-}
-
-
-
-
-
-
 {
   "name": "brabantse_gebouwen",
   "graph": "Place",
@@ -35,23 +6,53 @@ notebooks/import/geonames/out/geonames_nb.csv
       "dataset": "geonames_nb.csv",
       "cards": [
         {
-          "card_name": "e53_single",
+          "card_name": "single",
+          "card_order": "0",
           "node_mappings": [
             {
-              "from": "geonamesid",
-              "to": "geonamesid",
-              "constants": {
-                "Object Identifier Type": "Geonames identifier"
+              "from": "geonameid",
+              "to": "source_id",
+              "resource_id": [
+                {
+                  "args": "uuid5"
+                }
+              ]
+            },
+            {
+              "from": "geonameid",
+              "to": "identifier_content",
+              "constants": [
+                {
+                  "identifier_type": "Geonames identifier"
+                }
+              ],
+              "function": {
+                "name": "generate_uri",
+                "args": {
+                  "prefix": "https://www.geonames.org/"
+                }
+              }
+            },
+            {
+              "from": "feature_code",
+              "to": "type",
+              "function": {
+                "name": "lookup",
+                "args": {
+                  "lookup_file": "feature_codes.csv"
+                }
               }
             },
             {
               "from": "name",
               "to": "name_content",
-              "constants": {
-                "name_type": "Primary",
-                "name_language": "Nederlands"
-              }
-            },
+              "constants": [
+                {
+                  "name_type": "Primary",
+                  "name_language": "Nederlands"
+                }
+              ]
+            },          
             {
               "from": "parentid",
               "to": "part_of_location",
@@ -84,16 +85,6 @@ notebooks/import/geonames/out/geonames_nb.csv
               "to": "country"
             },
             {
-              "from": "feature_code",
-              "to": "type",
-              "function": {
-                "name": "concept_lookup",
-                "args": {
-                  "lookup_file": "feature_codes.csv"
-                }
-              }
-            },
-            {
               "from": "lat_long",
               "to": "coordinates_geo_json",
               "function": {
@@ -115,37 +106,61 @@ notebooks/import/geonames/out/geonames_nb.csv
       "dataset": "alternate_names_nb.csv",
       "cards": [
         {
-          "card_name": "e53_altenate_name",
+          "card_name": "alternate_name",
+          "card_order": "1",
+          "filter": [
+            {
+              "type": "exclude",
+              "source_field": "isolanguage",
+              "values": [
+                  "post",
+                  "link",
+                  "unlc",
+                  "wkdt",
+                  "unic",
+                  "iata"
+                ]
+            }
+          ],
           "node_mappings": [
             {
-              "from": "geonamesid",
-              "to": "geonamesid",
-              "constants": {
-                "Object Identifier Type": "Geonames identifier"
-              }
+              "from": "geonameid",
+              "to": "source_id",
+              "resource_id": [
+                {
+                  "args": "uuid5"
+                }
+              ]
             },
             {
               "from": "alternateNameId",
-              "to": "alternative_name_identifier",
-              "constants": {
-                "Object Identifier Type": "Geonames identifier"
-              }
+              "to": "alternate_name_identifier_content",
+              "constants": [
+                {
+                  "alternate_name_identifier_type": "Geonames identifier"
+                }
+              ]
             },
             {
-              "from": "alternate_name",
-              "to": "alternative_name_content",
-              "constants": {
-                "alternative_name_type": "Secondary"
-              },
-              "function": {
-                "name": "concept_lookup",
-                "args": {
-                  "lookup_file": "feature_codes.csv"
+              "from": "alternate name",
+              "to": "alternate_name_content",
+              "constants": [
+                {
+                  "alternate_name_content_type": "Alternative"
                 }
-              }
+              ]
+            },
+            {
+              "from": "name_type",
+              "to": "alternate_name_type"
+            },
+            {
+              "from": "isolanguage",
+              "to": "alternate_name_language"
             }
           ]
         }
+       
       ]
     }
   ]

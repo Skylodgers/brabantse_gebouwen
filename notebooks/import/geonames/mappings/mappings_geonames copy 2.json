@@ -96,6 +96,97 @@
           }
         }
       ]
+    },
+    "alternate_name": {
+      "dataset": "alternate_names_nb.csv",
+      "card_order": "1",
+      "fil  ter": [
+        {
+          "type": "exclude",
+          "source_field": "isolanguage",
+          "values": [
+            "post",
+            "link",
+            "unlc",
+            "wkdt",
+            "unic",
+            "iata"
+          ]
+        }
+      ],
+      "node_mappings": [
+        {
+          "from": "geonameid",
+          "to": "source_id",
+          "resource_id": [
+            {
+              "args": "uuid5"
+            }
+          ]
+        },
+        {
+          "from": "alternateNameId",
+          "to": "alternate_name_identifier_content",
+          "constants": [
+            {
+              "alternate_name_identifier_type": "Geonames identifier"
+            }
+          ]
+        },
+        {
+          "from": "alternate name",
+          "to": "alternate_name_content",
+          "constants": [
+            {
+              "alternate_name_content_type": "Alternative"
+            }
+          ]
+        },
+        {
+          "from": "name_type",
+          "to": "alternate_name_type"
+        },
+        {
+          "from": "isolanguage",
+          "to": "alternate_name_language"
+        }
+      ]
+    },
+    "digital_reference": {
+      "card_order": "2",
+      "filter": [
+        {
+          "type": "include",
+          "source_field": "isolanguage",
+          "values": [
+            "link"
+          ]
+        }
+      ],
+      "node_mappings": [
+        {
+          "from": "geonameid",
+          "to": "source_id",
+          "resource_id": [
+            {
+              "args": "uuid5"
+            }
+          ]
+        },
+        {
+          "from": "alternate name",
+          "to": "digital_reference_uri",
+          "constants": [
+            {
+              "alternate_name_content_type": "Alternate"
+            }
+          ]
+        },
+        {
+          "from": "isolanguage",
+          "to": "digital_reference_type"
+        }
+      ]
     }
   }
 }

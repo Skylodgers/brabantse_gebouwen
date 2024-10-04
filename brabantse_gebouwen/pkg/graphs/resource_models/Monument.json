@@ -130,7 +130,7 @@
                     "instructions": {
                         "en": ""
                     },
-                    "is_editable": false,
+                    "is_editable": true,
                     "name": {
                         "en": "Dedication"
                     },
@@ -508,7 +508,7 @@
                     "instructions": {
                         "en": ""
                     },
-                    "is_editable": false,
+                    "is_editable": true,
                     "name": {
                         "en": "name"
                     },
@@ -859,7 +859,7 @@
                     "instructions": {
                         "en": ""
                     },
-                    "is_editable": false,
+                    "is_editable": true,
                     "name": {
                         "en": "identifier"
                     },
@@ -3870,6 +3870,15 @@
                 },
                 {
                     "description": null,
+                    "domainnode_id": "fab6be40-7377-11ef-921e-96a6d2455259",
+                    "edgeid": "7d501c9f-65b6-48c5-8230-8afdbef66457",
+                    "graph_id": "bf70e52f-9697-491f-999a-5f1fa39df60e",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
+                    "rangenode_id": "e91b2bc2-81e5-11ef-a199-96a6d245525b"
+                },
+                {
+                    "description": null,
                     "domainnode_id": "7f645e78-7395-11ef-921e-96a6d2455259",
                     "edgeid": "7f647232-7395-11ef-921e-96a6d2455259",
                     "graph_id": "bf70e52f-9697-491f-999a-5f1fa39df60e",
@@ -3966,6 +3975,15 @@
                     "name": null,
                     "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
                     "rangenode_id": "98518108-7382-11ef-921e-96a6d2455259"
+                },
+                {
+                    "description": null,
+                    "domainnode_id": "fab6be40-7377-11ef-921e-96a6d2455259",
+                    "edgeid": "903f0b7c-02cf-4e09-8069-4bed2239e76f",
+                    "graph_id": "bf70e52f-9697-491f-999a-5f1fa39df60e",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P72_has_language",
+                    "rangenode_id": "018fa408-81e6-11ef-a199-96a6d245525b"
                 },
                 {
                     "description": null,
@@ -4619,12 +4637,12 @@
                     },
                     "function_id": "60000000-0000-0000-0000-000000000001",
                     "graph_id": "bf70e52f-9697-491f-999a-5f1fa39df60e",
-                    "id": "4f701a3f-63e0-4c7e-8d61-9b1957e42da0"
+                    "id": "d19ee194-4343-4cac-9865-987fa40e8133"
                 }
             ],
             "graphid": "bf70e52f-9697-491f-999a-5f1fa39df60e",
             "iconclass": "fa fa-building",
-            "is_editable": false,
+            "is_editable": true,
             "isresource": true,
             "jsonldcontext": null,
             "name": {
@@ -4844,6 +4862,29 @@
             ],
             "nodes": [
                 {
+                    "alias": "material_name_content_language",
+                    "config": {
+                        "rdmCollection": "81cee03a-bbfb-48ff-b917-f30849659d7d"
+                    },
+                    "datatype": "concept",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bf70e52f-9697-491f-999a-5f1fa39df60e",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "material_name_content_language",
+                    "nodegroup_id": "a5823972-6ec7-11ef-b245-96a6d2455259",
+                    "nodeid": "018fa408-81e6-11ef-a199-96a6d245525b",
+                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E56_Language",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P72_has_language",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
                     "alias": "dedication_activity_actor",
                     "config": {
                         "graphs": [
@@ -5016,7 +5057,7 @@
                     "alias": "dedication_activity_statement_type",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": "4e42c787-a39b-45ea-b2f2-87f699de0ab9",
+                        "rdmCollection": "972e1d51-1ea6-4329-a8db-58c47f609484",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -5065,7 +5106,7 @@
                     "alias": "dedication_activity_statements_language",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": null,
+                        "rdmCollection": "81cee03a-bbfb-48ff-b917-f30849659d7d",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -5088,10 +5129,10 @@
                     "sourcebranchpublication_id": null
                 },
                 {
-                    "alias": "2",
+                    "alias": "dedication_activity_location_role",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": null,
+                        "rdmCollection": "497b0af0-91db-4262-afa1-27360d412b85",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -5105,7 +5146,7 @@
                     "isrequired": false,
                     "issearchable": true,
                     "istopnode": false,
-                    "name": "2",
+                    "name": "dedication_activity_location_role",
                     "nodegroup_id": "07ea4372-72b8-11ef-a972-96a6d2455259",
                     "nodeid": "07ea4642-72b8-11ef-a972-96a6d2455259",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
@@ -5117,7 +5158,7 @@
                     "alias": "dedication_activity_actor_role",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": "3f5424c1-bf6d-47ac-947b-c4a111aec09b",
+                        "rdmCollection": "4fd0ae35-1e5f-43b1-98eb-473fd0a822bc",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -5188,7 +5229,7 @@
                 {
                     "alias": "dedication_activity_name_content_type",
                     "config": {
-                        "rdmCollection": "80653051-6e0d-45b1-bb15-dc09bc2b0916"
+                        "rdmCollection": "9f97448b-9847-46e8-a117-4d297c2b7f1e"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -5211,7 +5252,7 @@
                 {
                     "alias": "dedication_activity_type",
                     "config": {
-                        "rdmCollection": "5dd2c71a-ff65-48cb-8d42-194e2c9583f4"
+                        "rdmCollection": "a6135342-9b8b-4ab1-8ca1-ef1198f3f72b"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -5257,7 +5298,7 @@
                 {
                     "alias": "dedication_activity_name_content_language",
                     "config": {
-                        "rdmCollection": "5388ac25-bdc4-4fc7-a3d1-2a25b0ab10b0"
+                        "rdmCollection": "81cee03a-bbfb-48ff-b917-f30849659d7d"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -5518,7 +5559,7 @@
                 {
                     "alias": "consecration_activity_event_role",
                     "config": {
-                        "rdmCollection": "3b674694-b259-4590-bdbc-86714ab82494"
+                        "rdmCollection": "0cfbb6d6-a555-41b8-8bf5-918e17e4d805"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -5542,7 +5583,7 @@
                     "alias": "consecration_activity_actor_role",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": "3f5424c1-bf6d-47ac-947b-c4a111aec09b",
+                        "rdmCollection": "4fd0ae35-1e5f-43b1-98eb-473fd0a822bc",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -5567,7 +5608,7 @@
                 {
                     "alias": "consecration_activity_name_content_language",
                     "config": {
-                        "rdmCollection": "5388ac25-bdc4-4fc7-a3d1-2a25b0ab10b0"
+                        "rdmCollection": "81cee03a-bbfb-48ff-b917-f30849659d7d"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -5683,7 +5724,7 @@
                     "alias": "consecrationactivity_statement_type",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": "4e42c787-a39b-45ea-b2f2-87f699de0ab9",
+                        "rdmCollection": "972e1d51-1ea6-4329-a8db-58c47f609484",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -5708,7 +5749,7 @@
                 {
                     "alias": "consecration_activity_type",
                     "config": {
-                        "rdmCollection": "5dd2c71a-ff65-48cb-8d42-194e2c9583f4"
+                        "rdmCollection": "a6135342-9b8b-4ab1-8ca1-ef1198f3f72b"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -5824,7 +5865,7 @@
                     "alias": "consecration_activity_statements_language",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": null,
+                        "rdmCollection": "81cee03a-bbfb-48ff-b917-f30849659d7d",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -5849,7 +5890,7 @@
                 {
                     "alias": "consecration_activity_name_content_type",
                     "config": {
-                        "rdmCollection": "80653051-6e0d-45b1-bb15-dc09bc2b0916"
+                        "rdmCollection": "9f97448b-9847-46e8-a117-4d297c2b7f1e"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -5873,7 +5914,7 @@
                     "alias": "consecration_activity_location_role",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": null,
+                        "rdmCollection": "497b0af0-91db-4262-afa1-27360d412b85",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -5941,7 +5982,7 @@
                     "alias": "material_production_event_actor_role",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": "3f5424c1-bf6d-47ac-947b-c4a111aec09b",
+                        "rdmCollection": "4fd0ae35-1e5f-43b1-98eb-473fd0a822bc",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -6002,7 +6043,7 @@
                     "alias": "material_production_event_location_role",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": null,
+                        "rdmCollection": "497b0af0-91db-4262-afa1-27360d412b85",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -6073,7 +6114,7 @@
                 {
                     "alias": "building_type",
                     "config": {
-                        "rdmCollection": "1a1cb077-98ca-4f7a-b6b7-5e47874b0091"
+                        "rdmCollection": "eeea5e2b-a914-4f13-9cf2-3de8f566508f"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -6096,7 +6137,7 @@
                 {
                     "alias": "architectual_style",
                     "config": {
-                        "rdmCollection": null
+                        "rdmCollection": "cbfbb0f3-91f1-4dfe-b223-ff3fea212c3f"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -6256,7 +6297,7 @@
                     "alias": "statement_language",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": "5388ac25-bdc4-4fc7-a3d1-2a25b0ab10b0",
+                        "rdmCollection": "81cee03a-bbfb-48ff-b917-f30849659d7d",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -6282,7 +6323,7 @@
                     "alias": "statement_type",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": "4e42c787-a39b-45ea-b2f2-87f699de0ab9",
+                        "rdmCollection": "972e1d51-1ea6-4329-a8db-58c47f609484",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -6350,7 +6391,7 @@
                     "alias": "creation_event__actor_role",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": "3f5424c1-bf6d-47ac-947b-c4a111aec09b",
+                        "rdmCollection": "4fd0ae35-1e5f-43b1-98eb-473fd0a822bc",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -6422,7 +6463,7 @@
                     "alias": "creation_event_statement_language",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": "5388ac25-bdc4-4fc7-a3d1-2a25b0ab10b0",
+                        "rdmCollection": "81cee03a-bbfb-48ff-b917-f30849659d7d",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -6448,7 +6489,7 @@
                     "alias": "creation_event_statement_type",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": "4e42c787-a39b-45ea-b2f2-87f699de0ab9",
+                        "rdmCollection": "972e1d51-1ea6-4329-a8db-58c47f609484",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -6519,7 +6560,7 @@
                 {
                     "alias": "name_content_type",
                     "config": {
-                        "rdmCollection": "80653051-6e0d-45b1-bb15-dc09bc2b0916"
+                        "rdmCollection": "9f97448b-9847-46e8-a117-4d297c2b7f1e"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -6542,7 +6583,7 @@
                 {
                     "alias": "name_content_language",
                     "config": {
-                        "rdmCollection": "5388ac25-bdc4-4fc7-a3d1-2a25b0ab10b0"
+                        "rdmCollection": "81cee03a-bbfb-48ff-b917-f30849659d7d"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -6588,7 +6629,7 @@
                 {
                     "alias": "building_aat_type",
                     "config": {
-                        "rdmCollection": "d3f6b472-9235-4d3e-b89a-379c0179a78e"
+                        "rdmCollection": "5033dd22-4ae0-4bb4-81e9-ca18089b24d2"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -6611,7 +6652,7 @@
                 {
                     "alias": "material_production_event_technique",
                     "config": {
-                        "rdmCollection": null
+                        "rdmCollection": "ce6275de-2327-4e4e-b331-5aaa472f012e"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -6687,7 +6728,7 @@
                 {
                     "alias": "material_production_event_type",
                     "config": {
-                        "rdmCollection": "5dd2c71a-ff65-48cb-8d42-194e2c9583f4"
+                        "rdmCollection": "a6135342-9b8b-4ab1-8ca1-ef1198f3f72b"
                     },
                     "datatype": "concept",
                     "description": "{\"en\": \"\"}",
@@ -6733,7 +6774,7 @@
                 {
                     "alias": "alternative_name_content_type",
                     "config": {
-                        "rdmCollection": "80653051-6e0d-45b1-bb15-dc09bc2b0916"
+                        "rdmCollection": "9f97448b-9847-46e8-a117-4d297c2b7f1e"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -6779,7 +6820,7 @@
                 {
                     "alias": "alternative_name_content_language",
                     "config": {
-                        "rdmCollection": "5388ac25-bdc4-4fc7-a3d1-2a25b0ab10b0"
+                        "rdmCollection": "81cee03a-bbfb-48ff-b917-f30849659d7d"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -6906,7 +6947,7 @@
                     "alias": "material_location_statement_language",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": "5388ac25-bdc4-4fc7-a3d1-2a25b0ab10b0",
+                        "rdmCollection": "81cee03a-bbfb-48ff-b917-f30849659d7d",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -6932,7 +6973,7 @@
                     "alias": "material_location_statement_type",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": "4e42c787-a39b-45ea-b2f2-87f699de0ab9",
+                        "rdmCollection": "972e1d51-1ea6-4329-a8db-58c47f609484",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -7038,7 +7079,7 @@
                     "alias": "material_production_event_statement_language",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": "5388ac25-bdc4-4fc7-a3d1-2a25b0ab10b0",
+                        "rdmCollection": "81cee03a-bbfb-48ff-b917-f30849659d7d",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -7064,7 +7105,7 @@
                     "alias": "material_production_event_statement_type",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": "4e42c787-a39b-45ea-b2f2-87f699de0ab9",
+                        "rdmCollection": "972e1d51-1ea6-4329-a8db-58c47f609484",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -7089,7 +7130,7 @@
                 {
                     "alias": "dedication_activity_event_role",
                     "config": {
-                        "rdmCollection": "3b674694-b259-4590-bdbc-86714ab82494"
+                        "rdmCollection": "0cfbb6d6-a555-41b8-8bf5-918e17e4d805"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -7171,7 +7212,7 @@
                     "alias": "creation_event_location_role",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": null,
+                        "rdmCollection": "497b0af0-91db-4262-afa1-27360d412b85",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -7300,7 +7341,7 @@
                 {
                     "alias": "rights_type",
                     "config": {
-                        "rdmCollection": "9957110c-6d6e-444f-8892-7be3fc979cf3"
+                        "rdmCollection": "a71da3b8-7602-4380-bb17-a699fdd21163"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -7438,7 +7479,7 @@
                 {
                     "alias": "material_production_event_name_content_type",
                     "config": {
-                        "rdmCollection": "80653051-6e0d-45b1-bb15-dc09bc2b0916"
+                        "rdmCollection": "9f97448b-9847-46e8-a117-4d297c2b7f1e"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -7461,7 +7502,7 @@
                 {
                     "alias": "material_production_event_name_content_language",
                     "config": {
-                        "rdmCollection": "5388ac25-bdc4-4fc7-a3d1-2a25b0ab10b0"
+                        "rdmCollection": "81cee03a-bbfb-48ff-b917-f30849659d7d"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -7484,7 +7525,7 @@
                 {
                     "alias": "language_type",
                     "config": {
-                        "rdmCollection": "5388ac25-bdc4-4fc7-a3d1-2a25b0ab10b0"
+                        "rdmCollection": "81cee03a-bbfb-48ff-b917-f30849659d7d"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -7653,7 +7694,7 @@
                 {
                     "alias": "inauguration_activity_event_role",
                     "config": {
-                        "rdmCollection": "3b674694-b259-4590-bdbc-86714ab82494"
+                        "rdmCollection": "0cfbb6d6-a555-41b8-8bf5-918e17e4d805"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -7764,7 +7805,7 @@
                 {
                     "alias": "inauguration_activity_name_content_language",
                     "config": {
-                        "rdmCollection": "5388ac25-bdc4-4fc7-a3d1-2a25b0ab10b0"
+                        "rdmCollection": "81cee03a-bbfb-48ff-b917-f30849659d7d"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -7810,7 +7851,7 @@
                 {
                     "alias": "inauguration_activity_name_content_type",
                     "config": {
-                        "rdmCollection": "80653051-6e0d-45b1-bb15-dc09bc2b0916"
+                        "rdmCollection": "9f97448b-9847-46e8-a117-4d297c2b7f1e"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -7833,7 +7874,7 @@
                 {
                     "alias": "inauguration_activity_type",
                     "config": {
-                        "rdmCollection": "5dd2c71a-ff65-48cb-8d42-194e2c9583f4"
+                        "rdmCollection": "a6135342-9b8b-4ab1-8ca1-ef1198f3f72b"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -7926,7 +7967,7 @@
                     "alias": "inauguration_activity_statement_type",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": "4e42c787-a39b-45ea-b2f2-87f699de0ab9",
+                        "rdmCollection": "972e1d51-1ea6-4329-a8db-58c47f609484",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -7952,7 +7993,7 @@
                     "alias": "inauguration_activity_location_role",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": null,
+                        "rdmCollection": "497b0af0-91db-4262-afa1-27360d412b85",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -7978,7 +8019,7 @@
                     "alias": "inauguration_activity_statements_language",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": null,
+                        "rdmCollection": "81cee03a-bbfb-48ff-b917-f30849659d7d",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -8004,7 +8045,7 @@
                     "alias": "inauguration_activity_actor_role",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": "3f5424c1-bf6d-47ac-947b-c4a111aec09b",
+                        "rdmCollection": "4fd0ae35-1e5f-43b1-98eb-473fd0a822bc",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -8212,9 +8253,9 @@
                     "sourcebranchpublication_id": null
                 },
                 {
-                    "alias": "dedication_activity_event_role_n1",
+                    "alias": "creation_event_role",
                     "config": {
-                        "rdmCollection": "3b674694-b259-4590-bdbc-86714ab82494"
+                        "rdmCollection": "0cfbb6d6-a555-41b8-8bf5-918e17e4d805"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -8226,7 +8267,7 @@
                     "isrequired": false,
                     "issearchable": true,
                     "istopnode": false,
-                    "name": "dedication_activity_event_role",
+                    "name": "creation_event_role",
                     "nodegroup_id": "aac07c84-72b7-11ef-a972-96a6d2455259",
                     "nodeid": "b769930e-7374-11ef-921e-96a6d2455259",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
@@ -8329,7 +8370,7 @@
                 {
                     "alias": "creation_event_name_content_type",
                     "config": {
-                        "rdmCollection": "80653051-6e0d-45b1-bb15-dc09bc2b0916"
+                        "rdmCollection": "9f97448b-9847-46e8-a117-4d297c2b7f1e"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -8352,7 +8393,7 @@
                 {
                     "alias": "creation_event_name_content_language",
                     "config": {
-                        "rdmCollection": "5388ac25-bdc4-4fc7-a3d1-2a25b0ab10b0"
+                        "rdmCollection": "81cee03a-bbfb-48ff-b917-f30849659d7d"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -8375,7 +8416,7 @@
                 {
                     "alias": "monument_status",
                     "config": {
-                        "rdmCollection": "747308fa-5994-4b9f-b0a8-280500e179f0"
+                        "rdmCollection": "6bb45983-a156-49de-8ac8-6c278d10731b"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -8562,7 +8603,7 @@
                 {
                     "alias": "identifier_type",
                     "config": {
-                        "rdmCollection": "77bb3662-58dc-43cc-9c66-411c70eb6c08"
+                        "rdmCollection": "ee7a626e-4b14-4ca5-963f-0ad7cf7edf77"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -8631,7 +8672,7 @@
                 {
                     "alias": "material_identifier_type",
                     "config": {
-                        "rdmCollection": "77bb3662-58dc-43cc-9c66-411c70eb6c08"
+                        "rdmCollection": "ee7a626e-4b14-4ca5-963f-0ad7cf7edf77"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -8654,7 +8695,7 @@
                 {
                     "alias": "dedication_actor_subject_name",
                     "config": {
-                        "rdmCollection": "449024bc-f2b6-40e9-9df4-8fa0a76e5f0d"
+                        "rdmCollection": "c6d13a7b-5fb2-4337-af10-3303e8618b0f"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -8729,6 +8770,29 @@
                     "nodeid": "e8a5de90-737a-11ef-921e-96a6d2455259",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E12_Production",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "material_name_content",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "bf70e52f-9697-491f-999a-5f1fa39df60e",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "material_name_content",
+                    "nodegroup_id": "a5823972-6ec7-11ef-b245-96a6d2455259",
+                    "nodeid": "e91b2bc2-81e5-11ef-a199-96a6d245525b",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
                     "sortorder": 0,
                     "sourcebranchpublication_id": null
                 },
@@ -8885,7 +8949,7 @@
                 {
                     "alias": "identifier_type_n1",
                     "config": {
-                        "rdmCollection": "77bb3662-58dc-43cc-9c66-411c70eb6c08"
+                        "rdmCollection": "ee7a626e-4b14-4ca5-963f-0ad7cf7edf77"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -8931,9 +8995,9 @@
                 {
                     "alias": "material_production_event_material_type",
                     "config": {
-                        "rdmCollection": null
+                        "rdmCollection": "76c70774-1b8c-4b30-b621-cc27a9218884"
                     },
-                    "datatype": "semantic",
+                    "datatype": "concept",
                     "description": null,
                     "exportable": false,
                     "fieldname": null,
@@ -8954,7 +9018,7 @@
                 {
                     "alias": "creation_event_type",
                     "config": {
-                        "rdmCollection": "6b1e3f45-039c-4d45-9e6b-9577c0731a23"
+                        "rdmCollection": "3098bf41-1824-4d86-a8a8-cdab35e98ed3"
                     },
                     "datatype": "concept",
                     "description": "{\"en\": \"\"}",
@@ -9022,12 +9086,7 @@
                 }
             ],
             "ontology_id": "0b1f5462-faa7-11e9-8f09-3af9d3b32b71",
-            "publication": {
-                "graph_id": "bf70e52f-9697-491f-999a-5f1fa39df60e",
-                "notes": null,
-                "publicationid": "260f14fc-7404-11ef-8d5e-96a6d2455259",
-                "published_time": "2024-09-16T03:17:43.898"
-            },
+            "publication": null,
             "relatable_resource_model_ids": [],
             "resource_2_resource_constraints": [],
             "root": {
@@ -9059,5 +9118,11 @@
             "template_id": "50000000-0000-0000-0000-000000000001",
             "version": ""
         }
-    ]
+    ],
+    "metadata": {
+        "db": "PostgreSQL 15.8 (Postgres.app) on aarch64-apple-darwin21.6.0, compiled by Apple clang version 14.0.0 (clang-1400.0.29.102), 64-bit",
+        "git hash": "f83f5d53 2024-09-27 16:23:47 +0200",
+        "os": "Darwin",
+        "os version": "24.0.0"
+    }
 }

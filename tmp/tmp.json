@@ -1,22 +1,408 @@
 {
-    "cards": [
+    "Places": {
+        "node_mappings": [
+          {"from": "id/place.place", "to": "place_code"}
+          ]
+      },
+    "e73_AnnotationsImmaterial": {
+      "node_mappings": [
+        {"from": "note.mpmalg", "to": "Annotation",
+          "constants":
+            {"Annotation Language": "Nederlands", "Annotation Type": "remarks"}},
+        {"from": "note.rubalg", "to": "Annotation",
+          "constants":
+            {"Annotation Language": "Nederlands", "Annotation Type": "remarks"}},
+        {"from": "note.lhalg", "to": "Annotation",
+          "constants":
+            {"Annotation Language": "Nederlands", "Annotation Type": "remarks"}}
+        ]
+      },
+    "e73_AssociatedArchives": {
+      "node_mappings": [
         {
-            "card_name": "e53_alternate_name",
-            "filter": [
-                {
-                    "exclude": {
-                        "key": "isolanguage",
-                        "values": [
-                            "post",
-                            "link",
-                            "unlc",
-                            "wkdt",
-                            "unic",
-                            "iata"
-                        ]
-                    }
-                }
-            ]
+          "from": "kenmerken.rubobjnrgr",
+          "to": "Associated Archive Relation"
         }
-    ]
-}
+      ]
+    },
+    "e73_AssociatedRecords": {
+        "include_codes": ["rubobject","rubonderdeel","rubgeheel","mpmrenext","mpmreprev"],
+  
+          "node_mappings": [
+              {"from": "ere.type", "to": "Associated Record Relation",
+              "function": {
+                 "name": "column_lookup",
+                "args": {"lookup_file": "record_relatie_types.csv"}}
+              },
+              {"from": "ere.markdown", "to": "Associated Record Note",
+                "constants":
+                  {"Associated Record Note Language": "Nederlands", "Associated Record Note Type": "remarks"}},
+              {"from": "ere.url", "to": "Associated Brocade ID"},
+              {"from": "ere.urltype", "to": "Associated Record URL Type",
+                "function": {
+                 "name": "column_lookup",
+                "args": {"lookup_file": "url_types.csv"}}
+              }
+          ]
+      },
+    "e73_ConnectedSubjects": {
+          "include_codes": {
+            "vb": ["rubdoc"],
+            "ow": ["lhbr", "lhhs", "lhdc", "mpmbr", "rubhs", "mpmtk", "mpmhs"]
+          },
+          "node_mappings": [
+              {"from": "ire.identifier", "to": "Connected Subject Identifier"},
+              {"from": "ire.isaar.name", "to": "Connected Subject Name"},
+              {"from": "ire.role", "to": "Connected Subject Role"},
+              {"from": "ire.markdown", "to": "Connected Subject Note"},
+              {"from": "au.type", "to": "Connected Subject Type"},
+              {"from": "ire.widget", "to": "Connected Subject Widget"}
+          ]
+      },
+    "e73_Correspondence": {
+      "node_mappings": [
+        {"from": "kenmerken.rubsender", "to": "Creation Actor Note",
+          "constants": {
+            "Creation Actor Role": "correspondents (correspondence writers)"
+          }
+        },
+        {"from": "kenmerken.rubrecipient", "to": "Creation Actor Note",
+          "constants": {
+            "Creation Actor Role": "recipients (people)"
+          }
+        }
+      ]
+    },
+    "e73_CreationActors": {
+          "include_codes": ["ar", "au", "av", "be", "bs", "co", "ds", "fo", "gd", "gr", "il", "li", "ma", "od", "opd", "si", "ts", "va", "vd", "vt", "vv"],
+          "node_mappings": [
+              {"from": "ire.identifier", "to": "Creation Actor Identifier"},
+              {"from": "ire.isaar.name", "to": "Creation Actor Name"},
+              {"from": "ire.role", "to": "Creation Actor Role"},
+              {"from": "ire.markdown", "to": "Creation Actor Note"},
+              {"from": "au.type", "to": "Creation Actor Type"},
+              {"from": "ire.widget", "to": "Creation Actor Widget"}
+          ]
+      },
+    "e73_CreationTimeSpanSourceNotes": {
+          "node_mappings": [
+              {"from": "id/date.creationdate/so", "to": "Creation Time Span Source Note"},
+              {"from": "id/date.exposure/so", "to": "Creation Time Span Source Note"}
+          ]
+      },
+    "e73_DepictedItems": {
+          "include_codes": {
+            "kw": ["lhph", "lhpr", "lhtk", "lhsc", "lhpa", "lhaq"],
+            "ow": ["mpmph"]
+          },
+          "node_mappings": [
+              {"from": "ire.identifier", "to": "Depicted Item Identifier"},
+              {"from": "ire.isaar.name", "to": "Depicted Item Name"},
+              {"from": "ire.role", "to": "Depicted Item Role"},
+              {"from": "ire.markdown", "to": "Depicted Item Note"},
+              {"from": "au.type", "to": "Depicted Item Type"},
+              {"from": "ire.widget", "to": "Depicted Item Widget"}
+          ]
+      },
+    "e73_Descriptions": {
+      "node_mappings": [
+        {"from": "id.desc", "to": "Description",
+          "constants": {
+            "Description Type": "descriptive note",
+            "Description Language": "Nederlands"}
+        },
+        {"from": "note.lhdetail", "to": "Description",
+          "constants": {
+            "Description Type": "descriptive note",
+            "Description Language": "Nederlands"}
+        },
+        {"from": "note.mpmdetail", "to": "Description",
+          "constants": {
+            "Description Type": "descriptive note",
+            "Description Language": "Nederlands"}
+        },
+        {"from": "note.rubdetail", "to": "Description",
+          "constants": {
+            "Description Type": "descriptive note",
+            "Description Language": "Nederlands"}
+        },
+        {"from": "note.lhcontentbr", "to": "Description",
+          "constants": {
+            "Description Type": "descriptive note",
+            "Description Language": "Nederlands"}
+        },
+        {"from": "note.mpmcontent", "to": "Description",
+          "constants": {
+            "Description Type": "descriptive note",
+            "Description Language": "Nederlands"}
+        }
+      ]
+    },
+    "e73_ExternalRelationsExtras": {
+      "node_mappings": [
+        {"from": "ow.link", "to": "External Relation URL",
+          "constants":
+           {"External Relation": "online catalogs",
+            "External Relation URL Type":  "RKDimages"},
+          "function": {
+            "name": "column_lookup", "args": {"lookup_file": "pkg_rub_ow_link_to_rkd_lookup.csv"}
+          }
+        },
+        {"from": "doc.mpmtranscription", "to": "External Relation URL",
+          "constants":
+           {"External Relation": "transcripts",
+            "External Relation URL Type":  "uniform resource locators"}
+        }
+      ]
+    },
+    "e73_ExternalRelations": {
+        "include_codes": ["catalogue", "lhdigital", "lhdocumenten", "lhliteratuur",  "lhpublicatie", "mpmbron",
+          "mpmdesginof", "mpmliteratuur",  "mpmmuseum", "mpmtranscription", "rubliteratuurgerelateerd", "rubpublicatie",
+          "mpmgooglebook","google_book"],
+          "node_mappings": [
+              {"from": "ere.type", "to": "External Relation",
+              "function": {
+                 "name": "column_lookup",
+                "args": {"lookup_file": "externe_relatie_types.csv"}}
+              },
+              {"from": "ere.markdown", "to": "External Relation Note",
+                "constants":
+                  {"External Relation Note Language": "Nederlands",
+                    "External Relation Note Type": "remarks"}},
+              {"from": "ere.url", "to": "External Relation URL"},
+              {"from": "ere.urltype", "to": "External Relation URL Type",
+                "function": {
+                 "name": "column_lookup",
+                "args": {"lookup_file": "url_types.csv"}}
+              }
+          ]
+      },
+    "e73_GenreTypes": {
+      "node_mappings": [
+        {"from": "kenmerken.lhgenrehs", "to": "Genre Type",
+          "include_codes": ["bp", "dr", "pz", "vp"],
+          "function": {
+            "name": "column_lookup",
+            "args": {"lookup_file": "genre_types.csv"}}
+        },
+        {"from": "kenmerken.mpmgenrehs", "to": "Genre Type",
+          "include_codes": ["dr", "pz", "vp"],
+          "function": {
+            "name": "column_lookup",
+            "args": {"lookup_file": "genre_types.csv"}}
+        }
+      ]
+    },
+    "e73_Keywords": {
+      "node_mappings": [
+        {"from": "kenmerken.rubkeyword", "to": "Keyword"}
+      ]
+    },
+    "e73_Languages": {
+      "node_mappings": [
+        {"from": "kenmerken.lhlanguagehs", "to": "Language",
+          "include_codes": ["dut","eng","fre","ger","gri","ita","lat","noo","por","spa","zwe"],
+          "function": {
+            "name": "column_lookup",
+            "args": {
+              "lookup_file": "taal_types.csv"
+            }
+          }
+        },
+        {"from": "kenmerken.mpmlanguage", "to": "Language",
+          "include_codes": ["dut","eng","fre","ger","ita","lat","por","spa"],
+          "function": {
+            "name": "column_lookup",
+            "args": {
+              "lookup_file": "taal_types.csv"
+            }
+          }
+        },
+        {"from": "kenmerken.rublanguagehs", "to": "Language",
+          "include_codes": ["dut","eng","fre","ger"],
+          "function": {
+            "name": "column_lookup",
+            "args": {
+              "lookup_file": "taal_types.csv"
+            }
+          }
+        }
+      ]
+    },
+    "e73_LegacyImages": {
+      "node_mappings": [
+          {"from": "ill.lowres", "to": "Legacy Information Value",
+          "constants": {
+            "Legacy Information Type": "image low resolution",
+            "Legacy Information Published": "False"}
+          },
+          {"from": "ill.highres", "to": "Legacy Information Value",
+          "constants": {
+            "Legacy Information Type": "image high resolution",
+            "Legacy Information Published": "False"}
+          }
+      ]
+    },
+    "e73_LegacyInformation": {
+      "node_mappings": [
+        {"from": "if.rawcontent", "to": "Legacy Information Value",
+          "constants": {
+            "Legacy Information Type": "commentaar gebruiker",
+            "Legacy Information Published": "False"}
+          },
+        {"from": "note.lhherkomst", "to": "Legacy Information Value",
+          "constants": {
+            "Legacy Information Type": "herkomst",
+            "Legacy Information Published": "False"}
+          },
+        {"from": "kenmerken.lhvoorlstandic", "to": "Legacy Information Value",
+          "constants": {
+            "Legacy Information Type": "temporary location",
+            "Legacy Information Published": "False"}
+          },
+        {"from": "id.objectNumber", "to": "Legacy Information Value",
+           "constants": {
+             "Legacy Information Type": "referentienummer",
+             "Legacy Information Published": "False"}
+             },
+        {"from": "brocade.id", "to": "Legacy Information Value",
+           "constants": {
+             "Legacy Information Type": "brocade id",
+             "Legacy Information Published": "False"}
+           },
+        {"from": "note.lhvoorlstandic", "to": "Legacy Information Value",
+           "constants": {
+             "Legacy Information Type": "temporary location note",
+             "Legacy Information Published": "False"}
+          },
+        {"from": "brocade.url", "to": "Legacy Information Value",
+           "constants": {
+             "Legacy Information Type": "brocade url",
+             "Legacy Information Published": "False"}
+          }
+        ]
+    },
+    "e73_LegacyInformationMerged": {
+      "node_mappings": [
+        {"from": "kenmerken.lhitembr", "to": "number"},
+        {"from": "kenmerken.lhdescrbr", "to": "type",
+           "constants": {
+             "Legacy Information Type": "groepsbeschrijving",
+             "Legacy Information Published": "False"}
+          },
+        {"from": "kenmerken.mpmitembr", "to": "number"},
+        {"from": "kenmerken.mpmdescrbr", "to": "type",
+           "constants": {
+             "Legacy Information Type": "groepsbeschrijving",
+             "Legacy Information Published": "False"}
+          }
+      ]
+    },
+      "e73_MaterialRecords": {
+          "node_mappings": [
+                {"from": "materialRecords", "to": "Material Records"}
+          ]
+        },
+    "e73_OriginalBrocade": {
+          "include_codes": {
+            "kw": ["lhps", "rubgr_foto", "rubgr_brief", "rubgr_tekstdrager", "rubgr_iconografie", "lhhs", "lhob", "lhdc"],
+            "vb": ["lhph", "lhtk", "lhpr", "lhaq", "lhps", "lhob", "lhdc", "lhpa", "lhsc", "mpmdc", "mpmph"]
+          },
+          "node_mappings": [
+              {"from": "ire.identifier", "to": "Original Entity Identifier"},
+              {"from": "ire.isaar.name", "to": "Original Entity Name"},
+              {"from": "ire.role", "to": "Original Entity Type"},
+              {"from": "ire.markdown", "to": "Original Entity Note"},
+              {"from": "au.type", "to": "Original Entity Type"},
+              {"from": "ire.widget", "to": "Original Entity Widget"}
+          ]
+      },
+    "e73_OtherIdentifiers": {
+      "node_mappings": [
+        {"from": "adm.archiefstuknummer", "to": "archiefstuknummer"},
+        {"from": "adm.volgnummer", "to": "volgnummer"},
+        {"from": "adm.note", "to": "note"},
+        {"from": "id.title/ti", "to": "title"}
+      ]
+    },
+    "e73_PreviousVersions": {
+        "include_codes": ["BOLLABOLLA"],
+  
+          "node_mappings": [
+              {"from": "ere.type", "to": "Associated Record Relation",
+              "function": {
+                 "name": "column_lookup",
+                "args": {"lookup_file": "record_relatie_types.csv"}}
+              },
+              {"from": "ere.markdown", "to": "Associated Record Note",
+                "constants":
+                  {"Associated Record Note Language": "Nederlands", "Associated Record Note Type": "remarks"}},
+              {"from": "ere.url", "to": "Associated Brocade ID"},
+              {"from": "ere.urltype", "to": "Associated Record URL Type",
+                "function": {
+                 "name": "column_lookup",
+                "args": {"lookup_file": "url_types.csv"}}
+              }
+          ]
+      },
+    "e73_RecordActors": {
+          "include_codes": ["rg", "arch", "cm"],
+          "node_mappings": [
+              {"from": "ire.identifier", "to": "Original Entity Identifier"},
+              {"from": "ire.isaar.name", "to": "Original Entity Name"},
+              {"from": "ire.role", "to": "Original Entity Relation"},
+              {"from": "ire.markdown", "to": "Original Entity Note"},
+              {"from": "ire.isaar.id", "to": "ISAAR Brocade ID"},
+              {"from": "au.type", "to": "Original Entity Type"},
+              {"from": "ire.widget", "to": "Original Entity Widget"}
+          ]
+      },
+    "e73_Single": {
+      "node_mappings": [
+          {"from": "brocade.type", "to": "Record Type",
+           "function": {
+               "name": "column_lookup",
+               "args": [{"lookup_file": "default_object_types.csv"}]}
+          },
+        {"from": "brocade.identifier", "to": "Object Identifier",
+           "function": {
+               "name": "add_ark_id",
+               "args": [{"url": "data.digipolis.be/"}]},
+           "constants": [
+               {"Object Identifier Type": "object identifier"}
+           ]}
+      ]
+    },
+    "e73_Titles": {
+      "node_mappings": [
+          {"from": "id.title/subTitle", "to": "Title",
+            "constants": {
+            "Title Type": "constructed titles"}
+          },
+          {"from": "id.title/dt", "to": "Title",
+           "constants":
+               {"Title Type": "published titles"}
+           },
+          {"from": "id.title/ft", "to": "Title",
+           "constants":
+               {"Title Type": "incipits"}
+           },
+          {"from": "id.title/in", "to": "Title",
+           "constants":
+               {"Title Type": "incipits"}
+           },
+          {"from": "id.title/ot", "to": "Title",
+           "constants":
+               {"Title Type": "collective titles"}
+           },
+          {"from": "id.title/ti", "to": "Title",
+           "constants":
+               {"Title Type": "titles proper"}
+           },
+          {"from": "id.title/description", "to": "Title",
+          "constants": {
+            "Title Type": "constructed titles"}
+          }
+        ]
+    }
+  }
