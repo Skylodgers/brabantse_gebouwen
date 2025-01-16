@@ -90,10 +90,10 @@
             "export": true
         },
         {
-            "arches_nodeid": "21c5af38-72af-11ef-a972-96a6d2455259",
+            "arches_nodeid": "8eb8ec78-8703-11ef-a06f-960003b55319",
             "arches_node_name": "coordinates_wkt",
             "file_field_name": "coordinates_wkt",
-            "data_type": "annotation",
+            "data_type": "string",
             "export": true
         },
         {

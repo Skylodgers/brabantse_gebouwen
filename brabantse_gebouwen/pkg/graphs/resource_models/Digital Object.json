@@ -24,7 +24,7 @@
                     },
                     "is_editable": true,
                     "name": {
-                        "en": "digital_object_type"
+                        "en": "Digita Object Type"
                     },
                     "nodegroup_id": "acbb3f02-72b1-11ef-a972-96a6d2455259",
                     "sortorder": 1,
@@ -51,7 +51,7 @@
                     },
                     "is_editable": true,
                     "name": {
-                        "en": "identifier"
+                        "en": "Identifiers"
                     },
                     "nodegroup_id": "46c43cee-72b1-11ef-a972-96a6d2455259",
                     "sortorder": 0,
@@ -78,7 +78,7 @@
                     },
                     "is_editable": true,
                     "name": {
-                        "en": "digital_file"
+                        "en": "Images"
                     },
                     "nodegroup_id": "4f23f996-72b2-11ef-a972-96a6d2455259",
                     "sortorder": null,
@@ -105,7 +105,7 @@
                     },
                     "is_editable": true,
                     "name": {
-                        "en": "name"
+                        "en": "Name"
                     },
                     "nodegroup_id": "76f4a214-72b1-11ef-a972-96a6d2455259",
                     "sortorder": 2,
@@ -132,7 +132,7 @@
                     },
                     "is_editable": true,
                     "name": {
-                        "en": "digital_reference"
+                        "en": "Digital Reference"
                     },
                     "nodegroup_id": "a3895554-72b1-11ef-a972-96a6d2455259",
                     "sortorder": 3,
@@ -159,7 +159,7 @@
                     },
                     "is_editable": true,
                     "name": {
-                        "en": "statement"
+                        "en": "Descriptions"
                     },
                     "nodegroup_id": "fff74d6e-72b1-11ef-a972-96a6d2455259",
                     "sortorder": 3,
@@ -168,14 +168,31 @@
             ],
             "cards_x_nodes_x_widgets": [
                 {
+                    "card_id": "fff74e36-72b1-11ef-a972-96a6d2455259",
+                    "config": {
+                        "defaultValue": "cc5cb5e1-2eba-4184-969e-7c6c954c84c9",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Description Language",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "2c6d9bb4-8dd7-44e6-8dd3-0a6b6a241b4f",
+                    "label": {
+                        "en": "Description Language"
+                    },
+                    "node_id": "fff74f3a-72b1-11ef-a972-96a6d2455259",
+                    "sortorder": 2,
+                    "visible": false,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
                     "card_id": "46c43db6-72b1-11ef-a972-96a6d2455259",
                     "config": {
-                        "defaultValue": {
-                            "en": {
-                                "direction": "ltr",
-                                "value": ""
-                            }
-                        },
+                        "defaultValue": "",
                         "i18n_properties": [
                             "placeholder"
                         ],
@@ -197,13 +214,35 @@
                     "widget_id": "10000000-0000-0000-0000-000000000001"
                 },
                 {
+                    "card_id": "46c43db6-72b1-11ef-a972-96a6d2455259",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Identifier Type",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "4ad250e3-e4ba-465f-9f87-38066d3c4b08",
+                    "label": {
+                        "en": "Identifier Type"
+                    },
+                    "node_id": "46c43e88-72b1-11ef-a972-96a6d2455259",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
                     "card_id": "76f4a2dc-72b1-11ef-a972-96a6d2455259",
                     "config": {
                         "defaultValue": "",
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "name_content",
+                        "label": "Name",
                         "maxLength": null,
                         "placeholder": {
                             "en": "Enter text"
@@ -213,7 +252,7 @@
                     },
                     "id": "76f4a3fe-72b1-11ef-a972-96a6d2455259",
                     "label": {
-                        "en": "name_content"
+                        "en": "Name"
                     },
                     "node_id": "76f4a340-72b1-11ef-a972-96a6d2455259",
                     "sortorder": null,
@@ -227,7 +266,7 @@
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "name_content_type",
+                        "label": "Name Type",
                         "options": [],
                         "placeholder": {
                             "en": "Select an option"
@@ -235,7 +274,7 @@
                     },
                     "id": "76f4a426-72b1-11ef-a972-96a6d2455259",
                     "label": {
-                        "en": "name_content_type"
+                        "en": "Name Type"
                     },
                     "node_id": "76f4a39a-72b1-11ef-a972-96a6d2455259",
                     "sortorder": null,
@@ -249,7 +288,7 @@
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "name_content_language",
+                        "label": "Name Language",
                         "options": [],
                         "placeholder": {
                             "en": "Select an option"
@@ -257,10 +296,54 @@
                     },
                     "id": "76f4a444-72b1-11ef-a972-96a6d2455259",
                     "label": {
-                        "en": "name_content_language"
+                        "en": "Name Language"
                     },
                     "node_id": "76f4a3e0-72b1-11ef-a972-96a6d2455259",
                     "sortorder": null,
+                    "visible": false,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "fff74e36-72b1-11ef-a972-96a6d2455259",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "statement_type",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "83431fa2-40bc-4223-8e22-3958037f6a8c",
+                    "label": {
+                        "en": "statement_type"
+                    },
+                    "node_id": "fff74f76-72b1-11ef-a972-96a6d2455259",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "a3895626-72b1-11ef-a972-96a6d2455259",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Digital Reference Type",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "95cfb9fd-00bb-4bef-a409-fb0a73fa43d6",
+                    "label": {
+                        "en": "Digital Reference Type"
+                    },
+                    "node_id": "a3895694-72b1-11ef-a972-96a6d2455259",
+                    "sortorder": 0,
                     "visible": true,
                     "widget_id": "10000000-0000-0000-0000-000000000002"
                 },
@@ -271,7 +354,7 @@
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "digital_object_type",
+                        "label": "digital Object Type",
                         "options": [],
                         "placeholder": {
                             "en": "Select an option"
@@ -279,7 +362,7 @@
                     },
                     "id": "a81cdf78-4625-41e1-8eb1-b0771fe664b0",
                     "label": {
-                        "en": "digital_object_type"
+                        "en": "digital Object Type"
                     },
                     "node_id": "acbb3f02-72b1-11ef-a972-96a6d2455259",
                     "sortorder": 0,
@@ -291,18 +374,65 @@
                     "config": {
                         "acceptedFiles": "",
                         "defaultValue": [],
-                        "label": "digital_file",
+                        "label": "Image",
                         "maxFilesize": "200",
                         "rerender": true
                     },
                     "id": "dd6c2f68-67e5-4cf1-b3ab-c0b22c37e37d",
                     "label": {
-                        "en": "digital_file"
+                        "en": "Image"
                     },
                     "node_id": "4f23f996-72b2-11ef-a972-96a6d2455259",
                     "sortorder": 0,
                     "visible": true,
                     "widget_id": "10000000-0000-0000-0000-000000000019"
+                },
+                {
+                    "card_id": "a3895626-72b1-11ef-a972-96a6d2455259",
+                    "config": {
+                        "i18n_properties": [
+                            "url_label_placeholder",
+                            "url_placeholder"
+                        ],
+                        "label": "Digital Reference",
+                        "link_color": "#0055a0",
+                        "url_label_placeholder": {
+                            "en": "Enter URL Label... "
+                        },
+                        "url_placeholder": {
+                            "en": "Enter URL... "
+                        }
+                    },
+                    "id": "df9817cf-8a49-44b9-9172-bd84afb257db",
+                    "label": {
+                        "en": "Digital Reference"
+                    },
+                    "node_id": "a38956ee-72b1-11ef-a972-96a6d2455259",
+                    "sortorder": 1,
+                    "visible": true,
+                    "widget_id": "ca0c43ff-af73-4349-bafd-53ff9f22eebd"
+                },
+                {
+                    "card_id": "713b11fe-b98e-4864-a09a-bc25af5e850a",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Image Type",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "e2aa33ba-c736-4338-90b1-b03ada4fbb9f",
+                    "label": {
+                        "en": "Image Type"
+                    },
+                    "node_id": "7c8e52aa-72b2-11ef-a972-96a6d2455259",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
                 },
                 {
                     "card_id": "fff74e36-72b1-11ef-a972-96a6d2455259",
@@ -311,33 +441,28 @@
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "Source Reference Work for Statement",
+                        "label": "Source Reference",
                         "placeholder": {
                             "en": ""
                         }
                     },
                     "id": "fff74f9e-72b1-11ef-a972-96a6d2455259",
                     "label": {
-                        "en": "Source Reference Work for Statement"
+                        "en": "Source Reference"
                     },
                     "node_id": "fff74e9a-72b1-11ef-a972-96a6d2455259",
-                    "sortorder": 4,
+                    "sortorder": 3,
                     "visible": true,
                     "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
                 },
                 {
                     "card_id": "fff74e36-72b1-11ef-a972-96a6d2455259",
                     "config": {
-                        "defaultValue": {
-                            "en": {
-                                "direction": "ltr",
-                                "value": ""
-                            }
-                        },
+                        "defaultValue": "",
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "Statement",
+                        "label": "Description",
                         "maxLength": null,
                         "placeholder": {
                             "en": "Enter text"
@@ -347,10 +472,10 @@
                     },
                     "id": "fff74fbc-72b1-11ef-a972-96a6d2455259",
                     "label": {
-                        "en": "Statement"
+                        "en": "Description"
                     },
                     "node_id": "fff74ef4-72b1-11ef-a972-96a6d2455259",
-                    "sortorder": 0,
+                    "sortorder": 1,
                     "visible": true,
                     "widget_id": "10000000-0000-0000-0000-000000000001"
                 }
@@ -547,7 +672,7 @@
                     },
                     "function_id": "60000000-0000-0000-0000-000000000001",
                     "graph_id": "a25a7737-db7b-413d-b867-76fb108cf96e",
-                    "id": "1e457f83-f525-4e3e-a916-68646be37a60"
+                    "id": "4ffea165-17a7-4eb3-b95f-576e8daf4d31"
                 }
             ],
             "graphid": "a25a7737-db7b-413d-b867-76fb108cf96e",
@@ -669,7 +794,7 @@
                 {
                     "alias": "identifier_type",
                     "config": {
-                        "rdmCollection": "77bb3662-58dc-43cc-9c66-411c70eb6c08"
+                        "rdmCollection": "ee7a626e-4b14-4ca5-963f-0ad7cf7edf77"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -764,7 +889,7 @@
                 {
                     "alias": "name_content_type",
                     "config": {
-                        "rdmCollection": "80653051-6e0d-45b1-bb15-dc09bc2b0916"
+                        "rdmCollection": "9f97448b-9847-46e8-a117-4d297c2b7f1e"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -810,7 +935,7 @@
                 {
                     "alias": "digital_file_type",
                     "config": {
-                        "rdmCollection": "ba010b1e-7bb0-493e-beb6-29209b6987d6"
+                        "rdmCollection": "5fdb3dbf-cfbc-4021-bb23-bad7fa5a66c5"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -856,7 +981,7 @@
                 {
                     "alias": "digital_reference_type",
                     "config": {
-                        "rdmCollection": "dac90a7e-f1e3-45fe-ae2f-bdb0dc79c4c2"
+                        "rdmCollection": "c728ef63-edfb-44d2-b88b-7d773b4cf5a3"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -902,7 +1027,7 @@
                 {
                     "alias": "digital_object_type",
                     "config": {
-                        "rdmCollection": "8ae7166d-5f56-440c-976a-9998597d012f"
+                        "rdmCollection": "c728ef63-edfb-44d2-b88b-7d773b4cf5a3"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -1004,7 +1129,7 @@
                     "alias": "statement_language",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": "5388ac25-bdc4-4fc7-a3d1-2a25b0ab10b0",
+                        "rdmCollection": "81cee03a-bbfb-48ff-b917-f30849659d7d",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -1030,7 +1155,7 @@
                     "alias": "statement_type",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": "4e42c787-a39b-45ea-b2f2-87f699de0ab9",
+                        "rdmCollection": "972e1d51-1ea6-4329-a8db-58c47f609484",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -1057,8 +1182,8 @@
             "publication": {
                 "graph_id": "a25a7737-db7b-413d-b867-76fb108cf96e",
                 "notes": null,
-                "publicationid": "4043d596-7388-11ef-921e-96a6d2455259",
-                "published_time": "2024-09-15T12:30:50.270"
+                "publicationid": "15c52bac-879d-11ef-a06f-960003b55319",
+                "published_time": "2024-10-11T01:50:21.663"
             },
             "relatable_resource_model_ids": [],
             "resource_2_resource_constraints": [],

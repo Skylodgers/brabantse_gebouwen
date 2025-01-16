@@ -5,6 +5,60 @@
             "cards": [
                 {
                     "active": true,
+                    "cardid": "0474cc53-3f79-4002-8145-4dfcd40c4f31",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "{\"en\": \"\"}",
+                    "graph_id": "fa335042-a1fe-11ed-a102-9cf387da2c40",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Formation Event Places"
+                    },
+                    "nodegroup_id": "b9c256a0-7292-11ef-a972-96a6d2455259",
+                    "sortorder": 2,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "0ee77841-103f-4e7c-8b15-bbcb5f48f363",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "{\"en\": \"\"}",
+                    "graph_id": "fa335042-a1fe-11ed-a102-9cf387da2c40",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Formation Event Actors"
+                    },
+                    "nodegroup_id": "df699c38-7292-11ef-a972-96a6d2455259",
+                    "sortorder": 1,
+                    "visible": true
+                },
+                {
+                    "active": true,
                     "cardid": "1978c298-7296-11ef-a972-96a6d2455259",
                     "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
                     "config": null,
@@ -24,9 +78,63 @@
                     },
                     "is_editable": true,
                     "name": {
-                        "en": "dissolution_activity_source_reference"
+                        "en": "Dissolution Event Source References"
                     },
                     "nodegroup_id": "1978c1b2-7296-11ef-a972-96a6d2455259",
+                    "sortorder": null,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "474bcc5e-08d8-4f86-a548-9e5e2d2dd748",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "{\"en\": \"\"}",
+                    "graph_id": "fa335042-a1fe-11ed-a102-9cf387da2c40",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Formation Event Descriptions"
+                    },
+                    "nodegroup_id": "4ee0a85a-7292-11ef-a972-96a6d2455259",
+                    "sortorder": 0,
+                    "visible": true
+                },
+                {
+                    "active": true,
+                    "cardid": "58fa6121-c8ac-487a-a89c-9b1ea9170743",
+                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
+                    "config": null,
+                    "constraints": [],
+                    "cssclass": null,
+                    "description": "{\"en\": \"\"}",
+                    "graph_id": "fa335042-a1fe-11ed-a102-9cf387da2c40",
+                    "helpenabled": false,
+                    "helptext": {
+                        "en": ""
+                    },
+                    "helptitle": {
+                        "en": ""
+                    },
+                    "instructions": {
+                        "en": ""
+                    },
+                    "is_editable": true,
+                    "name": {
+                        "en": "Place Descriptions"
+                    },
+                    "nodegroup_id": "ec944482-739e-11ef-a98f-96a6d2455259",
                     "sortorder": null,
                     "visible": true
                 },
@@ -52,9 +160,9 @@
                         "en": "",
                         "nl": ""
                     },
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": {
-                        "en": "Name",
+                        "en": "Organisation  Names",
                         "nl": "Naam"
                     },
                     "nodegroup_id": "5c6506a4-7299-11ef-a972-96a6d2455259",
@@ -82,7 +190,7 @@
                     },
                     "is_editable": true,
                     "name": {
-                        "en": "dissolution_activity"
+                        "en": "Dissolution Events"
                     },
                     "nodegroup_id": "28cda8ba-7293-11ef-a972-96a6d2455259",
                     "sortorder": 6,
@@ -109,7 +217,7 @@
                     },
                     "is_editable": true,
                     "name": {
-                        "en": "personal_activity"
+                        "en": "Organisation Event Descriptions"
                     },
                     "nodegroup_id": "670e4a2c-7297-11ef-a972-96a6d2455259",
                     "sortorder": null,
@@ -136,7 +244,7 @@
                     },
                     "is_editable": true,
                     "name": {
-                        "en": "personal_activity"
+                        "en": "Organisation Event Actors"
                     },
                     "nodegroup_id": "670e4c2a-7297-11ef-a972-96a6d2455259",
                     "sortorder": null,
@@ -163,7 +271,7 @@
                     },
                     "is_editable": true,
                     "name": {
-                        "en": "personal_activity"
+                        "en": "Organisation Event Places"
                     },
                     "nodegroup_id": "670e4d1a-7297-11ef-a972-96a6d2455259",
                     "sortorder": null,
@@ -190,37 +298,10 @@
                     },
                     "is_editable": true,
                     "name": {
-                        "en": "organisation_activity"
+                        "en": "Organisation Events"
                     },
                     "nodegroup_id": "670e4df6-7297-11ef-a972-96a6d2455259",
                     "sortorder": 8,
-                    "visible": true
-                },
-                {
-                    "active": true,
-                    "cardid": "6e27a6a4-7293-11ef-a972-96a6d2455259",
-                    "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
-                    "config": null,
-                    "constraints": [],
-                    "cssclass": null,
-                    "description": "{\"en\": \"\"}",
-                    "graph_id": "fa335042-a1fe-11ed-a102-9cf387da2c40",
-                    "helpenabled": false,
-                    "helptext": {
-                        "en": ""
-                    },
-                    "helptitle": {
-                        "en": ""
-                    },
-                    "instructions": {
-                        "en": ""
-                    },
-                    "is_editable": true,
-                    "name": {
-                        "en": "dissolution_activity_timespan"
-                    },
-                    "nodegroup_id": "6e27a488-7293-11ef-a972-96a6d2455259",
-                    "sortorder": null,
                     "visible": true
                 },
                 {
@@ -242,7 +323,7 @@
                     "instructions": {
                         "en": ""
                     },
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": {
                         "en": "Identifier"
                     },
@@ -269,9 +350,9 @@
                     "instructions": {
                         "en": ""
                     },
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": {
-                        "en": "alternative_name"
+                        "en": "Alternate Names"
                     },
                     "nodegroup_id": "6f4384b2-7299-11ef-a972-96a6d2455259",
                     "sortorder": 4,
@@ -302,9 +383,9 @@
                         "es": "",
                         "nl": ""
                     },
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": {
-                        "en": "organisation_type",
+                        "en": "Organisation Type",
                         "es": "Organisation Type",
                         "nl": "Organisation Type"
                     },
@@ -331,7 +412,7 @@
                     "instructions": {
                         "en": ""
                     },
-                    "is_editable": true,
+                    "is_editable": false,
                     "name": {
                         "en": "Other Identifier"
                     },
@@ -360,7 +441,7 @@
                     },
                     "is_editable": true,
                     "name": {
-                        "en": "dissolution_activity_statement"
+                        "en": "Dissolution Event Descriptions"
                     },
                     "nodegroup_id": "8a233e68-7293-11ef-a972-96a6d2455259",
                     "sortorder": 3,
@@ -368,12 +449,12 @@
                 },
                 {
                     "active": true,
-                    "cardid": "b638d72e-7293-11ef-a972-96a6d2455259",
+                    "cardid": "aa07592e-7526-4824-a998-a9fedee74e74",
                     "component_id": "f05e4d3a-53c1-11e8-b0ea-784f435179ea",
                     "config": null,
                     "constraints": [],
                     "cssclass": null,
-                    "description": "{\"en\": \"\"}",
+                    "description": null,
                     "graph_id": "fa335042-a1fe-11ed-a102-9cf387da2c40",
                     "helpenabled": false,
                     "helptext": {
@@ -387,10 +468,10 @@
                     },
                     "is_editable": true,
                     "name": {
-                        "en": "dissolution_activity_name"
+                        "en": "Dissolution Event Cause"
                     },
-                    "nodegroup_id": "b638d530-7293-11ef-a972-96a6d2455259",
-                    "sortorder": 1,
+                    "nodegroup_id": "8ce8ccec-7295-11ef-a972-96a6d2455259",
+                    "sortorder": null,
                     "visible": true
                 },
                 {
@@ -414,7 +495,7 @@
                     },
                     "is_editable": true,
                     "name": {
-                        "en": "dissolution_activity_cause"
+                        "en": "Dissolution Event Influenced By"
                     },
                     "nodegroup_id": "bd810912-729c-11ef-a972-96a6d2455259",
                     "sortorder": null,
@@ -441,7 +522,7 @@
                     },
                     "is_editable": true,
                     "name": {
-                        "en": "formation_activity"
+                        "en": "Formation Events"
                     },
                     "nodegroup_id": "26942a16-7292-11ef-a972-96a6d2455259",
                     "sortorder": 7,
@@ -468,7 +549,7 @@
                     },
                     "is_editable": true,
                     "name": {
-                        "en": "dissolution_activity_location"
+                        "en": "Dissolution Event Places"
                     },
                     "nodegroup_id": "d2abbeda-7293-11ef-a972-96a6d2455259",
                     "sortorder": null,
@@ -495,7 +576,7 @@
                     },
                     "is_editable": true,
                     "name": {
-                        "en": "location"
+                        "en": "Organisation Places"
                     },
                     "nodegroup_id": "ec943ee2-739e-11ef-a98f-96a6d2455259",
                     "sortorder": 5,
@@ -522,7 +603,7 @@
                     },
                     "is_editable": true,
                     "name": {
-                        "en": "location"
+                        "en": "Address"
                     },
                     "nodegroup_id": "ec944022-739e-11ef-a98f-96a6d2455259",
                     "sortorder": null,
@@ -549,7 +630,7 @@
                     },
                     "is_editable": true,
                     "name": {
-                        "en": "dissolution_activity_actor"
+                        "en": "Dissolution Event Actors"
                     },
                     "nodegroup_id": "f0e06612-7293-11ef-a972-96a6d2455259",
                     "sortorder": null,
@@ -558,13 +639,373 @@
             ],
             "cards_x_nodes_x_widgets": [
                 {
+                    "card_id": "0474cc53-3f79-4002-8145-4dfcd40c4f31",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Formation Event Place",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "00c59ff3-d344-4a1b-af5a-95f9690b21f9",
+                    "label": {
+                        "en": "Formation Event Place"
+                    },
+                    "node_id": "b9c256a0-7292-11ef-a972-96a6d2455259",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
+                },
+                {
+                    "card_id": "5fc8a025-a107-4193-b759-2cf2f5a7923f",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Dissolution Event Type",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "06511498-3fb9-4863-a1fd-d3adf2bac6b2",
+                    "label": {
+                        "en": "Dissolution Event Type"
+                    },
+                    "node_id": "77664238-7294-11ef-a972-96a6d2455259",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "c70da6e2-9ac9-421f-9aa9-cd44f61b0b13",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": " formation_activity_location_role",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "0dc128ef-1806-44e8-9a0d-7d8fee17905e",
+                    "label": {
+                        "en": " formation_activity_location_role"
+                    },
+                    "node_id": "b9c25a9c-7292-11ef-a972-96a6d2455259",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "c70da6e2-9ac9-421f-9aa9-cd44f61b0b13",
+                    "config": {
+                        "defaultValue": "cc5cb5e1-2eba-4184-969e-7c6c954c84c9",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Formation Event Language",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "0e6031eb-5899-4a5f-8e75-c76f287de361",
+                    "label": {
+                        "en": "Formation Event Language"
+                    },
+                    "node_id": "46c32bc4-7293-11ef-a972-96a6d2455259",
+                    "sortorder": 1,
+                    "visible": false,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "670e4b8a-7297-11ef-a972-96a6d2455259",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Organisation Event Description",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "136929e4-2ffa-4323-a1e3-a6d76aeac20e",
+                    "label": {
+                        "en": "Organisation Event Description"
+                    },
+                    "node_id": "670e50bc-7297-11ef-a972-96a6d2455259",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "d2abc2c2-7293-11ef-a972-96a6d2455259",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Dissolution Event Place",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "180019d9-6887-4de2-b77d-0bf61102018d",
+                    "label": {
+                        "en": "Dissolution Event Place"
+                    },
+                    "node_id": "d2abbeda-7293-11ef-a972-96a6d2455259",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
+                },
+                {
+                    "card_id": "5fc8a025-a107-4193-b759-2cf2f5a7923f",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Dissolution Event Cause",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "1bf3649d-40e6-49f8-b5db-9593acbbc298",
+                    "label": {
+                        "en": "Dissolution Event Cause"
+                    },
+                    "node_id": "9c60bbc6-7295-11ef-a972-96a6d2455259",
+                    "sortorder": 3,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000005"
+                },
+                {
+                    "card_id": "1978c298-7296-11ef-a972-96a6d2455259",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Dissolution Event Source Reference",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "2076f7ac-e874-4223-87f3-94776b31e28d",
+                    "label": {
+                        "en": "Dissolution Event Source Reference"
+                    },
+                    "node_id": "1978c1b2-7296-11ef-a972-96a6d2455259",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
+                },
+                {
+                    "card_id": "58fa6121-c8ac-487a-a89c-9b1ea9170743",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Place Description",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "2655e29c-7ca9-4d7a-a3ef-18e1e25aaa0a",
+                    "label": {
+                        "en": "Place Description"
+                    },
+                    "node_id": "ec944388-739e-11ef-a98f-96a6d2455259",
+                    "sortorder": 1,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000005"
+                },
+                {
+                    "card_id": "58fa6121-c8ac-487a-a89c-9b1ea9170743",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Place Description Type",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "26571a1f-ecff-45b7-81d3-b209ec630464",
+                    "label": {
+                        "en": "Place Description Type"
+                    },
+                    "node_id": "ec944298-739e-11ef-a98f-96a6d2455259",
+                    "sortorder": 1,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "c70da6e2-9ac9-421f-9aa9-cd44f61b0b13",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "formation_activity_actor",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "35a6fd64-e423-4bd2-bfc1-ebf5b2bf7b0f",
+                    "label": {
+                        "en": "formation_activity_actor"
+                    },
+                    "node_id": "df699c38-7292-11ef-a972-96a6d2455259",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
+                },
+                {
+                    "card_id": "0ee77841-103f-4e7c-8b15-bbcb5f48f363",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Formation Event Actor",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "3d56017c-94a8-406c-874f-0da3623fbb76",
+                    "label": {
+                        "en": "Formation Event Actor"
+                    },
+                    "node_id": "df699c38-7292-11ef-a972-96a6d2455259",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
+                },
+                {
+                    "card_id": "474bcc5e-08d8-4f86-a548-9e5e2d2dd748",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Formation Event Description",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "427b0213-de87-486a-bab3-a25a838da419",
+                    "label": {
+                        "en": "Formation Event Description"
+                    },
+                    "node_id": "4ee0acc4-7292-11ef-a972-96a6d2455259",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "bd810a98-729c-11ef-a972-96a6d2455259",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Dissolution Event Influenced By Type",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "42e9c772-7aff-42c6-a489-12c7cdd8c324",
+                    "label": {
+                        "en": "Dissolution Event Influenced By Type"
+                    },
+                    "node_id": "bd810c3c-729c-11ef-a972-96a6d2455259",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "5fc8a025-a107-4193-b759-2cf2f5a7923f",
+                    "config": {
+                        "defaultValue": "",
+                        "en": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Dissolution Event End Date",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "45343a7a-b5f9-443b-92ca-17d7c756ba35",
+                    "label": {
+                        "en": "Dissolution Event End Date"
+                    },
+                    "node_id": "6e27a8d4-7293-11ef-a972-96a6d2455259",
+                    "sortorder": 5,
+                    "visible": true,
+                    "widget_id": "adfd15ce-dbab-11e7-86d1-0fcf08612b27"
+                },
+                {
+                    "card_id": "bd810a98-729c-11ef-a972-96a6d2455259",
+                    "config": {
+                        "defaultValue": "cc5cb5e1-2eba-4184-969e-7c6c954c84c9",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Dissolution Event Influenced By Language",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "46294100-c8d8-498d-abe0-cdca6b84f3d9",
+                    "label": {
+                        "en": "Dissolution Event Influenced By Language"
+                    },
+                    "node_id": "bd810cb4-729c-11ef-a972-96a6d2455259",
+                    "sortorder": null,
+                    "visible": false,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
                     "card_id": "5c650852-7299-11ef-a972-96a6d2455259",
                     "config": {
                         "defaultValue": "",
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "name_content",
+                        "label": "Organisation Name",
                         "maxLength": null,
                         "placeholder": {
                             "en": "Enter text",
@@ -575,7 +1016,7 @@
                     },
                     "id": "5c650ad2-7299-11ef-a972-96a6d2455259",
                     "label": {
-                        "en": "name_content",
+                        "en": "Organisation Name",
                         "nl": "name_content"
                     },
                     "node_id": "5c65092e-7299-11ef-a972-96a6d2455259",
@@ -590,7 +1031,7 @@
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "name_content_type",
+                        "label": "Organisation Name Type",
                         "options": [],
                         "placeholder": {
                             "en": "Select an option",
@@ -599,7 +1040,7 @@
                     },
                     "id": "5c650b2c-7299-11ef-a972-96a6d2455259",
                     "label": {
-                        "en": "name_content_type",
+                        "en": "Organisation Name Type",
                         "nl": "name_content_type"
                     },
                     "node_id": "5c6509ec-7299-11ef-a972-96a6d2455259",
@@ -614,7 +1055,7 @@
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "name_content_language",
+                        "label": "Organisation Name Language",
                         "options": [],
                         "placeholder": {
                             "en": "Select an option",
@@ -623,7 +1064,7 @@
                     },
                     "id": "5c650b72-7299-11ef-a972-96a6d2455259",
                     "label": {
-                        "en": "name_content_language",
+                        "en": "Organisation Name Language",
                         "nl": "name_content_language"
                     },
                     "node_id": "5c650a8c-7299-11ef-a972-96a6d2455259",
@@ -632,13 +1073,58 @@
                     "widget_id": "10000000-0000-0000-0000-000000000002"
                 },
                 {
+                    "card_id": "c70da6e2-9ac9-421f-9aa9-cd44f61b0b13",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Formation Event Name",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "\"\""
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "63328173-bce6-44c9-a15e-1b8d706ec07d",
+                    "label": {
+                        "en": "Formation Event Name"
+                    },
+                    "node_id": "4d8297f4-8230-11ef-a06f-960003b55319",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "c70da6e2-9ac9-421f-9aa9-cd44f61b0b13",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "formation_activity_statement_source_reference",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "65c298b7-363e-40a8-bdf9-2738f16e9bcf",
+                    "label": {
+                        "en": "formation_activity_statement_source_reference"
+                    },
+                    "node_id": "4ee0abd4-7292-11ef-a972-96a6d2455259",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
+                },
+                {
                     "card_id": "670e4b8a-7297-11ef-a972-96a6d2455259",
                     "config": {
                         "defaultValue": "",
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "personal_activity_statement_type",
+                        "label": "Organisation Event Description Type",
                         "options": [],
                         "placeholder": {
                             "en": "Select an option"
@@ -646,21 +1132,21 @@
                     },
                     "id": "670e52d8-7297-11ef-a972-96a6d2455259",
                     "label": {
-                        "en": "personal_activity_statement_type"
+                        "en": "Organisation Event Description Type"
                     },
                     "node_id": "670e5102-7297-11ef-a972-96a6d2455259",
-                    "sortorder": null,
+                    "sortorder": 1,
                     "visible": true,
                     "widget_id": "10000000-0000-0000-0000-000000000002"
                 },
                 {
                     "card_id": "670e4b8a-7297-11ef-a972-96a6d2455259",
                     "config": {
-                        "defaultValue": "",
+                        "defaultValue": "cc5cb5e1-2eba-4184-969e-7c6c954c84c9",
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "personal_activity_statements_language",
+                        "label": "Organisation Event Description Language",
                         "options": [],
                         "placeholder": {
                             "en": "Select an option"
@@ -668,11 +1154,11 @@
                     },
                     "id": "670e530a-7297-11ef-a972-96a6d2455259",
                     "label": {
-                        "en": "personal_activity_statements_language"
+                        "en": "Organisation Event Description Language"
                     },
                     "node_id": "670e513e-7297-11ef-a972-96a6d2455259",
-                    "sortorder": null,
-                    "visible": true,
+                    "sortorder": 2,
+                    "visible": false,
                     "widget_id": "10000000-0000-0000-0000-000000000002"
                 },
                 {
@@ -680,7 +1166,7 @@
                     "config": {
                         "dateFormat": "YYYY-MM-DD",
                         "defaultValue": "",
-                        "label": "personal_activity_timespan_start",
+                        "label": "Organisation Event Start Date",
                         "maxDate": false,
                         "minDate": false,
                         "placeholder": "Enter date",
@@ -688,34 +1174,12 @@
                     },
                     "id": "670e5328-7297-11ef-a972-96a6d2455259",
                     "label": {
-                        "en": "personal_activity_timespan_start"
+                        "en": "Organisation Event Start Date"
                     },
                     "node_id": "670e5238-7297-11ef-a972-96a6d2455259",
-                    "sortorder": 2,
+                    "sortorder": 5,
                     "visible": true,
                     "widget_id": "10000000-0000-0000-0000-000000000004"
-                },
-                {
-                    "card_id": "670e4e82-7297-11ef-a972-96a6d2455259",
-                    "config": {
-                        "defaultValue": "",
-                        "i18n_properties": [
-                            "placeholder"
-                        ],
-                        "label": "peersonal_activity_name_title",
-                        "options": [],
-                        "placeholder": {
-                            "en": "Select an option"
-                        }
-                    },
-                    "id": "670e5346-7297-11ef-a972-96a6d2455259",
-                    "label": {
-                        "en": "peersonal_activity_name_title"
-                    },
-                    "node_id": "670e4ed2-7297-11ef-a972-96a6d2455259",
-                    "sortorder": 7,
-                    "visible": true,
-                    "widget_id": "10000000-0000-0000-0000-000000000002"
                 },
                 {
                     "card_id": "670e4e82-7297-11ef-a972-96a6d2455259",
@@ -725,7 +1189,7 @@
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "Name Type",
+                        "label": "Organisation Event Name Type",
                         "options": [],
                         "placeholder": {
                             "en": "Select an option"
@@ -733,10 +1197,10 @@
                     },
                     "id": "670e535a-7297-11ef-a972-96a6d2455259",
                     "label": {
-                        "en": "Name Type"
+                        "en": "Organisation Event Name Type"
                     },
                     "node_id": "670e4f72-7297-11ef-a972-96a6d2455259",
-                    "sortorder": 5,
+                    "sortorder": 1,
                     "visible": true,
                     "widget_id": "10000000-0000-0000-0000-000000000002"
                 },
@@ -747,17 +1211,17 @@
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "personal_activity_event",
+                        "label": "Organisation Event Part of Event",
                         "placeholder": {
                             "en": ""
                         }
                     },
                     "id": "670e5378-7297-11ef-a972-96a6d2455259",
                     "label": {
-                        "en": "personal_activity_event"
+                        "en": "Organisation Event Part of Event"
                     },
                     "node_id": "670e5080-7297-11ef-a972-96a6d2455259",
-                    "sortorder": 1,
+                    "sortorder": 4,
                     "visible": true,
                     "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
                 },
@@ -769,7 +1233,7 @@
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "Name language",
+                        "label": "Organisation Event Name Language",
                         "options": [],
                         "placeholder": {
                             "en": "Select an option"
@@ -777,11 +1241,11 @@
                     },
                     "id": "670e5396-7297-11ef-a972-96a6d2455259",
                     "label": {
-                        "en": "Name language"
+                        "en": "Organisation Event Name Language"
                     },
                     "node_id": "670e503a-7297-11ef-a972-96a6d2455259",
-                    "sortorder": 6,
-                    "visible": true,
+                    "sortorder": 2,
+                    "visible": false,
                     "widget_id": "10000000-0000-0000-0000-000000000002"
                 },
                 {
@@ -789,7 +1253,7 @@
                     "config": {
                         "dateFormat": "YYYY-MM-DD",
                         "defaultValue": "",
-                        "label": "personal_activity_timespan_end",
+                        "label": "Organisation Event End Date",
                         "maxDate": false,
                         "minDate": false,
                         "placeholder": "Enter date",
@@ -797,10 +1261,10 @@
                     },
                     "id": "670e53b4-7297-11ef-a972-96a6d2455259",
                     "label": {
-                        "en": "personal_activity_timespan_end"
+                        "en": "Organisation Event End Date"
                     },
                     "node_id": "670e51c0-7297-11ef-a972-96a6d2455259",
-                    "sortorder": 3,
+                    "sortorder": 6,
                     "visible": true,
                     "widget_id": "10000000-0000-0000-0000-000000000004"
                 },
@@ -811,17 +1275,17 @@
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "Place",
+                        "label": "Organisation Event Place",
                         "placeholder": {
                             "en": ""
                         }
                     },
                     "id": "670e53d2-7297-11ef-a972-96a6d2455259",
                     "label": {
-                        "en": "Place"
+                        "en": "Organisation Event Place"
                     },
                     "node_id": "670e4d1a-7297-11ef-a972-96a6d2455259",
-                    "sortorder": 1,
+                    "sortorder": 0,
                     "visible": true,
                     "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
                 },
@@ -842,7 +1306,7 @@
                         "en": "Source Reference "
                     },
                     "node_id": "670e52ba-7297-11ef-a972-96a6d2455259",
-                    "sortorder": 8,
+                    "sortorder": 7,
                     "visible": true,
                     "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
                 },
@@ -876,7 +1340,7 @@
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "Name",
+                        "label": "Organisation Event Name",
                         "maxLength": null,
                         "placeholder": {
                             "en": "Enter text"
@@ -886,10 +1350,10 @@
                     },
                     "id": "670e5422-7297-11ef-a972-96a6d2455259",
                     "label": {
-                        "en": "Name"
+                        "en": "Organisation Event Name"
                     },
                     "node_id": "670e4fb8-7297-11ef-a972-96a6d2455259",
-                    "sortorder": 4,
+                    "sortorder": 0,
                     "visible": true,
                     "widget_id": "10000000-0000-0000-0000-000000000001"
                 },
@@ -900,7 +1364,7 @@
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "Place Role",
+                        "label": "Organisation Event Place Role",
                         "options": [],
                         "placeholder": {
                             "en": "Select an option"
@@ -908,10 +1372,10 @@
                     },
                     "id": "670e5440-7297-11ef-a972-96a6d2455259",
                     "label": {
-                        "en": "Place Role"
+                        "en": "Organisation Event Place Role"
                     },
                     "node_id": "670e5184-7297-11ef-a972-96a6d2455259",
-                    "sortorder": 2,
+                    "sortorder": 1,
                     "visible": true,
                     "widget_id": "10000000-0000-0000-0000-000000000002"
                 },
@@ -922,17 +1386,17 @@
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "personal_activity_actor",
+                        "label": "Organisation Event Actor",
                         "placeholder": {
                             "en": ""
                         }
                     },
                     "id": "670e5454-7297-11ef-a972-96a6d2455259",
                     "label": {
-                        "en": "personal_activity_actor"
+                        "en": "Organisation Event Actor"
                     },
                     "node_id": "670e4c2a-7297-11ef-a972-96a6d2455259",
-                    "sortorder": 4,
+                    "sortorder": 0,
                     "visible": true,
                     "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
                 },
@@ -943,7 +1407,7 @@
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "personal_activity_type",
+                        "label": "Organisation Event Type",
                         "options": [],
                         "placeholder": {
                             "en": "Select an option"
@@ -951,10 +1415,10 @@
                     },
                     "id": "670e5472-7297-11ef-a972-96a6d2455259",
                     "label": {
-                        "en": "personal_activity_type"
+                        "en": "Organisation Event Type"
                     },
                     "node_id": "670e51fc-7297-11ef-a972-96a6d2455259",
-                    "sortorder": 0,
+                    "sortorder": 3,
                     "visible": true,
                     "widget_id": "10000000-0000-0000-0000-000000000002"
                 },
@@ -965,7 +1429,7 @@
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "personal_activity_actor_role",
+                        "label": "Organisation Event Actor Role",
                         "options": [],
                         "placeholder": {
                             "en": "Select an option"
@@ -973,10 +1437,10 @@
                     },
                     "id": "670e5490-7297-11ef-a972-96a6d2455259",
                     "label": {
-                        "en": "personal_activity_actor_role"
+                        "en": "Organisation Event Actor Role"
                     },
                     "node_id": "670e5274-7297-11ef-a972-96a6d2455259",
-                    "sortorder": 5,
+                    "sortorder": 1,
                     "visible": true,
                     "widget_id": "10000000-0000-0000-0000-000000000002"
                 },
@@ -1000,6 +1464,28 @@
                     "node_id": "670e513e-7297-11ef-a972-96a6d2455259",
                     "sortorder": 3,
                     "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "5fc8a025-a107-4193-b759-2cf2f5a7923f",
+                    "config": {
+                        "defaultValue": "cc5cb5e1-2eba-4184-969e-7c6c954c84c9",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Dissolution Event Name Language",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "69cb5555-f8a9-4f89-bc6b-8c8966c655cf",
+                    "label": {
+                        "en": "Dissolution Event Name Language"
+                    },
+                    "node_id": "b638d9fe-7293-11ef-a972-96a6d2455259",
+                    "sortorder": 3,
+                    "visible": false,
                     "widget_id": "10000000-0000-0000-0000-000000000002"
                 },
                 {
@@ -1033,7 +1519,7 @@
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "alternative_name_content",
+                        "label": "Alternate Name",
                         "maxLength": null,
                         "placeholder": {
                             "en": "Enter text"
@@ -1043,10 +1529,10 @@
                     },
                     "id": "6f43894e-7299-11ef-a972-96a6d2455259",
                     "label": {
-                        "en": "alternative_name_content"
+                        "en": "Alternate Name"
                     },
                     "node_id": "6f438732-7299-11ef-a972-96a6d2455259",
-                    "sortorder": null,
+                    "sortorder": 0,
                     "visible": true,
                     "widget_id": "10000000-0000-0000-0000-000000000001"
                 },
@@ -1057,7 +1543,7 @@
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "alternative_name_content_type",
+                        "label": "Alternate Name Type",
                         "options": [],
                         "placeholder": {
                             "en": "Select an option"
@@ -1065,10 +1551,10 @@
                     },
                     "id": "6f438994-7299-11ef-a972-96a6d2455259",
                     "label": {
-                        "en": "alternative_name_content_type"
+                        "en": "Alternate Name Type"
                     },
                     "node_id": "6f4387fa-7299-11ef-a972-96a6d2455259",
-                    "sortorder": null,
+                    "sortorder": 1,
                     "visible": true,
                     "widget_id": "10000000-0000-0000-0000-000000000002"
                 },
@@ -1079,7 +1565,7 @@
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "alternative_name_content_language",
+                        "label": "Alternate Name Language",
                         "options": [],
                         "placeholder": {
                             "en": "Select an option"
@@ -1087,12 +1573,79 @@
                     },
                     "id": "6f4389d0-7299-11ef-a972-96a6d2455259",
                     "label": {
-                        "en": "alternative_name_content_language"
+                        "en": "Alternate Name Language"
                     },
                     "node_id": "6f438908-7299-11ef-a972-96a6d2455259",
+                    "sortorder": 2,
+                    "visible": false,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "c70da6e2-9ac9-421f-9aa9-cd44f61b0b13",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Formation Event End Date",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "74414898-1f41-491a-ad12-eb504237e816",
+                    "label": {
+                        "en": "Formation Event End Date"
+                    },
+                    "node_id": "a2080da2-7292-11ef-a972-96a6d2455259",
+                    "sortorder": 4,
+                    "visible": true,
+                    "widget_id": "adfd15ce-dbab-11e7-86d1-0fcf08612b27"
+                },
+                {
+                    "card_id": "c70da6e2-9ac9-421f-9aa9-cd44f61b0b13",
+                    "config": {
+                        "defaultValue": "cc5cb5e1-2eba-4184-969e-7c6c954c84c9",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "formation_activity_statement_language",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "74899bdc-8930-4bfe-a1a5-a40021f4cc88",
+                    "label": {
+                        "en": "formation_activity_statement_language"
+                    },
+                    "node_id": "4ee0ad5a-7292-11ef-a972-96a6d2455259",
+                    "sortorder": null,
+                    "visible": false,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "ec943fbe-739e-11ef-a98f-96a6d2455259",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "location_statement_content",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%%"
+                    },
+                    "id": "759c91e7-18bb-4a14-a065-bfe4c35c28be",
+                    "label": {
+                        "en": "location_statement_content"
+                    },
+                    "node_id": "ec944388-739e-11ef-a98f-96a6d2455259",
                     "sortorder": null,
                     "visible": true,
-                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
                 },
                 {
                     "card_id": "757027bb-0723-423a-87a4-d370104208d1",
@@ -1115,6 +1668,59 @@
                     "sortorder": 0,
                     "visible": true,
                     "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "5fc8a025-a107-4193-b759-2cf2f5a7923f",
+                    "config": {
+                        "defaultValue": {
+                            "en": {
+                                "direction": "ltr",
+                                "value": ""
+                            }
+                        },
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "dissolution_activity_name_content",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "7f143851-a9e1-4dcb-ad0d-f411d7da66c7",
+                    "label": {
+                        "en": "dissolution_activity_name_content"
+                    },
+                    "node_id": "b638d882-7293-11ef-a972-96a6d2455259",
+                    "sortorder": 0,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000005"
+                },
+                {
+                    "card_id": "c70da6e2-9ac9-421f-9aa9-cd44f61b0b13",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "formation_activity_statement_content",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%%"
+                    },
+                    "id": "84fe5b9e-9531-4cd7-a061-5dd619e100a4",
+                    "label": {
+                        "en": "formation_activity_statement_content"
+                    },
+                    "node_id": "4ee0acc4-7292-11ef-a972-96a6d2455259",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
                 },
                 {
                     "card_id": "892e485c-7290-11ef-a972-96a6d2455259",
@@ -1147,17 +1753,17 @@
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "Source Reference Work for Statement",
+                        "label": "Dissolution Event Description Source Reference",
                         "placeholder": {
                             "en": ""
                         }
                     },
                     "id": "8a2340ca-7293-11ef-a972-96a6d2455259",
                     "label": {
-                        "en": "Source Reference Work for Statement"
+                        "en": "Dissolution Event Description Source Reference"
                     },
                     "node_id": "8a233fbc-7293-11ef-a972-96a6d2455259",
-                    "sortorder": 4,
+                    "sortorder": 3,
                     "visible": true,
                     "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
                 },
@@ -1173,7 +1779,7 @@
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "Statement",
+                        "label": "Dissolution Event Description",
                         "maxLength": null,
                         "placeholder": {
                             "en": "Enter text"
@@ -1183,12 +1789,185 @@
                     },
                     "id": "8a2340f2-7293-11ef-a972-96a6d2455259",
                     "label": {
-                        "en": "Statement"
+                        "en": "Dissolution Event Description"
                     },
                     "node_id": "8a234020-7293-11ef-a972-96a6d2455259",
                     "sortorder": 0,
                     "visible": true,
-                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                    "widget_id": "10000000-0000-0000-0000-000000000005"
+                },
+                {
+                    "card_id": "5fc8a025-a107-4193-b759-2cf2f5a7923f",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Dissolution Event Name Type",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "8faa5202-d8cc-4d53-a4d5-4472d7f5f2a7",
+                    "label": {
+                        "en": "Dissolution Event Name Type"
+                    },
+                    "node_id": "b638d954-7293-11ef-a972-96a6d2455259",
+                    "sortorder": 2,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "c70da6e2-9ac9-421f-9aa9-cd44f61b0b13",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "formation_activity_actor_role",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "8fbc2ee8-7347-4846-ac9d-e1f06cee4bfe",
+                    "label": {
+                        "en": "formation_activity_actor_role"
+                    },
+                    "node_id": "df699efe-7292-11ef-a972-96a6d2455259",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "5fc8a025-a107-4193-b759-2cf2f5a7923f",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Dissolution Event Cause Type",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "92071812-d65b-4601-8968-44aa444a2055",
+                    "label": {
+                        "en": "Dissolution Event Cause Type"
+                    },
+                    "node_id": "c5338970-7295-11ef-a972-96a6d2455259",
+                    "sortorder": 4,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "c70da6e2-9ac9-421f-9aa9-cd44f61b0b13",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Formation Event Start Date",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "980b65f7-3039-4ca6-afc9-998d9731be91",
+                    "label": {
+                        "en": "Formation Event Start Date"
+                    },
+                    "node_id": "a2080cb2-7292-11ef-a972-96a6d2455259",
+                    "sortorder": 3,
+                    "visible": true,
+                    "widget_id": "adfd15ce-dbab-11e7-86d1-0fcf08612b27"
+                },
+                {
+                    "card_id": "c70da6e2-9ac9-421f-9aa9-cd44f61b0b13",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "formation_activity_statement_type",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "a11e5a54-090c-46e2-b359-eab6ace28e87",
+                    "label": {
+                        "en": "formation_activity_statement_type"
+                    },
+                    "node_id": "4ee0ade6-7292-11ef-a972-96a6d2455259",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "474bcc5e-08d8-4f86-a548-9e5e2d2dd748",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Formation Event Description Source Reference",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "a4b64d1e-a30a-430b-9035-34b2781a0281",
+                    "label": {
+                        "en": "Formation Event Description Source Reference"
+                    },
+                    "node_id": "4ee0abd4-7292-11ef-a972-96a6d2455259",
+                    "sortorder": 3,
+                    "visible": true,
+                    "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
+                },
+                {
+                    "card_id": "c70da6e2-9ac9-421f-9aa9-cd44f61b0b13",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Formation Event Source Reference",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "a5a80e91-f55f-4dbf-bc08-4657050d2755",
+                    "label": {
+                        "en": "Formation Event Source Reference"
+                    },
+                    "node_id": "4e07581c-7296-11ef-a972-96a6d2455259",
+                    "sortorder": 5,
+                    "visible": true,
+                    "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
+                },
+                {
+                    "card_id": "5fc8a025-a107-4193-b759-2cf2f5a7923f",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "dissolution_activity_role",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "a802458d-18e6-4a78-a342-bc38c4bd0555",
+                    "label": {
+                        "en": "dissolution_activity_role"
+                    },
+                    "node_id": "916d5a7c-7294-11ef-a972-96a6d2455259",
+                    "sortorder": 7,
+                    "visible": false,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
                 },
                 {
                     "card_id": "6f358988-7290-11ef-a972-96a6d2455259",
@@ -1213,13 +1992,252 @@
                     "widget_id": "10000000-0000-0000-0000-000000000002"
                 },
                 {
-                    "card_id": "b638d72e-7293-11ef-a972-96a6d2455259",
+                    "card_id": "58fa6121-c8ac-487a-a89c-9b1ea9170743",
                     "config": {
                         "defaultValue": "",
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "name_content",
+                        "label": "Place Description Language",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "ad2facd7-3ccb-4c48-8533-693afd6bf1c4",
+                    "label": {
+                        "en": "Place Description Language"
+                    },
+                    "node_id": "ec944158-739e-11ef-a98f-96a6d2455259",
+                    "sortorder": 2,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "d2abc2c2-7293-11ef-a972-96a6d2455259",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Dissolution Event Place Role",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "b21dbd14-168c-487a-9398-6547541b5958",
+                    "label": {
+                        "en": "Dissolution Event Place Role"
+                    },
+                    "node_id": "d2abc45c-7293-11ef-a972-96a6d2455259",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "5fc8a025-a107-4193-b759-2cf2f5a7923f",
+                    "config": {
+                        "defaultValue": "",
+                        "en": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Dissolution Event Start Date",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "b5db9000-da75-437a-b132-be3ab75793c6",
+                    "label": {
+                        "en": "Dissolution Event Start Date"
+                    },
+                    "node_id": "6e27a7da-7293-11ef-a972-96a6d2455259",
+                    "sortorder": 4,
+                    "visible": true,
+                    "widget_id": "adfd15ce-dbab-11e7-86d1-0fcf08612b27"
+                },
+                {
+                    "card_id": "f0e069aa-7293-11ef-a972-96a6d2455259",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Dissolution Event Actor",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "b85d5c61-af34-4f86-923f-980f1670a780",
+                    "label": {
+                        "en": "Dissolution Event Actor"
+                    },
+                    "node_id": "f0e06612-7293-11ef-a972-96a6d2455259",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
+                },
+                {
+                    "card_id": "ec943fbe-739e-11ef-a98f-96a6d2455259",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "location_statement_source_reference",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "b86f9ce4-c12b-4b52-99e6-041c29e11d27",
+                    "label": {
+                        "en": "location_statement_source_reference"
+                    },
+                    "node_id": "ec9443ce-739e-11ef-a98f-96a6d2455259",
+                    "sortorder": 2,
+                    "visible": true,
+                    "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
+                },
+                {
+                    "card_id": "5fc8a025-a107-4193-b759-2cf2f5a7923f",
+                    "config": {
+                        "defaultValue": "cc5cb5e1-2eba-4184-969e-7c6c954c84c9",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Dissolution Event Cause Language",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "b8f55681-6a5a-4ff6-ba9b-6796ed07b989",
+                    "label": {
+                        "en": "Dissolution Event Cause Language"
+                    },
+                    "node_id": "dfe9e552-7295-11ef-a972-96a6d2455259",
+                    "sortorder": 5,
+                    "visible": false,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "0474cc53-3f79-4002-8145-4dfcd40c4f31",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Formation Event Place Role",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "b964ae1d-e60b-474d-862d-f8109675b897",
+                    "label": {
+                        "en": "Formation Event Place Role"
+                    },
+                    "node_id": "b9c25a9c-7292-11ef-a972-96a6d2455259",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "0ee77841-103f-4e7c-8b15-bbcb5f48f363",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Formation Event Actor Role",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "ba0646ae-5e5c-45ff-9b56-15a9ea5a2218",
+                    "label": {
+                        "en": "Formation Event Actor Role"
+                    },
+                    "node_id": "df699efe-7292-11ef-a972-96a6d2455259",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "474bcc5e-08d8-4f86-a548-9e5e2d2dd748",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Formation Event Description Type",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "bf7c6faf-de10-49e3-985d-9ffe6f80112d",
+                    "label": {
+                        "en": "Formation Event Description Type"
+                    },
+                    "node_id": "4ee0ade6-7292-11ef-a972-96a6d2455259",
+                    "sortorder": 1,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "58fa6121-c8ac-487a-a89c-9b1ea9170743",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Place Description Source Reference",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "c70cdbbf-b24f-4c49-96ad-746720396bd2",
+                    "label": {
+                        "en": "Place Description Source Reference"
+                    },
+                    "node_id": "ec9443ce-739e-11ef-a98f-96a6d2455259",
+                    "sortorder": 3,
+                    "visible": true,
+                    "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
+                },
+                {
+                    "card_id": "f0e069aa-7293-11ef-a972-96a6d2455259",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Dissolution Event Actor Role",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "c9f480a3-6a8a-4d7a-9c41-be2faa6a859f",
+                    "label": {
+                        "en": "Dissolution Event Actor Role"
+                    },
+                    "node_id": "f0e06b76-7293-11ef-a972-96a6d2455259",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "bd810a98-729c-11ef-a972-96a6d2455259",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Dissolution Event Influenced By",
                         "maxLength": null,
                         "placeholder": {
                             "en": "Enter text"
@@ -1227,57 +2245,80 @@
                         "uneditable": false,
                         "width": "100%"
                     },
-                    "id": "b638da58-7293-11ef-a972-96a6d2455259",
+                    "id": "d83d51ba-9449-491e-970a-c44136475cdc",
                     "label": {
-                        "en": "name_content"
+                        "en": "Dissolution Event Influenced By"
                     },
-                    "node_id": "b638d882-7293-11ef-a972-96a6d2455259",
+                    "node_id": "bd810b74-729c-11ef-a972-96a6d2455259",
                     "sortorder": null,
                     "visible": true,
                     "widget_id": "10000000-0000-0000-0000-000000000001"
                 },
                 {
-                    "card_id": "b638d72e-7293-11ef-a972-96a6d2455259",
+                    "card_id": "5fc8a025-a107-4193-b759-2cf2f5a7923f",
                     "config": {
-                        "defaultValue": "cc5cb5e1-2eba-4184-969e-7c6c954c84c9",
+                        "defaultValue": "",
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "name_content_type",
-                        "options": [],
+                        "label": "Dissolution Event Name",
+                        "maxLength": null,
                         "placeholder": {
-                            "en": "Select an option"
-                        }
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
                     },
-                    "id": "b638dabc-7293-11ef-a972-96a6d2455259",
+                    "id": "dc56cbfe-9cc0-42b3-b66d-bda19a3edd5d",
                     "label": {
-                        "en": "name_content_type"
+                        "en": "Dissolution Event Name"
                     },
-                    "node_id": "b638d954-7293-11ef-a972-96a6d2455259",
-                    "sortorder": null,
+                    "node_id": "b638d882-7293-11ef-a972-96a6d2455259",
+                    "sortorder": 1,
                     "visible": true,
-                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
                 },
                 {
-                    "card_id": "b638d72e-7293-11ef-a972-96a6d2455259",
+                    "card_id": "c70da6e2-9ac9-421f-9aa9-cd44f61b0b13",
+                    "config": {
+                        "defaultResourceInstance": [],
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "formation_activity_location",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "dd0647f2-04d5-4aa3-a875-ebb3ceedebe3",
+                    "label": {
+                        "en": "formation_activity_location"
+                    },
+                    "node_id": "b9c256a0-7292-11ef-a972-96a6d2455259",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "ff3c400a-76ec-11e7-a793-784f435179ea"
+                },
+                {
+                    "card_id": "8a233f58-7293-11ef-a972-96a6d2455259",
                     "config": {
                         "defaultValue": "cc5cb5e1-2eba-4184-969e-7c6c954c84c9",
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "name_content_language",
+                        "label": "Dissolution Event Description Language",
                         "options": [],
                         "placeholder": {
                             "en": "Select an option"
                         }
                     },
-                    "id": "b638db02-7293-11ef-a972-96a6d2455259",
+                    "id": "ea6a81e2-2207-42a9-a250-b67f2caacd38",
                     "label": {
-                        "en": "name_content_language"
+                        "en": "Dissolution Event Description Language"
                     },
-                    "node_id": "b638d9fe-7293-11ef-a972-96a6d2455259",
-                    "sortorder": null,
-                    "visible": true,
+                    "node_id": "8a234066-7293-11ef-a972-96a6d2455259",
+                    "sortorder": 2,
+                    "visible": false,
                     "widget_id": "10000000-0000-0000-0000-000000000002"
                 },
                 {
@@ -1288,32 +2329,29 @@
                         "i18n_properties": [
                             "placeholder"
                         ],
+                        "label": "Place",
                         "placeholder": {
                             "en": ""
                         }
                     },
                     "id": "ec9444a0-739e-11ef-a98f-96a6d2455259",
                     "label": {
-                        "en": null
+                        "en": "Place"
                     },
                     "node_id": "ec94440a-739e-11ef-a98f-96a6d2455259",
-                    "sortorder": null,
+                    "sortorder": 1,
                     "visible": true,
                     "widget_id": "31f3728c-7613-11e7-a139-784f435179ea"
                 },
                 {
                     "card_id": "ec943fbe-739e-11ef-a98f-96a6d2455259",
                     "config": {
-                        "defaultValue": {
-                            "en": {
-                                "direction": "ltr",
-                                "value": ""
-                            }
-                        },
+                        "defaultValue": "",
                         "en": "",
                         "i18n_properties": [
                             "placeholder"
                         ],
+                        "label": "Street Address",
                         "maxLength": null,
                         "placeholder": {
                             "en": "Enter text"
@@ -1323,39 +2361,10 @@
                     },
                     "id": "ec9444c8-739e-11ef-a98f-96a6d2455259",
                     "label": {
-                        "en": null
+                        "en": "Street Address"
                     },
                     "node_id": "ec944342-739e-11ef-a98f-96a6d2455259",
-                    "sortorder": null,
-                    "visible": true,
-                    "widget_id": "10000000-0000-0000-0000-000000000001"
-                },
-                {
-                    "card_id": "ec943fbe-739e-11ef-a98f-96a6d2455259",
-                    "config": {
-                        "defaultValue": {
-                            "en": {
-                                "direction": "ltr",
-                                "value": ""
-                            }
-                        },
-                        "en": "",
-                        "i18n_properties": [
-                            "placeholder"
-                        ],
-                        "maxLength": null,
-                        "placeholder": {
-                            "en": "Enter text"
-                        },
-                        "uneditable": false,
-                        "width": "100%"
-                    },
-                    "id": "ec9444e6-739e-11ef-a98f-96a6d2455259",
-                    "label": {
-                        "en": null
-                    },
-                    "node_id": "ec94425c-739e-11ef-a98f-96a6d2455259",
-                    "sortorder": null,
+                    "sortorder": 0,
                     "visible": true,
                     "widget_id": "10000000-0000-0000-0000-000000000001"
                 },
@@ -1367,6 +2376,32 @@
                         "i18n_properties": [
                             "placeholder"
                         ],
+                        "label": "City",
+                        "maxLength": null,
+                        "placeholder": {
+                            "en": "Enter text"
+                        },
+                        "uneditable": false,
+                        "width": "100%"
+                    },
+                    "id": "ec9444e6-739e-11ef-a98f-96a6d2455259",
+                    "label": {
+                        "en": "City"
+                    },
+                    "node_id": "ec94425c-739e-11ef-a98f-96a6d2455259",
+                    "sortorder": 1,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "ec943fbe-739e-11ef-a98f-96a6d2455259",
+                    "config": {
+                        "defaultValue": "cc5cb5e1-2eba-4184-969e-7c6c954c84c9",
+                        "en": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "",
                         "options": [],
                         "placeholder": {
                             "en": "Select an option"
@@ -1374,20 +2409,20 @@
                     },
                     "id": "ec944504-739e-11ef-a98f-96a6d2455259",
                     "label": {
-                        "en": null
+                        "en": ""
                     },
                     "node_id": "ec944158-739e-11ef-a98f-96a6d2455259",
-                    "sortorder": null,
-                    "visible": true,
+                    "sortorder": 3,
+                    "visible": false,
                     "widget_id": "10000000-0000-0000-0000-000000000002"
                 },
                 {
                     "card_id": "ec943fbe-739e-11ef-a98f-96a6d2455259",
                     "config": {
                         "basemap": "streets",
-                        "bearing": 0.0,
-                        "centerX": 0,
-                        "centerY": 0,
+                        "bearing": 0,
+                        "centerX": 3,
+                        "centerY": 8.5,
                         "defaultValue": "",
                         "defaultValueType": "",
                         "en": "",
@@ -1411,20 +2446,21 @@
                                 "text": "Polygon"
                             }
                         ],
+                        "label": "",
                         "maxZoom": 20,
                         "minZoom": 0,
                         "overlayConfigs": [],
-                        "overlayOpacity": 0.0,
-                        "pitch": 0.0,
+                        "overlayOpacity": 0,
+                        "pitch": 0,
                         "rerender": true,
                         "zoom": 0
                     },
                     "id": "ec944522-739e-11ef-a98f-96a6d2455259",
                     "label": {
-                        "en": null
+                        "en": ""
                     },
                     "node_id": "ec944306-739e-11ef-a98f-96a6d2455259",
-                    "sortorder": null,
+                    "sortorder": 0,
                     "visible": true,
                     "widget_id": "10000000-0000-0000-0000-000000000007"
                 },
@@ -1436,6 +2472,7 @@
                         "i18n_properties": [
                             "placeholder"
                         ],
+                        "label": "",
                         "options": [],
                         "placeholder": {
                             "en": "Select an option"
@@ -1443,26 +2480,22 @@
                     },
                     "id": "ec944536-739e-11ef-a98f-96a6d2455259",
                     "label": {
-                        "en": null
+                        "en": ""
                     },
                     "node_id": "ec944298-739e-11ef-a98f-96a6d2455259",
-                    "sortorder": null,
+                    "sortorder": 0,
                     "visible": true,
                     "widget_id": "10000000-0000-0000-0000-000000000002"
                 },
                 {
                     "card_id": "ec943fbe-739e-11ef-a98f-96a6d2455259",
                     "config": {
-                        "defaultValue": {
-                            "en": {
-                                "direction": "ltr",
-                                "value": ""
-                            }
-                        },
+                        "defaultValue": "",
                         "en": "",
                         "i18n_properties": [
                             "placeholder"
                         ],
+                        "label": "Postal Code",
                         "maxLength": null,
                         "placeholder": {
                             "en": "Enter text"
@@ -1472,26 +2505,22 @@
                     },
                     "id": "ec944554-739e-11ef-a98f-96a6d2455259",
                     "label": {
-                        "en": null
+                        "en": "Postal Code"
                     },
                     "node_id": "ec944194-739e-11ef-a98f-96a6d2455259",
-                    "sortorder": null,
+                    "sortorder": 2,
                     "visible": true,
                     "widget_id": "10000000-0000-0000-0000-000000000001"
                 },
                 {
                     "card_id": "ec943fbe-739e-11ef-a98f-96a6d2455259",
                     "config": {
-                        "defaultValue": {
-                            "en": {
-                                "direction": "ltr",
-                                "value": ""
-                            }
-                        },
+                        "defaultValue": "",
                         "en": "",
                         "i18n_properties": [
                             "placeholder"
                         ],
+                        "label": "Bag-Id",
                         "maxLength": null,
                         "placeholder": {
                             "en": "Enter text"
@@ -1501,12 +2530,34 @@
                     },
                     "id": "ec944572-739e-11ef-a98f-96a6d2455259",
                     "label": {
-                        "en": null
+                        "en": "Bag-Id"
                     },
                     "node_id": "ec944446-739e-11ef-a98f-96a6d2455259",
-                    "sortorder": null,
+                    "sortorder": 2,
                     "visible": true,
                     "widget_id": "10000000-0000-0000-0000-000000000001"
+                },
+                {
+                    "card_id": "8a233f58-7293-11ef-a972-96a6d2455259",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Dissolution Event Description Type",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "f01ba9a2-6214-46f0-a759-a8eae89a8e21",
+                    "label": {
+                        "en": "Dissolution Event Description Type"
+                    },
+                    "node_id": "8a2340a2-7293-11ef-a972-96a6d2455259",
+                    "sortorder": 1,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
                 },
                 {
                     "card_id": "892e485c-7290-11ef-a972-96a6d2455259",
@@ -1527,6 +2578,72 @@
                     },
                     "node_id": "892e4a28-7290-11ef-a972-96a6d2455259",
                     "sortorder": null,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "c70da6e2-9ac9-421f-9aa9-cd44f61b0b13",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Formation Event Name Type",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "f5558461-8408-4ea5-8660-39b1ce2a413e",
+                    "label": {
+                        "en": "Formation Event Name Type"
+                    },
+                    "node_id": "46c32b2e-7293-11ef-a972-96a6d2455259",
+                    "sortorder": 2,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "474bcc5e-08d8-4f86-a548-9e5e2d2dd748",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Formation Event Description Language",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "fdd6b208-98f2-4f3a-b163-270c1c5b76e9",
+                    "label": {
+                        "en": "Formation Event Description Language"
+                    },
+                    "node_id": "4ee0ad5a-7292-11ef-a972-96a6d2455259",
+                    "sortorder": 2,
+                    "visible": true,
+                    "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "5fc8a025-a107-4193-b759-2cf2f5a7923f",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Dissolution Event Technique",
+                        "options": [],
+                        "placeholder": {
+                            "en": "Select an option"
+                        }
+                    },
+                    "id": "fe0a088b-9623-4e9c-ae04-372f745768f4",
+                    "label": {
+                        "en": "Dissolution Event Technique"
+                    },
+                    "node_id": "a63fd35e-7298-11ef-a972-96a6d2455259",
+                    "sortorder": 6,
                     "visible": true,
                     "widget_id": "10000000-0000-0000-0000-000000000002"
                 }
@@ -1578,6 +2695,15 @@
                 },
                 {
                     "description": null,
+                    "domainnode_id": "46c32656-7293-11ef-a972-96a6d2455259",
+                    "edgeid": "23344cdc-dfb2-46d6-9f2a-788a54fc30c4",
+                    "graph_id": "fa335042-a1fe-11ed-a102-9cf387da2c40",
+                    "name": null,
+                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
+                    "rangenode_id": "4d8297f4-8230-11ef-a06f-960003b55319"
+                },
+                {
+                    "description": null,
                     "domainnode_id": "26942a16-7292-11ef-a972-96a6d2455259",
                     "edgeid": "23599f67-e3f6-4b60-9d1a-70ac5599697a",
                     "graph_id": "fa335042-a1fe-11ed-a102-9cf387da2c40",
@@ -1620,15 +2746,6 @@
                     "name": null,
                     "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
                     "rangenode_id": "55f0f714-7b15-11ee-abe4-96a6d245525a"
-                },
-                {
-                    "description": null,
-                    "domainnode_id": "46c32656-7293-11ef-a972-96a6d2455259",
-                    "edgeid": "46c36062-7293-11ef-a972-96a6d2455259",
-                    "graph_id": "fa335042-a1fe-11ed-a102-9cf387da2c40",
-                    "name": null,
-                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
-                    "rangenode_id": "46c32a34-7293-11ef-a972-96a6d2455259"
                 },
                 {
                     "description": null,
@@ -1782,15 +2899,6 @@
                     "name": null,
                     "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span",
                     "rangenode_id": "670e4ffe-7297-11ef-a972-96a6d2455259"
-                },
-                {
-                    "description": null,
-                    "domainnode_id": "670e4df6-7297-11ef-a972-96a6d2455259",
-                    "edgeid": "670e9d38-7297-11ef-a972-96a6d2455259",
-                    "graph_id": "fa335042-a1fe-11ed-a102-9cf387da2c40",
-                    "name": null,
-                    "ontologyproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
-                    "rangenode_id": "670e4ed2-7297-11ef-a972-96a6d2455259"
                 },
                 {
                     "description": null,
@@ -2436,20 +3544,20 @@
                                 "string_template": ""
                             },
                             "name": {
-                                "nodegroup_id": "6f358744-7290-11ef-a972-96a6d2455259",
-                                "string_template": "<identifier_content>"
+                                "nodegroup_id": "5c6506a4-7299-11ef-a972-96a6d2455259",
+                                "string_template": "<name_content>"
                             }
                         },
                         "triggering_nodegroups": []
                     },
                     "function_id": "60000000-0000-0000-0000-000000000001",
                     "graph_id": "fa335042-a1fe-11ed-a102-9cf387da2c40",
-                    "id": "6fde9ecd-7c73-4e59-90ef-baf0a6533c49"
+                    "id": "aa231e19-cfb0-4c6f-9b05-1af79e90c611"
                 }
             ],
             "graphid": "fa335042-a1fe-11ed-a102-9cf387da2c40",
             "iconclass": "fa fa-group",
-            "is_editable": true,
+            "is_editable": false,
             "isresource": true,
             "jsonldcontext": null,
             "name": {
@@ -2474,6 +3582,12 @@
                     "legacygroupid": null,
                     "nodegroupid": "28cda8ba-7293-11ef-a972-96a6d2455259",
                     "parentnodegroup_id": null
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "4ee0a85a-7292-11ef-a972-96a6d2455259",
+                    "parentnodegroup_id": "26942a16-7292-11ef-a972-96a6d2455259"
                 },
                 {
                     "cardinality": "1",
@@ -2514,17 +3628,11 @@
                 {
                     "cardinality": "1",
                     "legacygroupid": null,
-                    "nodegroupid": "6e27a488-7293-11ef-a972-96a6d2455259",
-                    "parentnodegroup_id": "28cda8ba-7293-11ef-a972-96a6d2455259"
-                },
-                {
-                    "cardinality": "1",
-                    "legacygroupid": null,
                     "nodegroupid": "6f358744-7290-11ef-a972-96a6d2455259",
                     "parentnodegroup_id": null
                 },
                 {
-                    "cardinality": "1",
+                    "cardinality": "n",
                     "legacygroupid": null,
                     "nodegroupid": "6f4384b2-7299-11ef-a972-96a6d2455259",
                     "parentnodegroup_id": null
@@ -2536,28 +3644,40 @@
                     "parentnodegroup_id": null
                 },
                 {
-                    "cardinality": "1",
+                    "cardinality": "n",
                     "legacygroupid": null,
                     "nodegroupid": "8a233e68-7293-11ef-a972-96a6d2455259",
                     "parentnodegroup_id": "28cda8ba-7293-11ef-a972-96a6d2455259"
                 },
                 {
-                    "cardinality": "1",
+                    "cardinality": "n",
                     "legacygroupid": null,
-                    "nodegroupid": "b638d530-7293-11ef-a972-96a6d2455259",
+                    "nodegroupid": "8ce8ccec-7295-11ef-a972-96a6d2455259",
                     "parentnodegroup_id": "28cda8ba-7293-11ef-a972-96a6d2455259"
                 },
                 {
                     "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "b9c256a0-7292-11ef-a972-96a6d2455259",
+                    "parentnodegroup_id": "26942a16-7292-11ef-a972-96a6d2455259"
+                },
+                {
+                    "cardinality": "n",
                     "legacygroupid": null,
                     "nodegroupid": "bd810912-729c-11ef-a972-96a6d2455259",
                     "parentnodegroup_id": "28cda8ba-7293-11ef-a972-96a6d2455259"
                 },
                 {
-                    "cardinality": "1",
+                    "cardinality": "n",
                     "legacygroupid": null,
                     "nodegroupid": "d2abbeda-7293-11ef-a972-96a6d2455259",
                     "parentnodegroup_id": "28cda8ba-7293-11ef-a972-96a6d2455259"
+                },
+                {
+                    "cardinality": "1",
+                    "legacygroupid": null,
+                    "nodegroupid": "df699c38-7292-11ef-a972-96a6d2455259",
+                    "parentnodegroup_id": "26942a16-7292-11ef-a972-96a6d2455259"
                 },
                 {
                     "cardinality": "1",
@@ -2572,7 +3692,13 @@
                     "parentnodegroup_id": "ec943ee2-739e-11ef-a98f-96a6d2455259"
                 },
                 {
-                    "cardinality": "1",
+                    "cardinality": "n",
+                    "legacygroupid": null,
+                    "nodegroupid": "ec944482-739e-11ef-a98f-96a6d2455259",
+                    "parentnodegroup_id": "ec943ee2-739e-11ef-a98f-96a6d2455259"
+                },
+                {
+                    "cardinality": "n",
                     "legacygroupid": null,
                     "nodegroupid": "f0e06612-7293-11ef-a972-96a6d2455259",
                     "parentnodegroup_id": "28cda8ba-7293-11ef-a972-96a6d2455259"
@@ -2684,32 +3810,9 @@
                     "sourcebranchpublication_id": null
                 },
                 {
-                    "alias": "formation_activity_name_content",
-                    "config": {
-                        "en": ""
-                    },
-                    "datatype": "string",
-                    "description": null,
-                    "exportable": false,
-                    "fieldname": null,
-                    "graph_id": "fa335042-a1fe-11ed-a102-9cf387da2c40",
-                    "hascustomalias": false,
-                    "is_collector": false,
-                    "isrequired": false,
-                    "issearchable": true,
-                    "istopnode": false,
-                    "name": "formation_activity_name_content",
-                    "nodegroup_id": "26942a16-7292-11ef-a972-96a6d2455259",
-                    "nodeid": "46c32a34-7293-11ef-a972-96a6d2455259",
-                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
-                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
-                    "sortorder": 0,
-                    "sourcebranchpublication_id": null
-                },
-                {
                     "alias": "formation_activity_name_content_type",
                     "config": {
-                        "rdmCollection": "80653051-6e0d-45b1-bb15-dc09bc2b0916"
+                        "rdmCollection": "9f97448b-9847-46e8-a117-4d297c2b7f1e"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -2732,7 +3835,7 @@
                 {
                     "alias": "formation_activity_name_content_language",
                     "config": {
-                        "rdmCollection": "5388ac25-bdc4-4fc7-a3d1-2a25b0ab10b0"
+                        "rdmCollection": "81cee03a-bbfb-48ff-b917-f30849659d7d"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -2749,6 +3852,29 @@
                     "nodeid": "46c32bc4-7293-11ef-a972-96a6d2455259",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E56_Language",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P72_has_language",
+                    "sortorder": 0,
+                    "sourcebranchpublication_id": null
+                },
+                {
+                    "alias": "formation_activity_name_content",
+                    "config": {
+                        "en": ""
+                    },
+                    "datatype": "string",
+                    "description": null,
+                    "exportable": false,
+                    "fieldname": null,
+                    "graph_id": "fa335042-a1fe-11ed-a102-9cf387da2c40",
+                    "hascustomalias": false,
+                    "is_collector": false,
+                    "isrequired": false,
+                    "issearchable": true,
+                    "istopnode": false,
+                    "name": "formation_activity_name_content",
+                    "nodegroup_id": "26942a16-7292-11ef-a972-96a6d2455259",
+                    "nodeid": "4d8297f4-8230-11ef-a06f-960003b55319",
+                    "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
+                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
                     "sortorder": 0,
                     "sourcebranchpublication_id": null
                 },
@@ -2798,12 +3924,12 @@
                     "fieldname": null,
                     "graph_id": "fa335042-a1fe-11ed-a102-9cf387da2c40",
                     "hascustomalias": false,
-                    "is_collector": false,
+                    "is_collector": true,
                     "isrequired": false,
                     "issearchable": true,
                     "istopnode": false,
                     "name": "formation_activity_statement",
-                    "nodegroup_id": "26942a16-7292-11ef-a972-96a6d2455259",
+                    "nodegroup_id": "4ee0a85a-7292-11ef-a972-96a6d2455259",
                     "nodeid": "4ee0a85a-7292-11ef-a972-96a6d2455259",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object",
                     "parentproperty": "https://linked.art/ns/terms/equivalent",
@@ -2837,7 +3963,7 @@
                     "issearchable": true,
                     "istopnode": false,
                     "name": "formation_activity_statement_source_reference",
-                    "nodegroup_id": "26942a16-7292-11ef-a972-96a6d2455259",
+                    "nodegroup_id": "4ee0a85a-7292-11ef-a972-96a6d2455259",
                     "nodeid": "4ee0abd4-7292-11ef-a972-96a6d2455259",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by",
@@ -2860,7 +3986,7 @@
                     "issearchable": true,
                     "istopnode": false,
                     "name": "formation_activity_statement_content",
-                    "nodegroup_id": "26942a16-7292-11ef-a972-96a6d2455259",
+                    "nodegroup_id": "4ee0a85a-7292-11ef-a972-96a6d2455259",
                     "nodeid": "4ee0acc4-7292-11ef-a972-96a6d2455259",
                     "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
@@ -2871,7 +3997,7 @@
                     "alias": "formation_activity_statement_language",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": "5388ac25-bdc4-4fc7-a3d1-2a25b0ab10b0",
+                        "rdmCollection": "81cee03a-bbfb-48ff-b917-f30849659d7d",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -2886,7 +4012,7 @@
                     "issearchable": true,
                     "istopnode": false,
                     "name": "formation_activity_statement_language",
-                    "nodegroup_id": "26942a16-7292-11ef-a972-96a6d2455259",
+                    "nodegroup_id": "4ee0a85a-7292-11ef-a972-96a6d2455259",
                     "nodeid": "4ee0ad5a-7292-11ef-a972-96a6d2455259",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E56_Language",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P72_has_language",
@@ -2897,7 +4023,7 @@
                     "alias": "formation_activity_statement_type",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": "4e42c787-a39b-45ea-b2f2-87f699de0ab9",
+                        "rdmCollection": "972e1d51-1ea6-4329-a8db-58c47f609484",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -2912,7 +4038,7 @@
                     "issearchable": true,
                     "istopnode": false,
                     "name": "formation_activity_statement_type",
-                    "nodegroup_id": "26942a16-7292-11ef-a972-96a6d2455259",
+                    "nodegroup_id": "4ee0a85a-7292-11ef-a972-96a6d2455259",
                     "nodeid": "4ee0ade6-7292-11ef-a972-96a6d2455259",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
@@ -2922,7 +4048,7 @@
                 {
                     "alias": "organisation_type",
                     "config": {
-                        "rdmCollection": "6ee66c26-fbc2-434e-ab8e-7a7fbdbf7b48"
+                        "rdmCollection": "504edb56-a506-41f2-aa39-72ad5b5c6381"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -2991,7 +4117,7 @@
                 {
                     "alias": "name_content_type",
                     "config": {
-                        "rdmCollection": "80653051-6e0d-45b1-bb15-dc09bc2b0916"
+                        "rdmCollection": "9f97448b-9847-46e8-a117-4d297c2b7f1e"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -3014,7 +4140,7 @@
                 {
                     "alias": "name_content_language",
                     "config": {
-                        "rdmCollection": "5388ac25-bdc4-4fc7-a3d1-2a25b0ab10b0"
+                        "rdmCollection": "81cee03a-bbfb-48ff-b917-f30849659d7d"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -3158,29 +4284,6 @@
                     "sourcebranchpublication_id": null
                 },
                 {
-                    "alias": "organisation_activity_name_title",
-                    "config": {
-                        "rdmCollection": "8c8e4c59-9975-4341-9d2d-5b8b235303b5"
-                    },
-                    "datatype": "concept",
-                    "description": null,
-                    "exportable": false,
-                    "fieldname": null,
-                    "graph_id": "fa335042-a1fe-11ed-a102-9cf387da2c40",
-                    "hascustomalias": false,
-                    "is_collector": false,
-                    "isrequired": false,
-                    "issearchable": true,
-                    "istopnode": false,
-                    "name": "organisation_activity_name_title",
-                    "nodegroup_id": "670e4df6-7297-11ef-a972-96a6d2455259",
-                    "nodeid": "670e4ed2-7297-11ef-a972-96a6d2455259",
-                    "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
-                    "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
-                    "sortorder": 0,
-                    "sourcebranchpublication_id": null
-                },
-                {
                     "alias": "organisation_activity_name",
                     "config": {
                         "en": ""
@@ -3206,7 +4309,7 @@
                 {
                     "alias": "organisation_activity_name_content_type",
                     "config": {
-                        "rdmCollection": "80653051-6e0d-45b1-bb15-dc09bc2b0916"
+                        "rdmCollection": "9f97448b-9847-46e8-a117-4d297c2b7f1e"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -3275,7 +4378,7 @@
                 {
                     "alias": "organisation_activity_name_content_language",
                     "config": {
-                        "rdmCollection": "5388ac25-bdc4-4fc7-a3d1-2a25b0ab10b0"
+                        "rdmCollection": "81cee03a-bbfb-48ff-b917-f30849659d7d"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -3334,7 +4437,7 @@
                     "config": {
                         "en": ""
                     },
-                    "datatype": "semantic",
+                    "datatype": "string",
                     "description": null,
                     "exportable": false,
                     "fieldname": null,
@@ -3356,7 +4459,7 @@
                     "alias": "organisation_activity_statement_type",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": "4e42c787-a39b-45ea-b2f2-87f699de0ab9",
+                        "rdmCollection": "972e1d51-1ea6-4329-a8db-58c47f609484",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -3382,7 +4485,7 @@
                     "alias": "organisation_activity_statements_language",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": null,
+                        "rdmCollection": "81cee03a-bbfb-48ff-b917-f30849659d7d",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -3408,7 +4511,7 @@
                     "alias": "organisation_activity_location_role",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": null,
+                        "rdmCollection": "497b0af0-91db-4262-afa1-27360d412b85",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -3456,7 +4559,7 @@
                 {
                     "alias": "organisation_activity_type",
                     "config": {
-                        "rdmCollection": "11498377-051b-4346-a0d6-cf93929f78c8"
+                        "rdmCollection": "a6135342-9b8b-4ab1-8ca1-ef1198f3f72b"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -3503,7 +4606,7 @@
                     "alias": "organisation_activity_actor_role",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": "3f5424c1-bf6d-47ac-947b-c4a111aec09b",
+                        "rdmCollection": "4fd0ae35-1e5f-43b1-98eb-473fd0a822bc",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -3571,12 +4674,12 @@
                     "fieldname": null,
                     "graph_id": "fa335042-a1fe-11ed-a102-9cf387da2c40",
                     "hascustomalias": false,
-                    "is_collector": true,
+                    "is_collector": false,
                     "isrequired": false,
                     "issearchable": true,
                     "istopnode": false,
                     "name": "dissolution_activity_timespan",
-                    "nodegroup_id": "6e27a488-7293-11ef-a972-96a6d2455259",
+                    "nodegroup_id": "28cda8ba-7293-11ef-a972-96a6d2455259",
                     "nodeid": "6e27a488-7293-11ef-a972-96a6d2455259",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P4_has_time-span",
@@ -3605,7 +4708,7 @@
                     "issearchable": true,
                     "istopnode": false,
                     "name": "dissolution_activity_timespan_start",
-                    "nodegroup_id": "6e27a488-7293-11ef-a972-96a6d2455259",
+                    "nodegroup_id": "28cda8ba-7293-11ef-a972-96a6d2455259",
                     "nodeid": "6e27a7da-7293-11ef-a972-96a6d2455259",
                     "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P82a_begin_of_the_begin",
@@ -3634,7 +4737,7 @@
                     "issearchable": true,
                     "istopnode": false,
                     "name": "dissolution_activity_timespan_end",
-                    "nodegroup_id": "6e27a488-7293-11ef-a972-96a6d2455259",
+                    "nodegroup_id": "28cda8ba-7293-11ef-a972-96a6d2455259",
                     "nodeid": "6e27a8d4-7293-11ef-a972-96a6d2455259",
                     "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P82b_end_of_the_end",
@@ -3690,7 +4793,7 @@
                 {
                     "alias": "identifier_type",
                     "config": {
-                        "rdmCollection": "77bb3662-58dc-43cc-9c66-411c70eb6c08"
+                        "rdmCollection": "ee7a626e-4b14-4ca5-963f-0ad7cf7edf77"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -3759,7 +4862,7 @@
                 {
                     "alias": "alternative_name_content_type",
                     "config": {
-                        "rdmCollection": "80653051-6e0d-45b1-bb15-dc09bc2b0916"
+                        "rdmCollection": "9f97448b-9847-46e8-a117-4d297c2b7f1e"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -3782,7 +4885,7 @@
                 {
                     "alias": "alternative_name_content_language",
                     "config": {
-                        "rdmCollection": "5388ac25-bdc4-4fc7-a3d1-2a25b0ab10b0"
+                        "rdmCollection": "81cee03a-bbfb-48ff-b917-f30849659d7d"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -3805,7 +4908,7 @@
                 {
                     "alias": "dissolution_activity_type",
                     "config": {
-                        "rdmCollection": null
+                        "rdmCollection": "a6135342-9b8b-4ab1-8ca1-ef1198f3f72b"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -3874,7 +4977,7 @@
                 {
                     "alias": "other_identifier_type",
                     "config": {
-                        "rdmCollection": "77bb3662-58dc-43cc-9c66-411c70eb6c08"
+                        "rdmCollection": "ee7a626e-4b14-4ca5-963f-0ad7cf7edf77"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -3978,7 +5081,7 @@
                     "alias": "dissolution_activity_statement_language",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": "5388ac25-bdc4-4fc7-a3d1-2a25b0ab10b0",
+                        "rdmCollection": "81cee03a-bbfb-48ff-b917-f30849659d7d",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -4004,7 +5107,7 @@
                     "alias": "dissolution_activity_statement_type",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": "4e42c787-a39b-45ea-b2f2-87f699de0ab9",
+                        "rdmCollection": "972e1d51-1ea6-4329-a8db-58c47f609484",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -4037,12 +5140,12 @@
                     "fieldname": null,
                     "graph_id": "fa335042-a1fe-11ed-a102-9cf387da2c40",
                     "hascustomalias": false,
-                    "is_collector": false,
+                    "is_collector": true,
                     "isrequired": false,
                     "issearchable": true,
                     "istopnode": false,
                     "name": "dissolution_activity_cause",
-                    "nodegroup_id": "28cda8ba-7293-11ef-a972-96a6d2455259",
+                    "nodegroup_id": "8ce8ccec-7295-11ef-a972-96a6d2455259",
                     "nodeid": "8ce8ccec-7295-11ef-a972-96a6d2455259",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by",
@@ -4088,7 +5191,7 @@
                     "issearchable": true,
                     "istopnode": false,
                     "name": "formation_activity_cause_content",
-                    "nodegroup_id": "28cda8ba-7293-11ef-a972-96a6d2455259",
+                    "nodegroup_id": "8ce8ccec-7295-11ef-a972-96a6d2455259",
                     "nodeid": "9c60bbc6-7295-11ef-a972-96a6d2455259",
                     "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
@@ -4210,12 +5313,12 @@
                     "fieldname": null,
                     "graph_id": "fa335042-a1fe-11ed-a102-9cf387da2c40",
                     "hascustomalias": false,
-                    "is_collector": true,
+                    "is_collector": false,
                     "isrequired": false,
                     "issearchable": true,
                     "istopnode": false,
                     "name": "dissolution_activity_name",
-                    "nodegroup_id": "b638d530-7293-11ef-a972-96a6d2455259",
+                    "nodegroup_id": "28cda8ba-7293-11ef-a972-96a6d2455259",
                     "nodeid": "b638d530-7293-11ef-a972-96a6d2455259",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
@@ -4238,7 +5341,7 @@
                     "issearchable": true,
                     "istopnode": false,
                     "name": "dissolution_activity_name_content",
-                    "nodegroup_id": "b638d530-7293-11ef-a972-96a6d2455259",
+                    "nodegroup_id": "28cda8ba-7293-11ef-a972-96a6d2455259",
                     "nodeid": "b638d882-7293-11ef-a972-96a6d2455259",
                     "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
@@ -4248,7 +5351,7 @@
                 {
                     "alias": "dissolution_activity_name_content_type",
                     "config": {
-                        "rdmCollection": "80653051-6e0d-45b1-bb15-dc09bc2b0916"
+                        "rdmCollection": "9f97448b-9847-46e8-a117-4d297c2b7f1e"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -4261,7 +5364,7 @@
                     "issearchable": true,
                     "istopnode": false,
                     "name": "dissolution_activity_name_content_type",
-                    "nodegroup_id": "b638d530-7293-11ef-a972-96a6d2455259",
+                    "nodegroup_id": "28cda8ba-7293-11ef-a972-96a6d2455259",
                     "nodeid": "b638d954-7293-11ef-a972-96a6d2455259",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
@@ -4271,7 +5374,7 @@
                 {
                     "alias": "dissolution_activity_name_content_language",
                     "config": {
-                        "rdmCollection": "5388ac25-bdc4-4fc7-a3d1-2a25b0ab10b0"
+                        "rdmCollection": "81cee03a-bbfb-48ff-b917-f30849659d7d"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -4284,7 +5387,7 @@
                     "issearchable": true,
                     "istopnode": false,
                     "name": "dissolution_activity_name_content_language",
-                    "nodegroup_id": "b638d530-7293-11ef-a972-96a6d2455259",
+                    "nodegroup_id": "28cda8ba-7293-11ef-a972-96a6d2455259",
                     "nodeid": "b638d9fe-7293-11ef-a972-96a6d2455259",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E56_Language",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P72_has_language",
@@ -4314,12 +5417,12 @@
                     "fieldname": null,
                     "graph_id": "fa335042-a1fe-11ed-a102-9cf387da2c40",
                     "hascustomalias": false,
-                    "is_collector": false,
+                    "is_collector": true,
                     "isrequired": false,
                     "issearchable": true,
                     "istopnode": false,
                     "name": "formation_activity_location",
-                    "nodegroup_id": "26942a16-7292-11ef-a972-96a6d2455259",
+                    "nodegroup_id": "b9c256a0-7292-11ef-a972-96a6d2455259",
                     "nodeid": "b9c256a0-7292-11ef-a972-96a6d2455259",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E53_Place",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P7_took_place_at",
@@ -4330,7 +5433,7 @@
                     "alias": "_formation_activity_location_role",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": null,
+                        "rdmCollection": "497b0af0-91db-4262-afa1-27360d412b85",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -4345,7 +5448,7 @@
                     "issearchable": true,
                     "istopnode": false,
                     "name": " formation_activity_location_role",
-                    "nodegroup_id": "26942a16-7292-11ef-a972-96a6d2455259",
+                    "nodegroup_id": "b9c256a0-7292-11ef-a972-96a6d2455259",
                     "nodeid": "b9c25a9c-7292-11ef-a972-96a6d2455259",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
@@ -4376,7 +5479,7 @@
                     "sourcebranchpublication_id": null
                 },
                 {
-                    "alias": "dissolution_activity_influenced_bycontent",
+                    "alias": "dissolution_activity_influenced_by_content",
                     "config": {
                         "en": ""
                     },
@@ -4390,7 +5493,7 @@
                     "isrequired": false,
                     "issearchable": true,
                     "istopnode": false,
-                    "name": "dissolution_activity_influenced_bycontent",
+                    "name": "dissolution_activity_influenced_by_content",
                     "nodegroup_id": "bd810912-729c-11ef-a972-96a6d2455259",
                     "nodeid": "bd810b74-729c-11ef-a972-96a6d2455259",
                     "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
@@ -4401,7 +5504,7 @@
                 {
                     "alias": "dissolution_activity_influenced_by_type",
                     "config": {
-                        "rdmCollection": "dac90a7e-f1e3-45fe-ae2f-bdb0dc79c4c2"
+                        "rdmCollection": "4519eab2-9d8c-42fa-9f40-936595ec9304"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -4424,7 +5527,7 @@
                 {
                     "alias": "dissolution_activity_influenced_by_language",
                     "config": {
-                        "rdmCollection": "5388ac25-bdc4-4fc7-a3d1-2a25b0ab10b0"
+                        "rdmCollection": "81cee03a-bbfb-48ff-b917-f30849659d7d"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -4460,7 +5563,7 @@
                     "issearchable": true,
                     "istopnode": false,
                     "name": "formation_activity_cause_type",
-                    "nodegroup_id": "28cda8ba-7293-11ef-a972-96a6d2455259",
+                    "nodegroup_id": "8ce8ccec-7295-11ef-a972-96a6d2455259",
                     "nodeid": "c5338970-7295-11ef-a972-96a6d2455259",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
@@ -4506,7 +5609,7 @@
                     "alias": "dissolution_activity_location_role",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": null,
+                        "rdmCollection": "497b0af0-91db-4262-afa1-27360d412b85",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -4558,12 +5661,12 @@
                     "fieldname": null,
                     "graph_id": "fa335042-a1fe-11ed-a102-9cf387da2c40",
                     "hascustomalias": false,
-                    "is_collector": false,
+                    "is_collector": true,
                     "isrequired": false,
                     "issearchable": true,
                     "istopnode": false,
                     "name": "formation_activity_actor",
-                    "nodegroup_id": "26942a16-7292-11ef-a972-96a6d2455259",
+                    "nodegroup_id": "df699c38-7292-11ef-a972-96a6d2455259",
                     "nodeid": "df699c38-7292-11ef-a972-96a6d2455259",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E39_Actor",
                     "parentproperty": "https://linked.art/ns/terms/equivalent",
@@ -4574,7 +5677,7 @@
                     "alias": "formation_activity_actor_role",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": "3f5424c1-bf6d-47ac-947b-c4a111aec09b",
+                        "rdmCollection": "4fd0ae35-1e5f-43b1-98eb-473fd0a822bc",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -4589,7 +5692,7 @@
                     "issearchable": true,
                     "istopnode": false,
                     "name": "formation_activity_actor_role",
-                    "nodegroup_id": "26942a16-7292-11ef-a972-96a6d2455259",
+                    "nodegroup_id": "df699c38-7292-11ef-a972-96a6d2455259",
                     "nodeid": "df699efe-7292-11ef-a972-96a6d2455259",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
@@ -4599,7 +5702,7 @@
                 {
                     "alias": "formation_activity_cause_language",
                     "config": {
-                        "rdmCollection": "5388ac25-bdc4-4fc7-a3d1-2a25b0ab10b0"
+                        "rdmCollection": "81cee03a-bbfb-48ff-b917-f30849659d7d"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -4612,7 +5715,7 @@
                     "issearchable": true,
                     "istopnode": false,
                     "name": "formation_activity_cause_language",
-                    "nodegroup_id": "28cda8ba-7293-11ef-a972-96a6d2455259",
+                    "nodegroup_id": "8ce8ccec-7295-11ef-a972-96a6d2455259",
                     "nodeid": "dfe9e552-7295-11ef-a972-96a6d2455259",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E56_Language",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P72_has_language",
@@ -4692,7 +5795,7 @@
                     "alias": "location_statement_language",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": "5388ac25-bdc4-4fc7-a3d1-2a25b0ab10b0",
+                        "rdmCollection": "81cee03a-bbfb-48ff-b917-f30849659d7d",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -4707,7 +5810,7 @@
                     "issearchable": true,
                     "istopnode": false,
                     "name": "location_statement_language",
-                    "nodegroup_id": "ec943ee2-739e-11ef-a98f-96a6d2455259",
+                    "nodegroup_id": "ec944482-739e-11ef-a98f-96a6d2455259",
                     "nodeid": "ec944158-739e-11ef-a98f-96a6d2455259",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E56_Language",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P72_has_language",
@@ -4810,7 +5913,7 @@
                     "alias": "location_statement_type",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": "4e42c787-a39b-45ea-b2f2-87f699de0ab9",
+                        "rdmCollection": "972e1d51-1ea6-4329-a8db-58c47f609484",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -4825,7 +5928,7 @@
                     "issearchable": true,
                     "istopnode": false,
                     "name": "location_statement_type",
-                    "nodegroup_id": "ec943ee2-739e-11ef-a98f-96a6d2455259",
+                    "nodegroup_id": "ec944482-739e-11ef-a98f-96a6d2455259",
                     "nodeid": "ec944298-739e-11ef-a98f-96a6d2455259",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
@@ -4873,7 +5976,7 @@
                     "nodeid": "ec944306-739e-11ef-a98f-96a6d2455259",
                     "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P168_place_is_defined_by",
-                    "sortorder": 0,
+                    "sortorder": 1,
                     "sourcebranchpublication_id": null
                 },
                 {
@@ -4915,7 +6018,7 @@
                     "issearchable": true,
                     "istopnode": false,
                     "name": "location_statement_content",
-                    "nodegroup_id": "ec943ee2-739e-11ef-a98f-96a6d2455259",
+                    "nodegroup_id": "ec944482-739e-11ef-a98f-96a6d2455259",
                     "nodeid": "ec944388-739e-11ef-a98f-96a6d2455259",
                     "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content",
@@ -4949,7 +6052,7 @@
                     "issearchable": true,
                     "istopnode": false,
                     "name": "location_statement_source_reference",
-                    "nodegroup_id": "ec943ee2-739e-11ef-a98f-96a6d2455259",
+                    "nodegroup_id": "ec944482-739e-11ef-a98f-96a6d2455259",
                     "nodeid": "ec9443ce-739e-11ef-a98f-96a6d2455259",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by",
@@ -4987,7 +6090,7 @@
                     "nodeid": "ec94440a-739e-11ef-a98f-96a6d2455259",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E53_Place",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P89_falls_within",
-                    "sortorder": 1,
+                    "sortorder": 0,
                     "sourcebranchpublication_id": null
                 },
                 {
@@ -5024,12 +6127,12 @@
                     "fieldname": null,
                     "graph_id": "fa335042-a1fe-11ed-a102-9cf387da2c40",
                     "hascustomalias": false,
-                    "is_collector": false,
+                    "is_collector": true,
                     "isrequired": false,
                     "issearchable": true,
                     "istopnode": false,
                     "name": "location_statement",
-                    "nodegroup_id": "ec943ee2-739e-11ef-a98f-96a6d2455259",
+                    "nodegroup_id": "ec944482-739e-11ef-a98f-96a6d2455259",
                     "nodeid": "ec944482-739e-11ef-a98f-96a6d2455259",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by",
@@ -5082,7 +6185,7 @@
                     "alias": "dissolution_activity_actor_role",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": "3f5424c1-bf6d-47ac-947b-c4a111aec09b",
+                        "rdmCollection": "4fd0ae35-1e5f-43b1-98eb-473fd0a822bc",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -5127,7 +6230,12 @@
                 }
             ],
             "ontology_id": "0b1f5462-faa7-11e9-8f09-3af9d3b32b71",
-            "publication": null,
+            "publication": {
+                "graph_id": "fa335042-a1fe-11ed-a102-9cf387da2c40",
+                "notes": null,
+                "publicationid": "d6bfa4dc-cdb5-11ef-8cd0-96a6d2455259",
+                "published_time": "2025-01-08T05:43:54.743"
+            },
             "relatable_resource_model_ids": [],
             "resource_2_resource_constraints": [],
             "root": {

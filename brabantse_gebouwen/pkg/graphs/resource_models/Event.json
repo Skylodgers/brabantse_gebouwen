@@ -24,7 +24,7 @@
                     },
                     "is_editable": true,
                     "name": {
-                        "en": "statement"
+                        "en": "Descriptions"
                     },
                     "nodegroup_id": "07bee80a-7284-11ef-a972-96a6d2455259",
                     "sortorder": 3,
@@ -51,7 +51,7 @@
                     },
                     "is_editable": true,
                     "name": {
-                        "en": "identifier"
+                        "en": "Identifier"
                     },
                     "nodegroup_id": "2e9d9422-7283-11ef-a972-96a6d2455259",
                     "sortorder": 0,
@@ -78,7 +78,7 @@
                     },
                     "is_editable": true,
                     "name": {
-                        "en": "name"
+                        "en": "Name"
                     },
                     "nodegroup_id": "6a319d80-7283-11ef-a972-96a6d2455259",
                     "sortorder": 1,
@@ -105,7 +105,7 @@
                     },
                     "is_editable": true,
                     "name": {
-                        "en": "timespan"
+                        "en": "Timespan"
                     },
                     "nodegroup_id": "f9902f6e-7283-11ef-a972-96a6d2455259",
                     "sortorder": 2,
@@ -120,14 +120,14 @@
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "Source Reference Work for Statement",
+                        "label": "Source Reference",
                         "placeholder": {
                             "en": ""
                         }
                     },
                     "id": "07beea30-7284-11ef-a972-96a6d2455259",
                     "label": {
-                        "en": "Source Reference Work for Statement"
+                        "en": "Source Reference"
                     },
                     "node_id": "07bee92c-7284-11ef-a972-96a6d2455259",
                     "sortorder": 3,
@@ -146,7 +146,7 @@
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "Statement",
+                        "label": "Description",
                         "maxLength": null,
                         "placeholder": {
                             "en": "Enter text"
@@ -156,7 +156,7 @@
                     },
                     "id": "07beea4e-7284-11ef-a972-96a6d2455259",
                     "label": {
-                        "en": "Statement"
+                        "en": "Description"
                     },
                     "node_id": "07bee990-7284-11ef-a972-96a6d2455259",
                     "sortorder": 0,
@@ -166,11 +166,11 @@
                 {
                     "card_id": "07bee8c8-7284-11ef-a972-96a6d2455259",
                     "config": {
-                        "defaultValue": "f19edf07-67e6-4601-84ec-7053ff068c07",
+                        "defaultValue": "cc5cb5e1-2eba-4184-969e-7c6c954c84c9",
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "statement_language",
+                        "label": "Description Language",
                         "options": [],
                         "placeholder": {
                             "en": "Select an option"
@@ -178,11 +178,11 @@
                     },
                     "id": "08fd89d5-c9e3-4e4b-9c54-083c3eb94e2a",
                     "label": {
-                        "en": "statement_language"
+                        "en": "Description Language"
                     },
                     "node_id": "07bee9cc-7284-11ef-a972-96a6d2455259",
                     "sortorder": 2,
-                    "visible": true,
+                    "visible": false,
                     "widget_id": "10000000-0000-0000-0000-000000000002"
                 },
                 {
@@ -192,7 +192,7 @@
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "name_content",
+                        "label": "Name",
                         "maxLength": null,
                         "placeholder": {
                             "en": "Enter text"
@@ -202,7 +202,7 @@
                     },
                     "id": "2a783ad4-01fa-4266-b867-c32c77cc83f6",
                     "label": {
-                        "en": "name_content"
+                        "en": "Name"
                     },
                     "node_id": "7aa0c3e4-7283-11ef-a972-96a6d2455259",
                     "sortorder": null,
@@ -234,13 +234,34 @@
                     "widget_id": "10000000-0000-0000-0000-000000000001"
                 },
                 {
-                    "card_id": "2e9d9602-7283-11ef-a972-96a6d2455259",
+                    "card_id": "f990320c-7283-11ef-a972-96a6d2455259",
                     "config": {
-                        "defaultValue": "90ea6a8b-2d73-40cc-9763-212dc1eb24ae",
+                        "defaultValue": "",
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "identifier_type",
+                        "label": "Event End Date",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "389e81e0-6142-4bb6-b94c-c4936e3da440",
+                    "label": {
+                        "en": "Event End Date"
+                    },
+                    "node_id": "f99033ec-7283-11ef-a972-96a6d2455259",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "adfd15ce-dbab-11e7-86d1-0fcf08612b27"
+                },
+                {
+                    "card_id": "2e9d9602-7283-11ef-a972-96a6d2455259",
+                    "config": {
+                        "defaultValue": "d749a651-90bc-4005-a325-72728a04cc8c",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Identifier Type",
                         "options": [],
                         "placeholder": {
                             "en": "Select an option"
@@ -248,7 +269,7 @@
                     },
                     "id": "5ebd0a4e-cd51-4c19-a862-5668f31530e7",
                     "label": {
-                        "en": "identifier_type"
+                        "en": "Identifier Type"
                     },
                     "node_id": "2e9d97c4-7283-11ef-a972-96a6d2455259",
                     "sortorder": null,
@@ -262,7 +283,7 @@
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "statement_type",
+                        "label": "Description Type",
                         "options": [],
                         "placeholder": {
                             "en": "Select an option"
@@ -270,7 +291,7 @@
                     },
                     "id": "63294297-88a9-4bfa-b00e-52f9fc03220b",
                     "label": {
-                        "en": "statement_type"
+                        "en": "Description Type"
                     },
                     "node_id": "07beea08-7284-11ef-a972-96a6d2455259",
                     "sortorder": 1,
@@ -284,7 +305,7 @@
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "name_content_language",
+                        "label": "Name Language",
                         "options": [],
                         "placeholder": {
                             "en": "Select an option"
@@ -292,11 +313,11 @@
                     },
                     "id": "b3abb3d8-d78a-4beb-9cd1-7b4123d2410a",
                     "label": {
-                        "en": "name_content_language"
+                        "en": "Name Language"
                     },
                     "node_id": "b492d772-7283-11ef-a972-96a6d2455259",
                     "sortorder": null,
-                    "visible": true,
+                    "visible": false,
                     "widget_id": "10000000-0000-0000-0000-000000000002"
                 },
                 {
@@ -306,7 +327,7 @@
                         "i18n_properties": [
                             "placeholder"
                         ],
-                        "label": "name_content_type",
+                        "label": "Name Type",
                         "options": [],
                         "placeholder": {
                             "en": "Select an option"
@@ -314,12 +335,33 @@
                     },
                     "id": "d3132fe9-498a-43e3-94ef-a2f0cee077ea",
                     "label": {
-                        "en": "name_content_type"
+                        "en": "Name Type"
                     },
                     "node_id": "8ebce16e-7283-11ef-a972-96a6d2455259",
                     "sortorder": null,
                     "visible": true,
                     "widget_id": "10000000-0000-0000-0000-000000000002"
+                },
+                {
+                    "card_id": "f990320c-7283-11ef-a972-96a6d2455259",
+                    "config": {
+                        "defaultValue": "",
+                        "i18n_properties": [
+                            "placeholder"
+                        ],
+                        "label": "Event Start Date",
+                        "placeholder": {
+                            "en": ""
+                        }
+                    },
+                    "id": "e61e5dd2-4fd9-480f-a589-f59ee4caa6fd",
+                    "label": {
+                        "en": "Event Start Date"
+                    },
+                    "node_id": "f9903310-7283-11ef-a972-96a6d2455259",
+                    "sortorder": null,
+                    "visible": true,
+                    "widget_id": "adfd15ce-dbab-11e7-86d1-0fcf08612b27"
                 }
             ],
             "color": null,
@@ -487,7 +529,7 @@
                     },
                     "function_id": "60000000-0000-0000-0000-000000000001",
                     "graph_id": "fd02a1f8-2965-4f14-81d7-bb8c57e87cbf",
-                    "id": "3cbba823-037d-4398-a365-2a51ac54ed1e"
+                    "id": "036e522d-1ad8-4212-94a5-903734f8cc51"
                 }
             ],
             "graphid": "fd02a1f8-2965-4f14-81d7-bb8c57e87cbf",
@@ -607,7 +649,7 @@
                     "alias": "statement_language",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": "5388ac25-bdc4-4fc7-a3d1-2a25b0ab10b0",
+                        "rdmCollection": "81cee03a-bbfb-48ff-b917-f30849659d7d",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -633,7 +675,7 @@
                     "alias": "statement_type",
                     "config": {
                         "graphs": [],
-                        "rdmCollection": "4e42c787-a39b-45ea-b2f2-87f699de0ab9",
+                        "rdmCollection": "972e1d51-1ea6-4329-a8db-58c47f609484",
                         "searchDsl": "",
                         "searchString": ""
                     },
@@ -727,7 +769,7 @@
                 {
                     "alias": "identifier_type",
                     "config": {
-                        "rdmCollection": "77bb3662-58dc-43cc-9c66-411c70eb6c08"
+                        "rdmCollection": "ee7a626e-4b14-4ca5-963f-0ad7cf7edf77"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -796,7 +838,7 @@
                 {
                     "alias": "name_content_type",
                     "config": {
-                        "rdmCollection": "80653051-6e0d-45b1-bb15-dc09bc2b0916"
+                        "rdmCollection": "9f97448b-9847-46e8-a117-4d297c2b7f1e"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -819,7 +861,7 @@
                 {
                     "alias": "name_content_language",
                     "config": {
-                        "rdmCollection": "5388ac25-bdc4-4fc7-a3d1-2a25b0ab10b0"
+                        "rdmCollection": "81cee03a-bbfb-48ff-b917-f30849659d7d"
                     },
                     "datatype": "concept",
                     "description": null,
@@ -925,8 +967,8 @@
             "publication": {
                 "graph_id": "fd02a1f8-2965-4f14-81d7-bb8c57e87cbf",
                 "notes": null,
-                "publicationid": "369fa506-7388-11ef-921e-96a6d2455259",
-                "published_time": "2024-09-15T12:30:34.095"
+                "publicationid": "1bc13de8-879d-11ef-a06f-960003b55319",
+                "published_time": "2024-10-11T01:50:31.704"
             },
             "relatable_resource_model_ids": [],
             "resource_2_resource_constraints": [],

@@ -1,0 +1,552 @@
+{
+    "resource_model_id": "fa335042-a1fe-11ed-a102-9cf387da2c40",
+    "resource_model_name": "Organisation",
+    "nodes": [
+        {
+            "arches_nodeid": "b9c25a9c-7292-11ef-a972-96a6d2455259",
+            "arches_node_name": " formation_activity_location_role",
+            "file_field_name": " formation_activity_location_role",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "6f438732-7299-11ef-a972-96a6d2455259",
+            "arches_node_name": "alternative_name_content",
+            "file_field_name": "alternative_name_content",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "6f438908-7299-11ef-a972-96a6d2455259",
+            "arches_node_name": "alternative_name_content_language",
+            "file_field_name": "alternative_name_content_language",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "6f4387fa-7299-11ef-a972-96a6d2455259",
+            "arches_node_name": "alternative_name_content_type",
+            "file_field_name": "alternative_name_content_type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ec944306-739e-11ef-a98f-96a6d2455259",
+            "arches_node_name": "coordinates_geo_json",
+            "file_field_name": "coordinates_geo_json",
+            "data_type": "geojson-feature-collection",
+            "export": true
+        },
+        {
+            "arches_nodeid": "f0e06612-7293-11ef-a972-96a6d2455259",
+            "arches_node_name": "dissolution_activity_actor",
+            "file_field_name": "dissolution_activity_actor",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "f0e06b76-7293-11ef-a972-96a6d2455259",
+            "arches_node_name": "dissolution_activity_actor_role",
+            "file_field_name": "dissolution_activity_actor_role",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "bd810b74-729c-11ef-a972-96a6d2455259",
+            "arches_node_name": "dissolution_activity_influenced_by_content",
+            "file_field_name": "dissolution_activity_influenced_by_content",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "bd810cb4-729c-11ef-a972-96a6d2455259",
+            "arches_node_name": "dissolution_activity_influenced_by_language",
+            "file_field_name": "dissolution_activity_influenced_by_language",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "bd810c3c-729c-11ef-a972-96a6d2455259",
+            "arches_node_name": "dissolution_activity_influenced_by_type",
+            "file_field_name": "dissolution_activity_influenced_by_type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "d2abbeda-7293-11ef-a972-96a6d2455259",
+            "arches_node_name": "dissolution_activity_location",
+            "file_field_name": "dissolution_activity_location",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "d2abc45c-7293-11ef-a972-96a6d2455259",
+            "arches_node_name": "dissolution_activity_location_role",
+            "file_field_name": "dissolution_activity_location_role",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b638d882-7293-11ef-a972-96a6d2455259",
+            "arches_node_name": "dissolution_activity_name_content",
+            "file_field_name": "dissolution_activity_name_content",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b638d9fe-7293-11ef-a972-96a6d2455259",
+            "arches_node_name": "dissolution_activity_name_content_language",
+            "file_field_name": "dissolution_activity_name_content_language",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b638d954-7293-11ef-a972-96a6d2455259",
+            "arches_node_name": "dissolution_activity_name_content_type",
+            "file_field_name": "dissolution_activity_name_content_type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "916d5a7c-7294-11ef-a972-96a6d2455259",
+            "arches_node_name": "dissolution_activity_role",
+            "file_field_name": "dissolution_activity_role",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "1978c1b2-7296-11ef-a972-96a6d2455259",
+            "arches_node_name": "dissolution_activity_source_reference",
+            "file_field_name": "dissolution_activity_source_reference",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "8a234020-7293-11ef-a972-96a6d2455259",
+            "arches_node_name": "dissolution_activity_statement_content",
+            "file_field_name": "dissolution_activity_statement_content",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "8a234066-7293-11ef-a972-96a6d2455259",
+            "arches_node_name": "dissolution_activity_statement_language",
+            "file_field_name": "dissolution_activity_statement_language",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "8a233fbc-7293-11ef-a972-96a6d2455259",
+            "arches_node_name": "dissolution_activity_statement_source_reference",
+            "file_field_name": "dissolution_activity_statement_source_reference",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "8a2340a2-7293-11ef-a972-96a6d2455259",
+            "arches_node_name": "dissolution_activity_statement_type",
+            "file_field_name": "dissolution_activity_statement_type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "6e27a8d4-7293-11ef-a972-96a6d2455259",
+            "arches_node_name": "dissolution_activity_timespan_end",
+            "file_field_name": "dissolution_activity_timespan_end",
+            "data_type": "edtf",
+            "export": true
+        },
+        {
+            "arches_nodeid": "6e27a7da-7293-11ef-a972-96a6d2455259",
+            "arches_node_name": "dissolution_activity_timespan_start",
+            "file_field_name": "dissolution_activity_timespan_start",
+            "data_type": "edtf",
+            "export": true
+        },
+        {
+            "arches_nodeid": "77664238-7294-11ef-a972-96a6d2455259",
+            "arches_node_name": "dissolution_activity_type",
+            "file_field_name": "dissolution_activity_type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "a63fd35e-7298-11ef-a972-96a6d2455259",
+            "arches_node_name": "dissolution_technique",
+            "file_field_name": "dissolution_technique",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "df699c38-7292-11ef-a972-96a6d2455259",
+            "arches_node_name": "formation_activity_actor",
+            "file_field_name": "formation_activity_actor",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "df699efe-7292-11ef-a972-96a6d2455259",
+            "arches_node_name": "formation_activity_actor_role",
+            "file_field_name": "formation_activity_actor_role",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9c60bbc6-7295-11ef-a972-96a6d2455259",
+            "arches_node_name": "formation_activity_cause_content",
+            "file_field_name": "formation_activity_cause_content",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "dfe9e552-7295-11ef-a972-96a6d2455259",
+            "arches_node_name": "formation_activity_cause_language",
+            "file_field_name": "formation_activity_cause_language",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "c5338970-7295-11ef-a972-96a6d2455259",
+            "arches_node_name": "formation_activity_cause_type",
+            "file_field_name": "formation_activity_cause_type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b9c256a0-7292-11ef-a972-96a6d2455259",
+            "arches_node_name": "formation_activity_location",
+            "file_field_name": "formation_activity_location",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "4d8297f4-8230-11ef-a06f-960003b55319",
+            "arches_node_name": "formation_activity_name_content",
+            "file_field_name": "formation_activity_name_content",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "46c32bc4-7293-11ef-a972-96a6d2455259",
+            "arches_node_name": "formation_activity_name_content_language",
+            "file_field_name": "formation_activity_name_content_language",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "46c32b2e-7293-11ef-a972-96a6d2455259",
+            "arches_node_name": "formation_activity_name_content_type",
+            "file_field_name": "formation_activity_name_content_type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "4e07581c-7296-11ef-a972-96a6d2455259",
+            "arches_node_name": "formation_activity_source_reference",
+            "file_field_name": "formation_activity_source_reference",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "4ee0acc4-7292-11ef-a972-96a6d2455259",
+            "arches_node_name": "formation_activity_statement_content",
+            "file_field_name": "formation_activity_statement_content",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "4ee0ad5a-7292-11ef-a972-96a6d2455259",
+            "arches_node_name": "formation_activity_statement_language",
+            "file_field_name": "formation_activity_statement_language",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "4ee0abd4-7292-11ef-a972-96a6d2455259",
+            "arches_node_name": "formation_activity_statement_source_reference",
+            "file_field_name": "formation_activity_statement_source_reference",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "4ee0ade6-7292-11ef-a972-96a6d2455259",
+            "arches_node_name": "formation_activity_statement_type",
+            "file_field_name": "formation_activity_statement_type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "a2080da2-7292-11ef-a972-96a6d2455259",
+            "arches_node_name": "formation_activity_timespan_end",
+            "file_field_name": "formation_activity_timespan_end",
+            "data_type": "edtf",
+            "export": true
+        },
+        {
+            "arches_nodeid": "a2080cb2-7292-11ef-a972-96a6d2455259",
+            "arches_node_name": "formation_activity_timespan_start",
+            "file_field_name": "formation_activity_timespan_start",
+            "data_type": "edtf",
+            "export": true
+        },
+        {
+            "arches_nodeid": "6f358a96-7290-11ef-a972-96a6d2455259",
+            "arches_node_name": "identifier_content",
+            "file_field_name": "identifier_content",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "6f358b72-7290-11ef-a972-96a6d2455259",
+            "arches_node_name": "identifier_type",
+            "file_field_name": "identifier_type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ec944446-739e-11ef-a98f-96a6d2455259",
+            "arches_node_name": "location_bag_id",
+            "file_field_name": "location_bag_id",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ec94440a-739e-11ef-a98f-96a6d2455259",
+            "arches_node_name": "location_place",
+            "file_field_name": "location_place",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ec944388-739e-11ef-a98f-96a6d2455259",
+            "arches_node_name": "location_statement_content",
+            "file_field_name": "location_statement_content",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ec944158-739e-11ef-a98f-96a6d2455259",
+            "arches_node_name": "location_statement_language",
+            "file_field_name": "location_statement_language",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ec9443ce-739e-11ef-a98f-96a6d2455259",
+            "arches_node_name": "location_statement_source_reference",
+            "file_field_name": "location_statement_source_reference",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ec944298-739e-11ef-a98f-96a6d2455259",
+            "arches_node_name": "location_statement_type",
+            "file_field_name": "location_statement_type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ec944194-739e-11ef-a98f-96a6d2455259",
+            "arches_node_name": "material_location_postal_code_content",
+            "file_field_name": "material_location_postal_code_content",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ec94425c-739e-11ef-a98f-96a6d2455259",
+            "arches_node_name": "material_location_street_address_city_content",
+            "file_field_name": "material_location_street_address_city_content",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ec944342-739e-11ef-a98f-96a6d2455259",
+            "arches_node_name": "material_location_street_address_content",
+            "file_field_name": "material_location_street_address_content",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "5c65092e-7299-11ef-a972-96a6d2455259",
+            "arches_node_name": "name_content",
+            "file_field_name": "name_content",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "5c650a8c-7299-11ef-a972-96a6d2455259",
+            "arches_node_name": "name_content_language",
+            "file_field_name": "name_content_language",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "5c6509ec-7299-11ef-a972-96a6d2455259",
+            "arches_node_name": "name_content_type",
+            "file_field_name": "name_content_type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "670e4c2a-7297-11ef-a972-96a6d2455259",
+            "arches_node_name": "organisation_activity_actor",
+            "file_field_name": "organisation_activity_actor",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "670e5274-7297-11ef-a972-96a6d2455259",
+            "arches_node_name": "organisation_activity_actor_role",
+            "file_field_name": "organisation_activity_actor_role",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "670e5080-7297-11ef-a972-96a6d2455259",
+            "arches_node_name": "organisation_activity_event",
+            "file_field_name": "organisation_activity_event",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "670e4d1a-7297-11ef-a972-96a6d2455259",
+            "arches_node_name": "organisation_activity_location",
+            "file_field_name": "organisation_activity_location",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "670e5184-7297-11ef-a972-96a6d2455259",
+            "arches_node_name": "organisation_activity_location_role",
+            "file_field_name": "organisation_activity_location_role",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "670e4fb8-7297-11ef-a972-96a6d2455259",
+            "arches_node_name": "organisation_activity_name_content",
+            "file_field_name": "organisation_activity_name_content",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "670e503a-7297-11ef-a972-96a6d2455259",
+            "arches_node_name": "organisation_activity_name_content_language",
+            "file_field_name": "organisation_activity_name_content_language",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "670e4f72-7297-11ef-a972-96a6d2455259",
+            "arches_node_name": "organisation_activity_name_content_type",
+            "file_field_name": "organisation_activity_name_content_type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "670e52ba-7297-11ef-a972-96a6d2455259",
+            "arches_node_name": "organisation_activity_source_reference",
+            "file_field_name": "organisation_activity_source_reference",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "670e50bc-7297-11ef-a972-96a6d2455259",
+            "arches_node_name": "organisation_activity_statement_content",
+            "file_field_name": "organisation_activity_statement_content",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "670e5102-7297-11ef-a972-96a6d2455259",
+            "arches_node_name": "organisation_activity_statement_type",
+            "file_field_name": "organisation_activity_statement_type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "670e513e-7297-11ef-a972-96a6d2455259",
+            "arches_node_name": "organisation_activity_statements_language",
+            "file_field_name": "organisation_activity_statements_language",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "670e51c0-7297-11ef-a972-96a6d2455259",
+            "arches_node_name": "organisation_activity_timespan_end",
+            "file_field_name": "organisation_activity_timespan_end",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "670e5238-7297-11ef-a972-96a6d2455259",
+            "arches_node_name": "organisation_activity_timespan_start",
+            "file_field_name": "organisation_activity_timespan_start",
+            "data_type": "date",
+            "export": true
+        },
+        {
+            "arches_nodeid": "670e51fc-7297-11ef-a972-96a6d2455259",
+            "arches_node_name": "organisation_activity_type",
+            "file_field_name": "organisation_activity_type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "55f0f714-7b15-11ee-abe4-96a6d245525a",
+            "arches_node_name": "organisation_type",
+            "file_field_name": "organisation_type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "892e494c-7290-11ef-a972-96a6d2455259",
+            "arches_node_name": "other_identifier_content",
+            "file_field_name": "other_identifier_content",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "892e4a28-7290-11ef-a972-96a6d2455259",
+            "arches_node_name": "other_identifier_type",
+            "file_field_name": "other_identifier_type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        }
+    ]
+}
