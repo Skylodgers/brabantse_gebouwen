@@ -34,7 +34,7 @@
             "export": true
         },
         {
-            "arches_nodeid": "ec944306-739e-11ef-a98f-96a6d2455259",
+            "arches_nodeid": "06ab3124-e941-11ef-99bc-960003b0d355",
             "arches_node_name": "coordinates_geo_json",
             "file_field_name": "coordinates_geo_json",
             "data_type": "geojson-feature-collection",
@@ -51,6 +51,29 @@
             "arches_nodeid": "f0e06b76-7293-11ef-a972-96a6d2455259",
             "arches_node_name": "dissolution_activity_actor_role",
             "file_field_name": "dissolution_activity_actor_role",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9c60bbc6-7295-11ef-a972-96a6d2455259",
+            "arches_node_name": "dissolution_activity_cause_content",
+            "file_field_name": "dissolution_activity_cause_content",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "dfe9e552-7295-11ef-a972-96a6d2455259",
+            "arches_node_name": "dissolution_activity_cause_language",
+            "file_field_name": "dissolution_activity_cause_language",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "c5338970-7295-11ef-a972-96a6d2455259",
+            "arches_node_name": "dissolution_activity_cause_type",
+            "file_field_name": "dissolution_activity_cause_type",
             "data_type": "concept",
             "concept_export_value": "label",
             "export": true
@@ -112,14 +135,6 @@
             "arches_nodeid": "b638d954-7293-11ef-a972-96a6d2455259",
             "arches_node_name": "dissolution_activity_name_content_type",
             "file_field_name": "dissolution_activity_name_content_type",
-            "data_type": "concept",
-            "concept_export_value": "label",
-            "export": true
-        },
-        {
-            "arches_nodeid": "916d5a7c-7294-11ef-a972-96a6d2455259",
-            "arches_node_name": "dissolution_activity_role",
-            "file_field_name": "dissolution_activity_role",
             "data_type": "concept",
             "concept_export_value": "label",
             "export": true
@@ -207,29 +222,6 @@
             "export": true
         },
         {
-            "arches_nodeid": "9c60bbc6-7295-11ef-a972-96a6d2455259",
-            "arches_node_name": "formation_activity_cause_content",
-            "file_field_name": "formation_activity_cause_content",
-            "data_type": "string",
-            "export": true
-        },
-        {
-            "arches_nodeid": "dfe9e552-7295-11ef-a972-96a6d2455259",
-            "arches_node_name": "formation_activity_cause_language",
-            "file_field_name": "formation_activity_cause_language",
-            "data_type": "concept",
-            "concept_export_value": "label",
-            "export": true
-        },
-        {
-            "arches_nodeid": "c5338970-7295-11ef-a972-96a6d2455259",
-            "arches_node_name": "formation_activity_cause_type",
-            "file_field_name": "formation_activity_cause_type",
-            "data_type": "concept",
-            "concept_export_value": "label",
-            "export": true
-        },
-        {
             "arches_nodeid": "b9c256a0-7292-11ef-a972-96a6d2455259",
             "arches_node_name": "formation_activity_location",
             "file_field_name": "formation_activity_location",
@@ -311,6 +303,14 @@
             "export": true
         },
         {
+            "arches_nodeid": "0ded9bb0-e942-11ef-99bc-960003b0d355",
+            "arches_node_name": "formation_activity_type",
+            "file_field_name": "formation_activity_type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
             "arches_nodeid": "6f358a96-7290-11ef-a972-96a6d2455259",
             "arches_node_name": "identifier_content",
             "file_field_name": "identifier_content",
@@ -326,28 +326,28 @@
             "export": true
         },
         {
-            "arches_nodeid": "ec944446-739e-11ef-a98f-96a6d2455259",
+            "arches_nodeid": "06ab35ca-e941-11ef-99bc-960003b0d355",
             "arches_node_name": "location_bag_id",
             "file_field_name": "location_bag_id",
             "data_type": "string",
             "export": true
         },
         {
-            "arches_nodeid": "ec94440a-739e-11ef-a98f-96a6d2455259",
+            "arches_nodeid": "06ab3534-e941-11ef-99bc-960003b0d355",
             "arches_node_name": "location_place",
             "file_field_name": "location_place",
             "data_type": "resource-instance",
             "export": true
         },
         {
-            "arches_nodeid": "ec944388-739e-11ef-a98f-96a6d2455259",
+            "arches_nodeid": "06ab33fe-e941-11ef-99bc-960003b0d355",
             "arches_node_name": "location_statement_content",
             "file_field_name": "location_statement_content",
             "data_type": "string",
             "export": true
         },
         {
-            "arches_nodeid": "ec944158-739e-11ef-a98f-96a6d2455259",
+            "arches_nodeid": "06ab2fee-e941-11ef-99bc-960003b0d355",
             "arches_node_name": "location_statement_language",
             "file_field_name": "location_statement_language",
             "data_type": "concept",
@@ -355,14 +355,14 @@
             "export": true
         },
         {
-            "arches_nodeid": "ec9443ce-739e-11ef-a98f-96a6d2455259",
+            "arches_nodeid": "06ab337c-e941-11ef-99bc-960003b0d355",
             "arches_node_name": "location_statement_source_reference",
             "file_field_name": "location_statement_source_reference",
             "data_type": "resource-instance-list",
             "export": true
         },
         {
-            "arches_nodeid": "ec944298-739e-11ef-a98f-96a6d2455259",
+            "arches_nodeid": "06ab30a2-e941-11ef-99bc-960003b0d355",
             "arches_node_name": "location_statement_type",
             "file_field_name": "location_statement_type",
             "data_type": "concept",
@@ -370,24 +370,31 @@
             "export": true
         },
         {
-            "arches_nodeid": "ec944194-739e-11ef-a98f-96a6d2455259",
+            "arches_nodeid": "06ab2d0a-e941-11ef-99bc-960003b0d355",
             "arches_node_name": "material_location_postal_code_content",
             "file_field_name": "material_location_postal_code_content",
             "data_type": "string",
             "export": true
         },
         {
-            "arches_nodeid": "ec94425c-739e-11ef-a98f-96a6d2455259",
+            "arches_nodeid": "06ab3228-e941-11ef-99bc-960003b0d355",
             "arches_node_name": "material_location_street_address_city_content",
             "file_field_name": "material_location_street_address_city_content",
             "data_type": "string",
             "export": true
         },
         {
-            "arches_nodeid": "ec944342-739e-11ef-a98f-96a6d2455259",
+            "arches_nodeid": "06ab330e-e941-11ef-99bc-960003b0d355",
             "arches_node_name": "material_location_street_address_content",
             "file_field_name": "material_location_street_address_content",
             "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "181e1490-e940-11ef-99bc-960003b0d355",
+            "arches_node_name": "member_of_organisation",
+            "file_field_name": "member_of_organisation",
+            "data_type": "resource-instance",
             "export": true
         },
         {
@@ -426,13 +433,6 @@
             "file_field_name": "organisation_activity_actor_role",
             "data_type": "concept",
             "concept_export_value": "label",
-            "export": true
-        },
-        {
-            "arches_nodeid": "670e5080-7297-11ef-a972-96a6d2455259",
-            "arches_node_name": "organisation_activity_event",
-            "file_field_name": "organisation_activity_event",
-            "data_type": "resource-instance",
             "export": true
         },
         {
@@ -544,6 +544,36 @@
             "arches_nodeid": "892e4a28-7290-11ef-a972-96a6d2455259",
             "arches_node_name": "other_identifier_type",
             "file_field_name": "other_identifier_type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "54847090-e941-11ef-9455-960003b0d355",
+            "arches_node_name": "statement_content",
+            "file_field_name": "statement_content",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "54846ea6-e941-11ef-9455-960003b0d355",
+            "arches_node_name": "statement_language",
+            "file_field_name": "statement_language",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "54846fa0-e941-11ef-9455-960003b0d355",
+            "arches_node_name": "statement_source_reference",
+            "file_field_name": "statement_source_reference",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "54846d7a-e941-11ef-9455-960003b0d355",
+            "arches_node_name": "statement_type",
+            "file_field_name": "statement_type",
             "data_type": "concept",
             "concept_export_value": "label",
             "export": true

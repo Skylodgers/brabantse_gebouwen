@@ -403,7 +403,7 @@
                     },
                     "function_id": "60000000-0000-0000-0000-000000000001",
                     "graph_id": "520d5757-51d5-4a22-890d-974581ee2d5e",
-                    "id": "ee1adf7e-df58-4384-ad2d-e5d3041855de"
+                    "id": "a486fdfb-7bf2-4147-9b4e-0cda3a310cac"
                 }
             ],
             "graphid": "520d5757-51d5-4a22-890d-974581ee2d5e",
@@ -547,7 +547,7 @@
                     "nodeid": "d66048d8-728f-11ef-a972-96a6d2455259",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P129i_is_subject_of",
-                    "sortorder": 0,
+                    "sortorder": 2,
                     "sourcebranchpublication_id": null
                 },
                 {
@@ -643,7 +643,7 @@
                     "nodeid": "ffa339b2-728f-11ef-a972-96a6d2455259",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
-                    "sortorder": 0,
+                    "sortorder": 1,
                     "sourcebranchpublication_id": null
                 },
                 {
@@ -754,5 +754,11 @@
             "template_id": "50000000-0000-0000-0000-000000000001",
             "version": ""
         }
-    ]
+    ],
+    "metadata": {
+        "db": "PostgreSQL 15.5 (Debian 15.5-0+deb12u1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit",
+        "git hash": "fatal: not a git repository (or any of the parent directories): .git",
+        "os": "Linux",
+        "os version": "6.1.0-13-amd64"
+    }
 }

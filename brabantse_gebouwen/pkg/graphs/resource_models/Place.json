@@ -1498,7 +1498,7 @@
                     },
                     "function_id": "60000000-0000-0000-0000-000000000001",
                     "graph_id": "f6e89030-b4b4-11ea-84f7-3af9d3b32b71",
-                    "id": "07f304e3-a7e2-4b5b-9057-b5279dbb80c2"
+                    "id": "08f7cdfc-4958-44cf-99f2-771831143d68"
                 }
             ],
             "graphid": "f6e89030-b4b4-11ea-84f7-3af9d3b32b71",
@@ -1660,7 +1660,7 @@
                     "nodeid": "1f1a1196-72a7-11ef-a972-96a6d2455259",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E55_Type",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P2_has_type",
-                    "sortorder": 0,
+                    "sortorder": 6,
                     "sourcebranchpublication_id": null
                 },
                 {
@@ -1720,7 +1720,7 @@
                     "nodeid": "436ccb80-2a5f-11ec-b195-0a9473e82189",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by",
-                    "sortorder": 8,
+                    "sortorder": 12,
                     "sourcebranchpublication_id": null
                 },
                 {
@@ -1743,7 +1743,7 @@
                     "nodeid": "444617fc-7924-11ef-bfd8-96a6d2455259",
                     "ontologyclass": "http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by",
-                    "sortorder": 0,
+                    "sortorder": 9,
                     "sourcebranchpublication_id": null
                 },
                 {
@@ -1822,7 +1822,7 @@
                     "nodeid": "48c25566-bb14-11ea-85a6-3af9d3b32b71",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E53_Place",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P189_approximates",
-                    "sortorder": 7,
+                    "sortorder": 8,
                     "sourcebranchpublication_id": null
                 },
                 {
@@ -1961,7 +1961,7 @@
                     "nodeid": "5f00c6df-0650-11ee-8f04-cd21e680a247",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
-                    "sortorder": 6,
+                    "sortorder": 2,
                     "sourcebranchpublication_id": null
                 },
                 {
@@ -2027,8 +2027,8 @@
                         "fillColor": "rgba(130, 130, 130, 0.5)",
                         "haloRadius": 4,
                         "haloWeight": 4,
-                        "layerActivated": true,
-                        "layerIcon": "",
+                        "layerActivated": false,
+                        "layerIcon": "fa fa-map-marker",
                         "layerLegend": "",
                         "layerName": "",
                         "lineColor": "rgba(130, 130, 130, 0.7)",
@@ -2056,7 +2056,7 @@
                     "nodeid": "64556d86-bb14-11ea-85a6-3af9d3b32b71",
                     "ontologyclass": "http://www.w3.org/2000/01/rdf-schema#Literal",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P168_place_is_defined_by",
-                    "sortorder": 3,
+                    "sortorder": 4,
                     "sourcebranchpublication_id": null
                 },
                 {
@@ -2134,7 +2134,7 @@
                     "nodeid": "76b8dfa4-bb13-11ea-85a6-3af9d3b32b71",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by",
-                    "sortorder": 9,
+                    "sortorder": 10,
                     "sourcebranchpublication_id": null
                 },
                 {
@@ -2393,7 +2393,7 @@
                     "nodeid": "8eb8ec78-8703-11ef-a06f-960003b55319",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E41_Appellation",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
-                    "sortorder": 0,
+                    "sortorder": 5,
                     "sourcebranchpublication_id": null
                 },
                 {
@@ -2655,7 +2655,7 @@
                     "nodeid": "d3f735ac-72ad-11ef-a972-96a6d2455259",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E31_Document",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by",
-                    "sortorder": 0,
+                    "sortorder": 11,
                     "sourcebranchpublication_id": null
                 },
                 {
@@ -2685,7 +2685,7 @@
                     "nodeid": "d5c46d60-48b4-11ee-8a8d-11afefc4bff7",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E53_Place",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P89_falls_within",
-                    "sortorder": 5,
+                    "sortorder": 7,
                     "sourcebranchpublication_id": null
                 },
                 {
@@ -2731,7 +2731,7 @@
                     "nodeid": "f690163a-72a6-11ef-a972-96a6d2455259",
                     "ontologyclass": "http://www.cidoc-crm.org/cidoc-crm/E33_E41_Linguistic_Appellation",
                     "parentproperty": "http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by",
-                    "sortorder": 0,
+                    "sortorder": 3,
                     "sourcebranchpublication_id": null
                 },
                 {
@@ -2885,5 +2885,11 @@
             "template_id": "50000000-0000-0000-0000-000000000002",
             "version": ""
         }
-    ]
+    ],
+    "metadata": {
+        "db": "PostgreSQL 15.5 (Debian 15.5-0+deb12u1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit",
+        "git hash": "fatal: not a git repository (or any of the parent directories): .git",
+        "os": "Linux",
+        "os version": "6.1.0-13-amd64"
+    }
 }

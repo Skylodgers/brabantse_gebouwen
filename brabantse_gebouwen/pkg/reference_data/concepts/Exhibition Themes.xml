@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+>
+  <skos:ConceptScheme rdf:about="http://localhost:8000/311f0235-79ca-4aa4-ae20-7c1c7de0c3c8">
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/3e1436be-5be5-4e61-8c35-ddffec30d065">
+        <skos:inScheme rdf:resource="http://localhost:8000/311f0235-79ca-4aa4-ae20-7c1c7de0c3c8"/>
+        <skos:prefLabel xml:lang="en">{"id": "3b0e5af8-da3d-4dfe-89d7-1f6a48b6189b", "value": "Fashion Exhibition"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/c4663692-ddf7-4245-829c-cbb2a1f68e89">
+        <skos:prefLabel xml:lang="en">{"id": "c0e3f354-51e2-4c00-91a5-081ad29d1d8f", "value": "Photography Exhibition"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/311f0235-79ca-4aa4-ae20-7c1c7de0c3c8"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://localhost:8000/dcdd12f2-1697-4329-8b9b-11f2f218ce12">
+        <skos:prefLabel xml:lang="en">{"id": "04006a99-abec-49e3-a622-0104cfd53f47", "value": "Fine Art Exhibition"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/311f0235-79ca-4aa4-ae20-7c1c7de0c3c8"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <dcterms:title xml:lang="en">{"id": "f9213943-0350-4c37-ade5-6e7e5abe730e", "value": "Exhibition Themes"}</dcterms:title>
+  </skos:ConceptScheme>
+</rdf:RDF>

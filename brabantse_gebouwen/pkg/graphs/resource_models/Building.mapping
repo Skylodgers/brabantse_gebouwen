@@ -685,6 +685,14 @@
             "export": true
         },
         {
+            "arches_nodeid": "aed67e16-eece-11ef-a027-96a6d245525a",
+            "arches_node_name": "language",
+            "file_field_name": "language",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
             "arches_nodeid": "153887a2-cf63-11ef-af8c-96a6d2455259",
             "arches_node_name": "location_address_city",
             "file_field_name": "location_address_city",
@@ -885,23 +893,46 @@
             "export": true
         },
         {
-            "arches_nodeid": "3366106e-cf63-11ef-af8c-96a6d2455259",
+            "arches_nodeid": "e5f14d60-eed1-11ef-a027-96a6d245525a",
             "arches_node_name": "production_event_timespan_end",
             "file_field_name": "production_event_timespan_end",
-            "data_type": "edtf",
+            "data_type": "string",
             "export": true
         },
         {
-            "arches_nodeid": "33661136-cf63-11ef-af8c-96a6d2455259",
+            "arches_nodeid": "cca2df90-eed1-11ef-a027-96a6d245525a",
             "arches_node_name": "production_event_timespan_start",
             "file_field_name": "production_event_timespan_start",
-            "data_type": "edtf",
+            "data_type": "string",
             "export": true
         },
         {
             "arches_nodeid": "33660a6a-cf63-11ef-af8c-96a6d2455259",
             "arches_node_name": "production_event_type",
             "file_field_name": "production_event_type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9105a464-eed0-11ef-a027-96a6d245525a",
+            "arches_node_name": "production_name_content",
+            "file_field_name": "production_name_content",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9105a586-eed0-11ef-a027-96a6d245525a",
+            "arches_node_name": "production_name_content_language",
+            "file_field_name": "production_name_content_language",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9105a522-eed0-11ef-a027-96a6d245525a",
+            "arches_node_name": "production_name_content_type",
+            "file_field_name": "production_name_content_type",
             "data_type": "concept",
             "concept_export_value": "label",
             "export": true
