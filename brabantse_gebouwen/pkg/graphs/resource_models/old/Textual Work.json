@@ -12,26 +12,22 @@
                     "cssclass": "big",
                     "description": "{\"en\": \"\"}",
                     "graph_id": "520d5757-51d5-4a22-890d-974581ee2d5e",
-                    "helpenabled": true,
+                    "helpenabled": false,
                     "helptext": {
-                        "en": "The identifier should be a Brabant Cloud ARK idenfier:<br />\nhttps://n2t.net/ark:/15052/1a6d8497-f909-4d4e-be00-67cf9d72877d<br />\n<br />\nThe type should be &quot;Brabant Cloud ARK Identier&quot;&nbsp;",
-                        "nl": ""
+                        "en": ""
                     },
                     "helptitle": {
-                        "en": "Identifers",
-                        "nl": ""
+                        "en": ""
                     },
                     "instructions": {
-                        "en": "",
-                        "nl": ""
+                        "en": ""
                     },
                     "is_editable": false,
                     "name": {
-                        "en": "Identifier",
-                        "nl": "Identifier"
+                        "en": "Identifier"
                     },
                     "nodegroup_id": "c364b020-728f-11ef-a972-96a6d2455259",
-                    "sortorder": 0,
+                    "sortorder": 1,
                     "visible": true
                 },
                 {
@@ -45,24 +41,20 @@
                     "graph_id": "520d5757-51d5-4a22-890d-974581ee2d5e",
                     "helpenabled": false,
                     "helptext": {
-                        "en": "",
-                        "nl": ""
+                        "en": ""
                     },
                     "helptitle": {
-                        "en": "",
-                        "nl": ""
+                        "en": ""
                     },
                     "instructions": {
-                        "en": "",
-                        "nl": ""
+                        "en": ""
                     },
                     "is_editable": true,
                     "name": {
-                        "en": "Description",
-                        "nl": "Description"
+                        "en": "Description"
                     },
                     "nodegroup_id": "d66048d8-728f-11ef-a972-96a6d2455259",
-                    "sortorder": 2,
+                    "sortorder": 3,
                     "visible": true
                 },
                 {
@@ -76,21 +68,17 @@
                     "graph_id": "520d5757-51d5-4a22-890d-974581ee2d5e",
                     "helpenabled": false,
                     "helptext": {
-                        "en": "",
-                        "nl": ""
+                        "en": ""
                     },
                     "helptitle": {
-                        "en": "",
-                        "nl": ""
+                        "en": ""
                     },
                     "instructions": {
-                        "en": "",
-                        "nl": ""
+                        "en": ""
                     },
                     "is_editable": false,
                     "name": {
-                        "en": "Name",
-                        "nl": "Naam"
+                        "en": "Name"
                     },
                     "nodegroup_id": "ffa339b2-728f-11ef-a972-96a6d2455259",
                     "sortorder": 1,
@@ -152,7 +140,7 @@
                         "label": "Identifier",
                         "maxLength": null,
                         "placeholder": {
-                            "en": "Brabant Cloud ARK-identifier"
+                            "en": "Enter text"
                         },
                         "uneditable": false,
                         "width": "100%"
@@ -185,7 +173,7 @@
                     },
                     "node_id": "d6604cb6-728f-11ef-a972-96a6d2455259",
                     "sortorder": 2,
-                    "visible": true,
+                    "visible": false,
                     "widget_id": "10000000-0000-0000-0000-000000000002"
                 },
                 {
@@ -227,16 +215,14 @@
                         "label": "Name",
                         "maxLength": null,
                         "placeholder": {
-                            "en": "Enter text",
-                            "nl": "Enter text"
+                            "en": "Enter text"
                         },
                         "uneditable": false,
                         "width": "100%"
                     },
                     "id": "ffa33bf6-728f-11ef-a972-96a6d2455259",
                     "label": {
-                        "en": "Name",
-                        "nl": "Naam"
+                        "en": "Name"
                     },
                     "node_id": "ffa33b1a-728f-11ef-a972-96a6d2455259",
                     "sortorder": 0,
@@ -253,14 +239,12 @@
                         "label": "Name Type",
                         "options": [],
                         "placeholder": {
-                            "en": "Select an option",
-                            "nl": "Select an option"
+                            "en": "Select an option"
                         }
                     },
                     "id": "ffa33c1e-728f-11ef-a972-96a6d2455259",
                     "label": {
-                        "en": "Name Type",
-                        "nl": "Naam Type"
+                        "en": "Name Type"
                     },
                     "node_id": "ffa33b88-728f-11ef-a972-96a6d2455259",
                     "sortorder": 1,
@@ -277,14 +261,12 @@
                         "label": "Name Language",
                         "options": [],
                         "placeholder": {
-                            "en": "Select an option",
-                            "nl": "Select an option"
+                            "en": "Select an option"
                         }
                     },
                     "id": "ffa33c3c-728f-11ef-a972-96a6d2455259",
                     "label": {
-                        "en": "Name Language",
-                        "nl": "Naam Taal"
+                        "en": "Name Language"
                     },
                     "node_id": "ffa33bce-728f-11ef-a972-96a6d2455259",
                     "sortorder": 2,
@@ -738,8 +720,8 @@
             "publication": {
                 "graph_id": "520d5757-51d5-4a22-890d-974581ee2d5e",
                 "notes": null,
-                "publicationid": "a310eb24-f2c1-11ef-8e56-96a6d245525a",
-                "published_time": "2025-02-24T09:11:35.018"
+                "publicationid": "4c4b6b6e-879d-11ef-a06f-960003b55319",
+                "published_time": "2024-10-11T01:51:53.140"
             },
             "relatable_resource_model_ids": [],
             "resource_2_resource_constraints": [],

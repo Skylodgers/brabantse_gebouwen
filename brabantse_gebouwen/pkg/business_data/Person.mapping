@@ -220,6 +220,27 @@
             "export": true
         },
         {
+            "arches_nodeid": "6582ae04-f2b8-11ef-8e56-96a6d245525a",
+            "arches_node_name": "location_address_city",
+            "file_field_name": "location_address_city",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "6582ae90-f2b8-11ef-8e56-96a6d245525a",
+            "arches_node_name": "location_address_postal_code",
+            "file_field_name": "location_address_postal_code",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "6582aed6-f2b8-11ef-8e56-96a6d245525a",
+            "arches_node_name": "location_address_street",
+            "file_field_name": "location_address_street",
+            "data_type": "string",
+            "export": true
+        },
+        {
             "arches_nodeid": "e4f10a06-73ff-11ef-8d5e-96a6d2455259",
             "arches_node_name": "location_bag_id",
             "file_field_name": "location_bag_id",
@@ -261,27 +282,6 @@
             "file_field_name": "location_statement_type",
             "data_type": "concept",
             "concept_export_value": "label",
-            "export": true
-        },
-        {
-            "arches_nodeid": "e4f108b2-73ff-11ef-8d5e-96a6d2455259",
-            "arches_node_name": "material_location_postal_code_content",
-            "file_field_name": "material_location_postal_code_content",
-            "data_type": "string",
-            "export": true
-        },
-        {
-            "arches_nodeid": "e4f1083a-73ff-11ef-8d5e-96a6d2455259",
-            "arches_node_name": "material_location_street_address_city_content",
-            "file_field_name": "material_location_street_address_city_content",
-            "data_type": "string",
-            "export": true
-        },
-        {
-            "arches_nodeid": "e4f10880-73ff-11ef-8d5e-96a6d2455259",
-            "arches_node_name": "material_location_street_address_content",
-            "file_field_name": "material_location_street_address_content",
-            "data_type": "string",
             "export": true
         },
         {
@@ -465,17 +465,17 @@
             "export": true
         },
         {
-            "arches_nodeid": "95076630-6e27-11ef-b245-96a6d2455259",
+            "arches_nodeid": "441e2b9e-f2b8-11ef-8e56-96a6d245525a",
             "arches_node_name": "personal_activity_timespan_end",
             "file_field_name": "personal_activity_timespan_end",
-            "data_type": "date",
+            "data_type": "edtf",
             "export": true
         },
         {
-            "arches_nodeid": "9507659a-6e27-11ef-b245-96a6d2455259",
+            "arches_nodeid": "3296f676-f2b8-11ef-8e56-96a6d245525a",
             "arches_node_name": "personal_activity_timespan_start",
             "file_field_name": "personal_activity_timespan_start",
-            "data_type": "date",
+            "data_type": "edtf",
             "export": true
         },
         {
@@ -570,17 +570,17 @@
             "export": true
         },
         {
-            "arches_nodeid": "95076018-6e27-11ef-b245-96a6d2455259",
-            "arches_node_name": "personal_relation_activity_timespan_begin_of_the_begin",
-            "file_field_name": "personal_relation_activity_timespan_begin_of_the_begin",
-            "data_type": "date",
+            "arches_nodeid": "15ddef3a-f2b8-11ef-8e56-96a6d245525a",
+            "arches_node_name": "personal_relation_activity_timespan_end_of_the_end",
+            "file_field_name": "personal_relation_activity_timespan_end_of_the_end",
+            "data_type": "edtf",
             "export": true
         },
         {
-            "arches_nodeid": "950762a2-6e27-11ef-b245-96a6d2455259",
-            "arches_node_name": "personal_relation_activity_timespan_end_of_the_end",
-            "file_field_name": "personal_relation_activity_timespan_end_of_the_end",
-            "data_type": "date",
+            "arches_nodeid": "fb2d77fa-f2b7-11ef-8e56-96a6d245525a",
+            "arches_node_name": "personal_relation_activity_timespan_start",
+            "file_field_name": "personal_relation_activity_timespan_start",
+            "data_type": "edtf",
             "export": true
         },
         {

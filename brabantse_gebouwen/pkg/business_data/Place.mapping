@@ -142,13 +142,6 @@
             "export": true
         },
         {
-            "arches_nodeid": "87b70478-48bb-11ee-8a8d-11afefc4bff7",
-            "arches_node_name": "name_language_old",
-            "file_field_name": "name_language_old",
-            "data_type": "resource-instance-list",
-            "export": true
-        },
-        {
             "arches_nodeid": "5f00c6e2-0650-11ee-8f04-cd21e680a247",
             "arches_node_name": "name_source_reference",
             "file_field_name": "name_source_reference",
@@ -161,13 +154,6 @@
             "file_field_name": "name_type",
             "data_type": "concept",
             "concept_export_value": "label",
-            "export": true
-        },
-        {
-            "arches_nodeid": "befac230-48bb-11ee-8a8d-11afefc4bff7",
-            "arches_node_name": "name_type_old",
-            "file_field_name": "name_type_old",
-            "data_type": "resource-instance-list",
             "export": true
         },
         {

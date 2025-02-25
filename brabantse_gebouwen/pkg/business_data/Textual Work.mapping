@@ -1,0 +1,67 @@
+{
+    "resource_model_id": "520d5757-51d5-4a22-890d-974581ee2d5e",
+    "resource_model_name": "Textual Work",
+    "nodes": [
+        {
+            "arches_nodeid": "c364b3cc-728f-11ef-a972-96a6d2455259",
+            "arches_node_name": "identifier_content",
+            "file_field_name": "identifier_content",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "c364b494-728f-11ef-a972-96a6d2455259",
+            "arches_node_name": "identifier_type",
+            "file_field_name": "identifier_type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ffa33b1a-728f-11ef-a972-96a6d2455259",
+            "arches_node_name": "name_content",
+            "file_field_name": "name_content",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ffa33bce-728f-11ef-a972-96a6d2455259",
+            "arches_node_name": "name_content_language",
+            "file_field_name": "name_content_language",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "ffa33b88-728f-11ef-a972-96a6d2455259",
+            "arches_node_name": "name_content_type",
+            "file_field_name": "name_content_type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "d6604c34-728f-11ef-a972-96a6d2455259",
+            "arches_node_name": "statement_content",
+            "file_field_name": "statement_content",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "d6604cb6-728f-11ef-a972-96a6d2455259",
+            "arches_node_name": "statement_language",
+            "file_field_name": "statement_language",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "d6604d2e-728f-11ef-a972-96a6d2455259",
+            "arches_node_name": "statement_type",
+            "file_field_name": "statement_type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        }
+    ]
+}

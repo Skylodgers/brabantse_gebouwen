@@ -26,6 +26,13 @@
             "export": true
         },
         {
+            "arches_nodeid": "19253b86-cf67-11ef-af8c-96a6d2455259",
+            "arches_node_name": "alternative_name_period_timespan_end",
+            "file_field_name": "alternative_name_period_timespan_end",
+            "data_type": "edtf",
+            "export": true
+        },
+        {
             "arches_nodeid": "19253e38-cf67-11ef-af8c-96a6d2455259",
             "arches_node_name": "alternative_name_period_timespan_start",
             "file_field_name": "alternative_name_period_timespan_start",
@@ -163,17 +170,17 @@
             "export": true
         },
         {
-            "arches_nodeid": "ad5f6d62-cf67-11ef-af8c-96a6d2455259",
+            "arches_nodeid": "e0b15498-f2ba-11ef-8e56-96a6d245525a",
             "arches_node_name": "consecration_activity_timespan_end",
             "file_field_name": "consecration_activity_timespan_end",
-            "data_type": "date",
+            "data_type": "edtf",
             "export": true
         },
         {
-            "arches_nodeid": "ad5f6dd0-cf67-11ef-af8c-96a6d2455259",
+            "arches_nodeid": "ccbe2e66-f2ba-11ef-8e56-96a6d245525a",
             "arches_node_name": "consecration_activity_timespan_start",
             "file_field_name": "consecration_activity_timespan_start",
-            "data_type": "date",
+            "data_type": "edtf",
             "export": true
         },
         {
@@ -403,10 +410,10 @@
             "export": true
         },
         {
-            "arches_nodeid": "666e4c70-cf67-11ef-af8c-96a6d2455259",
+            "arches_nodeid": "9fc98d06-f2ba-11ef-8e56-96a6d245525a",
             "arches_node_name": "dedication_activity_timespan_start",
             "file_field_name": "dedication_activity_timespan_start",
-            "data_type": "date",
+            "data_type": "edtf",
             "export": true
         },
         {
@@ -426,10 +433,10 @@
             "export": true
         },
         {
-            "arches_nodeid": "666e4f5e-cf67-11ef-af8c-96a6d2455259",
+            "arches_nodeid": "b5d3eeca-f2ba-11ef-8e56-96a6d245525a",
             "arches_node_name": "dedicationactivity_timespan_end",
             "file_field_name": "dedicationactivity_timespan_end",
-            "data_type": "date",
+            "data_type": "edtf",
             "export": true
         },
         {
@@ -649,17 +656,17 @@
             "export": true
         },
         {
-            "arches_nodeid": "cee093bc-cf67-11ef-af8c-96a6d2455259",
+            "arches_nodeid": "0f3f2f10-f2bb-11ef-8e56-96a6d245525a",
             "arches_node_name": "inauguration_activity_timespan_end",
             "file_field_name": "inauguration_activity_timespan_end",
-            "data_type": "date",
+            "data_type": "edtf",
             "export": true
         },
         {
-            "arches_nodeid": "cee08d2c-cf67-11ef-af8c-96a6d2455259",
+            "arches_nodeid": "fcb64a18-f2ba-11ef-8e56-96a6d245525a",
             "arches_node_name": "inauguration_activity_timespan_start",
             "file_field_name": "inauguration_activity_timespan_start",
-            "data_type": "date",
+            "data_type": "edtf",
             "export": true
         },
         {
@@ -682,6 +689,14 @@
             "arches_node_name": "keyword_content",
             "file_field_name": "keyword_content",
             "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "aed67e16-eece-11ef-a027-96a6d245525a",
+            "arches_node_name": "language",
+            "file_field_name": "language",
+            "data_type": "concept",
+            "concept_export_value": "label",
             "export": true
         },
         {
@@ -885,23 +900,46 @@
             "export": true
         },
         {
-            "arches_nodeid": "3366106e-cf63-11ef-af8c-96a6d2455259",
+            "arches_nodeid": "e5f14d60-eed1-11ef-a027-96a6d245525a",
             "arches_node_name": "production_event_timespan_end",
             "file_field_name": "production_event_timespan_end",
-            "data_type": "edtf",
+            "data_type": "string",
             "export": true
         },
         {
-            "arches_nodeid": "33661136-cf63-11ef-af8c-96a6d2455259",
+            "arches_nodeid": "cca2df90-eed1-11ef-a027-96a6d245525a",
             "arches_node_name": "production_event_timespan_start",
             "file_field_name": "production_event_timespan_start",
-            "data_type": "edtf",
+            "data_type": "string",
             "export": true
         },
         {
             "arches_nodeid": "33660a6a-cf63-11ef-af8c-96a6d2455259",
             "arches_node_name": "production_event_type",
             "file_field_name": "production_event_type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9105a464-eed0-11ef-a027-96a6d245525a",
+            "arches_node_name": "production_name_content",
+            "file_field_name": "production_name_content",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9105a586-eed0-11ef-a027-96a6d245525a",
+            "arches_node_name": "production_name_content_language",
+            "file_field_name": "production_name_content_language",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "9105a522-eed0-11ef-a027-96a6d245525a",
+            "arches_node_name": "production_name_content_type",
+            "file_field_name": "production_name_content_type",
             "data_type": "concept",
             "concept_export_value": "label",
             "export": true

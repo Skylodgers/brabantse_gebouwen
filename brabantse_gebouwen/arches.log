@@ -13702,3 +13702,111 @@ PublishedGraph matching query does not exist.
 2024-10-03 18:37:03,930 arches.app.utils.data_management.resources.formats.csvfile WARNING  The  name_content node participates in the name display function.
 2024-10-03 18:37:03,931 arches.app.utils.data_management.resources.formats.csvfile WARNING  No nodes participate in the map_popup display function.
 2024-10-03 18:37:03,931 arches.app.utils.data_management.resources.formats.csvfile WARNING  The name_content node participates in the description display function.
+2025-02-21 02:59:47,754 arches.app.utils.data_management.resource_graphs.importer WARNING  No ontologies have been loaded. Any GraphModel that depends on an ontology cannot be loaded.
+2025-02-21 03:01:34,326 arches.app.utils.data_management.resources.formats.csvfile WARNING  The name_content node participates in the name display function.
+2025-02-21 03:01:34,326 arches.app.utils.data_management.resources.formats.csvfile WARNING  The name_content node participates in the map_popup display function.
+2025-02-21 03:01:34,326 arches.app.utils.data_management.resources.formats.csvfile WARNING  No nodes participate in the description display function.
+2025-02-21 03:03:45,261 arches.app.utils.data_management.resources.formats.csvfile WARNING  The name_content node participates in the name display function.
+2025-02-21 03:03:45,271 arches.app.utils.data_management.resources.formats.csvfile WARNING  No nodes participate in the map_popup display function.
+2025-02-21 03:03:45,271 arches.app.utils.data_management.resources.formats.csvfile WARNING  The name_content node participates in the description display function.
+2025-02-21 03:04:25,933 arches.app.utils.data_management.resources.formats.csvfile WARNING  The name_givenname node participates in the name display function.
+2025-02-21 03:04:25,934 arches.app.utils.data_management.resources.formats.csvfile WARNING  No nodes participate in the map_popup display function.
+2025-02-21 03:04:25,934 arches.app.utils.data_management.resources.formats.csvfile WARNING  The name_fullname node participates in the description display function.
+2025-02-21 03:04:43,016 arches.app.utils.data_management.resources.formats.csvfile WARNING  The  name_content node participates in the name display function.
+2025-02-21 03:04:43,016 arches.app.utils.data_management.resources.formats.csvfile WARNING  The name_content, name_type_old, name_source_reference, name nodes participate in the map_popup display function.
+2025-02-21 03:04:43,017 arches.app.utils.data_management.resources.formats.csvfile WARNING  The statement_content node participates in the description display function.
+2025-02-21 07:30:55,035 arches.app.views.tile ERROR    Unable to save. Please verify your input is valid [Tile id: ]                      [Exception message: TileValidationError: This card requires values for the following: identifier_type]                      [Exception trace: Traceback (most recent call last):
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/views/tile.py", line 144, in post
+    tile.save(request=request, transaction_id=transaction_id)
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/models/tile.py", line 419, in save
+    self.check_for_missing_nodes()
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/models/tile.py", line 325, in check_for_missing_nodes
+    raise TileValidationError(message)
+arches.app.models.tile.TileValidationError: 'This card requires values for the following: identifier_type'
+]
+2025-02-21 07:41:33,629 arches.app.views.tile ERROR    Unable to save. Please verify your input is valid [Tile id: ]                      [Exception message: TileValidationError: This card requires values for the following: identifier_type]                      [Exception trace: Traceback (most recent call last):
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/views/tile.py", line 144, in post
+    tile.save(request=request, transaction_id=transaction_id)
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/models/tile.py", line 419, in save
+    self.check_for_missing_nodes()
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/models/tile.py", line 325, in check_for_missing_nodes
+    raise TileValidationError(message)
+arches.app.models.tile.TileValidationError: 'This card requires values for the following: identifier_type'
+]
+2025-02-24 07:48:20,723 arches.app.utils.data_management.resource_graphs.importer ERROR    duplicate key value violates unique constraint "functions_x_graphs_functionid_graphid_3628f538_uniq"
+DETAIL:  Key (functionid, graphid)=(60000000-0000-0000-0000-000000000001, bad5c854-aa48-454b-8cdf-d7e326022be8) already exists.
+Traceback (most recent call last):
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.errors.UniqueViolation: duplicate key value violates unique constraint "functions_x_graphs_functionid_graphid_3628f538_uniq"
+DETAIL:  Key (functionid, graphid)=(60000000-0000-0000-0000-000000000001, bad5c854-aa48-454b-8cdf-d7e326022be8) already exists.
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/utils/data_management/resource_graphs/importer.py", line 128, in import_graph
+    graph.save()
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/models/graph.py", line 536, in save
+    functionxgraph.save()
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/django/db/models/base.py", line 814, in save
+    self.save_base(
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/django/db/models/base.py", line 877, in save_base
+    updated = self._save_table(
+              ^^^^^^^^^^^^^^^^^
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/django/db/models/base.py", line 1020, in _save_table
+    results = self._do_insert(
+              ^^^^^^^^^^^^^^^^
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/django/db/models/base.py", line 1061, in _do_insert
+    return manager._insert(
+           ^^^^^^^^^^^^^^^^
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/django/db/models/query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/django/db/models/sql/compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.IntegrityError: duplicate key value violates unique constraint "functions_x_graphs_functionid_graphid_3628f538_uniq"
+DETAIL:  Key (functionid, graphid)=(60000000-0000-0000-0000-000000000001, bad5c854-aa48-454b-8cdf-d7e326022be8) already exists.
+
+2025-02-24 09:10:38,612 arches.app.views.tile ERROR    Unable to save. Please verify your input is valid [Tile id: ]                      [Exception message: TileValidationError: This card requires values for the following: identifier_content]                      [Exception trace: Traceback (most recent call last):
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/views/tile.py", line 144, in post
+    tile.save(request=request, transaction_id=transaction_id)
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/models/tile.py", line 419, in save
+    self.check_for_missing_nodes()
+  File "/Users/tw/Projects/ArchesProjects/NoordBrabant/brabantse_gebouwen/.venv/lib/python3.11/site-packages/arches/app/models/tile.py", line 325, in check_for_missing_nodes
+    raise TileValidationError(message)
+arches.app.models.tile.TileValidationError: 'This card requires values for the following: identifier_content'
+]
+2025-02-25 00:16:33,240 arches.app.utils.data_management.resource_graphs.importer WARNING  No ontologies have been loaded. Any GraphModel that depends on an ontology cannot be loaded.
+2025-02-25 00:18:05,774 arches.app.utils.data_management.resources.formats.csvfile WARNING  The name_content node participates in the name display function.
+2025-02-25 00:18:05,774 arches.app.utils.data_management.resources.formats.csvfile WARNING  The name_content node participates in the map_popup display function.
+2025-02-25 00:18:05,774 arches.app.utils.data_management.resources.formats.csvfile WARNING  No nodes participate in the description display function.
+2025-02-25 00:19:53,141 arches.app.utils.data_management.resources.formats.csvfile WARNING  The name_content node participates in the name display function.
+2025-02-25 00:19:53,142 arches.app.utils.data_management.resources.formats.csvfile WARNING  No nodes participate in the map_popup display function.
+2025-02-25 00:19:53,142 arches.app.utils.data_management.resources.formats.csvfile WARNING  The name_content node participates in the description display function.
+2025-02-25 00:20:14,517 arches.app.utils.data_management.resources.formats.csvfile WARNING  The name_givenname node participates in the name display function.
+2025-02-25 00:20:14,517 arches.app.utils.data_management.resources.formats.csvfile WARNING  No nodes participate in the map_popup display function.
+2025-02-25 00:20:14,517 arches.app.utils.data_management.resources.formats.csvfile WARNING  The name_fullname node participates in the description display function.
+2025-02-25 00:20:32,358 arches.app.utils.data_management.resources.formats.csvfile WARNING  The  name_content node participates in the name display function.
+2025-02-25 00:20:32,358 arches.app.utils.data_management.resources.formats.csvfile WARNING  The name_content, name_type_old, name_source_reference, name nodes participate in the map_popup display function.
+2025-02-25 00:20:32,358 arches.app.utils.data_management.resources.formats.csvfile WARNING  The statement_content node participates in the description display function.

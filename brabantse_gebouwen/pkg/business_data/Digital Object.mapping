@@ -1,0 +1,112 @@
+{
+    "resource_model_id": "a25a7737-db7b-413d-b867-76fb108cf96e",
+    "resource_model_name": "Digital Object",
+    "nodes": [
+        {
+            "arches_nodeid": "4f23f996-72b2-11ef-a972-96a6d2455259",
+            "arches_node_name": "digital_file",
+            "file_field_name": "digital_file",
+            "data_type": "file-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "7c8e52aa-72b2-11ef-a972-96a6d2455259",
+            "arches_node_name": "digital_file_type",
+            "file_field_name": "digital_file_type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "acbb3f02-72b1-11ef-a972-96a6d2455259",
+            "arches_node_name": "digital_object_type",
+            "file_field_name": "digital_object_type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "a3895694-72b1-11ef-a972-96a6d2455259",
+            "arches_node_name": "digital_reference_type",
+            "file_field_name": "digital_reference_type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "a38956ee-72b1-11ef-a972-96a6d2455259",
+            "arches_node_name": "digital_reference_uri",
+            "file_field_name": "digital_reference_uri",
+            "data_type": "url",
+            "export": true
+        },
+        {
+            "arches_nodeid": "46c43e24-72b1-11ef-a972-96a6d2455259",
+            "arches_node_name": "identifier_content",
+            "file_field_name": "identifier_content",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "46c43e88-72b1-11ef-a972-96a6d2455259",
+            "arches_node_name": "identifier_type",
+            "file_field_name": "identifier_type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "76f4a340-72b1-11ef-a972-96a6d2455259",
+            "arches_node_name": "name_content",
+            "file_field_name": "name_content",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "76f4a3e0-72b1-11ef-a972-96a6d2455259",
+            "arches_node_name": "name_content_language",
+            "file_field_name": "name_content_language",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "76f4a39a-72b1-11ef-a972-96a6d2455259",
+            "arches_node_name": "name_content_type",
+            "file_field_name": "name_content_type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "fff74ef4-72b1-11ef-a972-96a6d2455259",
+            "arches_node_name": "statement_content",
+            "file_field_name": "statement_content",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "fff74f3a-72b1-11ef-a972-96a6d2455259",
+            "arches_node_name": "statement_language",
+            "file_field_name": "statement_language",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b5f66b8e-f04a-11ef-bddd-96a6d245525a",
+            "arches_node_name": "statement_source_reference",
+            "file_field_name": "statement_source_reference",
+            "data_type": "resource-instance",
+            "export": true
+        },
+        {
+            "arches_nodeid": "fff74f76-72b1-11ef-a972-96a6d2455259",
+            "arches_node_name": "statement_type",
+            "file_field_name": "statement_type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        }
+    ]
+}

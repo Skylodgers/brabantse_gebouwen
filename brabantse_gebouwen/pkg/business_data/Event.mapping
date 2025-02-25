@@ -1,0 +1,88 @@
+{
+    "resource_model_id": "fd02a1f8-2965-4f14-81d7-bb8c57e87cbf",
+    "resource_model_name": "Event",
+    "nodes": [
+        {
+            "arches_nodeid": "2e9d96fc-7283-11ef-a972-96a6d2455259",
+            "arches_node_name": "identifier_content",
+            "file_field_name": "identifier_content",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "2e9d97c4-7283-11ef-a972-96a6d2455259",
+            "arches_node_name": "identifier_type",
+            "file_field_name": "identifier_type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "7aa0c3e4-7283-11ef-a972-96a6d2455259",
+            "arches_node_name": "name_content",
+            "file_field_name": "name_content",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "b492d772-7283-11ef-a972-96a6d2455259",
+            "arches_node_name": "name_content_language",
+            "file_field_name": "name_content_language",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "8ebce16e-7283-11ef-a972-96a6d2455259",
+            "arches_node_name": "name_content_type",
+            "file_field_name": "name_content_type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "07bee990-7284-11ef-a972-96a6d2455259",
+            "arches_node_name": "statement_content",
+            "file_field_name": "statement_content",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "07bee9cc-7284-11ef-a972-96a6d2455259",
+            "arches_node_name": "statement_language",
+            "file_field_name": "statement_language",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "07bee92c-7284-11ef-a972-96a6d2455259",
+            "arches_node_name": "statement_source_reference",
+            "file_field_name": "statement_source_reference",
+            "data_type": "resource-instance-list",
+            "export": true
+        },
+        {
+            "arches_nodeid": "07beea08-7284-11ef-a972-96a6d2455259",
+            "arches_node_name": "statement_type",
+            "file_field_name": "statement_type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        },
+        {
+            "arches_nodeid": "f99033ec-7283-11ef-a972-96a6d2455259",
+            "arches_node_name": "timespan_end",
+            "file_field_name": "timespan_end",
+            "data_type": "edtf",
+            "export": true
+        },
+        {
+            "arches_nodeid": "f9903310-7283-11ef-a972-96a6d2455259",
+            "arches_node_name": "timespan_start",
+            "file_field_name": "timespan_start",
+            "data_type": "edtf",
+            "export": true
+        }
+    ]
+}
