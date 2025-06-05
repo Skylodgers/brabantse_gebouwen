@@ -1,0 +1,325 @@
+<records>
+<record id="Q2452">
+<rdf:RDF
+  xmlns:schema="https://schema.org/"
+  xmlns:custom="https://data.brabantcloud.nl/ns/custom#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <schema:LandmarksOrHistoricalBuildings rdf:about="https://n2t.net/ark:/15052/01e9b23c-3e65-4bdf-a730-b882c5bdcb53">
+    <custom:wikibaseURI rdf:resource="http://gebouwen.brabantcloud.nl/entity/Q2452"/>
+    <schema:name xml:lang="nl">Huis van de Heilige Anna</schema:name>
+    <schema:alternateName xml:lang="nl">Huis van de H. Anna</schema:alternateName>
+    <schema:alternateName xml:lang="nl">Huize St. Anna</schema:alternateName>
+    <schema:alternateName xml:lang="nl">Huize Sint-Anna</schema:alternateName>
+    <schema:additionalType rdf:resource="http://vocab.getty.edu/aat/300000641"/>
+    <custom:typeOfBuilding xml:lang="nl">Kloostergebouw</custom:typeOfBuilding>
+    <custom:isReplacedByURI rdf:resource="https://n2t.net/ark:/15052/d5e7bb8d-016f-4199-9c77-e5c37433850e"/>
+    <custom:architectURI>
+      <custom:Agent rdf:about="https://n2t.net/ark:/15052/6dc0f577-b706-4f18-83a8-50548f252d6f">
+        <skos:prefLabel xml:lang="nl">Johannes Heijkants</skos:prefLabel>
+        <skos:altLabel xml:lang="nl">J. Heijkants</skos:altLabel>
+      </custom:Agent>
+    </custom:architectURI>
+    <custom:religionURI>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/7a44be7c-1bdb-4edb-bb1c-083ee2003c72">
+        <skos:prefLabel xml:lang="nl">Rooms-Katholieke Kerk</skos:prefLabel>
+        <custom:wikidata rdf:resource="https://www.wikidata.org/wiki/Q9592"/>
+        <skos:altLabel xml:lang="nl">Katholieke Kerk</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Rooms Katholiek</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Rooms-Katholiek</skos:altLabel>
+      </skos:Concept>
+    </custom:religionURI>
+    <custom:religiousOrder>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/0a306ffd-cbaa-4361-a90d-37080645c471">
+        <skos:prefLabel xml:lang="nl">Franciscanessen van Veghel</skos:prefLabel>
+        <custom:wikidata rdf:resource="http://www.wikidata.org/entity/Q83546129"/>
+        <skos:altLabel xml:lang="nl">Zusters Franciscanessen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Franciscanessen van Veghel SFIC</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters Franciscanessen der Onbevlekte Ontvangenis van de Heilige Moeder Gods</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Franciscan Sisters of the Immaculate Conception</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters Franciscanessen SFIC</skos:altLabel>
+        <skos:altLabel xml:lang="nl">S.F.I.C.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">SFIC</skos:altLabel>
+      </skos:Concept>
+    </custom:religiousOrder>
+    <custom:placeURI>
+      <schema:PostalAddress rdf:about="https://n2t.net/ark:/15052/f5bdff81-6273-4be4-b6a2-e6f086cb5ee8">
+        <schema:streetAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oude Peelstraat 1</schema:streetAddress>
+        <schema:addressLocality xml:lang="nl">Helenaveen</schema:addressLocality>
+        <schema:addressRegion xml:lang="nl">Gemeente Deurne</schema:addressRegion>
+      </schema:PostalAddress>
+    </custom:placeURI>
+    <custom:dateDestroyedRaw rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1944-11-20T00:00:00+00:00</custom:dateDestroyedRaw>
+    <custom:dateInUseRaw rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1884-10-27T00:00:00+00:00</custom:dateInUseRaw>
+    <custom:dateNoLongerInUse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20-11-1944</custom:dateNoLongerInUse>
+    <custom:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31-7-1883</custom:dateCreated>
+    <custom:dateCreatedRaw rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1883-07-31T00:00:00+00:00</custom:dateCreatedRaw>
+    <custom:dateNoLongerInUseRaw rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1944-11-20T00:00:00+00:00</custom:dateNoLongerInUseRaw>
+    <custom:regioWiki rdf:resource="https://www.deurnewiki.nl/wiki/index.php?title=Huize_Sint-Anna"/>
+    <custom:dateInUse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27-10-1884</custom:dateInUse>
+    <custom:latLong rdf:datatype="http://www.opengis.net/ont/geosparql#wktLiteral">Point(5.9188 51.3885)</custom:latLong>
+    <custom:dateDestroyed rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20-11-1944</custom:dateDestroyed>
+  </schema:LandmarksOrHistoricalBuildings>
+</rdf:RDF>
+</record>
+<record id="Q2477">
+<rdf:RDF
+  xmlns:schema="https://schema.org/"
+  xmlns:custom="https://data.brabantcloud.nl/ns/custom#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <schema:LandmarksOrHistoricalBuildings rdf:about="https://n2t.net/ark:/15052/2ab1039e-8715-4d05-9798-9aeeb30e60c7">
+    <custom:wikibaseURI rdf:resource="http://gebouwen.brabantcloud.nl/entity/Q2477"/>
+    <schema:name xml:lang="nl">Klooster Heilige Paulus</schema:name>
+    <schema:alternateName xml:lang="nl">Klooster H. Paulus</schema:alternateName>
+    <schema:alternateName xml:lang="nl">Huize Paulus</schema:alternateName>
+    <schema:alternateName xml:lang="nl">Huis Paulus</schema:alternateName>
+    <schema:additionalType rdf:resource="http://vocab.getty.edu/aat/300000641"/>
+    <custom:typeOfBuilding xml:lang="nl">Kloostergebouw</custom:typeOfBuilding>
+    <custom:monumentStatus xml:lang="nl">Gemeentelijk monument</custom:monumentStatus>
+    <custom:monumentLinkRCE rdf:resource="https://nl.wikipedia.org/wiki/Lijst_van_gemeentelijke_monumenten_in_Eindhoven"/>
+    <custom:dedicationURI>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/a6881884-78b7-445e-be53-4c069482a072">
+        <skos:prefLabel xml:lang="nl">Paulus</skos:prefLabel>
+        <custom:wikidata rdf:resource="https://www.wikidata.org/entity/Q9200"/>
+        <skos:altLabel xml:lang="nl">Sint-Paulus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Paulus (apostel)</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Saulus van Tarsus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Sint Paulus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Saulus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Paulus van Tarsus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">De Apostel Paulus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Apostel Paulus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">St. Paulus</skos:altLabel>
+      </skos:Concept>
+    </custom:dedicationURI>
+    <custom:architectURI>
+      <custom:Agent rdf:about="https://n2t.net/ark:/15052/360909c2-8b88-4684-adc4-46aabd53efa6">
+        <skos:prefLabel xml:lang="nl">Louis Kooken</skos:prefLabel>
+        <custom:wikidata rdf:resource="https://www.wikidata.org/entity/Q2036765"/>
+        <skos:altLabel xml:lang="nl">L.J.P. Kooken</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Louis Joseph Petrus Kooken</skos:altLabel>
+      </custom:Agent>
+    </custom:architectURI>
+    <custom:religionURI>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/7a44be7c-1bdb-4edb-bb1c-083ee2003c72">
+        <skos:prefLabel xml:lang="nl">Rooms-Katholieke Kerk</skos:prefLabel>
+        <custom:wikidata rdf:resource="https://www.wikidata.org/wiki/Q9592"/>
+        <skos:altLabel xml:lang="nl">Rooms Katholiek</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Katholieke Kerk</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Rooms-Katholiek</skos:altLabel>
+      </skos:Concept>
+    </custom:religionURI>
+    <custom:religiousOrder>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/9cc891f8-15a6-441b-aefa-da2b7f749b24">
+        <skos:prefLabel xml:lang="nl">Zusters van Liefde van Tilburg</skos:prefLabel>
+        <custom:wikidata rdf:resource="http://www.wikidata.org/entity/Q2125209"/>
+        <skos:altLabel xml:lang="nl">Sorores Caritatis Matris Misericordiae, S.C.M.M.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Liefde van Onze Lieve Vrouw, Moeder van Barmhartigheid</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Liefde van Onze Lieve Vrouwe van Barmhartigheid SCMM</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Tilburg</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Zusters van Liefde van O.L.V. Moeder van Barmhartigheid</skos:altLabel>
+        <skos:altLabel xml:lang="nl">S.C.M.M.</skos:altLabel>
+        <skos:altLabel xml:lang="nl">SCMM</skos:altLabel>
+        <skos:altLabel xml:lang="nl">De Zusters van Liefde van Tilburg</skos:altLabel>
+        <skos:altLabel xml:lang="nl">De Zusters van Liefde van Tilburg SCMM</skos:altLabel>
+      </skos:Concept>
+    </custom:religiousOrder>
+    <custom:placeURI>
+      <schema:PostalAddress rdf:about="https://n2t.net/ark:/15052/6659ec5c-c127-4432-ac32-8f67d4ec97a3">
+        <schema:streetAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Strijpsestraat 144</schema:streetAddress>
+        <schema:addressLocality xml:lang="nl">Eindhoven</schema:addressLocality>
+        <schema:addressRegion xml:lang="nl">Gemeente Eindhoven</schema:addressRegion>
+      </schema:PostalAddress>
+    </custom:placeURI>
+    <custom:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1909</custom:dateCreated>
+    <custom:latLong rdf:datatype="http://www.opengis.net/ont/geosparql#wktLiteral">Point(5.4575 51.4409)</custom:latLong>
+    <custom:dateInUse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1910</custom:dateInUse>
+    <custom:dateCreatedRaw rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1909-01-01T00:00:00+00:00</custom:dateCreatedRaw>
+    <custom:dateNoLongerInUse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20-8-1958</custom:dateNoLongerInUse>
+    <custom:dateInUseRaw rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1910-01-01T00:00:00+00:00</custom:dateInUseRaw>
+    <custom:dateNoLongerInUseRaw rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1958-08-20T00:00:00+00:00</custom:dateNoLongerInUseRaw>
+    <custom:mipURI rdf:resource="https://data.brabantcloud.nl/mip-gallery/brabantcloud_mip_ae031-002749"/>
+  </schema:LandmarksOrHistoricalBuildings>
+</rdf:RDF>
+</record>
+<record id="Q2522">
+<rdf:RDF
+  xmlns:schema="https://schema.org/"
+  xmlns:custom="https://data.brabantcloud.nl/ns/custom#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <schema:LandmarksOrHistoricalBuildings rdf:about="https://n2t.net/ark:/15052/6425d3f6-d339-4327-97da-4777ec9d29ce">
+    <custom:wikibaseURI rdf:resource="http://gebouwen.brabantcloud.nl/entity/Q2522"/>
+    <schema:name xml:lang="nl">Sint-Antoniuskerk</schema:name>
+    <schema:alternateName xml:lang="nl">Antonius Abtkerk</schema:alternateName>
+    <schema:alternateName xml:lang="nl">H. Antonius Abtkerk</schema:alternateName>
+    <schema:alternateName xml:lang="nl">St. Antoniuskerk</schema:alternateName>
+    <schema:alternateName xml:lang="nl">Sint Antoniuskerk</schema:alternateName>
+    <schema:alternateName xml:lang="nl">Heilige Antonius Abtkerk</schema:alternateName>
+    <schema:additionalType rdf:resource="http://vocab.getty.edu/aat/300007466"/>
+    <custom:typeOfBuilding xml:lang="nl">Kerkgebouw</custom:typeOfBuilding>
+    <custom:monumentStatus xml:lang="nl">Rijksmonument</custom:monumentStatus>
+    <custom:monumentLinkRCE rdf:resource="https://monumentenregister.cultureelerfgoed.nl/monumenten/32401"/>
+    <custom:dedicationURI>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/5de8a5c6-3674-4c25-947d-5636a515e477">
+        <skos:prefLabel xml:lang="nl">Antonius van Egypte</skos:prefLabel>
+        <custom:wikidata rdf:resource="https://www.wikidata.org/entity/Q170547"/>
+        <skos:altLabel xml:lang="nl">Sint-Anthonius-Abt</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Antonius Abt</skos:altLabel>
+        <skos:altLabel xml:lang="nl">H. Antonius Abt</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Antonius de Grote</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Antonius-Abt</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Antonius-Heremiet</skos:altLabel>
+        <skos:altLabel xml:lang="nl">H. Anthonius Abt</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Sint-Antonius Abt</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Sint-Antonius Kluizenaar</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Sint-Antonius-Abt</skos:altLabel>
+      </skos:Concept>
+    </custom:dedicationURI>
+    <custom:architectURI>
+      <custom:Agent rdf:about="https://n2t.net/ark:/15052/47030884-c96f-4dec-9186-968c07a0c334">
+        <skos:prefLabel xml:lang="nl">Wilhelmus Jacobus van Vogelpoel</skos:prefLabel>
+        <custom:wikidata rdf:resource="https://www.wikidata.org/entity/Q2678249"/>
+        <skos:altLabel xml:lang="nl">W.J. van Vogelpoel</skos:altLabel>
+      </custom:Agent>
+    </custom:architectURI>
+    <custom:religionURI>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/7a44be7c-1bdb-4edb-bb1c-083ee2003c72">
+        <skos:prefLabel xml:lang="nl">Rooms-Katholieke Kerk</skos:prefLabel>
+        <custom:wikidata rdf:resource="https://www.wikidata.org/wiki/Q9592"/>
+        <skos:altLabel xml:lang="nl">Katholieke Kerk</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Rooms Katholiek</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Rooms-Katholiek</skos:altLabel>
+      </skos:Concept>
+    </custom:religionURI>
+    <custom:imageURI>
+      <custom:WebResource rdf:about="https://n2t.net/ark:/15052/520f4049-94ea-420f-9665-c104bcd7724d">
+        <skos:prefLabel xml:lang="nl">Overlangel Rijksmonument 32401 kerk</skos:prefLabel>
+        <custom:rightsLabel rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Creative Commons Zero, Public Domain Dedication</custom:rightsLabel>
+        <custom:rightsURI rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/deed.en"/>
+        <custom:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Havang(nl)</custom:creator>
+        <custom:imageLink rdf:resource="https://upload.wikimedia.org/wikipedia/commons/2/24/Overlangel_Rijksmonument_32401_kerk.JPG"/>
+        <custom:wikiBaseURI rdf:resource="http://gebouwen.brabantcloud.nl/entity/Q2274"/>
+      </custom:WebResource>
+    </custom:imageURI>
+    <custom:imageURI>
+      <custom:WebResource rdf:about="https://n2t.net/ark:/15052/fd36520f-f07f-42ed-a744-dc1c2b3d57d0">
+        <skos:prefLabel xml:lang="nl">Overlangel, flêche surmontée d'un bateau à voile</skos:prefLabel>
+        <custom:rightsLabel rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Public domain</custom:rightsLabel>
+        <custom:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Havang(nl)</custom:creator>
+        <custom:imageLink rdf:resource="https://upload.wikimedia.org/wikipedia/commons/2/2b/Overlangel%2C_fl%C3%AAche_surmont%C3%A9e_d%27un_bateau_%C3%A0_voile.JPG"/>
+        <custom:wikiBaseURI rdf:resource="http://gebouwen.brabantcloud.nl/entity/Q1759"/>
+      </custom:WebResource>
+    </custom:imageURI>
+    <custom:placeURI>
+      <schema:PostalAddress rdf:about="https://n2t.net/ark:/15052/5562fdbe-c1b2-4fc7-bd75-c2a491730609">
+        <schema:streetAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kerkstraat 20</schema:streetAddress>
+        <schema:addressLocality xml:lang="nl">Overlangel</schema:addressLocality>
+        <schema:addressRegion xml:lang="nl">Gemeente Oss</schema:addressRegion>
+      </schema:PostalAddress>
+    </custom:placeURI>
+    <custom:latLong rdf:datatype="http://www.opengis.net/ont/geosparql#wktLiteral">Point(5.6731 51.7755)</custom:latLong>
+    <custom:dateCreatedRaw rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1854-01-01T00:00:00+00:00</custom:dateCreatedRaw>
+    <custom:wikidata rdf:resource="https://www.wikidata.org/entity/Q17439346"/>
+    <custom:rightsURI rdf:resource="http://gebouwen.brabantcloud.nl/entity/Q2274"/>
+    <custom:rightsURI rdf:resource="http://gebouwen.brabantcloud.nl/entity/Q1759"/>
+    <custom:dateInUse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9-1854</custom:dateInUse>
+    <custom:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1854</custom:dateCreated>
+    <custom:dbpedia rdf:resource="http://nl.dbpedia.org/resource/Sint-Antoniuskerk_(Overlangel)"/>
+    <custom:mipURI rdf:resource="https://data.brabantcloud.nl/mip-gallery/brabantcloud_mip_mk091-000637"/>
+    <custom:dateInUseRaw rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1854-09-01T00:00:00+00:00</custom:dateInUseRaw>
+    <custom:reliWiki rdf:resource="https://reliwiki.nl/index.php/Overlangel,_Kerkstraat_20_-_Antonius_Abt"/>
+  </schema:LandmarksOrHistoricalBuildings>
+</rdf:RDF>
+</record>
+<record id="Q2543">
+<rdf:RDF
+  xmlns:schema="https://schema.org/"
+  xmlns:custom="https://data.brabantcloud.nl/ns/custom#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <schema:LandmarksOrHistoricalBuildings rdf:about="https://n2t.net/ark:/15052/8ee8afb4-5818-40fe-85e4-46ab45e23a5d">
+    <custom:wikibaseURI rdf:resource="http://gebouwen.brabantcloud.nl/entity/Q2543"/>
+    <schema:name xml:lang="nl">Sint-Lambertuskerk</schema:name>
+    <schema:alternateName xml:lang="nl">Lambertuskerk</schema:alternateName>
+    <schema:alternateName xml:lang="nl">Sint Lambertuskerk</schema:alternateName>
+    <schema:alternateName xml:lang="nl">St. Lambertuskerk</schema:alternateName>
+    <schema:alternateName xml:lang="nl">R.K. Sint-Lambertuskerk</schema:alternateName>
+    <schema:alternateName xml:lang="nl">RK Sint-Lambertuskerk</schema:alternateName>
+    <schema:additionalType rdf:resource="http://vocab.getty.edu/aat/300007466"/>
+    <custom:typeOfBuilding xml:lang="nl">Kerkgebouw</custom:typeOfBuilding>
+    <custom:replacesPreviousURI rdf:resource="https://n2t.net/ark:/15052/3a739103-c273-47a1-9f8c-224d397fe0fa"/>
+    <custom:monumentStatus xml:lang="nl">Rijksmonument</custom:monumentStatus>
+    <custom:monumentLinkRCE rdf:resource="https://monumentenregister.cultureelerfgoed.nl/monumenten/518193"/>
+    <custom:dedicationURI>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/9c1f658e-5529-4693-a9b2-9f9143e7d586">
+        <skos:prefLabel xml:lang="nl">Lambertus van Maastricht</skos:prefLabel>
+        <custom:wikidata rdf:resource="https://www.wikidata.org/entity/Q283447"/>
+        <skos:altLabel xml:lang="nl">Lambert</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Lambertus van Luik</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Lambrecht</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Landebertus</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Sint-Lambertus</skos:altLabel>
+      </skos:Concept>
+    </custom:dedicationURI>
+    <custom:dedicationURI>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/1ebb7107-6cf4-4861-9100-39c394f12099">
+        <skos:prefLabel xml:lang="nl">Eligius van Noyon</skos:prefLabel>
+        <custom:wikidata rdf:resource="https://www.wikidata.org/entity/Q360798"/>
+        <skos:altLabel xml:lang="nl">Eligius</skos:altLabel>
+      </skos:Concept>
+    </custom:dedicationURI>
+    <custom:architectURI>
+      <custom:Agent rdf:about="https://n2t.net/ark:/15052/f4027efe-b445-4c43-bfde-0f1c5fee996d">
+        <skos:prefLabel xml:lang="nl">Caspar Franssen</skos:prefLabel>
+        <custom:wikidata rdf:resource="http://www.wikidata.org/entity/Q2682321"/>
+        <skos:altLabel xml:lang="nl">C.J.H. Franssen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Caspar Johannes Hubertus Franssen</skos:altLabel>
+        <skos:altLabel xml:lang="nl">C. Franssen</skos:altLabel>
+      </custom:Agent>
+    </custom:architectURI>
+    <custom:religionURI>
+      <skos:Concept rdf:about="https://n2t.net/ark:/15052/7a44be7c-1bdb-4edb-bb1c-083ee2003c72">
+        <skos:prefLabel xml:lang="nl">Rooms-Katholieke Kerk</skos:prefLabel>
+        <custom:wikidata rdf:resource="https://www.wikidata.org/wiki/Q9592"/>
+        <skos:altLabel xml:lang="nl">Rooms-Katholiek</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Rooms Katholiek</skos:altLabel>
+        <skos:altLabel xml:lang="nl">Katholieke Kerk</skos:altLabel>
+      </skos:Concept>
+    </custom:religionURI>
+    <custom:imageURI>
+      <custom:WebResource rdf:about="https://n2t.net/ark:/15052/2ce5e4e3-5a38-48f8-a69b-1fcb8d5b9281">
+        <skos:prefLabel xml:lang="nl">Huisseling, kerk foto3 RM518193 2012-03-19 13.10</skos:prefLabel>
+        <custom:rightsLabel rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Creative Commons Attribution-Share Alike 3.0</custom:rightsLabel>
+        <custom:rightsURI rdf:resource="https://creativecommons.org/licenses/by-sa/3.0"/>
+        <custom:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Michielverbeek</custom:creator>
+        <custom:imageLink rdf:resource="https://upload.wikimedia.org/wikipedia/commons/e/ed/Huisseling%2C_kerk_foto3_RM518193_2012-03-19_13.10.JPG"/>
+        <custom:wikiBaseURI rdf:resource="http://gebouwen.brabantcloud.nl/entity/Q1764"/>
+      </custom:WebResource>
+    </custom:imageURI>
+    <custom:placeURI>
+      <schema:PostalAddress rdf:about="https://n2t.net/ark:/15052/474dccc2-8012-4d56-bdf0-0c203fd9ce05">
+        <schema:streetAddress rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hamstraat 1</schema:streetAddress>
+        <schema:addressLocality xml:lang="nl">Huisseling</schema:addressLocality>
+        <schema:addressRegion xml:lang="nl">Gemeente Oss</schema:addressRegion>
+      </schema:PostalAddress>
+    </custom:placeURI>
+    <custom:latLong rdf:datatype="http://www.opengis.net/ont/geosparql#wktLiteral">Point(5.641 51.7878)</custom:latLong>
+    <custom:dateCreated rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1911</custom:dateCreated>
+    <custom:dateCreatedRaw rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1911-01-01T00:00:00+00:00</custom:dateCreatedRaw>
+    <custom:wikidata rdf:resource="http://www.wikidata.org/entity/Q17594961"/>
+    <custom:dateInUseRaw rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1912-01-01T00:00:00+00:00</custom:dateInUseRaw>
+    <custom:dateInUse rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1912</custom:dateInUse>
+    <custom:rightsURI rdf:resource="http://gebouwen.brabantcloud.nl/entity/Q1764"/>
+    <custom:mipURI rdf:resource="https://data.brabantcloud.nl/mip-gallery/brabantcloud_mip_mk091-000616"/>
+    <custom:dbpedia rdf:resource="http://nl.dbpedia.org/resource/Sint-Lambertuskerk_(Huisseling)"/>
+    <custom:reliWiki rdf:resource="https://reliwiki.nl/index.php/Huisseling,_Hamstraat_1_-_Lambertus"/>
+  </schema:LandmarksOrHistoricalBuildings>
+</rdf:RDF>
+</record>
+</records>

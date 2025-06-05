@@ -1,0 +1,42 @@
+{
+  "name": "brabantse_gebouwen",
+  "graph": "Building",
+  "mappings": {
+    "places": {
+      "dataset": "monuments.json",
+      "card_order": "1",
+      "node_mappings": [
+        {
+          "from": "id",
+          "to": "resource_id"
+        },        
+        {
+          "from": "placeURI",
+          "to": "place_dict"
+        },
+        {
+          "from": "latLong",
+          "to": "material_location_coordinates_geo_json"
+        },
+        {
+          "from": "id",
+          "to": "material_identifier_content",
+          "constants": [
+            {
+              "material_identifier_type": "Brabant Cloud ARK Identifier"
+      
+            }
+          ]
+        },
+        {
+          "from": "latLong",
+          "to": "location_coordinates_geo_json"
+        }
+
+      ]
+    }
+    
+    
+  }
+}
+

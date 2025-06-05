@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/f5edc2dd-60f6-4341-8850-55599ca2f882">
+    <skos:altLabel xml:lang="nl">Russisch Orthodox</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Russisch Orthodoxe Kerk</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Russisch-Orthodoxe Kerk onder het Communisme</skos:altLabel>
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="https://n2t.net/ark:/1552/ReligionType/a32855cb-8a1d-55b7-bc88-6505f8904ef6">
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/a5b23b93-b7f1-4175-81ae-ce40f77a8a54"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/f5edc2dd-60f6-4341-8850-55599ca2f882"/>
+        <dcterms:title xml:lang="en">Religion Type</dcterms:title>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/8cc78b3f-daeb-403f-886c-8e42449438a5"/>
+        <dcterms:title xml:lang="nl">Religion Type</dcterms:title>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/01284d9c-dac0-434d-b05c-4ac5685436bd"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/7a44be7c-1bdb-4edb-bb1c-083ee2003c72"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/8d14bf8b-0d93-42e9-a837-430e98e9261d"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/6ff1fb5b-fcd0-4361-92e4-179282c3f400"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+    <skos:altLabel xml:lang="nl">Russisch-Orthodox</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Russisch-Orthodoxe Kerk</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/7a44be7c-1bdb-4edb-bb1c-083ee2003c72">
+    <skos:altLabel xml:lang="nl">Katholieke Kerk</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Rooms Katholiek</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Rooms-Katholieke Kerk</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Rooms-Katholiek</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligionType/a32855cb-8a1d-55b7-bc88-6505f8904ef6"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/8d14bf8b-0d93-42e9-a837-430e98e9261d">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligionType/a32855cb-8a1d-55b7-bc88-6505f8904ef6"/>
+    <skos:prefLabel xml:lang="nl">Anglicaanse Kerk</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/01284d9c-dac0-434d-b05c-4ac5685436bd">
+    <skos:altLabel xml:lang="nl">Gereformeerde Kerk</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligionType/a32855cb-8a1d-55b7-bc88-6505f8904ef6"/>
+    <skos:altLabel xml:lang="nl">Nederduitsche Gereformeerde Kerk</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Nederduitse Gereformeerde Kerk</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Nederduits(ch)e Gereformeerde Kerk</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/8cc78b3f-daeb-403f-886c-8e42449438a5">
+    <skos:altLabel xml:lang="nl">Protestantse Kerk</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Protestante Kerk in Nederland</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligionType/a32855cb-8a1d-55b7-bc88-6505f8904ef6"/>
+    <skos:prefLabel xml:lang="nl">Protestantse Kerk in Nederland</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Protestantse Kerk Nederland</skos:altLabel>
+    <skos:altLabel xml:lang="nl">PKN</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/a5b23b93-b7f1-4175-81ae-ce40f77a8a54">
+    <skos:prefLabel xml:lang="nl">Grieks-Orthodoxe Kerk</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligionType/a32855cb-8a1d-55b7-bc88-6505f8904ef6"/>
+    <skos:altLabel xml:lang="nl">Kerk van Griekenland</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/6ff1fb5b-fcd0-4361-92e4-179282c3f400">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/ReligionType/a32855cb-8a1d-55b7-bc88-6505f8904ef6"/>
+    <skos:prefLabel xml:lang="nl">Nederlandse Hervormde Kerk</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Nederlandsche Hervormde Kerk</skos:altLabel>
+  </skos:Concept>
+</rdf:RDF>

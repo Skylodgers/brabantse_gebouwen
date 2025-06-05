@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<records>
+  <record>
+    <id/>
+    <LandmarksOrHistoricalBuildings>
+      <id/>
+      <wikibaseURI/>
+      <name/>
+      <isReplacedByURI/>
+      <dateInUseRaw/>
+      <dateNoLongerInUse/>
+      <dateCreated/>
+      <regioWiki/>
+      <dateInUse/>
+      <latLong/>
+      <dateDestroyed/>
+      <imageURI>
+        <WebResource>
+          <id/>
+          <prefLabel/>
+          <rightsLabel/>
+          <rightsURI/>
+          <creator/>
+          <imageLink/>
+          <wikiBaseURI/>
+        </WebResource>
+      </imageURI>
+      <wikidata/>
+      <rightsURI/>
+      <dbpedia/>
+      <reliWiki/>
+      <replacesPreviousURI/>
+      <hasPartURI/>
+      <partOfURI/>
+    </LandmarksOrHistoricalBuildings>
+  </record>
+</records>

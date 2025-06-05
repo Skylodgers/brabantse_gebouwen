@@ -1,0 +1,693 @@
+code,concept
+MAR,marina
+PLFU,platform
+STNF,forest station
+AIRQ,abandoned airfield
+BAYS,bays
+CNYU,canyon
+TMTU,tablemount (or guyot)
+CNLA,aqueduct
+ANCH,anchorage
+CMPL,logging camp
+PPL,populated place
+MFGPH,phosphate works
+ISLF,artificial island
+TNGU,tongue
+WTRW,waterworks
+OILJ,oil pipeline junction
+CRDR,corridor
+BLDG,building(s)
+PNDSN,salt ponds
+HSP,hospital
+OILR,oil refinery
+SLCE,sluice
+RDGE,ridge(s)
+SALT,salt area
+CSWY,causeway
+TRL,trail
+RF,reef(s)
+RGN,region
+CSNO,casino
+MLWTR,water mill
+STMM,stream mouth(s)
+MALL,mall
+PPLL,populated locality
+AGRF,agricultural facility
+FAN,fan(s)
+MND,mound(s)
+ST,street
+PPLW,destroyed populated place
+BNK,bank(s)
+FORD,ford
+CNLB,canal bend
+CNLN,navigation canal(s)
+GHSE,guest house
+RMPU,ramp
+STMQ,abandoned watercourse
+STMS,streams
+GRVO,olive grove
+PTS,points
+TNL,tunnel
+SD,sound
+FLLS,waterfall(s)
+BDGQ,ruined bridge
+GRVC,coconut grove
+SHVU,shelf valley
+ML,mill(s)
+CONT,continent
+FNDY,foundry
+GAP,gap
+RSVI,intermittent reservoir
+PCLIX,section of independent political entity
+CARN,cairn
+MTS,mountains
+RKS,rocks
+RCH,reach
+ESTR,rubber plantation
+DCKB,docking basin
+DTCHM,ditch mouth(s)
+SPLY,spillway
+VAL,valley
+HLLS,hills
+WLLQ,abandoned well
+CAVE,cave(s)
+PRKHQ,park headquarters
+MLSG,sugar mill
+FRSTF,fossilized forest
+DAMQ,ruined dam
+MNDT,diatomite mine(s)
+CMN,common
+TRMO,oil pipeline terminal
+REST,restaurant
+RGNL,lake region
+RUIN,ruin(s)
+KRST,karst area
+MVA,maneuver area
+PPLH,historical populated place
+HMCK,hammock(s)
+RKFL,rockfall
+WADB,wadi bend
+PEN,peninsula
+TNLS,tunnels
+CHNN,navigation channel
+ESTT,tea plantation
+GRAZ,grazing area
+VALU,valley
+LKO,oxbow lake
+WALL,wall
+HBR,harbor(s)
+SCHL,Language School
+SCHL,language school
+KNLU,knoll
+DPRG,icecap depression
+HSPD,dispensary
+ADM1H,historical first-order administrative division
+GATE,gate
+ZN,zone
+STMSB,lost river
+HDLD,headland
+RFSU,reefs
+SECP,State Exam Prep Centre
+LK,lake
+SCHC,college
+ZZZZZ,master source holdings list
+BCN,beacon
+CTRCM,community center
+STMIX,section of intermittent stream
+SBKH,sabkha(s)
+BTL,battlefield
+QCKS,quicksand
+BLHL,blowhole(s)
+ASYL,asylum
+RET,store
+TRIG,triangulation station
+SPUR,spur(s)
+ADMH,historical administrative division
+NRWS,narrows
+COMC,communication center
+CULT,cultivated area
+SCNU,seachannel
+STRT,strait
+PNDSF,fishponds
+LAVA,lava area
+HLSU,hills
+SWMP,swamp
+BNCH,bench
+SEA,sea
+PLNX,section of plain
+PPLA3,seat of a third-order administrative division
+RSV,reservoir(s)
+STNB,scientific research base
+FSR,fissure
+MLSW,sawmill
+STMC,canalized stream
+CNSU,canyons
+CNLX,section of canal
+MFGB,brewery
+PKU,peak
+NVB,naval base
+PND,pond
+CLDA,caldera
+RESW,wildlife reserve
+OILW,oil well
+PPLG,seat of government of a political entity
+PASS,pass
+BSND,drainage basin
+SHFU,shelf
+WTLDI,intermittent wetland
+OILQ,abandoned oil well
+CHNM,marine channel
+RYD,railroad yard
+SCRP,escarpment
+LGNX,section of lagoon
+TNKD,cattle dipping tank
+PK,peak
+CTRS,space center
+CMPO,oil camp
+ZOO,zoo
+RESV,reservation
+ZNB,buffer zone
+PCLI,independent political entity
+SCH,school
+FURU,furrow
+RDB,road bend
+QUAY,quay
+TMB,tomb(s)
+CNLQ,abandoned canal
+CRRL,corral(s)
+SCHM,military school
+WADX,section of wadi
+MNDU,mound
+PLN,plain(s)
+MNQR,quarry(-ies)
+OILF,oilfield
+PIER,pier
+RK,rock
+AMTH,amphitheater
+BP,boundary marker
+RSVT,water tank
+MNQ,abandoned mine
+SQR,square
+HTL,hotel
+NOV,novitiate
+PCLF,freely associated state
+ADM3,third-order administrative division
+STMI,intermittent stream
+BCHS,beaches
+BNKR,stream bank
+RECG,golf course
+SDLU,saddle
+SLPU,slope
+FANU,fan
+FLTM,mud flat(s)
+RES,reserve
+SILU,sill
+AIRP,airport
+CAPE,cape
+INDS,industrial area
+VLC,volcano
+SLID,slide
+ESTSG,sugar plantation
+GDN,garden(s)
+BCH,beach
+CDAU,cordillera
+POOL,pool(s)
+DEVH,housing development
+CAPG,icecap
+SPNT,hot spring(s)
+VALX,section of valley
+LKS,lakes
+DSRT,desert
+ESTO,oil palm plantation
+RECR,racetrack
+FLDI,irrigated field(s)
+ERG,sandy desert
+HOLU,hole
+ITTR,research institute
+ISLT,land-tied island
+OBSR,radio observatory
+PAN,pan
+MUS,museum
+AIRH,heliport
+DUNE,dune(s)
+DTCH,ditch
+SNTR,sanatorium
+RSTP,railroad stop
+MTU,mountain
+CTRR,religious center
+BOG,bog(s)
+SBED,dry stream bed
+PNDN,salt pond
+RD,road
+BDLU,borderland
+OCH,orchard(s)
+DARY,dairy
+STMX,section of stream
+PPLC,capital of a political entity
+TUND,tundra
+REG,stony desert
+LGNS,lagoons
+FLLSX,section of waterfall(s)
+SPIT,spit
+BRKW,breakwater
+ADM2,second-order administrative division
+MNC,coal mine(s)
+CH,church
+MILB,military base
+STMA,anabranch
+NSY,nursery(-ies)
+LDNG,landing
+ADMD,administrative division
+TERU,terrace
+MFGM,munitions plant
+FJDS,fjords
+ARCU,arch
+RDCR,traffic circle
+ATM,automatic teller machine
+SHOL,shoal(s)
+SYSI,irrigation system
+MGV,mangrove swamp
+CUET,cuesta(s)
+PPQ,abandoned police post
+GOSP,gas-oil separator plant
+LTHSE,lighthouse
+PYRS,pyramids
+PRK,park
+MOTU,moat
+VIN,vineyard
+CMPQ,abandoned camp
+EDGU,shelf edge
+ADM4,fourth-order administrative division
+SNOW,snowfield
+STNI,inspection station
+BKSU,banks
+RNCH,ranch(es)
+GHAT,ghat
+LTER,leased area
+CRKT,tidal creek(s)
+MNFE,iron mine(s)
+HSPL,leprosarium
+BSTN,baling station
+PSTB,border post
+CNL,canal
+CMPRF,refugee camp
+RGNE,economic region
+ESTB,banana plantation
+PCLH,historical political entity
+PLAT,plateau
+ARCH,arch
+TAL,talus slope
+BRKS,barracks
+GRGE,gorge(s)
+MSTY,monastery
+CTRA,atomic center
+LKSC,crater lakes
+PS,power station
+RDGU,ridge
+JTY,jetty
+RISU,rise
+LAND,arctic land
+PPLS,populated places
+FRST,forest(s)
+PKLT,parking lot
+PNDNI,intermittent salt pond(s)
+VETF,veterinary facility
+FRMS,farms
+CFT,cleft(s)
+SCSU,seachannels
+FRZU,fracture zone
+HSEC,country house
+MTRO,metro station
+ESTSL,sisal plantation
+LIBR,library
+WAD,wadi
+ADM3H,historical third-order administrative division
+GOVL,local government office
+TMSU,tablemounts (or guyots)
+UNIO,postgrad & MBA
+RDSU,ridges
+OCN,ocean
+WHRL,whirlpool
+MLWND,windmill
+RLG,religious site
+PNDSI,intermittent ponds
+PEAT,peat cutting area
+ISLX,section of island
+MNSN,tin mine(s)
+OAS,oasis(-es)
+BAY,bay
+MOLE,mole
+LEPC,leper colony
+MFGSG,sugar refinery
+LKC,crater lake
+SPA,spa
+CNFL,confluence
+OILP,oil pipeline
+PPLR,religious populated place
+CVNT,convent
+VLSU,valleys
+SLP,slope(s)
+MOOR,moor(s)
+PRT,port
+AIRB,airbase
+CRTR,crater(s)
+FLTU,flat
+BGHT,bight(s)
+FY,ferry
+GRSLD,grassland
+UNIV,university
+EST,estate(s)
+TERR,territory
+SWT,sewage treatment plant
+BUSH,bush(es)
+CNLD,drainage canal
+LKN,salt lake
+RDST,roadstead
+DCK,dock(s)
+RESP,palm tree reserve
+RSRT,resort
+MDVU,median valley
+CNLI,irrigation canal
+RDA,ancient road
+TNLC,canal tunnel
+CSTM,customs house
+SHLU,shoal
+TWO,temp work office
+HTH,heath
+BDLD,badlands
+LGN,lagoon
+CTRB,business center
+RSD,railroad siding
+ANS,ancient site
+RSTPQ,abandoned railroad stop
+SCHT,technical school
+PLDR,polder
+GLYU,gully
+RFU,reef
+TNLRR,railroad tunnel
+WALLA,ancient wall
+RR,railroad
+MN,mine(s)
+PCLS,semi-independent political entity
+CLF,cliff(s)
+ISL,island
+RKRY,rookery
+FT,fort
+PRKGT,park gate
+MT,mountain
+RNGA,artillery range
+ADM5,fifth-order administrative division
+FCL,facility
+HSPC,clinic
+THTR,theater
+PAL,palace
+PCLD,dependent political entity
+GLCR,glacier(s)
+OVF,overfalls
+RFX,section of reef
+ARRU,arrugado
+BUSTP,bus stop
+CMTY,cemetery
+WTRC,watercourse
+DAMSB,sub-surface dam
+HUT,hut
+WADJ,wadi junction
+PMPW,water pumping station
+LKSNI,intermittent salt lakes
+HSTS,historical site
+RSTN,railroad station
+RVN,ravine(s)
+ESTY,estuary
+RLGR,retreat
+LKI,intermittent lake
+PGDA,pagoda
+SAND,sand area
+DPOF,fuel depot
+INLTQ,former inlet
+PSTP,patrol post
+VINS,vineyards
+PRSH,parish
+FISH,fishing area
+SCHA,agricultural school
+PKSU,peaks
+ZNF,free trade zone
+TRANT,transit terminal
+PMPO,oil pumping station
+ASTR,astronomical station
+PRNQ,abandoned prison
+MESU,mesa
+TREE,tree(s)
+PPLQ,abandoned populated place
+RESN,nature reserve
+CUTF,cutoff
+PRMN,promenade
+RESA,agricultural reserve
+MKT,market
+BLDO,office building
+PO,post office
+STMB,stream bend
+MNA,mining area
+DIP,diplomatic facility
+DLTA,delta
+FLTT,tidal flat(s)
+BSNP,petroleum basin
+STM,stream
+HUTS,huts
+ISLET,islet
+BNCU,bench
+CRSU,continental rise
+DEPU,deep
+BANK,bank
+SHSU,shoals
+STNW,whaling station
+CTRF,facility center
+STPS,steps
+STBL,stable
+HMDA,rock desert
+WTLD,wetland
+BNKU,bank
+CSTL,castle
+TRR,terrace
+VALG,hanging valley
+MFGN,salt evaporation ponds
+FRM,farm
+BLOW,blowout(s)
+WRCK,wreck
+RAVU,ravine
+HSE,house(s)
+AQC,aquaculture facility
+AGRC,agricultural colony
+PLTU,plateau
+TOWR,tower
+PENX,section of peninsula
+PSTC,customs post
+TMPL,temple(s)
+SDL,saddle
+PNLU,pinnacle
+WTRH,waterhole(s)
+PPLA4,seat of a fourth-order administrative division
+SILL,sill
+RDGG,icecap ridge
+CTRM,medical center
+SMSU,seamounts
+UPLD,upland
+SCRB,scrubland
+ATHF,athletic field
+BAR,bar
+INTF,interfluve
+NKM,meander neck
+CNS,concession area
+CMPMN,mining camp
+MNAU,gold mine(s)
+BTYD,boatyard
+TNLN,natural tunnel
+MNNI,nickel mine(s)
+PPLX,section of populated place
+PYR,pyramid
+DPR,depression(s)
+WADM,wadi mouth
+MRN,moraine
+ATOL,atoll(s)
+GRVP,palm grove
+CHN,channel
+LBED,lake bed(s)
+PROM,promontory(-ies)
+DCKD,dry dock
+MFGC,cannery
+LKX,section of lake
+OBS,observatory
+WADS,wadies
+REP,republic
+GULF,gulf
+PRNJ,reformatory
+GRVPN,pine grove
+STNM,meteorological station
+LNDF,landfill
+LEVU,levee
+LCTY,locality
+STNC,coast guard station
+OBPT,observation point
+CRQS,cirques
+MDW,meadow
+PCL,political entity
+CMP,camp(s)
+BUR,burial cave(s)
+PPLF,farm village
+MFG,factory
+ASPH,asphalt lake
+VALS,valleys
+CRNT,current
+MFGLM,limekiln
+WEIR,weir(s)
+BUSTN,bus station
+FRSU,forks
+CONE,cone(s)
+COLF,coalfield
+TRNU,trench
+FJD,fjord
+MRSHN,salt marsh
+PNDI,intermittent pond
+SHSE,storehouse
+UNIP,university prep school
+WHRF,wharf(-ves)
+RJCT,railroad junction
+DCKY,dockyard
+MNPB,lead mine(s)
+ESTX,section of estate
+RPDS,rapids
+RTE,caravan route
+HLL,hill
+RRQ,abandoned railroad
+FRMQ,abandoned farm
+MSSNQ,abandoned mission
+FRMT,farmstead
+GYSR,geyser
+STMD,distributary(-ies)
+STNR,radio station
+BUTE,butte(s)
+LOCK,lock(s)
+PKS,peaks
+CHNL,lake channel(s)
+INLT,inlet
+MNN,salt mine(s)
+NTK,nunatak
+MLSGQ,former sugar mill
+MNMT,monument
+ISLS,islands
+PTGE,portage
+MSQE,mosque
+AMUS,amusement park
+COVE,cove(s)
+DTCHD,drainage ditch
+BSNU,basin
+STMH,headwaters
+CNLSB,underground irrigation canal(s)
+SMU,seamount
+SCHD,Driving School
+SHPF,sheepfold
+MTSU,mountains
+CLG,clearing
+MLM,ore treatment plant
+MLO,olive oil mill
+WLL,well
+GASF,gasfield
+LDGU,ledge
+CMPLA,labor camp
+DOMG,icecap dome
+PLNU,plain
+RDGB,beach ridge
+TRGD,interdune trough(s)
+APNU,apron
+GAPU,gap
+LKSI,intermittent lakes
+HBRX,section of harbor
+MFGCU,copper works
+GRVE,grave
+LKSB,underground lake
+CCL,Centre Continuous Learning
+ADM2H,historical second-order administrative division
+MFGQ,abandoned factory
+KNSU,knolls
+RSTNQ,abandoned railroad station
+USGE,united states government establishment
+RFC,coral reef(s)
+BNKX,section of bank
+MNCU,copper mine(s)
+CSWYQ,former causeway
+POOLI,intermittent pool
+LKNI,intermittent salt lake
+SHOR,shore
+LKSN,salt lakes
+STKR,stock route
+NTKS,nunataks
+MRSH,marsh(es)
+RDJCT,road junction
+CNYN,canyon
+ADM4H,historical fourth-order administrative division
+STLMT,israeli settlement
+GVL,gravel area
+PPLA2,seat of a second-order administrative division
+SINK,sinkhole
+ESCU,escarpment (or scarp)
+PPLA,"seat of a first-order administrative
+            division"
+AIRF,airfield
+HERM,hermitage
+DTCHI,irrigation ditch
+AIRS,seaplane landing area
+RESF,forest reserve
+HLT,halting place
+CRQ,cirque
+DVD,divide
+FLD,field(s)
+BLDR,boulder field
+ISTH,isthmus
+PRN,prison
+RGNH,historical region
+OPRA,opera house
+PANS,pans
+INSM,military installation
+PPCLH,historical capital of a political entity
+SPRU,spur
+CTHSE,courthouse
+LEV,levee
+RSGNL,railroad signal
+PNDS,ponds
+RHSE,resthouse
+SCHN,maritime school
+MNCR,chrome mine(s)
+BDG,bridge
+HLLU,hill
+TNLRD,road tunnel
+MNPL,placer mine(s)
+PLATX,section of plateau
+DAM,dam
+HMSD,homestead
+CST,coast
+ADM1,first-order administrative division
+TRGU,trough
+ADMF,administrative facility
+LKOI,intermittent oxbow lake
+TRB,tribal area
+PT,point
+STNE,experiment station
+ESTC,cotton plantation
+MSSN,mission
+PSH,hydroelectric power station
+RESH,hunting reserve
+DIKE,dike
+SHRN,shrine
+STDM,stadium
+MESA,mesa(s)
+RNGU,range
+SPNS,sulphur spring(s)
+FRKU,fork
+WLLS,wells
+PRVU,province
+ISLM,mangrove island
+STNS,satellite station
+OILT,tank farm
+RDCUT,road cut
+AREA,area
+PP,police post
+SPNG,spring(s)

@@ -1,0 +1,4 @@
+ResourceID,card,card_order,source_id,identifier_content,identifier_type,type,name_content,name_type,name_language,part_of_location,annotation_population,annotation_timezone,country,coordinates_geo_json,coordinates_wkt,annotation_elevation
+8275b9e6-029d-44cd-b4c0-3807682ec2a2,single,0,2802816,https://www.geonames.org/2802816,Geonames identifier,populated place,Baarle-Hertog,Primary,Nederlands,"[{""resourceId"": ""f8356c5a-af05-59a6-b3b6-9ede0a23088c"", ""ontologyProperty"": """", ""resourceXresourceId"": ""85166e733-d29a-51b5-9448-114117246232"", ""inverseOntologyProperty"": """"}]",0,Europe/Amsterdam,NL,POINT (4.89226 51.40504),(4.89226 51.40504),
+
+

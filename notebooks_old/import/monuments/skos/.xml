@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:ConceptScheme rdf:about="https://n2t.net/ark:/1552//4ebd0208-8328-5d69-8c44-ec50939c0967">
+    <dcterms:title xml:lang="en"></dcterms:title>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="Kerktoren">
+        <skos:prefLabel xml:lang="nl">Kerktoren</skos:prefLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552//4ebd0208-8328-5d69-8c44-ec50939c0967"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="Kapel">
+        <skos:prefLabel xml:lang="nl">Kapel</skos:prefLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552//4ebd0208-8328-5d69-8c44-ec50939c0967"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <dcterms:title xml:lang="nl"></dcterms:title>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="Kloostergebouw">
+        <skos:prefLabel xml:lang="nl">Kloostergebouw</skos:prefLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552//4ebd0208-8328-5d69-8c44-ec50939c0967"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="Kerkgebouw">
+        <skos:prefLabel xml:lang="nl">Kerkgebouw</skos:prefLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552//4ebd0208-8328-5d69-8c44-ec50939c0967"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+  </skos:ConceptScheme>
+</rdf:RDF>

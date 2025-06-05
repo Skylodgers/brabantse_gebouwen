@@ -1,0 +1,192 @@
+{
+  "name": "brabantse_gebouwen",
+  "graph": "Place",
+  "mappings": {
+    "single": {
+      "dataset": "geonames_nb.csv",
+      "card_order": "0",
+      "node_mappings": [
+        {
+          "from": "geonameid",
+          "to": "source_id",
+          "resource_id": [
+            {
+              "args": "uuid5"
+            }
+          ]
+        },
+        {
+          "from": "geonameid",
+          "to": "identifier_content",
+          "constants": [
+            {
+              "identifier_type": "Geonames identifier"
+            }
+          ],
+          "function": {
+            "name": "generate_uri",
+            "args": {
+              "prefix": "https://www.geonames.org/"
+            }
+          }
+        },
+        {
+          "from": "feature_code",
+          "to": "type",
+          "function": {
+            "name": "lookup",
+            "args": {
+              "lookup_file": "feature_codes.csv"
+            }
+          }
+        },
+        {
+          "from": "name",
+          "to": "name_content",
+          "constants": [
+            {
+              "name_type": "Primary",
+              "name_language": "Nederlands"
+            }
+          ]
+        },
+        {
+          "from": "parentid",
+          "to": "part_of_location",
+          "function": {
+            "name": "related_resource"
+          }
+        },
+        {
+          "from": "population",
+          "to": "annotation_population"
+        },
+        {
+          "from": "elevation",
+          "to": "annotation_elevation"
+        },
+        {
+          "from": "digital_elevation_model",
+          "to": "annotation_digital_elevation_mode"
+        },
+        {
+          "from": "timezone",
+          "to": "annotation_timezone"
+        },
+        {
+          "from": "source_modification_date",
+          "to": "annotation_source_modification_date"
+        },
+        {
+          "from": "country_code",
+          "to": "country"
+        },
+        {
+          "from": "lat_long",
+          "to": "coordinates_geo_json",
+          "function": {
+            "name": "coordinates_geo_json"
+          }
+        },
+        {
+          "from": "lat_long",
+          "to": "coordinates_wkt",
+          "function": {
+            "name": "coordinates_wkt"
+          }
+        }
+      ]
+    },
+    "alternate_name": {
+      "dataset": "alternate_names_nb.csv",
+      "card_order": "1",
+      "fil  ter": [
+        {
+          "type": "exclude",
+          "source_field": "isolanguage",
+          "values": [
+            "post",
+            "link",
+            "unlc",
+            "wkdt",
+            "unic",
+            "iata"
+          ]
+        }
+      ],
+      "node_mappings": [
+        {
+          "from": "geonameid",
+          "to": "source_id",
+          "resource_id": [
+            {
+              "args": "uuid5"
+            }
+          ]
+        },
+        {
+          "from": "alternateNameId",
+          "to": "alternate_name_identifier_content",
+          "constants": [
+            {
+              "alternate_name_identifier_type": "Geonames identifier"
+            }
+          ]
+        },
+        {
+          "from": "alternate name",
+          "to": "alternate_name_content",
+          "constants": [
+            {
+              "alternate_name_content_type": "Alternative"
+            }
+          ]
+        },
+        {
+          "from": "name_type",
+          "to": "alternate_name_type"
+        },
+        {
+          "from": "isolanguage",
+          "to": "alternate_name_language"
+        }
+      ]
+    },
+    "digital_reference": {
+      "card_order": "2",
+      "filter": [
+        {
+          "type": "include",
+          "source_field": "isolanguage",
+          "values": [
+            "link"
+          ]
+        }
+      ],
+      "node_mappings": [
+        {
+          "from": "geonameid",
+          "to": "source_id",
+          "resource_id": [
+            {
+              "args": "uuid5"
+            }
+          ]
+        },
+        {
+          "from": "alternate name",
+          "to": "digital_reference_uri",
+          "constants": [
+            {
+              "alternate_name_content_type": "Alternate"
+            }
+          ]
+        },
+        {
+          "from": "isolanguage",
+          "to": "digital_reference_type"
+        }
+      ]
+    }
+  }
+}

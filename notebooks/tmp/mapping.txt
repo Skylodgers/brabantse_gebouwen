@@ -1,0 +1,31 @@
+##Single:
+dateNoLongerInUse
+dateCreated
+dateInUse
+dateDestroyed
+monumentLinkRCE
+replacesPreviousURI
+hasPartURI
+partOfURI
+
+
+##Single nested
+architectURI
+placeURI
+imageURI
+
+
+
+##Many
+
+religionURI
+religiousOrder
+dedicationURI
+
+##Many Group
+wikibaseURI
+regioWiki
+mipURI
+wikidata
+dbpedia
+reliWiki

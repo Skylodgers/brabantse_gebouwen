@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+>
+  <skos:ConceptScheme rdf:about="https://n2t.net/ark:/1552/BuildingAATType/6130abae-61d8-5d10-bffd-da3820e4c04c">
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/1552/c7ebf288-cc5a-52f6-b565-e2287258e747">
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/BuildingAATType/6130abae-61d8-5d10-bffd-da3820e4c04c"/>
+        <skos:prefLabel xml:lang="nl">http://vocab.getty.edu/aat/300000641</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/1552/ba440a67-40db-5f7d-b36a-974ed5184cbf">
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/BuildingAATType/6130abae-61d8-5d10-bffd-da3820e4c04c"/>
+        <skos:prefLabel xml:lang="nl">http://vocab.getty.edu/aat/300007466</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <dcterms:title xml:lang="en">Building AAT Type</dcterms:title>
+    <dcterms:title xml:lang="nl">Building AAT Type</dcterms:title>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/1552/d733d8a7-36cd-5a57-afaf-4a59d5ff0bf8">
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/BuildingAATType/6130abae-61d8-5d10-bffd-da3820e4c04c"/>
+        <skos:prefLabel xml:lang="nl">http://vocab.getty.edu/aat/300003625</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="https://n2t.net/ark:/1552/e4099e09-9c84-53aa-9958-7024bb789643">
+        <skos:prefLabel xml:lang="nl">http://vocab.getty.edu/aat/300004590</skos:prefLabel>
+        <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/BuildingAATType/6130abae-61d8-5d10-bffd-da3820e4c04c"/>
+      </skos:Concept>
+    </skos:hasTopConcept>
+  </skos:ConceptScheme>
+</rdf:RDF>

@@ -1,39 +1,74 @@
-If a tag is repeated on the same level, how do i remove duplicates and add "multiple = true and max_occur = x" as attributes? Like:
-
-<records>
-    <record>
-        <LandmarksOrHistoricalBuildings>
-            <religiousOrder>
-                <Concept>
-                    <id/>
-                    <prefLabel/>
-                    <wikidata/>
-                    <altLabel/>
-                    <altLabel/>
-                    <altLabel/>
-                    <altLabel/>
-                    <altLabel/>
-                    <altLabel/>
-                    <altLabel/>
-                </Concept>
-            </religiousOrder>
-        </LandmarksOrHistoricalBuildings>
-    </record>
-</records>
-
-to
-
-<records>
-    <record>
-        <LandmarksOrHistoricalBuildings>
-            <religiousOrder>
-                <Concept>
-                    <id/>
-                    <prefLabel/>
-                    <wikidata/>
-                    <altLabel multiple="true",  max_occur = "7"/>
-                </Concept>
-            </religiousOrder>
-        </LandmarksOrHistoricalBuildings>
-    </record>
-</records>
+<id>id=Q3093</id><LandmarksOrHistoricalBuildings>
+  <id>about=https://n2t.net/ark:/15052/ffd46251-90f0-47c1-ace6-e4e724466de2</id><wikibaseURI>resource="http://gebouwen.brabantcloud.nl/entity/Q3093"</wikibaseURI>
+  <name>Klooster Elzendaal</name>
+  <alternateName>Carmelietessenklooster</alternateName>
+  <alternateName>Karmelietessenklooster</alternateName>
+  <alternateName>Huis Elzendaal</alternateName>
+  <alternateName>Carmelitessenklooster</alternateName>
+  <alternateName>Huis Elzendael</alternateName>
+  <alternateName>Carmelietessenklooster Elzendaal</alternateName>
+  <alternateName>Karmelietessenklooster Elzendael</alternateName>
+  <alternateName>Huis Elsendael</alternateName>
+  <alternateName>Klooster Elsendael</alternateName>
+  <additionalType>resource="http://vocab.getty.edu/aat/300000641"</additionalType>
+  <typeOfBuilding>Kloostergebouw</typeOfBuilding>
+  <monumentStatus>Rijksmonument</monumentStatus>
+  <monumentLinkRCE>resource="https://monumentenregister.cultureelerfgoed.nl/monumenten/10027"</monumentLinkRCE>
+  <dedicationURI>
+    <Concept>
+      <id>about=https://n2t.net/ark:/15052/1f5fb0f6-362e-440f-9ecb-bf433c069b05</id><prefLabel>Maria Magdalena de’ Pazzi</prefLabel>
+      <wikidata>resource="https://www.wikidata.org/entity/Q242040"</wikidata>
+    </Concept>
+  </dedicationURI>
+  <religionURI>
+    <Concept>
+      <id>about=https://n2t.net/ark:/15052/7a44be7c-1bdb-4edb-bb1c-083ee2003c72</id><prefLabel>Rooms-Katholieke Kerk</prefLabel>
+      <wikidata>resource="https://www.wikidata.org/wiki/Q9592"</wikidata>
+      <altLabel>Rooms Katholiek</altLabel>
+      <altLabel>Katholieke Kerk</altLabel>
+      <altLabel>Rooms-Katholiek</altLabel>
+    </Concept>
+  </religionURI>
+  <imageURI>
+    <WebResource>
+      <id>about=https://n2t.net/ark:/15052/bac0942d-381c-432e-b949-6e775e4a7d3d</id><prefLabel>Boxmeer Rijksmonument 10027 klooster Elzendaal, straatzijde</prefLabel>
+      <rightsLabel>Creative Commons Zero, Public Domain Dedication</rightsLabel>
+      <rightsURI>resource="http://creativecommons.org/publicdomain/zero/1.0/deed.en"</rightsURI>
+      <creator>Havang(nl)</creator>
+      <imageLink>resource="https://upload.wikimedia.org/wikipedia/commons/d/d4/Boxmeer_Rijksmonument_10027_klooster_Elzendaal%2C_straatzijde.JPG"</imageLink>
+      <wikiBaseURI>resource="http://gebouwen.brabantcloud.nl/entity/Q1433"</wikiBaseURI>
+    </WebResource>
+  </imageURI>
+  <religiousOrder>
+    <Concept>
+      <id>about=https://n2t.net/ark:/15052/7d9a1986-350a-4a70-b720-ba9f61ef1d12</id><prefLabel>Karmelietessen</prefLabel>
+      <wikidata>resource="http://www.wikidata.org/entity/Q186277"</wikidata>
+      <altLabel>Monialen van de Orde van O.L. Vrouw van de Berg Karmel</altLabel>
+      <altLabel>Zusters van O.L. Vrouw van de Berg Karmel</altLabel>
+      <altLabel>O.Carm</altLabel>
+      <altLabel>OCarm</altLabel>
+      <altLabel>Karmelietessen OCarm</altLabel>
+      <altLabel>Geschoeide Karmelitessen</altLabel>
+      <altLabel>Karmelitessen</altLabel>
+      <altLabel>Orde van O.L. Vrouw van de Berg Karmel</altLabel>
+    </Concept>
+  </religiousOrder>
+  <placeURI>
+    <PostalAddress>
+      <id>about=https://n2t.net/ark:/15052/4cdbdfdf-b79c-4cec-aef1-acf7d68fac4a</id><streetAddress>Dokter Peelenstraat 6</streetAddress>
+      <addressLocality>Boxmeer</addressLocality>
+      <addressRegion>Gemeente Land van Cuijk</addressRegion>
+    </PostalAddress>
+  </placeURI>
+  <dateNoLongerInUse>1975</dateNoLongerInUse>
+  <rightsURI>resource="http://gebouwen.brabantcloud.nl/entity/Q1433"</rightsURI>
+  <dateCreatedRaw>1666-01-01T00:00:00+00:00</dateCreatedRaw>
+  <dateCreated>1666</dateCreated>
+  <wikidata>resource="http://www.wikidata.org/entity/Q2597405"</wikidata>
+  <dateInUseRaw>1672-09-02T00:00:00+00:00</dateInUseRaw>
+  <mipURI>resource="https://data.brabantcloud.nl/mip-gallery/brabantcloud_mip_mk016-001143"</mipURI>
+  <latLong>Point(5.9446 51.6447)</latLong>
+  <dateNoLongerInUseRaw>1975-01-01T00:00:00+00:00</dateNoLongerInUseRaw>
+  <dateInUse>2-9-1672</dateInUse>
+</LandmarksOrHistoricalBuildings>
+</record>

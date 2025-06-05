@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/fa76990a-4150-5003-8b9f-47cf8e0ab76b">
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684">
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/5dde0e49-3b86-5a4e-ab47-745378ba1882"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/076595e8-4e79-57d5-aa11-958eaacbd7de"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/9f21bca9-085f-5ec9-9266-2d7d9ec4384f"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/f33bae5d-2a20-548e-8a69-c141bfa90c77"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/51ad3a70-2faf-59b8-919b-8a407c2e4900"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/d1d8d829-d62f-53f5-9c3a-2614866fa344"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/8d05ed87-5027-5aae-ae95-77c137a1e62f"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/ce77ed6e-7b96-505b-8b84-caf681e11712"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/0c667741-7db1-5923-a628-138958b6336e"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/61b1d321-8d15-59af-99fd-19b214f1ad41"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/a6ca05a7-4fd3-507c-8ab2-7ccf842a6c40"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/5e6470cb-e543-53fe-8941-e34a79995183"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/c4e253a3-f9c2-5c23-b4d9-074adc917ee1"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/bf0bcc32-89d5-5d13-be17-4a64a9d4be19"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/ee5cfe0a-bc28-5656-8b14-3b4c06b3e0d2"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/8fc96e7f-e2b0-5786-9985-e5e64a96eb5e"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/5c960b69-ac8c-5257-859f-3e90d5ab3fd0"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/cf6ccbc6-05fd-5614-9575-08905604d953"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/af35aa61-ce42-52bf-9891-2da405324094"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/3632e163-edff-5e66-892f-d5a131ae4673"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/696ec7f9-c72c-5255-9573-37e4fa4e1d39"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/f22d49b4-24c2-593a-a1cf-c3a11fcd2cf9"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/10d67da5-1d87-5981-a3c3-d7477a71be92"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/5aec52ed-3944-56ce-8339-8d972e0e2038"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/b4c500cb-f419-5c0d-8629-ecc47ed92822"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/f519d829-631a-52c0-8a67-43b879325097"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/edf630dd-3518-588c-a183-e16e97b8cdc5"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/0ce05ca0-adff-5f44-9eac-7cc384754816"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/157cc7df-d876-5eac-8b2c-67096b8b2ae1"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/3bf15596-743d-5ad0-96fe-cee442b89f32"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/59a87cfc-8e00-5d40-a4fa-62d6bd29061e"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/24cd7d1b-cd6d-5abe-abf8-8503663cc42a"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/be4a13ba-0834-59da-95d9-a6b1b004e20a"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/5b663653-6d54-54b5-b937-3f99f36878f1"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/c26c6bc6-8786-56ba-8210-efea37278749"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/ac9bfc36-801b-59da-b662-e2454cb97966"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/2ebc7c04-d8e3-5a19-aaf4-1640cc0193fd"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/492101f7-4a51-54d8-a08f-22759e825585"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/3260783d-ccfe-54d7-83ff-269016f7a579"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/57fb7c09-288c-5c89-99d4-1c0268fc134e"/>
+        <dcterms:title xml:lang="en">Rights Type</dcterms:title>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/6a1d30ac-da39-5df8-8223-be1814a9a4ae"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/8b490d51-06de-527c-b1bd-0a01386288ea"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/7d85f57b-057a-5f38-91ab-37e693d54690"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/2267b1a5-2354-57fc-b90a-b07bd31daa27"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/c5c67bc5-5e18-5a4c-9363-cc28e388968b"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/be4bb6ee-6c4d-5710-9184-35e682d4f865"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/0e2e4bfb-668a-5fe9-bb12-229b38f3b745"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/a68250ef-cb8d-5a71-91c9-ded22bde9d4d"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/197a99b6-0fc1-52e6-9d42-2bb369b37b79"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/cb328729-4974-5fcf-bdba-69f20d902b29"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/e90da846-8fe7-54cb-b279-8f9536e85af2"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/d1123593-1f45-5ca1-b557-047e2f7cd10a"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/fa0123c8-7dab-53ee-b84d-b6a36103d809"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/6ed1579f-1220-5883-be20-1c6189133ebb"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/f7b7f91f-356b-59d9-b2ef-61380af81d28"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/4387a6ed-24dc-5012-8139-913ef0e9acd9"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/e61d7189-c148-5464-b795-ba78f3f68995"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/90b9873c-21b4-5777-ac03-1b8850fba816"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/124c5a15-d65b-509b-8aab-101e6491bdc1"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/47f07202-9973-5692-b085-2513ffe73fcc"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/2a419e06-61c2-57bd-bbf2-5c10ff0fc6c2"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/bb636c2b-cc36-556f-aa91-b15e2443fab7"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/e0b5d8af-bcad-5b63-89b8-524fc5b154cb"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/2802692a-0953-5a99-833e-fed25c16b1d9"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/0eb1801e-db70-5bd6-b649-6fec73a15946"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/798e8507-590f-5642-a256-e67452dd92f1"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/6f036297-f9ae-5fe6-a042-a4a2f6befb21"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/fd220ba1-10af-5bc4-9da6-38230e80b9da"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/79f25b31-5783-587e-81a5-89af186c7d72"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/95d6cea1-4fa9-5303-b8f9-ec9a2a00ea37"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/fbdd3518-f9c0-5922-9f3e-859cee2c95a8"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/1f5bcd02-17f6-5045-af40-b61e313cfebe"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/4511ba80-93c5-58f5-bdb4-f81dd6d68c4b"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/3eb36658-21dc-587a-8f91-c202e3fcfae9"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/24cd1d88-2103-57a5-8671-f28c858bec4a"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/d0029591-88d6-59cf-9cf3-4c6fefb264de"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/a0ec24e6-1331-5275-a8a2-ad55d629d782"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/70f99738-6dfe-51f1-b550-c7916c1eb56e"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/78f5efd3-43f3-54bb-b3b2-b060e1d469b0"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/0c0d8126-145c-5927-a72c-666bfe1608b1"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/47f8a825-0f7d-5778-bc1c-054ddc120f7f"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/47ad4fcd-f6ee-5c2d-9022-324896683f30"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/40f59b67-ec0e-5965-a0c8-1f18d9502615"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/2c1ab490-2a0c-5cea-aafd-6c34f8b0e06f"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/73f1f3b3-5400-5659-bd76-9f20a2f5a2a3"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/a55ba43f-1f41-5be0-b649-01a3c64dd6a0"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/fc33753f-7c70-5c97-b10e-dcd53463e9f5"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/10e73597-8c6d-53ee-a2bd-d270b4399095"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/ebc68dac-1db2-538d-ba4f-7a7576235b88"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/a465ec01-6fdc-5cce-869e-2959d02332bb"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/3fce8dfa-ca44-535a-909d-1c2355ce0793"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/f36f00df-06a4-5061-8d25-7c80c73c70c2"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/f65a9c67-1098-5d8f-8e1f-df612f09a08d"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/a616feef-6c50-597b-87db-ab7f3df42154"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/93e5cdcd-0249-517b-be4f-1fb215ec0a0b"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/d7b9da90-4467-58a8-a44b-3fdf1402fc8f"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/9922effe-7118-5303-abe2-ba26cbb931f2"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/58eea79b-1743-519b-823c-20d6d7be81dc"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/ac6d34be-a554-5a48-ae7f-8e2aa700a6a1"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/8658240a-1bae-5fb0-a8e6-a594f127568e"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/d9893dfb-6a83-5e73-8c79-cd1047fff200"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/fcff95c6-2c36-5565-871e-9780f9b77a37"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/d3ba6b94-7eae-53df-bdfd-a1de7baffb8f"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/a8111b41-0aca-5c51-bed5-f5662866cefa"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/f7ffb367-a655-5e36-9560-5f79f0d00bb1"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/68d2bf5b-a919-52f1-980d-f334c4225674"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/60a1f60e-9417-5e61-84c0-02513582c68e"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/d2f2b8cd-36f1-521c-8a6c-fa4845e05250"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/5f6bd50f-d98c-503c-911f-0b12d93850ee"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/622bf444-c893-59c7-88ce-769d7eac2a25"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/01959357-796c-523d-abd8-466adc889180"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/6d137f2a-757b-595d-88b0-fa702f24a340"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/cfa618a4-b92e-5447-a69e-62c9b56c382f"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/fcbf7bdf-ae6e-5c7c-bb85-b414740c822b"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/4f40a3ad-a00c-5f77-be9e-92a39aee17db"/>
+        <dcterms:title xml:lang="nl">Rights Type</dcterms:title>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/9d8ae33b-0971-545f-ab24-bca02e9313d1"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/989a6113-227a-55b6-9c27-0551d034c335"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/2ca6216a-522a-5c05-9fad-1e5984abbbeb"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/3189e6f9-d0f5-5b84-bfe1-5e06fb7fcddb"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/6a5c3e39-95cf-5a6a-9b2c-b2d12900fec0"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/5beceaa9-2406-533e-be31-e9961dbe3eca"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/9c75419e-ab00-5bf1-b865-fef99d469612"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/3fe2c576-004b-51be-9250-34d1e971dc04"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/2001afb2-7d66-5eee-aea4-0f169074e7a3"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/adb87874-0236-5d12-9cf0-a073ba6b5bbb"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/9ae80b1c-b414-562a-b384-b72a9f809d7f"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/1256c4aa-a774-5701-99a5-19a8a22387cd"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/e8a152de-6daf-5d67-bb73-14d82f1d631e"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/05f8fb62-257e-50ce-942f-c4b68cb58e05"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/e6aefcd0-2349-5b4e-8dd8-4f4b28a1f29e"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/1aef33e3-80ea-56f7-855b-ef7721794dba"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/73ed7f89-19cb-5301-ad30-bbc791aa9e09"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/c577f6f5-557e-53e9-85be-fccfe2c716a8"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/10f4bccc-2e04-59fa-af07-90ce645ce688"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/da43b1b7-e612-5d1b-b0ab-72657a3408e0"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/19135417-622b-5dc4-a2ff-6b1817eeaf0d"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/1a71a6c8-30eb-572c-a4e1-7e9f5dd696bd"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/e30dc00d-3734-5b7b-8a4e-6576bae4125f"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/697d1e66-c48d-5cd8-bbf1-c21ee38dfb10"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/e6c7554a-9a9c-5677-82b6-12b35fad7ec9"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/15e912d7-44a4-5f3d-b88a-7faaa749ec53"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/b6b97da1-c22d-5141-9375-4cc8109708ef"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/440c56c6-6804-5431-a4e7-30a71dd8376e"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/1c0ba0d4-a9f1-5090-8867-1e41d3bbbb5e"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/26e058b8-79db-529a-87d9-40d93bcd4bc6"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/33b9e9b6-5686-52f3-aefb-ab8eeaeffe87"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/0bf46b77-8ec5-5657-bb07-259d99c1a1ff"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/bedcbda8-da9f-56c1-8a12-b42df475a524"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/365f221c-dc82-5cef-a027-4848ca88c9c9"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/659a0fd2-2f90-56fc-bbca-4f6081282ec4"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/ae7bed23-2f32-5764-8b1e-18124ccd8eb3"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/262ae8c1-9b58-5c91-b9a7-d338ef82c4c6"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/1998d8c5-7478-5e60-9c9d-553bbaf5be51"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/4eba4cf8-87a1-5a56-872d-07dcb84a709c"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/2554511d-ade3-5444-ba8f-2ef8c1d6468c"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/3a984dfd-fd25-5f54-ad6e-6000b82aa68d"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/fa76990a-4150-5003-8b9f-47cf8e0ab76b"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/0d7395c5-b424-5d13-bf12-5da1c67880d6"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/4a6fd17e-9d76-59f9-b8d0-6f52a454f767"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/f302104e-8ee5-5f63-b521-f4ddd95e0c6f"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/90805c9f-06c2-5972-b5ee-57c71bc1a47d"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/878fb0bd-5eae-5bcb-b022-7571965433b7"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/7fe86ae6-795c-59d3-aca8-a6916143abfd"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/a1651e74-54a4-5c9d-b495-e140f48a9c07"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/386efa27-8673-514b-a477-ca2506e11d70"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/3ba1f57e-fd12-5b8e-9159-eb5f1c056d13"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/2d71be8a-08ee-5939-bfc3-0c5c691d1b73"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/d64973c1-e96c-5cec-b622-f44b0b4f8254"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/574c82fd-1a7f-5ceb-abe7-601b7d93811d"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/c2d5f699-cb71-5ea5-8fb5-84998cd74c5c"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/8d135aa8-fd54-5ed1-9a09-f94c1760e8d5"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/1552/a10d9743-a843-5a4d-b1c5-8dd2a329649c"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+    <skos:prefLabel xml:lang="nl">https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/d7b9da90-4467-58a8-a44b-3fdf1402fc8f">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1793</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/697d1e66-c48d-5cd8-bbf1-c21ee38dfb10">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1795</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/3eb36658-21dc-587a-8f91-c202e3fcfae9">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1968</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/c26c6bc6-8786-56ba-8210-efea37278749">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1585</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/3ba1f57e-fd12-5b8e-9159-eb5f1c056d13">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1752</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/f33bae5d-2a20-548e-8a69-c141bfa90c77">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1925</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/9f21bca9-085f-5ec9-9266-2d7d9ec4384f">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1668</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/f519d829-631a-52c0-8a67-43b879325097">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q6914</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/878fb0bd-5eae-5bcb-b022-7571965433b7">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2292</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/0d7395c5-b424-5d13-bf12-5da1c67880d6">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1417</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/fd220ba1-10af-5bc4-9da6-38230e80b9da">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1656</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/e8a152de-6daf-5d67-bb73-14d82f1d631e">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">https://creativecommons.org/licenses/by-sa/3.0/nl/</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/cb328729-4974-5fcf-bdba-69f20d902b29">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1899</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/262ae8c1-9b58-5c91-b9a7-d338ef82c4c6">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2298</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/6a5c3e39-95cf-5a6a-9b2c-b2d12900fec0">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2309</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/1998d8c5-7478-5e60-9c9d-553bbaf5be51">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2177</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/e6c7554a-9a9c-5677-82b6-12b35fad7ec9">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q6846</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/ac6d34be-a554-5a48-ae7f-8e2aa700a6a1">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1904</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/6d137f2a-757b-595d-88b0-fa702f24a340">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2167</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/93e5cdcd-0249-517b-be4f-1fb215ec0a0b">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1981</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/fcbf7bdf-ae6e-5c7c-bb85-b414740c822b">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2143</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/e90da846-8fe7-54cb-b279-8f9536e85af2">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1890</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/b4c500cb-f419-5c0d-8629-ecc47ed92822">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2308</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/5c960b69-ac8c-5257-859f-3e90d5ab3fd0">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">https://en.wikipedia.org/wiki/Public_domain</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/5aec52ed-3944-56ce-8339-8d972e0e2038">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2274</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/01959357-796c-523d-abd8-466adc889180">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2287</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/58eea79b-1743-519b-823c-20d6d7be81dc">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1613</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/386efa27-8673-514b-a477-ca2506e11d70">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2297</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/0c667741-7db1-5923-a628-138958b6336e">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2027</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/d0029591-88d6-59cf-9cf3-4c6fefb264de">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1761</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/bf0bcc32-89d5-5d13-be17-4a64a9d4be19">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1627</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/ce77ed6e-7b96-505b-8b84-caf681e11712">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q6936</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/492101f7-4a51-54d8-a08f-22759e825585">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2295</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/fcff95c6-2c36-5565-871e-9780f9b77a37">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1421</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/2554511d-ade3-5444-ba8f-2ef8c1d6468c">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1765</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/a8111b41-0aca-5c51-bed5-f5662866cefa">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q6945</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/076595e8-4e79-57d5-aa11-958eaacbd7de">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1476</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/2ca6216a-522a-5c05-9fad-1e5984abbbeb">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1633</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/798e8507-590f-5642-a256-e67452dd92f1">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1965</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/ac9bfc36-801b-59da-b662-e2454cb97966">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1962</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/9c75419e-ab00-5bf1-b865-fef99d469612">
+    <skos:prefLabel xml:lang="nl">https://creativecommons.org/licenses/by/3.0</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/a6ca05a7-4fd3-507c-8ab2-7ccf842a6c40">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1663</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/1a71a6c8-30eb-572c-a4e1-7e9f5dd696bd">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1433</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/e30dc00d-3734-5b7b-8a4e-6576bae4125f">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q6840</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/f22d49b4-24c2-593a-a1cf-c3a11fcd2cf9">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1528</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/9ae80b1c-b414-562a-b384-b72a9f809d7f">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q7015</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/1aef33e3-80ea-56f7-855b-ef7721794dba">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1750</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/0c0d8126-145c-5927-a72c-666bfe1608b1">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1591</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/51ad3a70-2faf-59b8-919b-8a407c2e4900">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1573</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/73f1f3b3-5400-5659-bd76-9f20a2f5a2a3">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q6839</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/2d71be8a-08ee-5939-bfc3-0c5c691d1b73">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q6847</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/ee5cfe0a-bc28-5656-8b14-3b4c06b3e0d2">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q6848</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/f36f00df-06a4-5061-8d25-7c80c73c70c2">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1994</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/f7b7f91f-356b-59d9-b2ef-61380af81d28">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">https://creativecommons.org/licenses/by-sa/2.0</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/1f5bcd02-17f6-5045-af40-b61e313cfebe">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2151</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/4387a6ed-24dc-5012-8139-913ef0e9acd9">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1612</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/574c82fd-1a7f-5ceb-abe7-601b7d93811d">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1664</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/e61d7189-c148-5464-b795-ba78f3f68995">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1439</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/0e2e4bfb-668a-5fe9-bb12-229b38f3b745">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">https://creativecommons.org/licenses/by-sa/2.5</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/365f221c-dc82-5cef-a027-4848ca88c9c9">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1416</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/d1d8d829-d62f-53f5-9c3a-2614866fa344">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1543</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/6a1d30ac-da39-5df8-8223-be1814a9a4ae">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1777</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/1256c4aa-a774-5701-99a5-19a8a22387cd">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q6912</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/c577f6f5-557e-53e9-85be-fccfe2c716a8">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2181</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/2c1ab490-2a0c-5cea-aafd-6c34f8b0e06f">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">https://creativecommons.org/publicdomain/zero/1.0/</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/90805c9f-06c2-5972-b5ee-57c71bc1a47d">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2289</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/622bf444-c893-59c7-88ce-769d7eac2a25">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1805</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/9922effe-7118-5303-abe2-ba26cbb931f2">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1498</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/adb87874-0236-5d12-9cf0-a073ba6b5bbb">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2305</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/3fce8dfa-ca44-535a-909d-1c2355ce0793">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2300</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/70f99738-6dfe-51f1-b550-c7916c1eb56e">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1486</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/73ed7f89-19cb-5301-ad30-bbc791aa9e09">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q6929</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/3189e6f9-d0f5-5b84-bfe1-5e06fb7fcddb">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1320</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/a1651e74-54a4-5c9d-b495-e140f48a9c07">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2153</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/47ad4fcd-f6ee-5c2d-9022-324896683f30">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1877</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/5b663653-6d54-54b5-b937-3f99f36878f1">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q6843</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/d9893dfb-6a83-5e73-8c79-cd1047fff200">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1529</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/989a6113-227a-55b6-9c27-0551d034c335">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1969</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/a616feef-6c50-597b-87db-ab7f3df42154">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2285</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/bedcbda8-da9f-56c1-8a12-b42df475a524">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q6944</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/8fc96e7f-e2b0-5786-9985-e5e64a96eb5e">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2147</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/6f036297-f9ae-5fe6-a042-a4a2f6befb21">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1372</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/68d2bf5b-a919-52f1-980d-f334c4225674">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1878</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/f7ffb367-a655-5e36-9560-5f79f0d00bb1">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1708</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/ae7bed23-2f32-5764-8b1e-18124ccd8eb3">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q6932</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/24cd1d88-2103-57a5-8671-f28c858bec4a">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2304</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/af35aa61-ce42-52bf-9891-2da405324094">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1654</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/15e912d7-44a4-5f3d-b88a-7faaa749ec53">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1480</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/ebc68dac-1db2-538d-ba4f-7a7576235b88">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1764</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/4eba4cf8-87a1-5a56-872d-07dcb84a709c">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1759</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/8d05ed87-5027-5aae-ae95-77c137a1e62f">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1936</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/a68250ef-cb8d-5a71-91c9-ded22bde9d4d">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1660</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/4511ba80-93c5-58f5-bdb4-f81dd6d68c4b">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1892</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/c2d5f699-cb71-5ea5-8fb5-84998cd74c5c">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q6860</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/2ebc7c04-d8e3-5a19-aaf4-1640cc0193fd">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1881</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/f65a9c67-1098-5d8f-8e1f-df612f09a08d">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1495</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/0ce05ca0-adff-5f44-9eac-7cc384754816">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1665</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/d1123593-1f45-5ca1-b557-047e2f7cd10a">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1971</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/10f4bccc-2e04-59fa-af07-90ce645ce688">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1972</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/33b9e9b6-5686-52f3-aefb-ab8eeaeffe87">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1499</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/57fb7c09-288c-5c89-99d4-1c0268fc134e">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q6841</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/cfa618a4-b92e-5447-a69e-62c9b56c382f">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1405</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/157cc7df-d876-5eac-8b2c-67096b8b2ae1">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1408</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/197a99b6-0fc1-52e6-9d42-2bb369b37b79">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2090</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/d64973c1-e96c-5cec-b622-f44b0b4f8254">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1604</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/3632e163-edff-5e66-892f-d5a131ae4673">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1926</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/3260783d-ccfe-54d7-83ff-269016f7a579">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2206</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/a0ec24e6-1331-5275-a8a2-ad55d629d782">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q6838</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/7fe86ae6-795c-59d3-aca8-a6916143abfd">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2069</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/3bf15596-743d-5ad0-96fe-cee442b89f32">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1927</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/10e73597-8c6d-53ee-a2bd-d270b4399095">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2037</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/fc33753f-7c70-5c97-b10e-dcd53463e9f5">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2103</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/be4a13ba-0834-59da-95d9-a6b1b004e20a">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2303</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/59a87cfc-8e00-5d40-a4fa-62d6bd29061e">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2288</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/2802692a-0953-5a99-833e-fed25c16b1d9">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://creativecommons.org/publicdomain/zero/1.0/deed.en</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/8658240a-1bae-5fb0-a8e6-a594f127568e">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1517</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/2001afb2-7d66-5eee-aea4-0f169074e7a3">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1707</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/5e6470cb-e543-53fe-8941-e34a79995183">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2256</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/f302104e-8ee5-5f63-b521-f4ddd95e0c6f">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1466</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/6ed1579f-1220-5883-be20-1c6189133ebb">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1737</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/10d67da5-1d87-5981-a3c3-d7477a71be92">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q6849</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/78f5efd3-43f3-54bb-b3b2-b060e1d469b0">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1666</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/7d85f57b-057a-5f38-91ab-37e693d54690">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1958</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/edf630dd-3518-588c-a183-e16e97b8cdc5">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q6926</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/cf6ccbc6-05fd-5614-9575-08905604d953">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1444</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/19135417-622b-5dc4-a2ff-6b1817eeaf0d">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1445</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/4f40a3ad-a00c-5f77-be9e-92a39aee17db">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1662</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/be4bb6ee-6c4d-5710-9184-35e682d4f865">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1792</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/47f07202-9973-5692-b085-2513ffe73fcc">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1399</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/124c5a15-d65b-509b-8aab-101e6491bdc1">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2078</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/bb636c2b-cc36-556f-aa91-b15e2443fab7">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1894</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/fbdd3518-f9c0-5922-9f3e-859cee2c95a8">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2187</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/3fe2c576-004b-51be-9250-34d1e971dc04">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1731</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/2267b1a5-2354-57fc-b90a-b07bd31daa27">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1474</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/0bf46b77-8ec5-5657-bb07-259d99c1a1ff">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1491</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/90b9873c-21b4-5777-ac03-1b8850fba816">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1903</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/2a419e06-61c2-57bd-bbf2-5c10ff0fc6c2">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1637</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/4a6fd17e-9d76-59f9-b8d0-6f52a454f767">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q6946</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/79f25b31-5783-587e-81a5-89af186c7d72">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">https://creativecommons.org/publicdomain/zero/1.0/deed.nl</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/95d6cea1-4fa9-5303-b8f9-ec9a2a00ea37">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2311</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/659a0fd2-2f90-56fc-bbca-4f6081282ec4">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1661</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/8b490d51-06de-527c-b1bd-0a01386288ea">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2291</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/24cd7d1b-cd6d-5abe-abf8-8503663cc42a">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1806</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/5beceaa9-2406-533e-be31-e9961dbe3eca">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1779</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/696ec7f9-c72c-5255-9573-37e4fa4e1d39">
+    <skos:prefLabel xml:lang="nl">http://creativecommons.org/licenses/by-sa/3.0/</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/a10d9743-a843-5a4d-b1c5-8dd2a329649c">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1850</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/05f8fb62-257e-50ce-942f-c4b68cb58e05">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1785</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/d3ba6b94-7eae-53df-bdfd-a1de7baffb8f">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q6845</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/0eb1801e-db70-5bd6-b649-6fec73a15946">
+    <skos:prefLabel xml:lang="nl">https://creativecommons.org/licenses/by-sa/4.0/</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/440c56c6-6804-5431-a4e7-30a71dd8376e">
+    <skos:prefLabel xml:lang="nl">https://creativecommons.org/licenses/by-sa/3.0</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/e6aefcd0-2349-5b4e-8dd8-4f4b28a1f29e">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2221</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/5f6bd50f-d98c-503c-911f-0b12d93850ee">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1896</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/5dde0e49-3b86-5a4e-ab47-745378ba1882">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2006</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/da43b1b7-e612-5d1b-b0ab-72657a3408e0">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">https://creativecommons.org/licenses/by-sa/4.0</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/d2f2b8cd-36f1-521c-8a6c-fa4845e05250">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q6842</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/a465ec01-6fdc-5cce-869e-2959d02332bb">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q6844</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/61b1d321-8d15-59af-99fd-19b214f1ad41">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2310</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/b6b97da1-c22d-5141-9375-4cc8109708ef">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1967</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/c4e253a3-f9c2-5c23-b4d9-074adc917ee1">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1404</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/3a984dfd-fd25-5f54-ad6e-6000b82aa68d">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1754</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/9d8ae33b-0971-545f-ab24-bca02e9313d1">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1345</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/1c0ba0d4-a9f1-5090-8867-1e41d3bbbb5e">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1961</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/8d135aa8-fd54-5ed1-9a09-f94c1760e8d5">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2302</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/40f59b67-ec0e-5965-a0c8-1f18d9502615">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1398</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/26e058b8-79db-529a-87d9-40d93bcd4bc6">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1763</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/47f8a825-0f7d-5778-bc1c-054ddc120f7f">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1446</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/e0b5d8af-bcad-5b63-89b8-524fc5b154cb">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1595</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/a55ba43f-1f41-5be0-b649-01a3c64dd6a0">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1497</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/fa0123c8-7dab-53ee-b84d-b6a36103d809">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q1963</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/c5c67bc5-5e18-5a4c-9363-cc28e388968b">
+    <skos:prefLabel xml:lang="nl">https://creativecommons.org/licenses/by/4.0/</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/1552/60a1f60e-9417-5e61-84c0-02513582c68e">
+    <skos:prefLabel xml:lang="nl">http://gebouwen.brabantcloud.nl/entity/Q2195</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/RightsType/da5e91ea-0b09-5e5c-be88-ecef4301f684"/>
+  </skos:Concept>
+</rdf:RDF>

@@ -1,101 +1,284 @@
 {
   "name": "brabantse_gebouwen",
-  "graph": "Place",
+  "graph": "Building",
   "mappings": {
     "single": {
-      "dataset": "geonames_nb.csv",
+      "dataset": "monuments.json",
       "card_order": "0",
       "node_mappings": [
         {
-          "from": "geonameid",
-          "to": "source_id",
-          "resource_id": [
-            {
-              "args": "uuid5"
-            }
-          ]
-        },
+          "from": "id",
+          "to": "resource_id"
+        },        
         {
-          "from": "geonameid",
+          "from": "id",
           "to": "identifier_content",
           "constants": [
             {
-              "identifier_type": "Geonames identifier"
+              "identifier_type": "Brabant Cloud ARK Identifier"
+
             }
-          ],
-          "function": {
-            "name": "generate_uri",
-            "args": {
-              "prefix": "https://www.geonames.org/"
-            }
-          }
-        },
-        {
-          "from": "feature_code",
-          "to": "type",
-          "function": {
-            "name": "lookup",
-            "args": {
-              "lookup_file": "feature_codes.csv"
-            }
-          }
+          ]
         },
         {
           "from": "name",
           "to": "name_content",
           "constants": [
             {
-              "name_type": "Primary",
-              "name_language": "Nederlands"
+              "name_content_type": "Primary",
+              "name_content_language": "Nederlands",
+              "language_type": "Nederlands"
             }
           ]
         },
         {
-          "from": "parentid",
-          "to": "part_of_location",
+          "from": "wikibaseURI",
+          "to": "other_identifier_content",
+          "constants": [
+            {
+              "other_identifier_type": "Wikibase"
+            }
+          ]
+        },
+      
+        {
+          "from": "monumentStatus",
+          "to": "building_status"
+        },
+
+        {
+          "from": "wikibaseURI",
+          "to": "other_identifier_content",
+          "constants": [
+            {
+              "other_identifier_type": "Wikibase"
+            }
+          ]
+        },
+
+
+        {
+          "from": "rightsURI ",
+          "to": "rights_holder",
+          "constants": [
+            {
+              "rights_type": "CCO"
+            }
+          ]
+        },
+        {
+          "from": "dateDestroyed",
+          "to": "destruction_timespan_start"
+        },
+        {
+          "from": "dateInUse",
+          "to": "in_use_timespan_start"
+        },
+        {
+          "from": "dateNoLongerInUse",
+          "to": "in_use_timespan_start"
+        },
+        {
+          "from": "replacesPreviousURI",
+          "to": "previous_building",
           "function": {
             "name": "related_resource"
           }
         },
         {
-          "from": "population",
-          "to": "annotation_population"
-        },
-        {
-          "from": "elevation",
-          "to": "annotation_elevation"
-        },
-        {
-          "from": "digital_elevation_model",
-          "to": "annotation_digital_elevation_mode"
-        },
-        {
-          "from": "timezone",
-          "to": "annotation_timezone"
-        },
-        {
-          "from": "source_modification_date",
-          "to": "annotation_source_modification_date"
-        },
-        {
-          "from": "country_code",
-          "to": "country"
-        },
-        {
-          "from": "lat_long",
-          "to": "coordinates_geo_json",
+          "from": "isReplacedByURI",
+          "to": "has_part",
           "function": {
-            "name": "coordinates_geo_json"
+            "name": "related_resource"
           }
+        }
+        
+      ]
+    },
+    "building_type": {
+      "dataset": "monuments.json",
+      "card_order": "1",
+      "node_mappings": [
+
+        {
+          "from": "typeOfBuilding",
+          "to": "building_type"
+        }
+
+
+      ]
+    },
+    "religious_order": {
+      "dataset": "monuments.json",
+      "card_order": "2",
+      "node_mappings": [
+
+        {
+          "from": "religiousOrder",
+          "to": "rel_order_tmp"
+        }
+      ]
+    },
+    "monuments_link_rce:": {
+      "dataset": "monuments.json",
+      "card_order": "3",
+      "node_mappings": [
+
+        {
+          "from": "monumentLinkRCE",
+          "to": "other_identifier_content",
+          "constants": [
+            {
+              "other_identifier_type": "RCE Monuments"
+
+            }
+          ]
+
+        }
+      ]
+    },
+    "alternate_names": {
+      "dataset": "monuments.json",
+      "card_order": "4",
+      "node_mappings": [
+
+        {
+          "from": "alternateName",
+          "to": "alternative_name_content",
+          "constants": [
+            {
+              "alternative_name_content_type": "Alternative",
+              "alternative_name_content_language": "Nederlands"
+
+            }
+          ]
+
+        }
+      ]
+    },
+    "religion": {
+      "dataset": "monuments.json",
+      "card_order": "5",
+      "node_mappings": [
+
+        {
+          "from": "religionURI",
+          "to": "consecration_activity_religion"
+        }
+      ]
+    },
+    "places": {
+      "dataset": "monuments.json",
+      "card_order": "6",
+      "node_mappings": [
+        {
+          "from": "id",
+          "to": "resource_id"
+        },        
+        {
+          "from": "placeURI",
+          "to": "place_dict"
+        }
+      ]
+    },
+    "actors": {
+      "dataset": "monuments.json",
+      "card_order": "7",
+      "node_mappings": [
+        {
+          "from": "id",
+          "to": "resource_id"
+        },        
+        {
+          "from": "architectURI",
+          "to": "architect_dict"
         },
         {
-          "from": "lat_long",
-          "to": "coordinates_wkt",
+          "from": "dedicationURI",
+          "to": "dedication_dict"
+        }
+      ]
+    },
+    "dedications": {
+      "dataset": "monuments.json",
+      "card_order": "8",
+      "node_mappings": [
+        {
+          "from": "id",
+          "to": "resource_id"
+        },        
+        {
+          "from": "dedicationURI",
+          "to": "dedication_dict"
+        }
+      ]
+    },
+    "architects": {
+      "dataset": "monuments.json",
+      "card_order": "2",
+      "node_mappings": [
+        {
+          "from": "id",
+          "to": "resource_id"
+        },
+        {
+          "from": "dateCreated",
+          "to": "production_event_timespan_start"
+        },        
+        {
+          "from": "architectURI",
+          "to": "architect_dict"
+        }
+      ]
+    },
+    "organisation": {
+      "dataset": "monuments.json",
+      "card_order": "9",
+      "node_mappings": [
+        {
+          "from": "id",
+          "to": "resource_id"
+        },        
+        {
+          "from": "architectURI",
+          "to": "architect_dict"
+        }
+      ]
+    },
+    "building_aat_type": {
+      "dataset": "monuments.json",
+      "card_order": "10",
+      "node_mappings": [
+
+        {
+          "from": "additionalType",
+          "to": "building_aat_type",
           "function": {
-            "name": "coordinates_wkt"
-          }
+            "name": "lookup",
+            "args": {
+              "lookup_file": "building_aat_type.csv"
+            }
+          }        
+        }
+      ]
+    },
+    "images": {
+      "dataset": "monuments.json",
+      "card_order": "11",
+      "node_mappings": [
+
+        {
+          "from": "imageURI",
+          "to": "image_uri"
         }
       ]
     }
+
+
+
   }
 }
+
+
+
+

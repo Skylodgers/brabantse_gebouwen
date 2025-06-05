@@ -1,0 +1,16 @@
+{
+    "from": "id",
+    "to": "material_identifier_content",
+    "constants": [
+      {
+        "material_identifier_type": "Brabant Cloud ARK Identifier"
+
+      }
+    ]
+  },
+
+
+  {
+    "from": "dateCreated",
+    "to": "material_production_event_timespan_start"
+  },

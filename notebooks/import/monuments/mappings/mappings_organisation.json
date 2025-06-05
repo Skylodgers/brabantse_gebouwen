@@ -1,0 +1,46 @@
+{
+  "name": "brabantse_gebouwen",
+  "graph": "Building",
+  "mappings": {
+    "single": {
+      "dataset": "monuments.json",
+      "card_order": "0",
+      "node_mappings": [
+        {
+          "from": "id",
+          "to": "identifier_content",
+          "constants": [
+            {
+              "identifier_type": "Brabant Cloud ARK Identifier"
+
+            }
+          ]
+        }
+      ]     
+    },
+  
+    "religious_order": {
+      "dataset": "monuments.json",
+      "card_order": "1",
+      "node_mappings": [
+
+        {
+          "from": "religiousOrder",
+          "to": "religious_order"
+        }
+      ]
+    },
+    "alternate_names": {
+      "dataset": "monuments.json",
+      "card_order": "2",
+      "node_mappings": [
+
+        {
+          "from": "religiousOrder",
+          "to": "alternate_name"
+        }
+      ]
+    }
+  }
+}
+

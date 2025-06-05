@@ -1,0 +1,1037 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/a6881884-78b7-445e-be53-4c069482a072">
+    <skos:altLabel xml:lang="nl">Sint-Paulus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Paulus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Paulus van Tarsus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St. Paulus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Saulus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Apostel Paulus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Saulus van Tarsus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Paulus (apostel)</skos:altLabel>
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e">
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/a6881884-78b7-445e-be53-4c069482a072"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/fb7c15d0-d9e7-480a-877f-307c1474317b"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/28474656-f11d-4c2d-8421-52cd8ea1907c"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/1906c61e-1a43-4010-a9a0-9d24a6c81e09"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/864fd603-b10b-4882-a1aa-ee9698d3e0be"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/caa0ec46-939c-4144-95fc-83c4cc5a9d1b"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/87c1154b-7f18-4200-b054-792b4522d203"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/acd0d663-c071-4140-8738-38f1361a61b1"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/f7513536-2a12-40f3-b413-7fe996864af3"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/1faccd67-7077-4c32-9b68-894c2c67ca86"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/3a59fc8d-e151-4249-85a0-131e4f3695ae"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/f7bd215a-4679-477e-94cc-274827a1231b"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/97fccd19-f715-4899-a0ba-667d942283b6"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/4fab1055-be29-4471-978a-6ea622c77d20"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/276fdc0b-2d9b-481e-bf89-3b8add4ade59"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/3c1feec8-8bfe-497a-9272-d08ac68d11b0"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/e4f9a8f8-f0ec-49b4-b992-49b88e392c6e"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/434fc310-2aa1-4eb9-8bf6-f77c948b4547"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/d6649c84-e813-4d48-bb4b-c8e8b675778b"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/0301ec15-5506-448c-bf2d-d8039da6ab50"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/b09c4993-4130-4c7b-a6c7-63f3cbec2330"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/16e4ed3f-4026-4dea-aab7-6c1889aa5659"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/5e731832-1b9d-4444-bd0b-aae4126a9584"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/f1ae9723-68ce-481f-a2b6-ccd7dd88a95f"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/ac415c0a-6874-4163-bf7a-1ca79974cf2e"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/ebc463d8-625e-482c-bb27-b58ab9bf461d"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/aba637db-976a-4e66-8dbe-f568ce4b70a4"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/a4791857-abe1-4a3d-b7d1-f79d38c5258a"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/935d46d0-2eed-4dc9-864a-85b128182b72"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/dd2649a9-154c-45f4-a9e0-5ae2e40d8327"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/11d237fc-54ca-4996-9289-46f1de6315c3"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/412fee48-e5f8-4ef9-8337-79ea795187f0"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/a47a3cdc-58d3-4de9-a666-d36764c9b2d8"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/1ebb7107-6cf4-4861-9100-39c394f12099"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/23bd9292-58e1-4001-bf27-789d1b3518e6"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/55dee5b9-b91e-4e28-bc63-72364a4c5420"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/8b4d15a0-eed3-479b-8f55-650e786ab6ab"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/78b9ce42-9b17-41b9-ad17-e2c81b78dec2"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/b22951d4-81f0-49a5-a52c-fa6a1790f5fc"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/5eec7aae-1589-4935-8752-3e7ed69e1e2c"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/0691a3f5-46d0-4252-8e05-613391d1598a"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/dd7acb36-1ff1-4a8e-ae67-6597b38a1f48"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/8149164b-f7d3-44be-813f-7865b2fa6d98"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/6c4e60d8-4d69-4c57-ac56-e6c25a77f3f1"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/19b69fa3-8abf-4159-a13a-ff714b27f07f"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/a6b71c6c-f2d0-4c37-992c-e89882f464fa"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/4b5a80fa-77b7-4d97-a033-d629ccb3b51a"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/9c1f658e-5529-4693-a9b2-9f9143e7d586"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/e639a40a-0cea-4a1e-992a-b8225f9da201"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/7db6a6a7-a3a7-4fcd-af39-cde9f44473d0"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/9e0ea64b-e6e1-438b-b1a7-2c34abec02b8"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/0303c083-d3c7-49fe-b883-ab03b940e4e1"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/ab653afa-e404-4f35-b1cf-e3cd1ed6ca16"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/b6c280d8-f051-4062-b239-b0089dc1d21e"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/004231ea-f8ab-46a6-bda8-037682ca26cf"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/f5c9cc57-f9b9-408a-a211-9ca21ace1b19"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/0cc8b826-25e8-4ce2-98f9-3eeca17e2966"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/aa54c39e-dea1-4886-860a-fbbcf849d21d"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/cde34379-503f-41c1-b8f5-022819e443a4"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/e849e4f1-fdd0-47f2-81d6-dc8c7b7a0263"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/20e59a26-edfe-4734-975b-b00fad374ef5"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/ab567f10-c0ec-4f5c-8d59-1a9b5b98891c"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/e5d2ccc2-427b-4ecc-8508-0c848974e090"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/ecf666dd-14ed-49df-abbe-8ee482259e35"/>
+        <dcterms:title xml:lang="en">Dedication Subject Type</dcterms:title>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/c11ea486-b668-4876-9bca-e718316e0c9a"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/c7d74d54-4c15-4085-807a-7c3559069d5b"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/1f5fb0f6-362e-440f-9ecb-bf433c069b05"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/d6c4a5f9-344b-408c-867e-219a9c8565c1"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/ce29c7eb-f6cf-4db5-81d4-07e8c15ada99"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/d70db8c0-3cfd-4f25-a5c0-578a98ec0a68"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/92fc3657-3ca6-4a56-927c-a2031198ca6b"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/0bd8e8b0-e838-4fa0-bf11-1bd61b24c65c"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/8fabe22f-5abb-4d7b-b109-9fda8bd35ebe"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/98068045-1944-478f-a0c0-6ec7acbc32a5"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/9c2155ed-5fad-4afd-a4f1-9d33b0ccf662"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/369de20a-7677-4309-a7b2-6036b03a2e9f"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/47c3a6de-d78a-41ee-8856-18b9681854f9"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/f016fa64-8414-49a0-9190-314fbba01bc2"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/b416d618-4b7a-4e9a-aab1-b859f451ffaa"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/0acf17ee-aa62-4f6a-b989-248e502b230a"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/5e7489c5-9fce-4c55-8833-4f2d8911076c"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/a70d20a7-a20d-41b6-acbe-a54d56380a52"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/5efb3721-d5f9-4e83-adf7-6f034104ff72"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/4be4c16b-a496-49fe-9eec-0913448db634"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/19213ed6-78ef-4d10-b5e9-958b9204c63c"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/a2ede6aa-6ff8-4e65-9991-0d945f6b25ad"/>
+        <dcterms:title xml:lang="nl">Dedication Subject Type</dcterms:title>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/2e23aa83-e43a-4b01-9868-62b8be9a8e86"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/881e5c82-5cf3-4e45-b698-235b138e64a1"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/db3612f1-ae05-4e04-8df6-053aa9869ac2"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/e4a3ca32-eb24-4872-b7e2-5ae779f12096"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/716ca764-65e3-48b4-957a-af352d0bbf7c"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/c38cbeb1-8b10-4fc9-b1af-0dd4e94ba3ab"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/e48b7973-d7c1-4f91-94d7-a0021fad7d8a"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/858d0c4f-437b-48cb-bda2-7771f8649305"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/aa83ba5f-c9e1-484e-82ff-6de86fd5a00a"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/6a2ef4ae-8851-4556-8e7e-472730a757e1"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/5de8a5c6-3674-4c25-947d-5636a515e477"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/19e55fa3-7833-48da-93b8-7ddcd4f20bf2"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/45d984ea-5e26-4ca8-aab2-cfcf882cc980"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/4865df44-327d-4e34-b4be-9c50c4f6cb5d"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/42b94a32-ab19-4ae5-9a82-d81de93c756c"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/418a482a-992b-4a3b-9284-5f96524d665f"/>
+        <skos:hasTopConcept rdf:resource="https://n2t.net/ark:/15052/784328f5-8120-40e4-b084-26993f2a6511"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+    <skos:altLabel xml:lang="nl">De Apostel Paulus</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Paulus</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/5de8a5c6-3674-4c25-947d-5636a515e477">
+    <skos:altLabel xml:lang="nl">Antonius Abt</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Antonius Kluizenaar</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Antonius Abt</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Antonius-Abt</skos:altLabel>
+    <skos:altLabel xml:lang="nl">H. Anthonius Abt</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:prefLabel xml:lang="nl">Antonius van Egypte</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">H. Antonius Abt</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Anthonius-Abt</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Antonius de Grote</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Antonius-Heremiet</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Antonius-Abt</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/784328f5-8120-40e4-b084-26993f2a6511">
+    <skos:altLabel xml:lang="nl">Sint Jozef</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Josef</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Joseph</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Jozef van Nazareth</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Sint-Josef</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Jozef</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Jozef Arbeider</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Joseph</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Heilige Jozef</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/004231ea-f8ab-46a6-bda8-037682ca26cf">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Agatha van Sicilie</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Agatha van Sicilië</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Agaat van Sicilie</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Agatha van Sicilië</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Agaat van Catania</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Agatha van Catania</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Agaat van Sicil</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Agata van Catania</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Heilige Agatha van Catania</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Agatha</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Heilige Agatha van Sicilië</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Agaat van Sicilië</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Agata van Sicilie</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Agatha van Sicil</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Agatha</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St. Agatha</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Agata van Sicilië</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/5efb3721-d5f9-4e83-adf7-6f034104ff72">
+    <skos:altLabel xml:lang="nl">Sint-Jan Evangelist</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Joannes Evangelist</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Johannes Evangelist</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Johannes de Evangelist</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Johannes</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Evangelist Johannes</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Jan in de Olie</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Apostel Johannes</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Johannes Zebedeus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Jan Evangelist</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Heilige Johannes</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Jan-in-de-Olie</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Johannes Evangelist</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Johannes Evangelist</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Johannes Zebedeüs</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Jan-Evangelist</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/55dee5b9-b91e-4e28-bc63-72364a4c5420">
+    <skos:altLabel xml:lang="nl">Heilige Birgitta</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Birgitta</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Heilige Birgitta van Zweden</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Birgitta van Zweden</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/1906c61e-1a43-4010-a9a0-9d24a6c81e09">
+    <skos:altLabel xml:lang="nl">Heilige Brigida</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Bridget</skos:altLabel>
+    <skos:altLabel xml:lang="nl">H. Brigida</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Brigida</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Brigida</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Bridget van Kildare</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/1faccd67-7077-4c32-9b68-894c2c67ca86">
+    <skos:altLabel xml:lang="nl">Sint-Bernadette</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St. Bernadette</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Bernadette Soubirous</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Bernadeta Sobiros</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Sint Bernadette</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Marie-Bernard van Lourdes</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Bernadeta Sobirós</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/b6c280d8-f051-4062-b239-b0089dc1d21e">
+    <skos:altLabel xml:lang="nl">Teresa de Avila</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Theresia van Ávila</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Teresa de Ávila</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Theresia van Avila</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Theresa van Avila</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/5e7489c5-9fce-4c55-8833-4f2d8911076c">
+    <skos:altLabel xml:lang="nl">Sint-Johannes de Doper</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Johannes Baptista</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Jan de Doper</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Johannes-de-Doper</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Johannes die Doper</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Johannes de Doper</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Yahya</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Jan de Joper</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St. Jan de Doper</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Jahja</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Jan-Baptist</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Jan Baptist</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/ebc463d8-625e-482c-bb27-b58ab9bf461d">
+    <skos:altLabel xml:lang="nl">Sint-Rochus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">H. Rochus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St. Rochus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Rochus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Rochus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Heilige Rochus</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:prefLabel xml:lang="nl">Rochus van Montpellier</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/434fc310-2aa1-4eb9-8bf6-f77c948b4547">
+    <skos:altLabel xml:lang="nl">Sint-Michaël</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Heilige Michael</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Michael</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Michael</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Michaël</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Sint-Michiel</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Aartsengel Michael</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Michaël</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Michael</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Aartsengel Michaël</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/4865df44-327d-4e34-b4be-9c50c4f6cb5d">
+    <skos:altLabel xml:lang="nl">St. Barbara</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Barbara van Nicomedië</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Heilige Barbara</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Barbara van Nicomedie</skos:altLabel>
+    <skos:altLabel xml:lang="nl">H Barbara</skos:altLabel>
+    <skos:altLabel xml:lang="nl">H. Barbara</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Sint Barbara</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St Barbara</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Barbara</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/19e55fa3-7833-48da-93b8-7ddcd4f20bf2">
+    <skos:altLabel xml:lang="nl">O.L.V. van Vlaanderen</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:prefLabel xml:lang="nl">Onze-Lieve-Vrouw van Vlaanderen</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Maria van Vlaanderen</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Onze Lieve Vrouw van Vlaanderen</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/7db6a6a7-a3a7-4fcd-af39-cde9f44473d0">
+    <skos:altLabel xml:lang="nl">Sint Sebastianus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Sebastiaan</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St. Sebastianus</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Sebastiaan</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Sint-Sebastianus</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">St. Sebastiaan</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St.-Sebastiaan</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Sebastiaan</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St.-Sebastianus</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/276fdc0b-2d9b-481e-bf89-3b8add4ade59">
+    <skos:altLabel xml:lang="nl">Onze-Lieve-Vrouw van Vrede</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Onze-Lieve-Vrouw Koningin van de Vrede</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Onze-Lieve-Vrouwe van de Vrede</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Regina pacis</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Maria Koningin van de Vrede</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Koningin van de Vrede</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/c38cbeb1-8b10-4fc9-b1af-0dd4e94ba3ab">
+    <skos:altLabel xml:lang="nl">Sint Bartholomeüs</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Bartolomeus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Bartholomeüs</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Bartolomeüs</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Sint Bartholomeus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Bartholomeüs</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Bartholomeus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Bartholomeus</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/4be4c16b-a496-49fe-9eec-0913448db634">
+    <skos:altLabel xml:lang="nl">H. Cecilia</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Caecilia</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St. Cecilia</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Cecilia</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Heilige Cecilia</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Cecilia</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Cecilia van Rome</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Cecilia</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/0691a3f5-46d0-4252-8e05-613391d1598a">
+    <skos:altLabel xml:lang="nl">Onze Lieve Vrouwe</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Maagd Maria</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Maria van Nazareth</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Onze Lieve Vrouw</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Maria (moeder van jezus)</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Moeder Gods</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Mary</skos:altLabel>
+    <skos:altLabel xml:lang="nl">OLV</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Heilige Maagd Maria</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Heilige Maagd</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Maria</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Onze-Lieve-Vrouwe</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Moeder van God</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Onze-Lieve-Vrouw</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Maria</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/6c4e60d8-4d69-4c57-ac56-e6c25a77f3f1">
+    <skos:altLabel xml:lang="nl">Sint Liduina</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Lidwina</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Liedewij van Schiedam</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Ludwina</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Ludwina</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Lidewij van Schiedam</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Liduina</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Lidwina van Schiedam</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Liduina van Schiedam</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Lidwina</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/0bd8e8b0-e838-4fa0-bf11-1bd61b24c65c">
+    <skos:prefLabel xml:lang="nl">Petrus</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Simon Bar Jona</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St-Pieter</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Pieter</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Simon</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Petrus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Simeon Petrus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Apostel Petrus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Petrus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Simeon</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Simon Petrus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St. Petrus</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/ab653afa-e404-4f35-b1cf-e3cd1ed6ca16">
+    <skos:altLabel xml:lang="nl">Carolus Borromeüs</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Carlo Borromeo</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Carolus Borromeus</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Sint-Carolus Borromeus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Karel Borromeus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St. Carolus Borromeus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Carolus Borromaeus</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Sint Carolus Borromeus</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/8b4d15a0-eed3-479b-8f55-650e786ab6ab">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:prefLabel xml:lang="nl">Angela Merici</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/f7bd215a-4679-477e-94cc-274827a1231b">
+    <skos:altLabel xml:lang="nl">Dyonisius van Parijs</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Dionysius</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Sint-Denijs</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Dionysius van Parijs</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/1ebb7107-6cf4-4861-9100-39c394f12099">
+    <skos:prefLabel xml:lang="nl">Eligius van Noyon</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Eligius</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/4fab1055-be29-4471-978a-6ea622c77d20">
+    <skos:altLabel xml:lang="nl">H. Catharina de Ricci</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Heilige Catharina de Ricci</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/4b5a80fa-77b7-4d97-a033-d629ccb3b51a">
+    <skos:altLabel xml:lang="nl">Sint-Willibrordus</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Willibrord</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Willibrordus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Heilige Willibrordus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Heilige Willibrord</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Willibrord</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Clemens Willibrord</skos:altLabel>
+    <skos:altLabel xml:lang="nl">H. Willibrordus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Willibrord</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St.-Willibrordus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St. Willibrordus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Willibrordus van Utrecht</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St.-Willibrord</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St. Willibrord</skos:altLabel>
+    <skos:altLabel xml:lang="nl">H. Willibrord</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Willibrordus</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/412fee48-e5f8-4ef9-8337-79ea795187f0">
+    <skos:altLabel xml:lang="nl">St. Rombout</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Rombout</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Rombout</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Rumoldus</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Rumoldus van Mechelen</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Sint Rumoldus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St. Rumoldus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Rumoldus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Rombout</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/e48b7973-d7c1-4f91-94d7-a0021fad7d8a">
+    <skos:prefLabel xml:lang="nl">Dominicus</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Dominicus Guzmán</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Dominicus van Osma</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Dominicus de Guzmán</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/78b9ce42-9b17-41b9-ad17-e2c81b78dec2">
+    <skos:altLabel xml:lang="nl">Sint-Servaes</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Sint-Servaas</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Servatius van Maastricht</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St. Servatius</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Servatius</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Servatius</skos:altLabel>
+    <skos:altLabel xml:lang="nl">H. Servatius</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Heilige Servatius</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St. Servaas</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Servaes</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Servaas van Maastricht</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">H. Servaas</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Servatius</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St. Servaes</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Heilige Servaas</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/a70d20a7-a20d-41b6-acbe-a54d56380a52">
+    <skos:altLabel xml:lang="nl">Leonardus van St-Léonard-de-Noblat</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Leonardus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Leonardus van Noblat</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Sint-Leonardus</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Sint Leonardus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St. Leonardus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Leonardus van Limoges</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/45d984ea-5e26-4ca8-aab2-cfcf882cc980">
+    <skos:altLabel xml:lang="nl">Christoffel van Lycie</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Heilige Christoffel</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Christoffel</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Christoforus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Christoffel</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Christophorus</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Sint Kristoffel</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Christoffel van Lycië</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Sint-Kristoffel</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Christoffel</skos:altLabel>
+    <skos:altLabel xml:lang="nl">H. Christoffel</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/8fabe22f-5abb-4d7b-b109-9fda8bd35ebe">
+    <skos:altLabel xml:lang="nl">Sint-Hubertus</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Sint Hubertus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Hubertus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St. Hubertus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Huibrecht</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Hubertus van Luik</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/8149164b-f7d3-44be-813f-7865b2fa6d98">
+    <skos:altLabel xml:lang="nl">Teresia van Lisieux</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Theresia van Lisieux</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Theresia van het Kind Jezus en het Heilig Aanschijn</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Theresia van Lisieux</skos:altLabel>
+    <skos:altLabel xml:lang="nl">H. Theresia van het Kind Jezus</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Heilige Theresia van het Kind Jesus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St. Theresia van Lisieux</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Heilige Theresia van het Kind Jezus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Theresia van het kind Jezus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Theresia van het kind Jezus</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Theresia van Lisieux</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Kleine Theresia</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/9c1f658e-5529-4693-a9b2-9f9143e7d586">
+    <skos:prefLabel xml:lang="nl">Lambertus van Maastricht</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Sint-Lambertus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Landebertus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Lambrecht</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Lambertus van Luik</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Lambert</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/e849e4f1-fdd0-47f2-81d6-dc8c7b7a0263">
+    <skos:altLabel xml:lang="nl">St. Remigius</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Remigius</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Remigius</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Remigius van Reims</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/23bd9292-58e1-4001-bf27-789d1b3518e6">
+    <skos:prefLabel xml:lang="nl">Stanislaus Szczepanowski</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Sint-Stanislaus de Martelaar</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/cde34379-503f-41c1-b8f5-022819e443a4">
+    <skos:altLabel xml:lang="nl">Sint Jacob</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Jacob</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Jacobus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St. Jacobus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St. Jacob de Meerdere</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Jacobus de Meerdere</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Jacobus</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Jakobus de Meerdere</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Sint-Jacobus de Meerdere</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St. Jacob</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Jacob de Meerdere</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Jacobus de Oudere</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St. Jacobus de Meerdere</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/caa0ec46-939c-4144-95fc-83c4cc5a9d1b">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Sint-Joannes de Deo</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Johannes de Deo</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">St. Joannes de Deo</skos:altLabel>
+    <skos:altLabel xml:lang="nl">João de Deus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Joannes de Deo</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/5e731832-1b9d-4444-bd0b-aae4126a9584">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Sint Joachim</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St. Joachim</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Joachim</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Sint-Joachim</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/ecf666dd-14ed-49df-abbe-8ee482259e35">
+    <skos:altLabel xml:lang="nl">H. Catharina</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:prefLabel xml:lang="nl">Catharina van Alexandrië</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Heilige Catharina</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Katharina</skos:altLabel>
+    <skos:altLabel xml:lang="nl">H. Catherina van Alexandrie</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Catharina</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Catharina van Alexandrie</skos:altLabel>
+    <skos:altLabel xml:lang="nl">H. Catherina van Alexandrië</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Katelijne</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/369de20a-7677-4309-a7b2-6036b03a2e9f">
+    <skos:prefLabel xml:lang="nl">Johannes Maria Vianney</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Sint-Joannes Vianney</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Jean Vianney</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Heilige Pastoor van Ars</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Jan-Vianney</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Johannes Vianney</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Jean-Marie Vianney</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Jan Maria Vianney</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Heilige Johannes Vianey</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Pastoor van Ars</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Jean-Baptiste Marie Vianney</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/6a2ef4ae-8851-4556-8e7e-472730a757e1">
+    <skos:altLabel xml:lang="nl">Norbert van Gennep</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Norbertus van Xanten</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Heilige Norbertus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St. Norbert of Xanten</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Norbertus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Norbertus van Gennep</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Norbert</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Norbertus</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/716ca764-65e3-48b4-957a-af352d0bbf7c">
+    <skos:altLabel xml:lang="nl">Sint Adrianus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Adrianus</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Sint-Adriaan</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Adrianus</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Sint Adriaan</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/acd0d663-c071-4140-8738-38f1361a61b1">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:prefLabel xml:lang="nl">Regina coeli</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Koningin des Hemels</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Regina caeli</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/0cc8b826-25e8-4ce2-98f9-3eeca17e2966">
+    <skos:altLabel xml:lang="nl">Onze-Lieve-Vrouw van Bijstand en Victorie</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Onze-Lieve-Vrouw van Altijddurende Bijstand</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Onze-Lieve-Vrouw van Bijstand</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/28474656-f11d-4c2d-8421-52cd8ea1907c">
+    <skos:altLabel xml:lang="nl">Gertrud</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Geertrudis</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Gertrudis van Landen</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Geertrui van Nijvel</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Geertruide</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Gertrudis</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Gertrudis van Nijvel</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Sint-Gertrudis</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/5eec7aae-1589-4935-8752-3e7ed69e1e2c">
+    <skos:altLabel xml:lang="nl">Sint Anthonius van Padua</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Antonius van Padua</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Heilige Antonius</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Sint-Anthonius van Padua</skos:altLabel>
+    <skos:altLabel xml:lang="nl">H. Antonius</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/aa83ba5f-c9e1-484e-82ff-6de86fd5a00a">
+    <skos:altLabel xml:lang="nl">Peter Donders</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Petrus Norbertus Donders</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Petrus Donders</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Peerke Donders</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Petrus Norbertus Donders</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Petrus Norbert Donders</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/ac415c0a-6874-4163-bf7a-1ca79974cf2e">
+    <skos:altLabel xml:lang="nl">Sint-Petrus-Banden</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Petrus' Banden</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Pieter in de Banden</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Sint-Petrus'-Banden</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Sint-Pietersbanden</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St. Petrus in de boeien</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Petrus in de boeien</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Sint-Pieters-in-de-Banden</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Pieters-Banden</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/f016fa64-8414-49a0-9190-314fbba01bc2">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:prefLabel xml:lang="nl">Onze-Lieve-Vrouw van Loreto</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">O.L.V. van Loreto</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Onze-Lieve-Vrouw van Loreten</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/f7513536-2a12-40f3-b413-7fe996864af3">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:prefLabel xml:lang="nl">Victor van Xanten</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/881e5c82-5cf3-4e45-b698-235b138e64a1">
+    <skos:altLabel xml:lang="nl">Sint-Benedictus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Benedictus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Benedictus van Nurcia</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Abbot of Monte Cassino Saint Benedict</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Benedictus</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:prefLabel xml:lang="nl">Benedictus van Nursia</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/9e0ea64b-e6e1-438b-b1a7-2c34abec02b8">
+    <skos:altLabel xml:lang="nl">Zeven smarten</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Onze-Lieve-Vrouw van 7 Weeën</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Zeven Weeën</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Onze-Lieve-Vrouw van Zeven Smarten</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Maria der Smarten</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Mater Dolorosa</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Onze-Lieve-Vrouw der Zeven Weeën</skos:altLabel>
+    <skos:altLabel xml:lang="nl">O.-L.-Vrouw van Zeven Smarten</skos:altLabel>
+    <skos:altLabel xml:lang="nl">OLV van Zeven Smarten</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Onze-Lieve-Vrouw van Smarten</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/0301ec15-5506-448c-bf2d-d8039da6ab50">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Willem de Kluizenaar</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Willem van Maleval</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Willem de Grote</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/e639a40a-0cea-4a1e-992a-b8225f9da201">
+    <skos:altLabel xml:lang="nl">Sint-Laurens</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Laurentius</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Laurentius van Rome</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/db3612f1-ae05-4e04-8df6-053aa9869ac2">
+    <skos:altLabel xml:lang="nl">Jean-Baptiste de La Salle</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Jan Baptist de la Salle</skos:altLabel>
+    <skos:altLabel xml:lang="nl">J.B. de La Salle</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Johannes Baptist de la Salle</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/e4a3ca32-eb24-4872-b7e2-5ae779f12096">
+    <skos:altLabel xml:lang="nl">Sint-Franciscus van Assisië</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Franciscus van Assisië</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Sint-Franciscus van Assisie</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Franciscus van Assisi</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/11d237fc-54ca-4996-9289-46f1de6315c3">
+    <skos:prefLabel xml:lang="nl">Augustinus van Hippo</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">St. Augustinus</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Sint-Augustinus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Augustinus</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/0acf17ee-aa62-4f6a-b989-248e502b230a">
+    <skos:altLabel xml:lang="nl">Maria van Magdala</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Maria Magdalena</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Sint-Maria Magdalena</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sinte Marie</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/98068045-1944-478f-a0c0-6ec7acbc32a5">
+    <skos:altLabel xml:lang="nl">St. Anna</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Anna</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Anna</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Heilige Anna</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Hannah</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Anna</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/418a482a-992b-4a3b-9284-5f96524d665f">
+    <skos:prefLabel xml:lang="nl">Agnes</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Heilige Agnes</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Agnes</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Agnes (heilige)</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Agnes</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/20e59a26-edfe-4734-975b-b00fad374ef5">
+    <skos:prefLabel xml:lang="nl">Franciscus Xaverius</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Franciscus Xavier</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Franciscus Xaverius</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Francisco Xavier</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/d6649c84-e813-4d48-bb4b-c8e8b675778b">
+    <skos:altLabel xml:lang="nl">Sint Oda</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Oda</skos:altLabel>
+    <skos:altLabel xml:lang="nl">De heilige Oda</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:prefLabel xml:lang="nl">Oda van Brabant</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/a4791857-abe1-4a3d-b7d1-f79d38c5258a">
+    <skos:altLabel xml:lang="nl">Bonifatius van Mainz</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Wynfreth</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Bonifatius</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Sint Bonifatius</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Bonifatius</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Winfried</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Bonifacius</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/e5d2ccc2-427b-4ecc-8508-0c848974e090">
+    <skos:altLabel xml:lang="nl">Maria Tenhemelopneming</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Maria-Hemelvaart</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Onze Lieve Vrouwe ten Hemelopneming</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Onze-Lieve-Vrouw ten Hemel Opgenomen</skos:altLabel>
+    <skos:altLabel xml:lang="nl">O. L. Vrouw ten Hemel Opgenomen</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Maria-ten-Hemelopneming</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Maria ten hemel opgenomen</skos:altLabel>
+    <skos:altLabel xml:lang="nl">O.L. Vrouw Hemelvaart</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Maria-Tenhemelopneming</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Onze-Lieve-Vrouw Ten Hemelopneming</skos:altLabel>
+    <skos:altLabel xml:lang="nl">De Tenhemelopneming van Maria</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Maria Hemelvaart</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Onze-Lieve-Vrouw Hemelvaart</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Hemelvaart van Maria</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/b22951d4-81f0-49a5-a52c-fa6a1790f5fc">
+    <skos:prefLabel xml:lang="nl">Lucia van Syracuse</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Sint-Lucia</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St. Lucia</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Lucia</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Lucia van Ravenstein</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/aba637db-976a-4e66-8dbe-f568ce4b70a4">
+    <skos:prefLabel xml:lang="nl">Elisabeth van Thüringen</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Elisabeth van Thuringen</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Elisabeth</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Elisabeth van Thüringen</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Elisabeth van Hongarije</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Elisabeth van Thueringen</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/d6c4a5f9-344b-408c-867e-219a9c8565c1">
+    <skos:altLabel xml:lang="nl">Heilig Hartverering</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:prefLabel xml:lang="nl">Heilig Hart van Jezus</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/19213ed6-78ef-4d10-b5e9-958b9204c63c">
+    <skos:prefLabel xml:lang="nl">Salvator Mundi</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Redder van de wereld</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Salvator</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Heiland</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St. Salvator</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">San Salvator</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Heilige Verlosser</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Salvator</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/2e23aa83-e43a-4b01-9868-62b8be9a8e86">
+    <skos:prefLabel xml:lang="nl">Sophia van Rome</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/935d46d0-2eed-4dc9-864a-85b128182b72">
+    <skos:altLabel xml:lang="nl">Damiaan de Melaatse</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Damiaan van Molokai</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:prefLabel xml:lang="nl">Pater Damiaan</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Father Damien</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Jozef de Veuster</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/b09c4993-4130-4c7b-a6c7-63f3cbec2330">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Sint-Aloysius Gonzaga</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Aloysius Gonzaga</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Aloysius van Gonzaga</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/19b69fa3-8abf-4159-a13a-ff714b27f07f">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:prefLabel xml:lang="nl">Jezus Christus</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Jezus van Nazareth</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/97fccd19-f715-4899-a0ba-667d942283b6">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:prefLabel xml:lang="nl">Clara van Assisi</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/b416d618-4b7a-4e9a-aab1-b859f451ffaa">
+    <skos:prefLabel xml:lang="nl">Johannes Nepomucenus</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Johannes Nepomuk</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Jan Nepomucky</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Johannes van Nepomuk</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Jan van Nepomuk</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/ce29c7eb-f6cf-4db5-81d4-07e8c15ada99">
+    <skos:altLabel xml:lang="nl">Jakobus de Jongere</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Broer van Jezus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Jacobus de Rechtvaardige</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Jacobus Apostel Minor</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Jakobus de Mindere</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Jakobus Apostel Minor</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Jacobus de Jongere</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Jakobus</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Jakobus de Rechtvaardige</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Jacobus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Jacobus de Mindere</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/42b94a32-ab19-4ae5-9a82-d81de93c756c">
+    <skos:prefLabel xml:lang="nl">Felix van Valois</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/858d0c4f-437b-48cb-bda2-7771f8649305">
+    <skos:prefLabel xml:lang="nl">Fidelis van Sigmaringen</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Sint Fidelis</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St. Fidelis</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Fedelis van Sigmaringen</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/3a59fc8d-e151-4249-85a0-131e4f3695ae">
+    <skos:altLabel xml:lang="nl">Maria Presentatie</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Onze-Lieve-Vrouw Presentatie</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Opdracht van de Moeder Gods in de tempel</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Opdracht van Maria in de tempel</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Opdracht van de Heilige Maagd Maria in de tempel</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/aa54c39e-dea1-4886-860a-fbbcf849d21d">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:prefLabel xml:lang="nl">Ignatius van Loyola</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/a6b71c6c-f2d0-4c37-992c-e89882f464fa">
+    <skos:altLabel xml:lang="nl">Vincent de Paul</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Vincentius a Paolo</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Vincent Depaul</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Vincentius a Paulo</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Vincentius van Paolo</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Vincentius a Paulo</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/a47a3cdc-58d3-4de9-a666-d36764c9b2d8">
+    <skos:altLabel xml:lang="nl">Stefaan Modest Glorieux</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Etienne Modest Glorieux</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Stefaan Glorieux</skos:altLabel>
+    <skos:altLabel xml:lang="nl">E.M Glorieux</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:prefLabel xml:lang="nl">Modestus Stephanus Glorieux</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">M.S. Glorieux</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Glorieux</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/ab567f10-c0ec-4f5c-8d59-1a9b5b98891c">
+    <skos:prefLabel xml:lang="nl">Onze Lieve Vrouw van Lourdes</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Onze-Lieve-Vrouw van Lourdes</skos:altLabel>
+    <skos:altLabel xml:lang="nl">O.L.V. van Lourdes</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">OLV van Lourdes</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/a2ede6aa-6ff8-4e65-9991-0d945f6b25ad">
+    <skos:altLabel xml:lang="nl">Aankondiging van de Heer</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Maria Boodschap</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Verkondiging</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Annunciatie</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Maria-Boodschap</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Onze-Lieve-Vrouw Boodschap</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/fb7c15d0-d9e7-480a-877f-307c1474317b">
+    <skos:prefLabel xml:lang="nl">Bernardus van Clairvaux</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Sint Bernardus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Bernard van Clairvaux</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Bernardus</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/3c1feec8-8bfe-497a-9272-d08ac68d11b0">
+    <skos:altLabel xml:lang="nl">Sint-Maarten</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:prefLabel xml:lang="nl">Martinus van Tours</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Sint-Maarten van Tours</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Maarten</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Maarten van Tours</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Martinus</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Martinus</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/dd2649a9-154c-45f4-a9e0-5ae2e40d8327">
+    <skos:altLabel xml:lang="nl">Sint-Vincentius Martelaar</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Vincentius van Zaragoza</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Vincentius van Valencia</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Vincentius van Saragossa</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/92fc3657-3ca6-4a56-927c-a2031198ca6b">
+    <skos:prefLabel xml:lang="nl">Gerlachus van Houthem</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/47c3a6de-d78a-41ee-8856-18b9681854f9">
+    <skos:altLabel xml:lang="nl">Nicolaas van Patara</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Nicolaas van Myra</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Nicolaas</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Nicolaas van Bari</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Niklaas</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Sint-Nikolaas</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Nicolaas</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Nicolaas van Myra</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/e4f9a8f8-f0ec-49b4-b992-49b88e392c6e">
+    <skos:prefLabel xml:lang="nl">Franciscus van Sales</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/87c1154b-7f18-4200-b054-792b4522d203">
+    <skos:prefLabel xml:lang="nl">Maria van Brabant</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Maria van Leuven</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/16e4ed3f-4026-4dea-aab7-6c1889aa5659">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:prefLabel xml:lang="nl">Alphonsus Rodriguez</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/f5c9cc57-f9b9-408a-a211-9ca21ace1b19">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:prefLabel xml:lang="nl">Alix Le Clerc</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/d70db8c0-3cfd-4f25-a5c0-578a98ec0a68">
+    <skos:altLabel xml:lang="nl">Sint-Gerardus Majella</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:prefLabel xml:lang="nl">Gerardus Majella</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/864fd603-b10b-4882-a1aa-ee9698d3e0be">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:prefLabel xml:lang="nl">Koenraad van Parzham</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Johannes Birndorfer</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/0303c083-d3c7-49fe-b883-ab03b940e4e1">
+    <skos:altLabel xml:lang="nl">H. Cornelius</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Cornelius</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St. Cornelius</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Heilige Cornelius</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Paus Cornelius</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Knillis</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Cornelius</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Cornelius</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/9c2155ed-5fad-4afd-a4f1-9d33b0ccf662">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:altLabel xml:lang="nl">Herman-Jozef</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Herman Jozef van Stienfeld</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/c11ea486-b668-4876-9bca-e718316e0c9a">
+    <skos:altLabel xml:lang="nl">Heilige Naam Jezus</skos:altLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:prefLabel xml:lang="nl">Zoete Naam Jezus</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/c7d74d54-4c15-4085-807a-7c3559069d5b">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:prefLabel xml:lang="nl">Vincentius Madelgarius</skos:prefLabel>
+    <skos:altLabel xml:lang="nl">Maldegarius</skos:altLabel>
+    <skos:altLabel xml:lang="nl">St. Vincentius</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint Vincentius</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Sint-Vincentius</skos:altLabel>
+    <skos:altLabel xml:lang="nl">Madelgarius</skos:altLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/f1ae9723-68ce-481f-a2b6-ccd7dd88a95f">
+    <skos:altLabel xml:lang="nl">Sint Ursula</skos:altLabel>
+    <skos:prefLabel xml:lang="nl">Ursula van Keulen</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/1f5fb0f6-362e-440f-9ecb-bf433c069b05">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:prefLabel xml:lang="nl">Maria Magdalena de’ Pazzi</skos:prefLabel>
+  </skos:Concept>
+  <skos:Concept rdf:about="https://n2t.net/ark:/15052/dd7acb36-1ff1-4a8e-ae67-6597b38a1f48">
+    <skos:inScheme rdf:resource="https://n2t.net/ark:/1552/DedicationSubjectType/c6cb79ab-3926-50f1-ae6a-ef2fd551e40e"/>
+    <skos:prefLabel xml:lang="nl">Heilige Familie</skos:prefLabel>
+  </skos:Concept>
+</rdf:RDF>
