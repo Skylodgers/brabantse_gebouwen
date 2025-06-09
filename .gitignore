@@ -12,8 +12,10 @@ CACHE
 brabantse_gebouwen/cantaloupe/*
 brabantse_gebouwen/export_deliverables
 brabantse_gebouwen/logs
+brabantse_gebouwen/arches.log
 brabantse_gebouwen/media/build/*
 brabantse_gebouwen/media/node_modules
+brabantse_gebouwen/media/node_modules_old
 brabantse_gebouwen/media/packages
 brabantse_gebouwen/settings_local.py
 brabantse_gebouwen/staticfiles
@@ -23,5 +25,4 @@ brabantse_gebouwen/webpack/webpack-user-config.js
 
 notebooks/import/geonames/source/alternateNames.zip
 notebooks/import/geonames/source/alternateNames/alternateNames.txt
-brabantse_gebouwen/arches.log
 brabantse_gebouwen/.DS_Store

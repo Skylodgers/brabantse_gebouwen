@@ -3724,7 +3724,7 @@
         <skos:inScheme rdf:resource="http://localhost:8000/c9a7c9ec-431b-4218-987d-e5334299d1d8"/>
         <skos:narrower>
             <skos:Concept rdf:about="http://localhost:8000/9d210dd9-50ad-42e4-8244-b0a5ef50c46a">
-                <skos:prefLabel xml:lang="en">{"id": "6d6df0c8-3106-4bae-bb44-1ec59c5d4eec", "value": " regioWiki"}</skos:prefLabel>
+                <skos:prefLabel xml:lang="en">{"id": "6d6df0c8-3106-4bae-bb44-1ec59c5d4eec", "value": "regioWiki"}</skos:prefLabel>
                 <dcterms:identifier xml:lang="en">{"id": "2f851c19-90ea-491b-b8ff-e3f03619bed0", "value": "http://localhost:8000/9d210dd9-50ad-42e4-8244-b0a5ef50c46a"}</dcterms:identifier>
                 <skos:inScheme rdf:resource="http://localhost:8000/c9a7c9ec-431b-4218-987d-e5334299d1d8"/>
             </skos:Concept>

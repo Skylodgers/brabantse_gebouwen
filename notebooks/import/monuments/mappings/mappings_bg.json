@@ -32,31 +32,9 @@
           ]
         },
         {
-          "from": "wikibaseURI",
-          "to": "other_identifier_content",
-          "constants": [
-            {
-              "other_identifier_type": "Wikibase"
-            }
-          ]
-        },
-      
-        {
           "from": "monumentStatus",
           "to": "building_status"
         },
-
-        {
-          "from": "wikibaseURI",
-          "to": "other_identifier_content",
-          "constants": [
-            {
-              "other_identifier_type": "Wikibase"
-            }
-          ]
-        },
-
-
         {
           "from": "rightsURI ",
           "to": "rights_holder",
@@ -76,7 +54,7 @@
         },
         {
           "from": "dateNoLongerInUse",
-          "to": "in_use_timespan_start"
+          "to": "in_use_timespan_end"
         },
         {
           "from": "replacesPreviousURI",
@@ -95,6 +73,58 @@
         
       ]
     },
+    "other_identifiers": {
+      "dataset": "monuments.json",
+      "card_order": "1",
+      "node_mappings": [
+
+        {
+          "from": "wikibaseURI",
+          "to": "other_identifier_content",
+          "constants": [
+            {
+              "other_identifier_type": "Wikibase"
+            }
+          ]
+        },
+        {
+          "from": "regioWiki",
+          "to": "other_identifier_content",
+          "constants": [
+            {
+              "other_identifier_type": "regioWiki"
+            }
+          ]
+        },
+        {
+          "from": "monumentLinkRCE",
+          "to": "other_identifier_content",
+          "constants": [
+            {
+              "other_identifier_type": "RCE Monuments"
+
+            }
+          ]
+
+        }
+      ]
+    
+    },
+
+      "production_date": {
+      "dataset": "monuments.json",
+      "card_order": "13",
+      "node_mappings": [
+
+        {
+          "from": "dateCreated",
+          "to": "production_event_timespan_start"
+        }        
+
+      ]
+    
+    },
+
     "building_type": {
       "dataset": "monuments.json",
       "card_order": "1",
@@ -119,27 +149,9 @@
         }
       ]
     },
-    "monuments_link_rce:": {
-      "dataset": "monuments.json",
-      "card_order": "3",
-      "node_mappings": [
-
-        {
-          "from": "monumentLinkRCE",
-          "to": "other_identifier_content",
-          "constants": [
-            {
-              "other_identifier_type": "RCE Monuments"
-
-            }
-          ]
-
-        }
-      ]
-    },
     "alternate_names": {
       "dataset": "monuments.json",
-      "card_order": "4",
+      "card_order": "3",
       "node_mappings": [
 
         {
@@ -158,7 +170,7 @@
     },
     "religion": {
       "dataset": "monuments.json",
-      "card_order": "5",
+      "card_order": "4",
       "node_mappings": [
 
         {
@@ -169,7 +181,7 @@
     },
     "places": {
       "dataset": "monuments.json",
-      "card_order": "6",
+      "card_order": "5",
       "node_mappings": [
         {
           "from": "id",
@@ -183,7 +195,7 @@
     },
     "actors": {
       "dataset": "monuments.json",
-      "card_order": "7",
+      "card_order": "6",
       "node_mappings": [
         {
           "from": "id",
@@ -201,7 +213,7 @@
     },
     "dedications": {
       "dataset": "monuments.json",
-      "card_order": "8",
+      "card_order": "7",
       "node_mappings": [
         {
           "from": "id",
@@ -215,16 +227,12 @@
     },
     "architects": {
       "dataset": "monuments.json",
-      "card_order": "2",
+      "card_order": "8",
       "node_mappings": [
         {
           "from": "id",
           "to": "resource_id"
         },
-        {
-          "from": "dateCreated",
-          "to": "production_event_timespan_start"
-        },        
         {
           "from": "architectURI",
           "to": "architect_dict"
@@ -273,9 +281,7 @@
         }
       ]
     }
-
-
-
+    
   }
 }
 

@@ -25,7 +25,7 @@
                         "en": "",
                         "nl": ""
                     },
-                    "is_editable": false,
+                    "is_editable": true,
                     "name": {
                         "en": "Identifier",
                         "nl": "Identifier"
@@ -87,7 +87,7 @@
                         "en": "",
                         "nl": ""
                     },
-                    "is_editable": false,
+                    "is_editable": true,
                     "name": {
                         "en": "Name",
                         "nl": "Naam"
@@ -421,12 +421,12 @@
                     },
                     "function_id": "60000000-0000-0000-0000-000000000001",
                     "graph_id": "520d5757-51d5-4a22-890d-974581ee2d5e",
-                    "id": "4a599434-ca21-42c9-a1b7-754b990f27f9"
+                    "id": "b5b5adda-2eeb-40f8-9c08-b4b09ece749b"
                 }
             ],
             "graphid": "520d5757-51d5-4a22-890d-974581ee2d5e",
             "iconclass": "fa fa-book",
-            "is_editable": false,
+            "is_editable": true,
             "isresource": true,
             "jsonldcontext": null,
             "name": {
@@ -774,9 +774,9 @@
         }
     ],
     "metadata": {
-        "db": "PostgreSQL 15.10 (Postgres.app) on aarch64-apple-darwin21.6.0, compiled by Apple clang version 14.0.0 (clang-1400.0.29.102), 64-bit",
-        "git hash": "049eafb2 2025-02-21 09:58:18 +0100",
-        "os": "Darwin",
-        "os version": "24.0.0"
+        "db": "PostgreSQL 15.5 (Debian 15.5-0+deb12u1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit",
+        "git hash": "fatal: not a git repository (or any of the parent directories): .git",
+        "os": "Linux",
+        "os version": "6.1.0-13-amd64"
     }
 }
