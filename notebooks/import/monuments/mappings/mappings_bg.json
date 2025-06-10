@@ -36,15 +36,6 @@
           "to": "building_status"
         },
         {
-          "from": "rightsURI ",
-          "to": "rights_holder",
-          "constants": [
-            {
-              "rights_type": "CCO"
-            }
-          ]
-        },
-        {
           "from": "dateDestroyed",
           "to": "destruction_timespan_start"
         },
@@ -105,8 +96,18 @@
 
             }
           ]
+        },
+                {
+          "from": "mipURI",
+          "to": "other_identifier_content",
+          "constants": [
+            {
+              "other_identifier_type": "MIP"
 
+            }
+          ]
         }
+
       ]
     
     },
